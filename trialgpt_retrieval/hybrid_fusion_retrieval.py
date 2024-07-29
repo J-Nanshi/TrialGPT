@@ -1,9 +1,9 @@
-__author__ = "qiao"
+# __author__ = "qiao"
 
 """
 Conduct the first stage retrieval by the hybrid retriever 
 """
-
+#%%
 from beir.datasets.data_loader import GenericDataLoader
 import faiss
 import json
@@ -15,6 +15,7 @@ import sys
 import tqdm
 import torch
 from transformers import AutoTokenizer, AutoModel
+#%%
 
 def get_bm25_corpus_index(corpus):
 	corpus_path = os.path.join(f"trialgpt_retrieval/bm25_corpus_{corpus}.json")
@@ -54,7 +55,7 @@ def get_bm25_corpus_index(corpus):
 
 	return bm25, corpus_nctids
 
-			
+#%%		
 def get_medcpt_corpus_index(corpus):
 	corpus_path = f"trialgpt_retrieval/{corpus}_embeds.npy" 
 	nctids_path = f"trialgpt_retrieval/{corpus}_nctids.json"
@@ -105,121 +106,125 @@ def get_medcpt_corpus_index(corpus):
 	
 	return index, corpus_nctids
 	
+#%%
+# different corpora, "trec_2021", "trec_2022", "sigir"
+# corpus = sys.argv[1]
+corpus = "sigir"
+# query type
+# q_type = sys.argv[2]
+q_type = "gpt-4-turbo"
+# different k for fusion
+# k = int(sys.argv[3])
+k = 20
 
-if __name__ == "__main__":
-	# different corpora, "trec_2021", "trec_2022", "sigir"
-	corpus = sys.argv[1]
+# bm25 weight 
+# bm25_wt = int(sys.argv[4])
+bm25_wt = 1
 
-	# query type
-	q_type = sys.argv[2]
+# medcpt weight
+# medcpt_wt = int(sys.argv[5])
+medcpt_wt = 1
 
-	# different k for fusion
-	k = int(sys.argv[3])
+# how many to rank
+N = 2000 
 
-	# bm25 weight 
-	bm25_wt = int(sys.argv[4])
+#%%
+# loading the qrels
+_, _, qrels = GenericDataLoader(data_folder=f"D:\Job\TrialGPT\dataset\sigir").load(split="test")
+qrels
+#%%
+# loading all types of queries
+id2queries = json.load(open(f"dataset/{corpus}/id2queries.json"))
 
-	# medcpt weight
-	medcpt_wt = int(sys.argv[5])
+# loading the indices
+bm25, bm25_nctids = get_bm25_corpus_index(corpus)
+medcpt, medcpt_nctids = get_medcpt_corpus_index(corpus)
 
-	# how many to rank
-	N = 2000 
+# loading the query encoder for MedCPT
+model = AutoModel.from_pretrained("ncbi/MedCPT-Query-Encoder").to("cuda")
+tokenizer = AutoTokenizer.from_pretrained("ncbi/MedCPT-Query-Encoder")
 
-	# loading the qrels
-	_, _, qrels = GenericDataLoader(data_folder=f"dataset/{corpus}/").load(split="test")
+# then conduct the searches, saving top 1k
+output_path = f"results/qid2nctids_results_{q_type}_{corpus}_k{k}_bm25wt{bm25_wt}_medcptwt{medcpt_wt}_N{N}.json"
 
-	# loading all types of queries
-	id2queries = json.load(open(f"dataset/{corpus}/id2queries.json"))
+qid2nctids = {}
+recalls = []
 
-	# loading the indices
-	bm25, bm25_nctids = get_bm25_corpus_index(corpus)
-	medcpt, medcpt_nctids = get_medcpt_corpus_index(corpus)
+with open(f"dataset/{corpus}/queries.jsonl", "r") as f:
+	for line in tqdm.tqdm(f.readlines()):
+		entry = json.loads(line)
+		query = entry["text"]
+		qid = entry["_id"]
 
-	# loading the query encoder for MedCPT
-	model = AutoModel.from_pretrained("ncbi/MedCPT-Query-Encoder").to("cuda")
-	tokenizer = AutoTokenizer.from_pretrained("ncbi/MedCPT-Query-Encoder")
-	
-	# then conduct the searches, saving top 1k
-	output_path = f"results/qid2nctids_results_{q_type}_{corpus}_k{k}_bm25wt{bm25_wt}_medcptwt{medcpt_wt}_N{N}.json"
-	
-	qid2nctids = {}
-	recalls = []
+		if qid not in qrels:
+			continue
 
-	with open(f"dataset/{corpus}/queries.jsonl", "r") as f:
-		for line in tqdm.tqdm(f.readlines()):
-			entry = json.loads(line)
-			query = entry["text"]
-			qid = entry["_id"]
+		truth_sum = sum(qrels[qid].values())
+		
+		# get the keyword list
+		if q_type in ["raw", "human_summary"]:
+			conditions = [id2queries[qid][q_type]]
+		elif "turbo" in q_type:
+			conditions = id2queries[qid][q_type]["conditions"]
+		elif "Clinician" in q_type:
+			conditions = id2queries[qid].get(q_type, [])
 
-			if qid not in qrels:
-				continue
+		if len(conditions) == 0:
+			nctid2score = {}
+		else:
+			# a list of nctid lists for the bm25 retriever
+			bm25_condition_top_nctids = []
 
-			truth_sum = sum(qrels[qid].values())
+			for condition in conditions:
+				tokens = word_tokenize(condition.lower())
+				top_nctids = bm25.get_top_n(tokens, bm25_nctids, n=N)
+				bm25_condition_top_nctids.append(top_nctids)
 			
-			# get the keyword list
-			if q_type in ["raw", "human_summary"]:
-				conditions = [id2queries[qid][q_type]]
-			elif "turbo" in q_type:
-				conditions = id2queries[qid][q_type]["conditions"]
-			elif "Clinician" in q_type:
-				conditions = id2queries[qid].get(q_type, [])
+			# doing MedCPT retrieval
+			with torch.no_grad():
+				encoded = tokenizer(
+					conditions, 
+					truncation=True, 
+					padding=True, 
+					return_tensors='pt', 
+					max_length=256,
+				).to("cuda")
 
-			if len(conditions) == 0:
-				nctid2score = {}
-			else:
-				# a list of nctid lists for the bm25 retriever
-				bm25_condition_top_nctids = []
+				# encode the queries (use the [CLS] last hidden states as the representations)
+				embeds = model(**encoded).last_hidden_state[:, 0, :].cpu().numpy()
 
-				for condition in conditions:
-					tokens = word_tokenize(condition.lower())
-					top_nctids = bm25.get_top_n(tokens, bm25_nctids, n=N)
-					bm25_condition_top_nctids.append(top_nctids)
+				# search the Faiss index
+				scores, inds = medcpt.search(embeds, k=N)				
+
+			medcpt_condition_top_nctids = []
+			for ind_list in inds:
+				top_nctids = [medcpt_nctids[ind] for ind in ind_list]
+				medcpt_condition_top_nctids.append(top_nctids)
+
+			nctid2score = {}
+
+			for condition_idx, (bm25_top_nctids, medcpt_top_nctids) in enumerate(zip(bm25_condition_top_nctids, medcpt_condition_top_nctids)):
+
+				if bm25_wt > 0:
+					for rank, nctid in enumerate(bm25_top_nctids):
+						if nctid not in nctid2score:
+							nctid2score[nctid] = 0
+						
+						nctid2score[nctid] += (1 / (rank + k)) * (1 / (condition_idx + 1))
 				
-				# doing MedCPT retrieval
-				with torch.no_grad():
-					encoded = tokenizer(
-						conditions, 
-						truncation=True, 
-						padding=True, 
-						return_tensors='pt', 
-						max_length=256,
-					).to("cuda")
+				if medcpt_wt > 0:
+					for rank, nctid in enumerate(medcpt_top_nctids):
+						if nctid not in nctid2score:
+							nctid2score[nctid] = 0
+						
+						nctid2score[nctid] += (1 / (rank + k)) * (1 / (condition_idx + 1))
 
-					# encode the queries (use the [CLS] last hidden states as the representations)
-					embeds = model(**encoded).last_hidden_state[:, 0, :].cpu().numpy()
+		nctid2score = sorted(nctid2score.items(), key=lambda x: -x[1])
+		top_nctids = [nctid for nctid, _ in nctid2score[:N]]
+		qid2nctids[qid] = top_nctids
 
-					# search the Faiss index
-					scores, inds = medcpt.search(embeds, k=N)				
+		actual_sum = sum([qrels[qid].get(nctid, 0) for nctid in top_nctids])
+		recalls.append(actual_sum / truth_sum)
 
-				medcpt_condition_top_nctids = []
-				for ind_list in inds:
-					top_nctids = [medcpt_nctids[ind] for ind in ind_list]
-					medcpt_condition_top_nctids.append(top_nctids)
-
-				nctid2score = {}
-
-				for condition_idx, (bm25_top_nctids, medcpt_top_nctids) in enumerate(zip(bm25_condition_top_nctids, medcpt_condition_top_nctids)):
-
-					if bm25_wt > 0:
-						for rank, nctid in enumerate(bm25_top_nctids):
-							if nctid not in nctid2score:
-								nctid2score[nctid] = 0
-							
-							nctid2score[nctid] += (1 / (rank + k)) * (1 / (condition_idx + 1))
-					
-					if medcpt_wt > 0:
-						for rank, nctid in enumerate(medcpt_top_nctids):
-							if nctid not in nctid2score:
-								nctid2score[nctid] = 0
-							
-							nctid2score[nctid] += (1 / (rank + k)) * (1 / (condition_idx + 1))
-
-			nctid2score = sorted(nctid2score.items(), key=lambda x: -x[1])
-			top_nctids = [nctid for nctid, _ in nctid2score[:N]]
-			qid2nctids[qid] = top_nctids
-
-			actual_sum = sum([qrels[qid].get(nctid, 0) for nctid in top_nctids])
-			recalls.append(actual_sum / truth_sum)
-	
-	with open(output_path, "w") as f:
-		json.dump(qid2nctids, f, indent=4)
+with open(output_path, "w") as f:
+	json.dump(qid2nctids, f, indent=4)
