@@ -1,0 +1,142 @@
+{
+    "sigir-20141": {
+        "0": {},
+        "1": {},
+        "2": {
+            "NCT00373828": {
+                "inclusion": {
+                    "0": [
+                        "The patient presents with chest pain that began two days earlier, which is within the 7 days duration specified by the criterion.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "1": [
+                        "The patient is admitted with chest pain and the EKG shows nonspecific changes, but there is no information about coronary enzymes or a confirmed negative diagnosis for acute coronary infarction.",
+                        [
+                            7
+                        ],
+                        "not enough information"
+                    ],
+                    "2": [
+                        "The patient's pain radiates to the back, which could suggest thoracic involvement, but there is no specific mention of pain originating from the thorax or neck.",
+                        [
+                            1
+                        ],
+                        "not enough information"
+                    ],
+                    "3": [
+                        "There is no information provided about the patient's ability to read and understand Danish.",
+                        [],
+                        "not enough information"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "The patient presents with chest pain, but there is no direct evidence of acute coronary syndrome; the EKG shows nonspecific changes, not diagnostic of acute coronary syndrome.",
+                        [
+                            7
+                        ],
+                        "not excluded"
+                    ],
+                    "1": [
+                        "There is no mention of Percutaneous Coronary Intervention in the patient's history or current treatment.",
+                        [],
+                        "not excluded"
+                    ],
+                    "2": [
+                        "There is no mention of Coronary Artery Bypass Grafting in the patient's history or current treatment.",
+                        [],
+                        "not excluded"
+                    ],
+                    "3": [
+                        "The patient has known hypertension and obesity, but there is no evidence of another disease diagnosed during this admission causing the chest pain.",
+                        [
+                            3
+                        ],
+                        "not excluded"
+                    ],
+                    "4": [
+                        "The patient will provide informed consent as mentioned in the note.",
+                        [
+                            8
+                        ],
+                        "not excluded"
+                    ],
+                    "5": [
+                        "There is no mention of inflammatory joint disease in the patient's history.",
+                        [],
+                        "not excluded"
+                    ],
+                    "6": [
+                        "The patient denies having diabetes.",
+                        [
+                            4
+                        ],
+                        "not excluded"
+                    ],
+                    "7": [
+                        "There is no mention of fibromyalgia in the patient's history.",
+                        [],
+                        "not excluded"
+                    ],
+                    "8": [
+                        "There is no mention of sharp trauma to the chest.",
+                        [],
+                        "not excluded"
+                    ],
+                    "9": [
+                        "There is no mention of malignant disease in the patient's history.",
+                        [],
+                        "not excluded"
+                    ],
+                    "10": [
+                        "There is no mention of apoplexy in the patient's history.",
+                        [],
+                        "not excluded"
+                    ],
+                    "11": [
+                        "There is no mention of gross osseous anomalies, such as pronounced scoliosis, in the patient's history.",
+                        [],
+                        "not excluded"
+                    ],
+                    "12": [
+                        "There is no mention of known or suspected osteoporosis in the patient's history.",
+                        [],
+                        "not excluded"
+                    ],
+                    "13": [
+                        "There is no mention of pregnancy, and the patient's age makes it less likely.",
+                        [],
+                        "not excluded"
+                    ],
+                    "14": [
+                        "There is no mention of dementia or inability to cooperate; the patient is capable of providing informed consent.",
+                        [
+                            8
+                        ],
+                        "not excluded"
+                    ],
+                    "15": [
+                        "There is no information about the patient's residence.",
+                        [],
+                        "not enough information"
+                    ],
+                    "16": [
+                        "The patient will comply with the trial protocol, indicating willingness to participate.",
+                        [
+                            8
+                        ],
+                        "not excluded"
+                    ],
+                    "17": [
+                        "No other reasons for exclusion are noted in the patient's history.",
+                        [],
+                        "not excluded"
+                    ]
+                }
+            }
+        }
+    }
+}

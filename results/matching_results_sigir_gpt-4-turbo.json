@@ -144,6 +144,555 @@
                         "not excluded"
                     ]
                 }
+            },
+            "NCT00979199": {
+                "inclusion": {
+                    "0": [
+                        "The patient note does not provide specific information about the patient's risk of IHD based on age, gender, symptoms, and exercise stress test results. However, the patient's age (58 years) and symptoms (chest pain) could suggest a potential risk of IHD. Without details from an exercise stress test or a clear risk assessment, it is difficult to definitively determine the patient's risk level.",
+                        [],
+                        "not enough information"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "The patient is 58 years old, which is within the acceptable age range of 30 to 75 years.",
+                        [],
+                        "not excluded"
+                    ],
+                    "1": [
+                        "There is no mention of pregnancy in the patient note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "2": [
+                        "There is no information on the patient's left ventricular ejection fraction (LVEF).",
+                        [],
+                        "not enough information"
+                    ],
+                    "3": [
+                        "The patient's probability of CAD is not quantified in the note.",
+                        [],
+                        "not enough information"
+                    ],
+                    "4": [
+                        "The patient's symptoms do not meet the criteria for acute coronary syndrome.",
+                        [],
+                        "not excluded"
+                    ],
+                    "5": [
+                        "The patient's chest pain episodes are not described as lasting more than 20 minutes.",
+                        [],
+                        "not excluded"
+                    ],
+                    "6": [
+                        "There is no indication of de novo or accelerated angina in the patient's history.",
+                        [],
+                        "not excluded"
+                    ],
+                    "7": [
+                        "There is no mention of hemodynamic or electrical instability.",
+                        [],
+                        "not excluded"
+                    ],
+                    "8": [
+                        "The EKG shows nonspecific changes, not specifically ST-T segment or T wave changes of ischemic nature.",
+                        [
+                            7
+                        ],
+                        "not excluded"
+                    ],
+                    "9": [
+                        "There is no mention of acute myocardial infarction in the patient note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "10": [
+                        "There is no mention of elevated serum cardiac markers of necrosis.",
+                        [],
+                        "not excluded"
+                    ],
+                    "11": [
+                        "There is no known diagnosis of CAD mentioned.",
+                        [],
+                        "not excluded"
+                    ],
+                    "12": [
+                        "There is no mention of a previous myocardial infarction.",
+                        [],
+                        "not excluded"
+                    ],
+                    "13": [
+                        "There is no mention of previous percutaneous coronary intervention (PCI).",
+                        [],
+                        "not excluded"
+                    ],
+                    "14": [
+                        "There is no mention of previous coronary artery bypass grafting (CABG).",
+                        [],
+                        "not excluded"
+                    ],
+                    "15": [
+                        "There is no mention of persistent atrial fibrillation or advanced AV block.",
+                        [],
+                        "not excluded"
+                    ],
+                    "16": [
+                        "The patient does not have asthma or a history of treatment with aminophylline.",
+                        [
+                            4
+                        ],
+                        "not excluded"
+                    ],
+                    "17": [
+                        "There is no mention of a recent cerebral ischemic attack.",
+                        [],
+                        "not excluded"
+                    ],
+                    "18": [
+                        "There is no mention of significant carotid stenosis or vascular aneurysms.",
+                        [],
+                        "not excluded"
+                    ],
+                    "19": [
+                        "The patient does not have asthma or a history of treatment with aminophylline.",
+                        [
+                            4
+                        ],
+                        "not excluded"
+                    ],
+                    "20": [
+                        "There is no mention of active cancer.",
+                        [],
+                        "not excluded"
+                    ],
+                    "21": [
+                        "The patient has hypertension but there is no indication that it is severe or that she cannot withdraw therapy for 12 hours.",
+                        [
+                            3
+                        ],
+                        "not excluded"
+                    ],
+                    "22": [
+                        "There is no mention of congenital heart disease.",
+                        [],
+                        "not excluded"
+                    ],
+                    "23": [
+                        "There is no mention of significant valvular disease.",
+                        [],
+                        "not excluded"
+                    ],
+                    "24": [
+                        "There is no mention of cardiomyopathy.",
+                        [],
+                        "not excluded"
+                    ],
+                    "25": [
+                        "The patient is willing to provide informed consent as stated.",
+                        [
+                            8
+                        ],
+                        "not excluded"
+                    ]
+                }
+            },
+            "NCT01407146": {
+                "inclusion": {
+                    "criterion_1": [
+                        "The patient is a 58-year-old woman, which meets the age requirement of being 18 years or older.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "criterion_2": [
+                        "The patient is an African-American woman, which meets the criterion of being of any race.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "criterion_3": [
+                        "The patient presents with symptoms consistent with acute coronary syndrome (ACS), such as chest pain, which began recently and is accompanied by nausea, diaphoresis, and dyspnea.",
+                        [
+                            0,
+                            1
+                        ],
+                        "included"
+                    ],
+                    "criterion_4": [
+                        "The patient has hypertension and obesity, which are comorbid conditions often associated with heart disease, but there is no mention of any exclusionary comorbid conditions like cancer or autoimmune diseases.",
+                        [
+                            3
+                        ],
+                        "included"
+                    ],
+                    "criterion_5": [
+                        "The patient denies having diabetes, which meets the criterion of not having diabetes.",
+                        [
+                            4
+                        ],
+                        "included"
+                    ],
+                    "criterion_6": [
+                        "The patient denies smoking, which meets the criterion of not being a current smoker.",
+                        [
+                            4
+                        ],
+                        "included"
+                    ],
+                    "criterion_7": [
+                        "The patient is not currently taking any medications, which meets the criterion of not being on any exclusionary medications.",
+                        [
+                            5
+                        ],
+                        "included"
+                    ],
+                    "criterion_8": [
+                        "The patient has expressed willingness to provide informed consent and comply with the trial protocol, as indicated in the note.",
+                        [
+                            8
+                        ],
+                        "included"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "The patient is 58 years old as mentioned in the note.",
+                        [
+                            0
+                        ],
+                        "not excluded"
+                    ]
+                }
+            },
+            "NCT00797953": {
+                "inclusion": {
+                    "0": [
+                        "The patient is 58 years old, which falls within the required age range of 18 to 80 years.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "1": [
+                        "The patient is a woman and there is no information about pregnancy, breastfeeding, or contraception. However, typically, if these were concerns, they would be mentioned in a medical note.",
+                        [],
+                        "not enough information"
+                    ],
+                    "2": [
+                        "The patient presents with chest pain, but there is no documented history of myocardial infarction or significant coronary artery disease over 3 months prior to enrollment.",
+                        [
+                            0,
+                            2
+                        ],
+                        "not included"
+                    ],
+                    "3": [
+                        "The patient has symptoms of chest pain and the EKG shows nonspecific changes, which might suggest angina, but there is no clear evidence of chronic angina or an abnormal exercise response.",
+                        [
+                            0,
+                            7
+                        ],
+                        "not enough information"
+                    ],
+                    "4": [
+                        "There is no information provided about the severity of the patient's angina or its classification according to the Canadian Cardiovascular Society Classification System.",
+                        [],
+                        "not enough information"
+                    ],
+                    "5": [
+                        "There is no information about the patient's exercise tolerance test (ETT) or Total Exercise Duration (TED).",
+                        [],
+                        "not enough information"
+                    ],
+                    "6": [
+                        "The patient is not currently taking any medications, which implies that discontinuing any anti-angina regimen is not applicable.",
+                        [
+                            5
+                        ],
+                        "included"
+                    ],
+                    "7": [
+                        "The patient is willing to provide informed consent and comply with the trial protocol, as indicated in the note.",
+                        [
+                            8
+                        ],
+                        "included"
+                    ],
+                    "8": [
+                        "The patient will provide informed consent as explicitly stated in the note.",
+                        [
+                            8
+                        ],
+                        "included"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "No information in the patient note suggests a contraindication to perform treadmill Exercise Tolerance Test (ETT).",
+                        [],
+                        "not excluded"
+                    ],
+                    "1": [
+                        "The EKG shows nonspecific changes, but no specific mention of pre-exercise ST-segment depression, left bundle branch block, digoxin therapy, LVH, or WPW syndrome.",
+                        [
+                            7
+                        ],
+                        "not excluded"
+                    ],
+                    "2": [
+                        "No mention of arrhythmias or atrioventricular conduction blocks in the patient note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "3": [
+                        "The patient has hypertension, but no mention of other significant co-morbidities like hepatic or renal dysfunction, pulmonary hypertension, COPD, history of cerebral hemorrhage, or seizure disorders.",
+                        [
+                            3
+                        ],
+                        "not excluded"
+                    ],
+                    "4": [
+                        "No history of congestive heart failure, unstable angina, severe valvular disease, severe hypertension, severe anemia, suspected or known dissecting aneurysm, acute myocarditis or pericarditis, thrombophlebitis or pulmonary embolism or recent myocardial infarction mentioned.",
+                        [],
+                        "not excluded"
+                    ],
+                    "5": [
+                        "No history of bleeding diathesis or current warfarin use mentioned.",
+                        [],
+                        "not excluded"
+                    ],
+                    "6": [
+                        "No mention of an implanted pacemaker.",
+                        [],
+                        "not excluded"
+                    ],
+                    "7": [
+                        "No information about recent start of aspirin and/or statins.",
+                        [],
+                        "not excluded"
+                    ],
+                    "8": [
+                        "No information about pregnancy or lactation, but given the patient's age and no mention of pregnancy, it is unlikely.",
+                        [],
+                        "not excluded"
+                    ],
+                    "9": [
+                        "No mention of a chronic nitrate regimen or the need to discontinue it.",
+                        [],
+                        "not excluded"
+                    ],
+                    "10": [
+                        "No mention of participation in other clinical trials or receipt of investigational drugs.",
+                        [],
+                        "not excluded"
+                    ],
+                    "11": [
+                        "The patient will provide informed consent and will comply with the trial protocol without any practical issues.",
+                        [
+                            8
+                        ],
+                        "not excluded"
+                    ],
+                    "12": [
+                        "No previous participation in this study mentioned.",
+                        [],
+                        "not excluded"
+                    ],
+                    "13": [
+                        "No mention of substance abuse or recent history of alcoholism or drug dependence.",
+                        [],
+                        "not excluded"
+                    ],
+                    "14": [
+                        "No indication that the patient is a family member or relative of the study site staff.",
+                        [],
+                        "not excluded"
+                    ]
+                }
+            },
+            "NCT01397994": {
+                "inclusion": {
+                    "0": [
+                        "The patient presents with episodic chest pain, but there is no evidence in the note that she has been diagnosed with chronic stable angina or has had an Exercise Myocardial Perfusion Spect Scan showing reversible ischemic changes.",
+                        [
+                            0
+                        ],
+                        "not included"
+                    ],
+                    "1": [
+                        "The patient is described as a woman, meeting the gender part of the criterion.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "2": [
+                        "The patient is 58 years old, which falls within the 25 to 65 years age range specified.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "3": [
+                        "The patient note explicitly states that she will comply with the trial protocol and there are no practical issues anticipated.",
+                        [
+                            8
+                        ],
+                        "included"
+                    ],
+                    "4": [
+                        "The patient note explicitly states that she will provide informed consent.",
+                        [
+                            8
+                        ],
+                        "included"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "The patient note mentions that the patient is known to have hypertension, but there is no specific blood pressure reading provided.",
+                        [
+                            3
+                        ],
+                        "not enough information"
+                    ],
+                    "1": [
+                        "There is no mention of valvular heart disease or cardiomyopathy in the patient's note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "2": [
+                        "The patient note does not mention any recent myocardial infarction.",
+                        [],
+                        "not excluded"
+                    ],
+                    "3": [
+                        "The patient presents with episodic chest pain, but it is described as the first time in her life, suggesting it is not chronic or ongoing, which does not meet the definition of unstable angina.",
+                        [
+                            0
+                        ],
+                        "not excluded"
+                    ],
+                    "4": [
+                        "There is no mention of congestive cardiac failure in the patient's note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "5": [
+                        "There is no mention of severe anemia or any hemoglobin levels in the patient's note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "6": [
+                        "There is no mention of cardiac arrhythmias or AV block in the patient's note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "7": [
+                        "There is no mention of significant liver or renal dysfunction in the patient's note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "8": [
+                        "The patient denies having diabetes, which includes Type-1 diabetes mellitus.",
+                        [
+                            4
+                        ],
+                        "not excluded"
+                    ],
+                    "9": [
+                        "There is no mention of the patient's systolic blood pressure being below 100 mm Hg.",
+                        [],
+                        "not excluded"
+                    ],
+                    "10": [
+                        "The patient is described as a woman, but there is no mention of her being pregnant or nursing.",
+                        [],
+                        "not excluded"
+                    ],
+                    "11": [
+                        "There is no mention of a known hypersensitivity to nicorandil in the patient's note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "12": [
+                        "There is no mention of the patient being on calcium channel blockers in the patient's note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "13": [
+                        "There is no information provided about the patient's eligibility for Tc 99m SPECT.",
+                        [],
+                        "not enough information"
+                    ],
+                    "14": [
+                        "There is no mention of beta blockers being contraindicated for the patient.",
+                        [],
+                        "not excluded"
+                    ],
+                    "15": [
+                        "The patient note does not mention any issues related to geographical inaccessibility for treatment or follow-up.",
+                        [],
+                        "not excluded"
+                    ]
+                }
+            },
+            "NCT00141583": {
+                "inclusion": {
+                    "0": [
+                        "The patient note mentions that the patient is known to have hypertension (sentence 3). However, it does not specify whether it is essential hypertension or another type.",
+                        [
+                            3
+                        ],
+                        "not enough information"
+                    ],
+                    "1": [
+                        "The patient note does not provide specific values for systolic blood pressure (SBP), so we cannot determine if it falls within the required range of 140-159 mmHg.",
+                        [],
+                        "not enough information"
+                    ],
+                    "2": [
+                        "The patient note does not provide specific values for diastolic blood pressure (DBP), so we cannot determine if it falls within the required range of 90-99 mmHg.",
+                        [],
+                        "not enough information"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "The patient note does not mention any intolerance or allergy to ACE Inhibitors or ARBs.",
+                        [],
+                        "not excluded"
+                    ],
+                    "1": [
+                        "The patient note does not mention pregnancy or breastfeeding status.",
+                        [],
+                        "not enough information"
+                    ],
+                    "2": [
+                        "The patient is a 58-year-old woman, which typically indicates post-menopausal status.",
+                        [
+                            0
+                        ],
+                        "not excluded"
+                    ],
+                    "3": [
+                        "The patient note does not mention uncontrolled cardiac or renal failure, only episodic chest pain and hypertension.",
+                        [
+                            0,
+                            3
+                        ],
+                        "not excluded"
+                    ],
+                    "4": [
+                        "The patient explicitly denies having diabetes mellitus.",
+                        [
+                            4
+                        ],
+                        "not excluded"
+                    ]
+                }
             }
         },
         "2": {

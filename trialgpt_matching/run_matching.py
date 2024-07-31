@@ -11,7 +11,6 @@ import sys
 from tqdm import tqdm
 from TrialGPT import trialgpt_matching 
 
-# if __name__ == "__main__":
 # corpus = sys.argv[1]
 corpus = "sigir"
 # model = sys.argv[2] 
@@ -52,11 +51,11 @@ for instance in tqdm(dataset):
 			# in case anything goes wrong (e.g., API calling errors)
 			try:
 				# results, a, b = trialgpt_matching(trial, patient, model)
-				sample = trialgpt_matching(trial, patient, model)
-				output[patient_id][label][trial_id] = sample[0]
-				with open("../results/prompts_sample.txt", "a") as f:
-					for item in sample:
-						f.write(item + "\n")
+				results = trialgpt_matching(trial, patient, model)
+				output[patient_id][label][trial_id] = results
+				# with open("../results/prompts_sample.txt", "a") as f:
+				# 	for item in sample:
+				# 		f.write(item + "\n")
 
 				with open(output_path, "w") as f:
 					json.dump(output, f, indent=4)
@@ -64,9 +63,6 @@ for instance in tqdm(dataset):
 			except Exception as e:
 				print(e)
 				continue
-			break
-		break
-	break
-# %%
-a
-# %%
+			# break
+		# break
+	# break

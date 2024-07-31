@@ -97,7 +97,7 @@ def trialgpt_matching(trial: dict, patient: str, model: str):
 	# doing inclusions and exclusions in separate prompts
 	for inc_exc in ["inclusion", "exclusion"]:
 		system_prompt, user_prompt = get_matching_prompt(trial, inc_exc, patient)
-		print(system_prompt, user_prompt)
+		print(f"system_promt:\n {system_prompt}, \nuser_promt:\n {user_prompt}")
 		messages = [
 			{"role": "system", "content": system_prompt},
 			{"role": "user", "content": user_prompt},
@@ -118,5 +118,27 @@ def trialgpt_matching(trial: dict, patient: str, model: str):
 			results[inc_exc] = message
 		# print(system_prompt, user_prompt)
 
-	return [results, system_prompt, user_prompt]
+	return results
+	# return [results, system_prompt, user_prompt]
 #%%
+model = "gpt-4-turbo"
+trial = {'brief_title': 'A Cluster Randomized Trial to Assess the Impact of Opinion Leader Endorsed Evidence Summaries on Improving Quality of Prescribing for Patients With Chronic Cardiovascular Disease',
+ 'phase': '',
+ 'drugs': "['Opinion leader generated and endorsed evidence summaries']",
+ 'drugs_list': ['Opinion leader generated and endorsed evidence summaries'],
+ 'diseases': "['Coronar y Disease', 'Ischemic Heart Disease', 'Heart Failure']",
+ 'diseases_list': ['Coronary Disease',
+  'Ischemic Heart Disease',
+  'Heart Failure'],
+ 'enrollment': '160.0',
+ 'inclusion_criteria': 'inclusion criteria: \n\n Patients with HF or IHD who are not currently taking the study medications of interest (ACE inhibitors/angiotensin receptor blockers for HF or statins for IHD) and whose primary care physicians are part of the study population \n\n ',
+ 'exclusion_criteria': ': \n\n Patients who are unable or unwilling to give informed consent, \n\n previously taken the study medications according to dispensing records \n\n allergy or intolerance to study medications \n\n residents of long-term care facilities \n\n unable to confirm a diagnosis of either HF or IHD \n\n primary care physician has already contributed 5 patients to the study',
+ 'brief_summary': 'BACKGROUND: Although much has been written about the influence of local opinion leaders on clinical practice, there have been few controlled studies of their effect, and almost none have attempted to change prescribing in the community for chronic conditions such as congestive heart failure (CHF) or ischemic heart disease (IHD). These two conditions are common and there is very good evidence about how to best prevent morbidity and mortality - and very good evidence that quality of care is, in general, suboptimal. Practice audits have demonstrated that about half of eligible CHF patients are prescribed ACE inhibitors (and fewer still reaching appropriate target doses) and less than one-third of patients with established IHD are prescribed statins (with many fewer reaching recommended cholesterol targets). It is apparent that interventions to improve quality of prescribing are urgently needed.~HYPOTHESIS: An intervention that consists of patient-specific one-page evidence summaries, generated and then endorsed by local opinion leaders, will be able to change prescribing practices of community-based primary care physicians.~DESIGN: A single centre randomized controlled trial comparing an opinion leader intervention to usual care. Based on random allocation of all physicians in one large Canadian health region, patients with CHF or IHD (not receiving ACE inhibitors or statins, respectively) recruited from community pharmacies will be allocated to intervention or usual care. The primary outcome is improvement in prescription of proven efficacious therapies for CHF (ACE inhibitors) or IHD (statins) within 6 months of the intervention.',
+ 'NCTID': 'NCT00175279'}
+patient = "A 58-year-old African-American woman presents to the ER with episodic pressing/burning anterior chest pain that began two days earlier for the first time in her life.\n1. The pain started while she was walking, radiates to the back, and is accompanied by nausea, diaphoresis and mild dyspnea, but is not increased on inspiration.\n2. The latest episode of pain ended half an hour prior to her arrival.\n3. She is known to have hypertension and obesity.\n4. She denies smoking, diabetes, hypercholesterolemia, or a family history of heart disease.\n5. She currently takes no medications.\n6. Physical examination is normal.\n7. The EKG shows nonspecific changes.\n8. The patient will provide informed consent, and will comply with the trial protocol without any practical issues."
+#%%
+sample = trialgpt_matching(trial, patient, model)
+
+# %%
+sample
+# %%
