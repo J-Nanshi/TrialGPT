@@ -3,20 +3,22 @@ __author__ = "qiao"
 """
 TrialGPT-Matching main functions.
 """
-
+#%%
 import json
 from nltk.tokenize import sent_tokenize
 import time
 import os
+from openai import OpenAI
+from configparser import ConfigParser
 
-from openai import AzureOpenAI
-
-client = AzureOpenAI(
-	api_version="2023-09-01-preview",
-	azure_endpoint=os.getenv("OPENAI_ENDPOINT"),
-	api_key=os.getenv("OPENAI_API_KEY"),
+config = ConfigParser() 
+config.read('../secrets.ini')
+os.environ["OPENAI_API_KEY"] = config['OpenAI.Science-vNext-Internal']['api_key']
+client = OpenAI(
+    # This is the default and can be omitted
+    api_key=os.environ.get("OPENAI_API_KEY"),
 )
-
+#%%
 def parse_criteria(criteria):
 	output = ""
 	criteria = criteria.split("\n\n")
@@ -95,7 +97,7 @@ def trialgpt_matching(trial: dict, patient: str, model: str):
 	# doing inclusions and exclusions in separate prompts
 	for inc_exc in ["inclusion", "exclusion"]:
 		system_prompt, user_prompt = get_matching_prompt(trial, inc_exc, patient)
-	
+		print(system_prompt, user_prompt)
 		messages = [
 			{"role": "system", "content": system_prompt},
 			{"role": "user", "content": user_prompt},
@@ -114,5 +116,7 @@ def trialgpt_matching(trial: dict, patient: str, model: str):
 			results[inc_exc] = json.loads(message)
 		except:
 			results[inc_exc] = message
+		# print(system_prompt, user_prompt)
 
-	return results
+	return [results, system_prompt, user_prompt]
+#%%

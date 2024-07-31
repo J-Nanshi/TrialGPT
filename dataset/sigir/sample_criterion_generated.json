@@ -1,0 +1,106 @@
+{
+    "sigir-20141": {
+        "raw": "A 58-year-old African-American woman presents to the ER with episodic pressing/burning anterior chest pain that began two days earlier for the first time in her life. The pain started while she was walking, radiates to the back, and is accompanied by nausea, diaphoresis and mild dyspnea, but is not increased on inspiration. The latest episode of pain ended half an hour prior to her arrival. She is known to have hypertension and obesity. She denies smoking, diabetes, hypercholesterolemia, or a family history of heart disease. She currently takes no medications. Physical examination is normal. The EKG shows nonspecific changes.",
+        "gpt-4-turbo": {
+            "summary": "A 58-year-old African-American woman with a history of hypertension and obesity presents with episodic pressing/burning anterior chest pain radiating to the back, accompanied by nausea, diaphoresis, and mild dyspnea. The pain is not increased on inspiration and started while walking. She denies smoking, diabetes, hypercholesterolemia, or a family history of heart disease. Physical examination is normal, and the EKG shows nonspecific changes.",
+            "conditions": [
+                "Chest pain",
+                "Hypertension",
+                "Obesity",
+                "Nausea",
+                "Diaphoresis",
+                "Dyspnea",
+                "Non-specific EKG changes",
+                "Coronary artery disease",
+                "Angina",
+                "Acute coronary syndrome",
+                "Myocardial infarction",
+                "Cardiovascular disease risk factors",
+                "Exercise-induced angina",
+                "Radiating chest pain",
+                "Stable angina",
+                "Unstable angina",
+                "Heart disease",
+                "Stress-induced cardiomyopathy",
+                "Coronary heart disease",
+                "Cardiomyopathy",
+                "Heart failure",
+                "Peripheral artery disease",
+                "Atherosclerosis",
+                "Metabolic syndrome",
+                "Chronic obstructive pulmonary disease (COPD)",
+                "Pulmonary embolism",
+                "Gastroesophageal reflux disease (GERD)",
+                "Peptic ulcer disease",
+                "Panic disorder",
+                "Anxiety",
+                "Depression",
+                "Health disparities in African-American women"
+            ]
+        },
+        "gpt-35-turbo": {
+            "summary": "The patient is a 58-year-old African-American woman presenting with episodic chest pain, radiating to the back, accompanied by nausea, diaphoresis, and mild dyspnea. She has a history of hypertension and obesity. The EKG shows nonspecific changes.",
+            "conditions": [
+                "Chest pain",
+                "Episodic chest pain",
+                "Radiating chest pain",
+                "Nausea",
+                "Diaphoresis",
+                "Mild dyspnea",
+                "Hypertension",
+                "Obesity",
+                "Nonspecific EKG changes",
+                "Angina",
+                "Coronary artery disease",
+                "Myocardial infarction",
+                "Heart disease",
+                "African-American",
+                "Pressing chest pain",
+                "Burning chest pain",
+                "Walking-induced chest pain",
+                "Chest pain radiating to the back",
+                "Chest pain with nausea",
+                "Chest pain with diaphoresis",
+                "Chest pain with mild dyspnea",
+                "Hypertensive patient with chest pain",
+                "Obese patient with chest pain",
+                "Chest pain in a non-smoker",
+                "Chest pain without diabetes",
+                "Chest pain without hypercholesterolemia",
+                "Chest pain without family history of heart disease",
+                "Chest pain with normal physical examination",
+                "Chest pain with nonspecific EKG changes",
+                "Episodic chest pain in a 58-year-old woman",
+                "Chest pain in an African-American woman",
+                "Chest pain with no medication use"
+            ]
+        },
+        "human_summary": "58-year-old woman with hypertension and obesity presents with exercise-related episodic chest pain radiating to the back.",
+        "Clinician_A": [
+            "Firstline management of new onset ACS in African-American Women",
+            "Firstline management of new onset ACS in Women",
+            "Firstline management of new onset ACS",
+            "Firstline management of new onset ACS in the obese"
+        ],
+        "Clinician_B": [
+            "Obesity ACS",
+            "Obesity IHD",
+            "ACS",
+            "chest pain trial",
+            "hypertension ACS",
+            "Hypertension IHD"
+        ],
+        "Clinician_C": [
+            "Clinical Trial Chest Pain Hypertension Obesity",
+            "Clinical Trial Chest Pain Burning Back pain nausea sweating"
+        ],
+        "Clinician_D": [
+            "angina beta blocker trial",
+            "angina calcium channel blocker trial",
+            "angina nitrate trial",
+            "stable angina beta blocker trial",
+            "stable angina calcium channel blocker trial",
+            "stable angina nitrate trial"
+        ]
+    }
+}
