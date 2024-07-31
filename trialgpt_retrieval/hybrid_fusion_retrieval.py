@@ -169,11 +169,10 @@ tokenizer = AutoTokenizer.from_pretrained("ncbi/MedCPT-Query-Encoder")
 #%%
 # then conduct the searches, saving top 1k
 output_path = f"../results/qid2nctids_results_{q_type}_{corpus}_k{k}_bm25wt{bm25_wt}_medcptwt{medcpt_wt}_N{N}.json"
-
+output_path
+#%%
 qid2nctids = {}
 recalls = []
-
-#%%
 with open(f"../dataset/{corpus}/queries.jsonl", "r") as f:
 	for line in tqdm.tqdm(f.readlines()):
 		entry = json.loads(line)
@@ -203,7 +202,8 @@ with open(f"../dataset/{corpus}/queries.jsonl", "r") as f:
 				tokens = word_tokenize(condition.lower())
 				top_nctids = bm25.get_top_n(tokens, bm25_nctids, n=N)
 				bm25_condition_top_nctids.append(top_nctids)
-			
+				# if condition[0] =="Chest pain":
+					# break 
 			# doing MedCPT retrieval
 			with torch.no_grad():
 				encoded = tokenizer(
@@ -220,16 +220,28 @@ with open(f"../dataset/{corpus}/queries.jsonl", "r") as f:
 				embeds = model(**encoded).last_hidden_state[:, 0, :].numpy()
 
 				# search the Faiss index
-				scores, inds = medcpt.search(embeds, k=N)				
+				scores, inds = medcpt.search(embeds, k=N) #'''getting the scores and indices of the clinial trials stored in faiss'''
 
 			medcpt_condition_top_nctids = []
+
 			for ind_list in inds:
-				top_nctids = [medcpt_nctids[ind] for ind in ind_list]
+				top_nctids = [medcpt_nctids[ind] for ind in ind_list] #'''here they are doing for each index present in ind_list map and retrive the the nctid corresponding to index of medcpt_ncts'''
 				medcpt_condition_top_nctids.append(top_nctids)
+				# break
 
 			nctid2score = {}
+			'''first they calculate the scores for each id with iterations for bm25 and
+			they are appending the scores to the nctid2score. if the nctid is already existing and has a scrore
+			the score of the id in that iteration is added to the previous score of x iteration.
+			thus the same haapens for medcpt as if the nctid doesnt have a scrore it is calculated and appended 
+			to the list. However if present then the score is combined with previous iterations.
+			Note that - not only the scores combine id repeated in individual list but also combines if 
+			they occur in both the as well
+			Eg - bm25_list [ "NCT1"=0.5, "NCT2"=0.1, "NCT3"=0.6], medcpt_list ["NCT1"=0.5, "NCT4"=0.4, NCT2"=0.7]
+			nctid2score = NCT1 = 0.5+0.5 = 1, NCT2 = 0.1+0.7 = 0.8, NCT3 = 0.6, NCT4 = 0.4'''
 
 			for condition_idx, (bm25_top_nctids, medcpt_top_nctids) in enumerate(zip(bm25_condition_top_nctids, medcpt_condition_top_nctids)):
+
 
 				if bm25_wt > 0:
 					for rank, nctid in enumerate(bm25_top_nctids):
@@ -237,22 +249,27 @@ with open(f"../dataset/{corpus}/queries.jsonl", "r") as f:
 							nctid2score[nctid] = 0
 						
 						nctid2score[nctid] += (1 / (rank + k)) * (1 / (condition_idx + 1))
-				
+						# break
+
 				if medcpt_wt > 0:
 					for rank, nctid in enumerate(medcpt_top_nctids):
 						if nctid not in nctid2score:
 							nctid2score[nctid] = 0
 						
 						nctid2score[nctid] += (1 / (rank + k)) * (1 / (condition_idx + 1))
-
+						# break
+				break
+	
 		nctid2score = sorted(nctid2score.items(), key=lambda x: -x[1])
 		top_nctids = [nctid for nctid, _ in nctid2score[:N]]
 		qid2nctids[qid] = top_nctids
 
+        #Caluculating the precesion of each patient not necessary currently 
 		actual_sum = sum([qrels[qid].get(nctid, 0) for nctid in top_nctids])
 		recalls.append(actual_sum / truth_sum)
+		# break
 
 with open(output_path, "w") as f:
 	json.dump(qid2nctids, f, indent=4)
 
-#%%
+# %%
