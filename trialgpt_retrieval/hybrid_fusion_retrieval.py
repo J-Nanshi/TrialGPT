@@ -7,6 +7,7 @@ Conduct the first stage retrieval by the hybrid retriever
 from beir.datasets.data_loader import GenericDataLoader
 import faiss
 import json
+import nltk
 from nltk import word_tokenize
 import numpy as np
 import os
@@ -15,10 +16,20 @@ import sys
 import tqdm
 import torch
 from transformers import AutoTokenizer, AutoModel
-#%%
 
+#%%
+#Essential to solve the nltk token lookup error one time use
+nltk.download('punkt')
+#%%
+#%%
+'''This function either loads a preprocessed, tokenized corpus from a cached file or 
+builds it from a JSONL file containing clinical trial entries. 
+It applies token weighting based on the title (3), conditions(2), and text(1) of each trial entry. 
+After processing, it saves the data for future use and creates a BM25 index to enable 
+efficient text retrieval based on the BM25 algorithm. 
+The function returns the BM25 index and the list of trial IDs.'''
 def get_bm25_corpus_index(corpus):
-	corpus_path = os.path.join(f"trialgpt_retrieval/bm25_corpus_{corpus}.json")
+	corpus_path = os.path.join(f"../trialgpt_retrieval/bm25_corpus_{corpus}.json")
 
 	# if already cached then load, otherwise build
 	if os.path.exists(corpus_path):
@@ -30,7 +41,7 @@ def get_bm25_corpus_index(corpus):
 		tokenized_corpus = []
 		corpus_nctids = []
 
-		with open(f"dataset/{corpus}/corpus.jsonl", "r") as f:
+		with open(f"../dataset/{corpus}/corpus.jsonl", "r") as f:
 			for line in f.readlines():
 				entry = json.loads(line)
 				corpus_nctids.append(entry["_id"])
@@ -55,10 +66,14 @@ def get_bm25_corpus_index(corpus):
 
 	return bm25, corpus_nctids
 
-#%%		
+#%%	
+'''This function processes a corpus of clinical trial data by either loading 
+precomputed embeddings or computing new embeddings using the MedCPT-Article-Encoder. 
+It tokenizes and encodes the text data, computes embeddings, and stores them for future use. 
+Finally, it creates a FAISS index for efficient similarity search and returns the index along with the NCT IDs.'''	
 def get_medcpt_corpus_index(corpus):
-	corpus_path = f"trialgpt_retrieval/{corpus}_embeds.npy" 
-	nctids_path = f"trialgpt_retrieval/{corpus}_nctids.json"
+	corpus_path = f"../trialgpt_retrieval/{corpus}_embeds.npy" 
+	nctids_path = f"../trialgpt_retrieval/{corpus}_nctids.json"
 
 	# if already cached then load, otherwise build
 	if os.path.exists(corpus_path):
@@ -69,10 +84,11 @@ def get_medcpt_corpus_index(corpus):
 		embeds = []
 		corpus_nctids = []
 
-		model = AutoModel.from_pretrained("ncbi/MedCPT-Article-Encoder").to("cuda")
+		# model = AutoModel.from_pretrained("ncbi/MedCPT-Article-Encoder").to("cuda")
+		model = AutoModel.from_pretrained("ncbi/MedCPT-Article-Encoder")
 		tokenizer = AutoTokenizer.from_pretrained("ncbi/MedCPT-Article-Encoder")
 
-		with open(f"dataset/{corpus}/corpus.jsonl", "r") as f:
+		with open(f"../dataset/{corpus}/corpus.jsonl", "r") as f:
 			print("Encoding the corpus")
 			for line in tqdm.tqdm(f.readlines()):
 				entry = json.loads(line)
@@ -89,11 +105,13 @@ def get_medcpt_corpus_index(corpus):
 						padding=True, 
 						return_tensors='pt', 
 						max_length=512,
-					).to("cuda")
+					# ).to("cuda")
+					)
 					
 					embed = model(**encoded).last_hidden_state[:, 0, :]
 
-					embeds.append(embed[0].cpu().numpy())
+					# embeds.append(embed[0].cpu().numpy())
+					embeds.append(embed[0].numpy())
 
 		embeds = np.array(embeds)
 
@@ -134,23 +152,29 @@ _, _, qrels = GenericDataLoader(data_folder=f"D:\Job\TrialGPT\dataset\sigir").lo
 qrels
 #%%
 # loading all types of queries
-id2queries = json.load(open(f"dataset/{corpus}/id2queries.json"))
-
+id2queries = json.load(open(f"../dataset/{corpus}/id2queries.json"))
+id2queries
+#%%
 # loading the indices
-bm25, bm25_nctids = get_bm25_corpus_index(corpus)
+bm25, bm25_nctids = get_bm25_corpus_index(corpus) #bm25 the indices and bm25_nctids contains the nctids of clinical trial
+#%%
+#%%
 medcpt, medcpt_nctids = get_medcpt_corpus_index(corpus)
-
+#%%
+#%%
 # loading the query encoder for MedCPT
-model = AutoModel.from_pretrained("ncbi/MedCPT-Query-Encoder").to("cuda")
+# model = AutoModel.from_pretrained("ncbi/MedCPT-Query-Encoder").to("cuda")
+model = AutoModel.from_pretrained("ncbi/MedCPT-Query-Encoder")
 tokenizer = AutoTokenizer.from_pretrained("ncbi/MedCPT-Query-Encoder")
-
+#%%
 # then conduct the searches, saving top 1k
-output_path = f"results/qid2nctids_results_{q_type}_{corpus}_k{k}_bm25wt{bm25_wt}_medcptwt{medcpt_wt}_N{N}.json"
+output_path = f"../results/qid2nctids_results_{q_type}_{corpus}_k{k}_bm25wt{bm25_wt}_medcptwt{medcpt_wt}_N{N}.json"
 
 qid2nctids = {}
 recalls = []
 
-with open(f"dataset/{corpus}/queries.jsonl", "r") as f:
+#%%
+with open(f"../dataset/{corpus}/queries.jsonl", "r") as f:
 	for line in tqdm.tqdm(f.readlines()):
 		entry = json.loads(line)
 		query = entry["text"]
@@ -188,10 +212,12 @@ with open(f"dataset/{corpus}/queries.jsonl", "r") as f:
 					padding=True, 
 					return_tensors='pt', 
 					max_length=256,
-				).to("cuda")
+				# ).to("cuda")
+				)
 
 				# encode the queries (use the [CLS] last hidden states as the representations)
-				embeds = model(**encoded).last_hidden_state[:, 0, :].cpu().numpy()
+				# embeds = model(**encoded).last_hidden_state[:, 0, :].cpu().numpy()
+				embeds = model(**encoded).last_hidden_state[:, 0, :].numpy()
 
 				# search the Faiss index
 				scores, inds = medcpt.search(embeds, k=N)				
@@ -228,3 +254,5 @@ with open(f"dataset/{corpus}/queries.jsonl", "r") as f:
 
 with open(output_path, "w") as f:
 	json.dump(qid2nctids, f, indent=4)
+
+#%%

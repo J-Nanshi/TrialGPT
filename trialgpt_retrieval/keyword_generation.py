@@ -1,4 +1,4 @@
-__author__ = "qiao"
+# __author__ = "qiao"
 
 """
 generate the search keywords for each patient
@@ -44,9 +44,23 @@ corpus = "sigir"
 # the model index to use
 model = "gpt-4-turbo"
 #%%
+import pandas as pd
+import json
+
+# Create the DataFrame
+df = pd.read_csv("../synthetic_patient_cases_random_30_modified.csv")
+# Convert the DataFrame to JSON Lines format
+jsonl_data = df.apply(lambda row: json.dumps({"_id": row["NCT_ID"], "text": row["Synthetic_patients"]}), axis=1)
+
+# Write the JSON Lines to a file
+with open("synthetic_patient_cases_random_30_modified.jsonl", "w") as f:
+    for line in jsonl_data:
+        f.write(line + "\n")
+#%%
 outputs = {}
 
-with open(r"D:\Job\TrialGPT\dataset\sigir\queries.jsonl", "r") as f:
+# with open(r"D:\Job\TrialGPT\dataset\sigir\queries.jsonl", "r") as f:
+with open(r"D:\Job\TrialGPT\trialgpt_retrieval\synthetic_patient_cases_random_30_modified.jsonl", "r") as f:
 	for line in f.readlines():
 		entry = json.loads(line)
 		print(f"the json file query {entry}")
@@ -65,7 +79,7 @@ with open(r"D:\Job\TrialGPT\dataset\sigir\queries.jsonl", "r") as f:
 		outputs[entry["_id"]] = json.loads(output)
 		print(f'''the outputs[entry["_id"]] is\n {outputs[entry["_id"]]}''' )
 
-		with open(r"D:\Job\TrialGPT\results\retrieval_keywords_gpt4turbo_sigir.json", "w") as f:
+		# with open(r"D:\Job\TrialGPT\results\retrieval_keywords_gpt4turbo_sigir.json", "w") as f:
+		with open(r"D:\Job\TrialGPT\results\retrieval_keywords_gpt4turbo_synthetic_patient_cases_random_30.json", "w") as f:
 			json.dump(outputs, f, indent=4)
-		break
 # %%
