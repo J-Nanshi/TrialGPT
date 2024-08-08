@@ -1,0 +1,102 @@
+system_promt:
+ You are a helpful assistant for clinical trial recruitment. You will be given a patient note, a clinical trial, and the patient eligibility predictions for each criterion.
+Your task is to output two scores, a relevance score (R) and an eligibility score (E), between the patient and the clinical trial.
+First explain the consideration for determining patient-trial relevance. Predict the relevance score R (0~100), which represents the overall relevance between the patient and the clinical trial. R=0 denotes the patient is totally irrelevant to the clinical trial, and R=100 denotes the patient is exactly relevant to the clinical trial.
+Then explain the consideration for determining patient-trial eligibility. Predict the eligibility score E (-R~R), which represents the patient's eligibility to the clinical trial. Note that -R <= E <= R (the absolute value of eligibility cannot be higher than the relevance), where E=-R denotes that the patient is ineligible (not included by any inclusion criteria, or excluded by all exclusion criteria), E=R denotes that the patient is eligible (included by all inclusion criteria, and not excluded by any exclusion criteria), E=0 denotes the patient is neutral (i.e., no relevant information for all inclusion and exclusion criteria).
+Please output a JSON dict formatted as Dict{"relevance_explanation": Str, "relevance_score_R": Float, "eligibility_explanation": Str, "eligibility_score_E": Float}., 
+user_promt:
+ Here is the patient note:
+0. A 58-year-old African-American woman presents to the ER with episodic pressing/burning anterior chest pain that began two days earlier for the first time in her life.
+1. The pain started while she was walking, radiates to the back, and is accompanied by nausea, diaphoresis and mild dyspnea, but is not increased on inspiration.
+2. The latest episode of pain ended half an hour prior to her arrival.
+3. She is known to have hypertension and obesity.
+4. She denies smoking, diabetes, hypercholesterolemia, or a family history of heart disease.
+5. She currently takes no medications.
+6. Physical examination is normal.
+7. The EKG shows nonspecific changes.
+8. The patient will provide informed consent, and will comply with the trial protocol without any practical issues.
+
+Here is the clinical trial description:
+Title: Non-cardiac Chest Pain Evaluation and Treatment Study (CARPA) - Part 1: Diagnosis.
+Target conditions: Non-Cardiac Chest Pain, Undiagnosed Chest Pain, Musculoskeletal Chest Pain, Ischemic Heart Disease
+Summary: The overall aim of the project is to evaluate diagnosis and treatment of chest pain originating from the musculoskeletal system. Specifically, we wish to investigate prevalence and character of such chest pain in a population of patients with acute chest pain, admitted to a university hospital based acute chest pain clinic, and undergoing evaluation of acute coronary syndrome (Part 1). Then, to test a manually-based treatment protocol to patients with diagnosed musculoskeletal chest pain in a randomized clinical trial (Part 2).~The specific purpose of this study (Part 1) is to determine the exact number of patients with acute chest pain origination from the musculoskeletal system, and to describe their cardiac status with respect to ischemic heart disease. Further, we wish to evaluate the decision making process of the chiropractor.
+
+Here are the criterion-levle eligibility prediction:
+inclusion criterion 0: Acute episode of chest pain of less than 7 days duration as primary reason for admission to a chest pain clinic.
+	Patient relevance: The patient presents with chest pain that began two days earlier, which is within the 7 days duration specified by the criterion.
+	Evident sentences: [0]
+	Patient eligibility: included
+inclusion criterion 1: Admitted to a chest pain clinic, suspected of acute coronary infarction, but with a negative diagnosis confirmed by normal coronary enzymes and normal ECG.
+	Patient relevance: The patient is admitted with chest pain and the EKG shows nonspecific changes, but there is no information about coronary enzymes or a confirmed negative diagnosis for acute coronary infarction.
+	Evident sentences: [7]
+	Patient eligibility: not enough information
+inclusion criterion 2: Pain arising from the thorax and/or neck.
+	Patient relevance: The patient's pain radiates to the back, which could suggest thoracic involvement, but there is no specific mention of pain originating from the thorax or neck.
+	Evident sentences: [1]
+	Patient eligibility: not enough information
+inclusion criterion 3: Able to read and understand Danish.
+	Patient relevance: There is no information provided about the patient's ability to read and understand Danish.
+	Patient eligibility: not enough information
+exclusion criterion 0: Acute coronary syndrome.
+	Patient relevance: The patient presents with chest pain, but there is no direct evidence of acute coronary syndrome; the EKG shows nonspecific changes, not diagnostic of acute coronary syndrome.
+	Evident sentences: [7]
+	Patient eligibility: not excluded
+exclusion criterion 1: Percutaneous Coronary Intervention.
+	Patient relevance: There is no mention of Percutaneous Coronary Intervention in the patient's history or current treatment.
+	Patient eligibility: not excluded
+exclusion criterion 2: Coronary Artery Bypass Grafting.
+	Patient relevance: There is no mention of Coronary Artery Bypass Grafting in the patient's history or current treatment.
+	Patient eligibility: not excluded
+exclusion criterion 3: Other disease, diagnosed during this admission, which is likely to have caused the acute episode of chest pain.
+	Patient relevance: The patient has known hypertension and obesity, but there is no evidence of another disease diagnosed during this admission causing the chest pain.
+	Evident sentences: [3]
+	Patient eligibility: not excluded
+exclusion criterion 4: No written consent.
+	Patient relevance: The patient will provide informed consent as mentioned in the note.
+	Evident sentences: [8]
+	Patient eligibility: not excluded
+exclusion criterion 5: Inflammatory joint disease.
+	Patient relevance: There is no mention of inflammatory joint disease in the patient's history.
+	Patient eligibility: not excluded
+exclusion criterion 6: Diabetes mellitus, type I.
+	Patient relevance: The patient denies having diabetes.
+	Evident sentences: [4]
+	Patient eligibility: not excluded
+exclusion criterion 7: Fibromyalgia.
+	Patient relevance: There is no mention of fibromyalgia in the patient's history.
+	Patient eligibility: not excluded
+exclusion criterion 8: Sharp trauma to the chest.
+	Patient relevance: There is no mention of sharp trauma to the chest.
+	Patient eligibility: not excluded
+exclusion criterion 9: Malignant disease.
+	Patient relevance: There is no mention of malignant disease in the patient's history.
+	Patient eligibility: not excluded
+exclusion criterion 10: Apoplexy.
+	Patient relevance: There is no mention of apoplexy in the patient's history.
+	Patient eligibility: not excluded
+exclusion criterion 11: Gross osseous anomalies, such as pronounced scoliosis.
+	Patient relevance: There is no mention of gross osseous anomalies, such as pronounced scoliosis, in the patient's history.
+	Patient eligibility: not excluded
+exclusion criterion 12: Known or suspected osteoporosis.
+	Patient relevance: There is no mention of known or suspected osteoporosis in the patient's history.
+	Patient eligibility: not excluded
+exclusion criterion 13: Pregnancy.
+	Patient relevance: There is no mention of pregnancy, and the patient's age makes it less likely.
+	Patient eligibility: not excluded
+exclusion criterion 14: Dementia/unable to cooperate.
+	Patient relevance: There is no mention of dementia or inability to cooperate; the patient is capable of providing informed consent.
+	Evident sentences: [8]
+	Patient eligibility: not excluded
+exclusion criterion 15: Not residing in the County of Funen.
+	Patient relevance: There is no information about the patient's residence.
+	Patient eligibility: not enough information
+exclusion criterion 16: Does not want to participate.
+	Patient relevance: The patient will comply with the trial protocol, indicating willingness to participate.
+	Evident sentences: [8]
+	Patient eligibility: not excluded
+exclusion criterion 17: Other - reason for exclusion will be noted.
+	Patient relevance: No other reasons for exclusion are noted in the patient's history.
+	Patient eligibility: not excluded
+
+
+Plain JSON output:

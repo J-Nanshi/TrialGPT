@@ -1,0 +1,10 @@
+{
+    "sigir-20141": {
+        "NCT00373828": {
+            "relevance_explanation": "The patient's presentation of acute chest pain that began within the last two days aligns well with the clinical trial's focus on evaluating non-cardiac chest pain and its origins. The trial aims to identify musculoskeletal causes of chest pain in patients presenting with symptoms similar to those of the patient. Although there is no direct evidence of musculoskeletal pain, the patient's symptoms and the absence of a confirmed cardiac cause make the trial highly relevant to her condition.",
+            "relevance_score_R": 85,
+            "eligibility_explanation": "The patient meets one of the inclusion criteria directly (acute chest pain of less than 7 days) and does not meet any of the exclusion criteria, as there is no evidence of conditions like acute coronary syndrome, diabetes, or other specific exclusions listed. However, there is insufficient information to confirm eligibility against several inclusion criteria, such as the confirmed negative diagnosis for acute coronary infarction and the ability to read and understand Danish. This uncertainty reduces the eligibility score.",
+            "eligibility_score_E": 50
+        }
+    }
+}

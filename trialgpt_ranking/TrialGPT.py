@@ -9,12 +9,15 @@ from nltk.tokenize import sent_tokenize
 import time
 import os
 
-from openai import AzureOpenAI
+from openai import OpenAI
+from configparser import ConfigParser
 
-client = AzureOpenAI(
-	api_version="2023-09-01-preview",
-	azure_endpoint=os.getenv("OPENAI_ENDPOINT"),
-	api_key=os.getenv("OPENAI_API_KEY"),
+config = ConfigParser() 
+config.read('../secrets.ini')
+os.environ["OPENAI_API_KEY"] = config['OpenAI.Science-vNext-Internal']['api_key']
+client = OpenAI(
+    # This is the default and can be omitted
+    api_key=os.environ.get("OPENAI_API_KEY"),
 )
 
 def convert_criteria_pred_to_string(

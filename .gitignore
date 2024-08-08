@@ -1,2 +1,4 @@
 *.ini
 pytrec_eval
+trial_info.json
+pre_matching_retrived_process_file.json

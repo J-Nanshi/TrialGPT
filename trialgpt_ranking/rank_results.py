@@ -1,12 +1,12 @@
-__author__ = "qiao"
+# __author__ = "qiao"
 
 """
 Rank the trials given the matching and aggregation results
 """
-
+#%%
 import json
 import sys
-
+#%%
 eps = 1e-9
 
 def get_matching_score(matching):
@@ -77,44 +77,48 @@ def get_agg_score(assessment):
 
 	return score 
 
-
-if __name__ == "__main__":
+#%%
+# if __name__ == "__main__":
 	# args are the results paths
-	matching_results_path = sys.argv[1]
-	agg_results_path = sys.argv[2]
+# matching_results_path = sys.argv[1]
+matching_results_path = "../results/matching_results_sigir_gpt-4-turbo_samplerun.json"
+# agg_results_path = sys.argv[2]
+agg_results_path = "../results/aggregation_results_sigir_gpt-4-turbo.json"
 
-	# loading the results
-	matching_results = json.load(open(matching_results_path))
-	agg_results = json.load(open(agg_results_path))
+# loading the results
+matching_results = json.load(open(matching_results_path))
+agg_results = json.load(open(agg_results_path))
+
+# loop over the patients
+for patient_id, label2trial2results in matching_results.items():
+
+	trial2score = {}
+
+	for _, trial2results in label2trial2results.items():
+		for trial_id, results in trial2results.items():
+
+			matching_score = get_matching_score(results)
+			
+			if patient_id not in agg_results or trial_id not in agg_results[patient_id]:
+				print(f"Patient {patient_id} Trial {trial_id} not in the aggregation results.")
+				agg_score = 0
+			else:
+				agg_score = get_agg_score(agg_results[patient_id][trial_id])
+
+			trial_score = matching_score + agg_score
+			
+			trial2score[trial_id] = trial_score
+
+	sorted_trial2score = sorted(trial2score.items(), key=lambda x: -x[1])
 	
-	# loop over the patients
-	for patient_id, label2trial2results in matching_results.items():
+	print()
+	print(f"Patient ID: {patient_id}")
+	print("Clinical trial ranking:")
+	
+	for trial, score in sorted_trial2score:
+		print(trial, score)
 
-		trial2score = {}
+	print("===")
+	print()
 
-		for _, trial2results in label2trial2results.items():
-			for trial_id, results in trial2results.items():
-
-				matching_score = get_matching_score(results)
-				
-				if patient_id not in agg_results or trial_id not in agg_results[patient_id]:
-					print(f"Patient {patient_id} Trial {trial_id} not in the aggregation results.")
-					agg_score = 0
-				else:
-					agg_score = get_agg_score(agg_results[patient_id][trial_id])
-
-				trial_score = matching_score + agg_score
-				
-				trial2score[trial_id] = trial_score
-
-		sorted_trial2score = sorted(trial2score.items(), key=lambda x: -x[1])
-		
-		print()
-		print(f"Patient ID: {patient_id}")
-		print("Clinical trial ranking:")
-		
-		for trial, score in sorted_trial2score:
-			print(trial, score)
-
-		print("===")
-		print()
+# %%

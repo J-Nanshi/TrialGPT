@@ -1,0 +1,976 @@
+{
+    "P_NCT02872025": {
+        "0": {},
+        "1": {},
+        "2": {
+            "NCT02872025": {
+                "inclusion": {
+                    "0": [
+                        "The patient plans to participate in a clinical trial that involves surgical removal of the lesion, as discussed with her oncologist.",
+                        [
+                            9,
+                            10
+                        ],
+                        "included"
+                    ],
+                    "1": [
+                        "The patient's DCIS is high-grade, hormone receptor-negative, HER2-positive, and larger than 5 cm, meeting at least three high-risk features.",
+                        [
+                            0,
+                            1
+                        ],
+                        "included"
+                    ],
+                    "2": [
+                        "The patient has no history of tamoxifen or aromatase inhibitors use.",
+                        [
+                            3
+                        ],
+                        "included"
+                    ],
+                    "3": [
+                        "The patient expressed interest in the study and will provide informed consent.",
+                        [
+                            11,
+                            12
+                        ],
+                        "included"
+                    ],
+                    "4": [
+                        "The patient is 42 years old.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "5": [
+                        "The patient has an ECOG performance status of 0.",
+                        [
+                            4
+                        ],
+                        "included"
+                    ],
+                    "6": [
+                        "The patient has normal organ function based on recent tests, but specific lab values are not provided.",
+                        [
+                            4
+                        ],
+                        "not enough information"
+                    ],
+                    "7": [
+                        "No information on the timing of the screening labs relative to treatment initiation.",
+                        [],
+                        "not enough information"
+                    ],
+                    "8": [
+                        "No specific hematological values provided.",
+                        [],
+                        "not enough information"
+                    ],
+                    "9": [
+                        "No specific renal function values provided.",
+                        [],
+                        "not enough information"
+                    ],
+                    "10": [
+                        "No specific hepatic function values provided.",
+                        [],
+                        "not enough information"
+                    ],
+                    "11": [
+                        "No specific coagulation values provided.",
+                        [],
+                        "not enough information"
+                    ],
+                    "12": [
+                        "The patient is not pregnant as per the note.",
+                        [
+                            5
+                        ],
+                        "included"
+                    ],
+                    "13": [
+                        "The patient agreed to use appropriate contraception methods.",
+                        [
+                            5
+                        ],
+                        "included"
+                    ],
+                    "14": [
+                        "The patient is not pregnant or breastfeeding.",
+                        [
+                            5
+                        ],
+                        "included"
+                    ],
+                    "15": [
+                        "The patient is a woman of childbearing potential and has agreed to follow contraceptive guidance.",
+                        [
+                            5
+                        ],
+                        "included"
+                    ],
+                    "16": [
+                        "The patient is a woman of childbearing potential and has agreed to follow contraceptive guidance.",
+                        [
+                            5
+                        ],
+                        "included"
+                    ],
+                    "17": [
+                        "This criterion applies to male participants and is not applicable to the patient.",
+                        [],
+                        "not applicable"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "Sarah has not participated in any other clinical trials or received investigational treatments in the past four weeks, as stated in the note.",
+                        [
+                            6
+                        ],
+                        "not excluded"
+                    ],
+                    "1": [
+                        "Sarah does not have a diagnosis of immunodeficiency, and there is no mention of her receiving systemic steroids or immunosuppressive therapy.",
+                        [
+                            7
+                        ],
+                        "not excluded"
+                    ],
+                    "2": [
+                        "The patient note indicates that Sarah's oncologist discussed surgical treatment options, implying her interest in surgical treatment.",
+                        [
+                            9
+                        ],
+                        "not excluded"
+                    ],
+                    "3": [
+                        "Sarah was diagnosed with high-grade DCIS, which is non-invasive, and there is no mention of any invasive component.",
+                        [
+                            0
+                        ],
+                        "not excluded"
+                    ],
+                    "4": [
+                        "There is no mention of a history of active Bacillus Tuberculosis in the patient note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "5": [
+                        "There is no information in the patient note about hypersensitivity to pembrolizumab or its excipients.",
+                        [],
+                        "not enough information"
+                    ],
+                    "6": [
+                        "Sarah has no history of other malignancies requiring active treatment, as stated in the note.",
+                        [
+                            2
+                        ],
+                        "not excluded"
+                    ],
+                    "7": [
+                        "There is no mention of Sarah having an active autoimmune disease or receiving systemic treatment for such in the past 2 years.",
+                        [
+                            2
+                        ],
+                        "not excluded"
+                    ],
+                    "8": [
+                        "There is no mention of a history of pneumonitis in Sarah's medical history.",
+                        [],
+                        "not excluded"
+                    ],
+                    "9": [
+                        "There is no evidence in the patient note of any condition or therapy that might confound the results of the trial or interfere with participation.",
+                        [],
+                        "not enough information"
+                    ],
+                    "10": [
+                        "There is no mention of known psychiatric or substance abuse disorders in Sarah's medical history.",
+                        [],
+                        "not excluded"
+                    ],
+                    "11": [
+                        "Sarah is not pregnant or breastfeeding, and she agreed to use appropriate contraception methods.",
+                        [
+                            5
+                        ],
+                        "not excluded"
+                    ],
+                    "12": [
+                        "Sarah's hepatitis B and C tests were negative, and she had no history of HIV infection.",
+                        [
+                            8
+                        ],
+                        "not excluded"
+                    ],
+                    "13": [
+                        "Sarah's hepatitis B and C tests were negative.",
+                        [
+                            8
+                        ],
+                        "not excluded"
+                    ],
+                    "14": [
+                        "Sarah has not received any live vaccines in the past 30 days.",
+                        [
+                            7
+                        ],
+                        "not excluded"
+                    ]
+                }
+            },
+            "NCT04046159": {
+                "inclusion": {
+                    "0": [
+                        "The patient is identified as a woman in the note.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "1": [
+                        "The patient was recently diagnosed with high-grade ductal carcinoma in situ (DCIS) of the breast.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "2": [
+                        "The patient is 42 years old.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "3": [
+                        "There is no information provided about the Manchester Score for BRCA1 and BRCA2 in the patient note.",
+                        [],
+                        "not enough information"
+                    ],
+                    "4": [
+                        "The patient's DCIS was not described as detected by mammogram, unicentric, and no-mass lesion in the note.",
+                        [],
+                        "not included"
+                    ],
+                    "5": [
+                        "There is no mention of breast conserving surgery having been performed.",
+                        [],
+                        "not included"
+                    ],
+                    "6": [
+                        "The patient's tumor measures 6 cm, which exceeds the criterion of lesions being \u2264 2.5 cm.",
+                        [
+                            1
+                        ],
+                        "not included"
+                    ],
+                    "7.1": [
+                        "The patient's tumor measures 6 cm, which exceeds the criterion of lesions being \u2264 2.5 cm.",
+                        [
+                            1
+                        ],
+                        "not included"
+                    ],
+                    "7.2": [
+                        "The patient has high-grade DCIS, which does not meet the criterion of low or intermediate grade without comedo necrosis.",
+                        [
+                            0
+                        ],
+                        "not included"
+                    ],
+                    "7.3": [
+                        "There is no information about margins assessed by the ink method in the patient note.",
+                        [],
+                        "not enough information"
+                    ],
+                    "7.4": [
+                        "The patient's tumor is hormone receptor-negative, which does not meet the criterion of being ER-positive with ER percentage \u226510%.",
+                        [
+                            1
+                        ],
+                        "not included"
+                    ],
+                    "8": [
+                        "There is no information about the clinical node status in the patient note.",
+                        [],
+                        "not enough information"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "No mention of BRCA1 or BRCA2 mutation in the patient note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "1": [
+                        "Patient is 42 years old, which is above the age limit of 40 years.",
+                        [
+                            0
+                        ],
+                        "not excluded"
+                    ],
+                    "2": [
+                        "No mention of DCIS being palpable, multi-centric, having a mass, or bloody nipple discharge in the patient note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "3": [
+                        "The lesion is described as measuring approximately 6 cm, which exceeds the 2.5 cm limit.",
+                        [
+                            1
+                        ],
+                        "excluded"
+                    ],
+                    "4": [
+                        "The patient's DCIS is described as high-grade, which meets the exclusion criterion of high-grade lesions.",
+                        [
+                            0
+                        ],
+                        "excluded"
+                    ],
+                    "5": [
+                        "No information on margins assessed by the ink method or ER-positive percentage in the patient note.",
+                        [],
+                        "not enough information"
+                    ],
+                    "6": [
+                        "No history of mastectomy mentioned in the patient note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "7": [
+                        "Patient has no history of other malignancies as mentioned.",
+                        [
+                            2
+                        ],
+                        "not excluded"
+                    ],
+                    "8": [
+                        "No evidence of clinically significant cardiac disease mentioned in the patient note.",
+                        [],
+                        "not excluded"
+                    ],
+                    "9": [
+                        "Patient is not pregnant or lactating as explicitly stated.",
+                        [
+                            5
+                        ],
+                        "not excluded"
+                    ]
+                }
+            },
+            "NCT04666961": {
+                "inclusion": {
+                    "0": [
+                        "Sarah is 42 years old, which meets the age requirement of being 40 years or older.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "1": [
+                        "Sarah was diagnosed with high-grade ductal carcinoma in situ (DCIS), but the note does not specify whether it is without an infiltrating contingent.",
+                        [
+                            0
+                        ],
+                        "not enough information"
+                    ],
+                    "2": [
+                        "There is no information in the patient note regarding the clinical TNM classification.",
+                        [],
+                        "not enough information"
+                    ],
+                    "3": [
+                        "Sarah's tumor is hormone receptor-negative, which does not meet the criterion of being estrogen receptor positive.",
+                        [
+                            1
+                        ],
+                        "not included"
+                    ],
+                    "4": [
+                        "The note does not mention an indication for mastectomy, only discussing various treatment options including a clinical trial.",
+                        [
+                            9
+                        ],
+                        "not enough information"
+                    ],
+                    "5": [
+                        "There is no mention of an MRI performed with a clip sequence in the patient note.",
+                        [],
+                        "not enough information"
+                    ],
+                    "6": [
+                        "Sarah is not pregnant or breastfeeding and agreed to use appropriate contraception methods.",
+                        [
+                            5
+                        ],
+                        "included"
+                    ],
+                    "7": [
+                        "Sarah expressed interest in the study and will provide informed consent, complying with the trial protocol.",
+                        [
+                            11,
+                            12
+                        ],
+                        "included"
+                    ],
+                    "8": [
+                        "There is no information provided about Sarah's affiliation with the social security system.",
+                        [],
+                        "not enough information"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "Sarah was diagnosed with high-grade ductal carcinoma in situ (DCIS), not invasive breast carcinoma.",
+                        [
+                            0
+                        ],
+                        "not excluded"
+                    ],
+                    "1": [
+                        "Sarah was diagnosed with ductal carcinoma in situ (DCIS), not lobular carcinoma in situ.",
+                        [
+                            0
+                        ],
+                        "not excluded"
+                    ],
+                    "2": [
+                        "There is no mention of lymph node involvement (pN+ status) in Sarah's diagnosis.",
+                        [],
+                        "not enough information"
+                    ],
+                    "3": [
+                        "The trial is focused on neoadjuvant hormonal therapy for extensive DCIS, not conservative surgery.",
+                        [],
+                        "not applicable"
+                    ],
+                    "4": [
+                        "Sarah's medical history does not mention any contraindications to anastrozole or tamoxifen.",
+                        [
+                            3
+                        ],
+                        "not excluded"
+                    ],
+                    "5": [
+                        "No information on concomitant treatments that may interact with tamoxifen.",
+                        [],
+                        "not enough information"
+                    ],
+                    "6": [
+                        "Sarah's tumor is described as a single lesion, not a multifocal lesion.",
+                        [
+                            1
+                        ],
+                        "not excluded"
+                    ],
+                    "7": [
+                        "No information about contraindications to breast MRI in the patient note.",
+                        [],
+                        "not enough information"
+                    ],
+                    "8": [
+                        "Sarah has no history of homolateral breast cancer.",
+                        [
+                            2
+                        ],
+                        "not excluded"
+                    ],
+                    "9": [
+                        "No mention of ongoing contralateral breast cancer.",
+                        [],
+                        "not enough information"
+                    ],
+                    "10": [
+                        "No mention of known mutations BRCA1 or BRCA2.",
+                        [],
+                        "not enough information"
+                    ],
+                    "11": [
+                        "Sarah has no history of other malignancies.",
+                        [
+                            2
+                        ],
+                        "not excluded"
+                    ],
+                    "12": [
+                        "Sarah is not pregnant or breastfeeding.",
+                        [
+                            5
+                        ],
+                        "not excluded"
+                    ],
+                    "13": [
+                        "No information suggesting Sarah is deprived of liberty or under guardianship or trusteeship.",
+                        [],
+                        "not enough information"
+                    ],
+                    "14": [
+                        "Sarah is willing to comply with the trial protocol and there are no practical issues mentioned.",
+                        [
+                            12
+                        ],
+                        "not excluded"
+                    ]
+                }
+            },
+            "NCT04307147": {
+                "inclusion": {
+                    "0": [
+                        "Sarah is 42 years old, which falls within the age range of 18 to 70 years required by the trial.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "1": [
+                        "Sarah has been diagnosed with high-grade ductal carcinoma in situ (DCIS), which is a type of invasive ductal carcinoma.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "2": [
+                        "The patient note does not specify the WHO histological type of the carcinoma, so it is unclear if it matches the trial's requirement.",
+                        [],
+                        "not enough information"
+                    ],
+                    "3": [
+                        "The patient note does not provide information about the clinical staging of the tumor before any treatment, which is necessary to determine eligibility.",
+                        [],
+                        "not enough information"
+                    ],
+                    "4": [
+                        "Sarah's note does not mention receiving neoadjuvant chemotherapy, which is a requirement for this trial.",
+                        [],
+                        "not included"
+                    ],
+                    "5": [
+                        "Sarah's tumor is hormone receptor-negative and HER2-positive, which does not meet the Luminal B definition required by the trial (positive estrogen/progesterone receptors, negative HER2).",
+                        [
+                            1
+                        ],
+                        "not included"
+                    ],
+                    "6": [
+                        "There is no mention of distant metastasis in the patient note, implying M0 status.",
+                        [],
+                        "included"
+                    ],
+                    "7": [
+                        "There is no mention of peripheral neuropathy or neurotoxicity in the patient's note.",
+                        [],
+                        "included"
+                    ],
+                    "8": [
+                        "Sarah has an ECOG performance status of 0, which meets the trial requirement of \u22641.",
+                        [
+                            4
+                        ],
+                        "included"
+                    ],
+                    "9": [
+                        "The patient note does not mention any surgery related to the current diagnosis, so it is unclear if she has recovered from any such procedure.",
+                        [],
+                        "not enough information"
+                    ],
+                    "10": [
+                        "The patient note mentions normal organ function but does not provide specific blood count values needed to determine eligibility.",
+                        [
+                            4
+                        ],
+                        "not enough information"
+                    ],
+                    "11": [
+                        "The patient note mentions normal organ function but does not provide specific liver function test values.",
+                        [
+                            4
+                        ],
+                        "not enough information"
+                    ],
+                    "12": [
+                        "The patient note mentions normal organ function but does not provide specific renal function values.",
+                        [
+                            4
+                        ],
+                        "not enough information"
+                    ],
+                    "13": [
+                        "Sarah is not pregnant or breastfeeding and agreed to use appropriate contraception methods.",
+                        [
+                            5
+                        ],
+                        "included"
+                    ],
+                    "14": [
+                        "The patient note does not provide information about cardiac function or LVEF values.",
+                        [],
+                        "not enough information"
+                    ],
+                    "15": [
+                        "Sarah expressed interest in participating in a clinical trial and will provide informed consent.",
+                        [
+                            11,
+                            12
+                        ],
+                        "included"
+                    ],
+                    "16": [
+                        "The patient note does not mention any serious organ disease history.",
+                        [],
+                        "included"
+                    ],
+                    "17": [
+                        "Sarah expressed willingness to comply with the trial protocol, indicating good compliance.",
+                        [
+                            12
+                        ],
+                        "included"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "The patient has been diagnosed with high-grade ductal carcinoma in situ (DCIS) of the breast, which is explicitly mentioned as an exclusion criterion.",
+                        [
+                            0
+                        ],
+                        "excluded"
+                    ],
+                    "1": [
+                        "There is no mention of metastasis in the patient note, and the only tumor described is localized and not metastatic.",
+                        [],
+                        "not excluded"
+                    ],
+                    "2": [
+                        "There is no information suggesting clinical or imaging suspicion of malignancy in the contralateral breast.",
+                        [],
+                        "not excluded"
+                    ],
+                    "3": [
+                        "The patient has no history of other malignancies except for the current diagnosis of DCIS, which is not considered under this criterion as it excludes DCIS of the cervix.",
+                        [
+                            2
+                        ],
+                        "not excluded"
+                    ],
+                    "4": [
+                        "The patient has not participated in any other clinical trials recently, as stated in the note.",
+                        [
+                            6
+                        ],
+                        "not excluded"
+                    ],
+                    "5": [
+                        "The patient has normal organ function and an ECOG performance status of 0, indicating no severe systemic illnesses or uncontrolled infections.",
+                        [
+                            4
+                        ],
+                        "not excluded"
+                    ],
+                    "6": [
+                        "There is no mention of any severe cardio-cerebrovascular disorders in the patient's history.",
+                        [],
+                        "not excluded"
+                    ],
+                    "7": [
+                        "The patient is not pregnant or breastfeeding, as explicitly stated in the note.",
+                        [
+                            5
+                        ],
+                        "not excluded"
+                    ],
+                    "8": [
+                        "The patient agreed to use appropriate contraception methods, as stated in the note.",
+                        [
+                            5
+                        ],
+                        "not excluded"
+                    ],
+                    "9": [
+                        "The patient is capable of understanding the trial protocols and has expressed interest in participating, indicating no mental illness or cognitive impairment that would prevent understanding or compliance.",
+                        [
+                            11,
+                            12
+                        ],
+                        "not excluded"
+                    ],
+                    "10": [
+                        "There is no information suggesting that the patient lacks personal freedom or independent civil capacity.",
+                        [],
+                        "not excluded"
+                    ]
+                }
+            },
+            "NCT04790305": {
+                "inclusion": {
+                    "0": [
+                        "The patient is 42 years old, which falls within the age range of 18 to 70 years specified by the criterion.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "1": [
+                        "The patient has been diagnosed with high-grade ductal carcinoma in situ (DCIS), which does not meet the criterion of invasive ductal carcinoma.",
+                        [
+                            0
+                        ],
+                        "not included"
+                    ],
+                    "2": [
+                        "The patient's tumor is hormone receptor-negative and HER2-positive, which does not meet the triple-negative breast cancer requirement (lacking estrogen, progesterone, and HER2 receptors).",
+                        [
+                            1
+                        ],
+                        "not included"
+                    ],
+                    "3": [
+                        "There is no information provided about regional lymph node metastasis or tumor response after neoadjuvant therapy in the patient's note.",
+                        [],
+                        "not enough information"
+                    ],
+                    "4": [
+                        "There is no mention of local recurrence or distant metastasis, which typically would be noted if present; thus, it can be inferred that there is no local recurrence or distant metastasis.",
+                        [],
+                        "included"
+                    ],
+                    "5": [
+                        "The patient has not undergone surgery as per the note, so the criterion regarding timing post-surgery does not apply.",
+                        [],
+                        "not applicable"
+                    ],
+                    "6": [
+                        "The patient has an ECOG performance status of 0, which meets the criterion of ECOG PS \u2264 1.",
+                        [
+                            4
+                        ],
+                        "included"
+                    ],
+                    "7": [
+                        "The patient has normal organ function based on recent laboratory tests, which likely includes hepatic and renal function within normal limits.",
+                        [
+                            4
+                        ],
+                        "included"
+                    ],
+                    "8": [
+                        "There is no specific information about neutrophil count, platelet count, or hemoglobin concentration, but normal organ function was mentioned. However, without specific values, this criterion cannot be fully assessed.",
+                        [
+                            4
+                        ],
+                        "not enough information"
+                    ],
+                    "9": [
+                        "The patient expressed interest in participating in a clinical trial and is willing to provide informed consent, which meets the criterion of volunteering with good compliance and signing an informed consent form.",
+                        [
+                            11,
+                            12
+                        ],
+                        "included"
+                    ]
+                },
+                "exclusion": {
+                    "0": [
+                        "Sarah was diagnosed with high-grade ductal carcinoma in situ (DCIS) of the breast, which is not bilateral breast cancer.",
+                        [],
+                        "not excluded"
+                    ],
+                    "1": [
+                        "Sarah's medical history is unremarkable with normal organ function and no history of severe cardiopathy, hepatopathy, nephropathy, or endocrine system diseases.",
+                        [
+                            3,
+                            4
+                        ],
+                        "not excluded"
+                    ],
+                    "2": [
+                        "Sarah has no history of other malignancies except for her current diagnosis of DCIS.",
+                        [
+                            2
+                        ],
+                        "not excluded"
+                    ],
+                    "3": [
+                        "There is no information in the patient note indicating that Sarah is allergic to Huaier granule.",
+                        [],
+                        "not enough information"
+                    ],
+                    "4": [
+                        "Sarah is not pregnant or breastfeeding, and there is no indication that she plans a pregnancy during the study period.",
+                        [
+                            5
+                        ],
+                        "not excluded"
+                    ],
+                    "5": [
+                        "Sarah has not participated in any other clinical trials or received investigational treatments in the past four weeks.",
+                        [
+                            6
+                        ],
+                        "not excluded"
+                    ],
+                    "6": [
+                        "Sarah is willing to comply with the trial protocol and there are no indications of poor compliance or other reasons that would make her inappropriate for the study.",
+                        [
+                            12
+                        ],
+                        "not excluded"
+                    ]
+                }
+            },
+            "NCT00671476": {
+                "inclusion": {
+                    "0": [
+                        "The patient was diagnosed with high-grade ductal carcinoma in situ (DCIS) of the breast, which matches the criterion.",
+                        [
+                            0
+                        ],
+                        "included"
+                    ],
+                    "1": [
+                        "The patient note does not mention any invasive or microinvasive disease, which suggests compliance with this criterion.",
+                        [],
+                        "included"
+                    ],
+                    "2": [
+                        "There is no information about the extent of mammographic microcalcifications in the patient note.",
+                        [],
+                        "not enough information"
+                    ],
+                    "3": [
+                        "The patient's tumor is hormone receptor-negative, which is not specified as an exclusion criterion.",
+                        [
+                            1
+                        ],
+                        "included"
+                    ],
+                    "4": [
+                        "Menopausal status is not mentioned in the patient note, but this criterion does not specify a required status.",
+                        [],
+                        "included"
+                    ],
+                    "5": [
+                        "The patient is able to undergo surgery as discussed by her oncologist regarding treatment options.",
+                        [
+                            9
+                        ],
+                        "included"
+                    ],
+                    "6": [
+                        "The patient is not pregnant as explicitly stated in the note.",
+                        [
+                            5
+                        ],
+                        "included"
+                    ],
+                    "7": [
+                        "The patient has not had prior surgery or radiotherapy to the recently diagnosed breast as per the patient note.",
+                        [
+                            3
+                        ],
+                        "included"
+                    ],
+                    "8": [
+                        "The patient has not received chemotherapy in the past, as there is no mention of such treatment in her medical history.",
+                        [
+                            3
+                        ],
+                        "included"
+                    ],
+                    "9": [
+                        "There is no mention of prior subareolar breast surgery in the patient note.",
+                        [],
+                        "included"
+                    ],
+                    "10": [
+                        "The patient is not currently involved in any other clinical trials or research protocols for unapproved new drugs, as stated.",
+                        [
+                            6
+                        ],
+                        "included"
+                    ]
+                },
+                "exclusion": {
+                    "1": [
+                        "The patient is a 42-year-old woman, which meets the typical age range for breast cancer clinical trials. There is no indication that age would be a disqualifying factor.",
+                        [],
+                        "not excluded"
+                    ],
+                    "2": [
+                        "The patient has been diagnosed with high-grade ductal carcinoma in situ (DCIS) of the breast, which is the target disease for this trial.",
+                        [
+                            0
+                        ],
+                        "not excluded"
+                    ],
+                    "3": [
+                        "The patient's tumor is hormone receptor-negative and HER2-positive. The exclusion criteria specifically disqualify patients with hormone receptor-positive tumors, which does not apply to her.",
+                        [
+                            1
+                        ],
+                        "not excluded"
+                    ],
+                    "4": [
+                        "The patient has no history of other malignancies or autoimmune diseases, as explicitly stated in the note.",
+                        [
+                            2
+                        ],
+                        "not excluded"
+                    ],
+                    "5": [
+                        "The patient has not used tamoxifen or aromatase inhibitors, which is confirmed in the patient note.",
+                        [
+                            3
+                        ],
+                        "not excluded"
+                    ],
+                    "6": [
+                        "The patient's ECOG performance status is 0, indicating full activity. The exclusion criterion specifies an ECOG performance status greater than 2.",
+                        [
+                            4
+                        ],
+                        "not excluded"
+                    ],
+                    "7": [
+                        "The patient is not pregnant or breastfeeding, and agrees to use contraception, as stated in the note.",
+                        [
+                            5
+                        ],
+                        "not excluded"
+                    ],
+                    "8": [
+                        "The patient has not participated in any other clinical trials or received investigational treatments in the past four weeks, which aligns with the exclusion criteria.",
+                        [
+                            6
+                        ],
+                        "not excluded"
+                    ],
+                    "9": [
+                        "The patient does not have any known immunodeficiency, and has not received any live vaccines in the past 30 days, as per the patient note.",
+                        [
+                            7
+                        ],
+                        "not excluded"
+                    ],
+                    "10": [
+                        "The patient's tests for hepatitis B and C are negative, and there is no history of HIV infection, which meets the trial's requirements.",
+                        [
+                            8
+                        ],
+                        "not excluded"
+                    ],
+                    "11": [
+                        "The patient has expressed interest in participating in a clinical trial and is willing to comply with the trial protocol, which is a positive indication of her willingness and ability to participate.",
+                        [
+                            11,
+                            12
+                        ],
+                        "not excluded"
+                    ]
+                }
+            }
+        }
+    }
+}

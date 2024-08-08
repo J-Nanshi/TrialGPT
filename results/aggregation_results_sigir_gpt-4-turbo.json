@@ -1,0 +1,10 @@
+{
+    "sigir-20141": {
+        "NCT00373828": {
+            "relevance_explanation": "The patient presents with acute chest pain, which is a primary focus of the clinical trial aimed at evaluating non-cardiac chest pain. The patient's symptoms and conditions align well with the study's target of diagnosing chest pain potentially originating from the musculoskeletal system. However, there is uncertainty regarding the exact nature of her chest pain and whether it fits the specific criteria of musculoskeletal origin as required by the trial.",
+            "relevance_score_R": 80,
+            "eligibility_explanation": "The patient meets one inclusion criterion clearly (acute chest pain within 7 days) and is not excluded by any of the exclusion criteria. However, there is insufficient information to confirm her eligibility against other inclusion criteria, such as the exact nature of the chest pain and whether it is non-cardiac as required by the trial. This uncertainty in meeting all inclusion criteria while not being excluded by any exclusion criteria results in a moderate positive eligibility score.",
+            "eligibility_score_E": 40
+        }
+    }
+}
