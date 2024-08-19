@@ -1,0 +1,22 @@
+{
+    "brief_title": "Autologous Hematopoietic Stem Cell Transplantation as Adjuvant Treatment for Triple Negative Breast Cancer Patients",
+    "phase": "Phase 2",
+    "drugs": "['Carmustine', 'Cyclophosphamide', 'Carboplatin', 'Autologous Hematopoietic Stem Cell Transplantation', 'Busulfan']",
+    "drugs_list": [
+        "Carmustine",
+        "Cyclophosphamide",
+        "Carboplatin",
+        "Autologous Hematopoietic Stem Cell Transplantation",
+        "Busulfan"
+    ],
+    "diseases": "['Triple-Negative Invasive Breast Carcinoma', 'Residual Tumor']",
+    "diseases_list": [
+        "Triple-Negative Invasive Breast Carcinoma",
+        "Residual Tumor"
+    ],
+    "enrollment": "20.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Triple Negative Breast Cancer diagnosis (no expression of hormonal receptors or Her2/neu) \n\n Previous administration of neoadjuvant chemotherapy (60 days maximum) \n\n No evidence of metastatic disease at inclusion \n\n Residual tumor in the breast and/or lymph nodes \n\n Normal renal, liver, heart, lung, and hematopoietic function \n\n ",
+    "exclusion_criteria": ": \n\n Pregnancy \n\n Disease progression during neoadjuvant therapy \n\n Other tumors \n\n Non triple negative breast cancer diagnosis \n\n Pathological Complete Response achieved",
+    "brief_summary": "Triple-negative breast cancer (TNBC) refers to any breast cancer that does not express estrogen receptor (ER), progesterone receptor (PR) or Her2/neu. Its incidence is approximately 180,000 cases per year. TNBC are known to be more aggressive with poor prognosis specially when no pathologic complete response (pCR) is achieved after neoadjuvant chemotherapy, with a higher risk of recurrence and a poor survival once that recurrence occurs. On the other hand, there is not a specific adjuvant or neoadjuvant treatment for these patients. Since autologous hematopoietic stem cell transplantation (HSCT) allows the usage of higher doses of chemotherapy, which results in higher cellular destruction with a decrease of hematological toxicity, it is proposed that this procedure is able to improve prognosis in TNBC patients with no pathologic complete response after neoadjuvant chemotherapy.",
+    "NCT_ID": "NCT02670109"
+}

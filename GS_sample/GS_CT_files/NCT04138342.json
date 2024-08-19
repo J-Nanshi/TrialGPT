@@ -1,0 +1,20 @@
+{
+    "brief_title": "Topical Fluorescent Nanoparticles Conjugated Somatostatin Analog for Suppression and Bioimaging Breast Cancer",
+    "phase": "Phase 1",
+    "drugs": "['Quantum dots coated with veldoreotide', 'Topical approved placebo']",
+    "drugs_list": [
+        "Quantum dots coated with veldoreotide",
+        "Topical approved placebo"
+    ],
+    "diseases": "['Breast Cancer', 'Skin Cancer', 'Skin Diseases']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Skin Cancer",
+        "Skin Diseases"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women, 25 to 60 years old. \n\n Breast biopsy within 60 days of registration (dosing) without proof of aggressive cancer in any specimen; \n\n Invasive breast cancer verified by histology of ER \u2265 10% (all test results should be checked and validated by the Pathology Department of the involved institution); \n\n Participants performed traditional regional radical therapy (modified or moderate radical mastectomy) with or without neoadjuvant/adjuvant chemotherapy or radiotherapy; \n\n Hemoglobin \u2265 90 g / L, neutrophils \u2265 1.5 \u00d7 109/L, platelets \u2265 75 \u00d7 109/L, AST and ALT \u2264 2.5 times the upper limit for natural (ULN), creatinine serum and urea nitrogen \u2264 ULN. \n\n ",
+    "exclusion_criteria": ": \n\n Patients have previously received any other treatment or have begun adjuvant therapy. \n\n There are any comorbidities that may increase the level of sex hormones: pituitary adenomas, ovarian cancers, thymic carcinomas, etc. \n\n There are any comorbidities that may decrease sex hormone rates such as hyperthyroidism, hypothyroidism, cirrhosis, extreme obesity, Turner syndrome, lack of sex hormone synthetase, intracranial tumors, pituitary atrophy, etc. Patients have undergone and expected suppression of ovariectomy and ovarian activity. \n\n Patients have been diagnosed with other test drugs for the next 2 months. \n\n People of child-bearing age who are not willing to take effective contraception through therapy. Serious non-maligned tumor comorbidities can impair long-term follow-up. \n\n Patients have a family history of endometrial, reproductive or other gynecological malignancies. Transvaginal testing indicated more severe ovary defects and endometrial thickening. \n\n Patients had thrombotic incidents such as a cerebrovascular injury (including a transient ischemic attack), deep venous thrombosis, and pulmonary embolism within 6 months of the start of the research. \n\n Serious insufficiency of the liver with Child-Pugh C class. Serious heart disease of New York Heart Association (NYHA) class \u2265III. Patients are considered to be severely allergic to medications. \n\n Patients have a record of other malignancies over the last five years, with the exception of cutaneous basal cell carcinoma and cervical in situ carcinoma that has been healed. In other instances, investigators do not feel the topics are acceptable for study participants. \n\n Pregnant or lactating women (women of childbearing age should receive a negative pregnancy test within 14 days of the first dosage or, if pregnant, clinicians are required to undergo an ultrasound review to exclude childbirth).",
+    "brief_summary": "Breast cancer is a communal malignant disease between Saudi females, with a popularity of 21.8%. Since binding to somatostatin receptors (SSTR) induces no immunogenicity in vivo, somatostatin analog (veldoreotide) (VELD) may be suitable for delivering anti-cancer drugs to target and bioimaging the cancer cells. This work aimed to deliver CdS/ZnS core-shell type quantum dots with carboxylic acid-functionalized (QDs-COOH) which is bioimaging and anticancer nanoparticles decorated VELD as SSTR agonist with anti-cancer activity in the form of topical cream to be deposited deep in the breast periphery.",
+    "NCT_ID": "NCT04138342"
+}

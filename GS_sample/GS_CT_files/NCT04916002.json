@@ -1,0 +1,22 @@
+{
+    "brief_title": "A Trial to Find Out if Vidutolimod Together With Cemiplimab is Safe and if it Works in Adult Participants With Advanced Cancer or Metastatic Cancer",
+    "phase": "Phase 2",
+    "drugs": "['vidutolimod', 'cemiplimab']",
+    "drugs_list": [
+        "vidutolimod",
+        "cemiplimab"
+    ],
+    "diseases": "['Triple Negative Breast Cancer', 'Merkel Cell Carcinoma', 'Cutaneous Squamous Cell Carcinoma', 'Basal Cell Carcinoma', 'Non-Small Cell Lung Cancer']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer",
+        "Merkel Cell Carcinoma",
+        "Cutaneous Squamous Cell Carcinoma",
+        "Basal Cell Carcinoma",
+        "Non-Small Cell Lung Cancer"
+    ],
+    "enrollment": "200.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Participants enrolled in the study must meet all of the following inclusion criteria to be eligible. \n\n Histopathologically-confirmed diagnosis of cancer, as defined by the protocol. \n\n Measurable disease, as defined by RECIST v1.1 and as defined in the protocol. \n\n Adequate organ function based on most recent laboratory values within 3 weeks before first dose of study treatment on Week 1 Day 1 (W1D1), as defined in the protocol. \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 to 1 at Screening. \n\n Key ",
+    "exclusion_criteria": ": \n\n Participants presenting with any of the following will not qualify for entry into the study: \n\n Received radiation therapy (or other non-systemic therapy) within 2 weeks before first dose of study treatment on W1D1. Participants should have recovered (i.e. Grade \u2264 1 or at baseline) from radiation-related toxicities. \n\n Received systemic pharmacologic doses of corticosteroids > 10 mg/day prednisone within 30 days before first dose of study treatment on W1D1, as defined in the protocol. \n\n History of immune-mediated AE leading to permanent discontinuation due to prior PD-1-blocking antibody. \n\n Not fully recovered from AEs due to prior treatment (to Grade 1 or less, per Common Terminology Criteria for Adverse Events (CTCAE), with the exception of persistent vitiligo, alopecia, hypothyroidism, diabetes mellitus, and adrenal and/or pituitary insufficiency. \n\n Active pneumonitis or history of noninfectious pneumonitis that required steroids. \n\n Severe uncontrolled medical disease within 12 months of screening, including but not limited to poorly controlled hypertension, unstable angina, myocardial infarction, congestive heart failure (New York Heart Association Class II or greater), pericarditis, cerebrovascular accident, or implanted or continuous use of a pacemaker or defibrillator, or emphysema with FEV1 \u2264 50% predicted. \n\n Known history of immunodeficiency. \n\n Known additional malignancy that is progressing or required active treatment within the past 3 years, as defined in the protocol. \n\n Active autoimmune disease that required systemic treatment in past 2 years; replacement therapy is not considered a form of systemic treatment. \n\n Untreated, symptomatic, or enlarging central nervous system metastases or carcinomatous meningitis (including leptomeningeal metastases from solid tumors). \n\n NOTE: Other protocol defined Inclusion/",
+    "brief_summary": "The goal of this study is to learn if giving cemiplimab and vidutolimod together could be effective in treating advanced cancer. The main questions it aims to answer are:~How many participants' cancers respond to vidutolimod together with cemiplimab?~Is vidutolimod together with cemiplimab safe and well-tolerated?~How well does vidutolimod together with cemiplimab treat participants' cancer?~Participants will receive trial treatment for up to 2 years. 30 days after stopping treatment, participants will have an end of treatment visit. After that visit, the trial staff will continue to follow up with participants about every 3 months, until the trial ends.",
+    "NCT_ID": "NCT04916002"
+}

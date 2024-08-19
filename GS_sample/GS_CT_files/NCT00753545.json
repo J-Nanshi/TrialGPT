@@ -1,0 +1,18 @@
+{
+    "brief_title": "Assessment of Efficacy of AZD2281 in Platinum Sensitive Relapsed Serous Ovarian Cancer",
+    "phase": "Phase 2",
+    "drugs": "['AZD2281', 'matching placebo']",
+    "drugs_list": [
+        "AZD2281",
+        "matching placebo"
+    ],
+    "diseases": "['Ovarian Cancer']",
+    "diseases_list": [
+        "Ovarian Cancer"
+    ],
+    "enrollment": "265.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female patients with histologically diagnosed serous ovarian cancer or recurrent serous ovarian cancer. \n\n Patients must have completed at least 2 previous courses of platinum containing therapy; the patient must have been platinum sensitive to the penultimate chemo regimen. \n\n For the last chemotherapy course prior to enrolment on the study, patients must have demonstrated an objective stable maintained response (partial or complete response) and this response needs to be maintained until completion of chemotherapy. \n\n Patients must be treated on the study within 8 wks of completion of their final dose of the platinum containing regimen. \n\n ",
+    "exclusion_criteria": ": \n\n Previous treatment with PARP inhibitors including AZD2281 \n\n Patients with low grade ovarian carcinoma. \n\n Patients who have had drainage of their ascites during the final 2 cycles of their last chemotherapy regimen prior to enrolment on the study \n\n Patients receiving any chemotherapy, radiotherapy (except for palliative reasons), within 2 weeks from the last dose prior to study entry (or a longer period depending on the defined characteristics of the agents used).",
+    "brief_summary": "The primary purpose of this study to determine if AZD2281 is effective and well tolerated in maintaining the improvement in your cancer after previous platinum-based chemotherapy",
+    "NCT_ID": "NCT00753545"
+}

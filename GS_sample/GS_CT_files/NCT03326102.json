@@ -1,0 +1,18 @@
+{
+    "brief_title": "Oral Paclitaxel Efficacy Safety and PK in Recurrent and Metastatic Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['DHP107', 'IV Paclitaxel']",
+    "drugs_list": [
+        "DHP107",
+        "IV Paclitaxel"
+    ],
+    "diseases": "['Recurrent or Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Recurrent or Metastatic Breast Cancer"
+    ],
+    "enrollment": "72.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Subjects with confirmed diagnosis of recurrent or metastatic breast cancer based on histopathology examination \n\n Subjects with diagnosis of HER2-negative breast cancer that was confirmed by IHC or in situ hybridization (ISH) assessment of tumor samples \n\n Subjects who have received up to 3 lines of therapy for advanced disease, without prior exposure to taxane in the advanced stage setting \n\n Subjects who have a performance status of \u22642 on the Eastern Cooperative Oncology Group (ECOG) scale. \n\n Subjects who have measurable disease according to the Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST version 1.1). \n\n Key ",
+    "exclusion_criteria": ": \n\n Subjects who have received prior taxane therapy in the metastatic setting \n\n Subjects whose adjuvant or neoadjuvant treatment for early stage breast cancer was completed within 6 months prior to entry into the study. \n\n Subjects with neuropathy grade \u22652 based on CTCAE v4.03 at the time of study entry \n\n Subjects with symptomatic, untreated metastases to the central nervous system (CNS) at the time of screening. \n\n Subjects who have received any investigational drugs or devices within 4 weeks before the first day of study treatment (C1D1).",
+    "brief_summary": "The objective of this study is to evaluate the efficacy, safety and pharmacokinetics of DHP107 (Oral Paclitaxel, Korea brand name: Liporaxel\u00ae) compared to IV Paclitaxel in patients with Recurrent or Metastatic Breast Cancer.",
+    "NCT_ID": "NCT03326102"
+}

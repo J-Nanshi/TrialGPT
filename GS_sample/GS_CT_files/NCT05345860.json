@@ -1,0 +1,22 @@
+{
+    "brief_title": "Adopting the MRD Strategy to Optimize Post-operation Adjuvant Therapies for Early Stage Breast Cancer",
+    "phase": "",
+    "drugs": "['The MRD strategy for high risk or MRD+ TNBC patients', 'The MRD strategy for high risk or MRD+ HER2+ patients', 'The MRD strategy for high risk or MRD+ ER+ patients', 'The MRD strategy for low risk and MRD- TNBC patients', 'The MRD strategy for low risk and MRD- HER2+ patients', 'The MRD strategy for low risk and MRD- ER+ patients']",
+    "drugs_list": [
+        "The MRD strategy for high risk or MRD+ TNBC patients",
+        "The MRD strategy for high risk or MRD+ HER2+ patients",
+        "The MRD strategy for high risk or MRD+ ER+ patients",
+        "The MRD strategy for low risk and MRD- TNBC patients",
+        "The MRD strategy for low risk and MRD- HER2+ patients",
+        "The MRD strategy for low risk and MRD- ER+ patients"
+    ],
+    "diseases": "['Early-stage Breast Cancer']",
+    "diseases_list": [
+        "Early-stage Breast Cancer"
+    ],
+    "enrollment": "300.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Subjects aged \u226518 years (inclusive). \n\n Histologically confirmed, perioperative invasive breast cancer that is resectable without metastasis(stage I-III). \n\n No anti-breast cancer systematic therapy received, and planning to receive surgery and systemic therapy. \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0-2. \n\n With Adequate Organ Function: \n\n a. Bone marrow function: Hemoglobin \u2265 10 g/dL; Absolute leucocyte count \u2265 4\u00d710^9/L; Absolute neutrophil count \u2265 1.5\u00d710^9/L; Platelets \u2265 100 \u00d7 10^9/L; b. Liver function (based on the normal values specified by study site): Serum total bilirubin \u2264 1.5 \u00d7 the upper limit of normal (ULN); Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \u2264 2.5 \u00d7 ULN; c. Renal function (based on the normal values specified by study site): Serum creatinine \u2264 1.5 \u00d7 ULN. \n\n The patients voluntarily signed an informed consent form. \n\n ",
+    "exclusion_criteria": ": \n\n Known to have other aggressive malignant tumor that is progressing or requires systemic treatment in the past 5 years (does not exclude subjects with skin basal cell carcinoma, skin squamous cell carcinoma, breast ductal carcinoma in situ or cervical cancer in situ that has received curative treatment). \n\n Have a clear history of neurological or mental disorders, including epilepsy or dementia, etc.; have a history of psychotropic drug abuse or drug abuse. \n\n Known history of allergy to the drug components in MRD strategy; history of immunodeficiency, or history of organ transplantation. \n\n There are other concomitant diseases that seriously threaten the patient's safety or affect the patient's completion of the study, such as serious infection, liver disease, cardiovascular disease, kidney disease, respiratory disease or uncontrolled diabetes or dyslipidemia. \n\n Female patients during pregnancy or lactation. \n\n The investigator determines that subjects are not appropriate to participate in the study due to other factors.",
+    "brief_summary": "This study is a prospective, multi-center, open-label cohort study, with 3 years disease free survival(DFS) as the primary endpoint. We optimize post-operation adjuvant therapy for early stage breast cancer based on the MRD strategy: patients with clinical high risk or post-operation 1st MRD tested positive will receive intensive adjuvant therapy, while patients with low clinical risk and post-operation 1st MRD tested negative will receive standard adjuvant therapy, and the treatment regimens will be adjusted every 3 months according to the change of MRD status. About 100 TNBC patients, 100 HER2+ patients, and 100 ER+ patients are planned to be enrolled.",
+    "NCT_ID": "NCT05345860"
+}

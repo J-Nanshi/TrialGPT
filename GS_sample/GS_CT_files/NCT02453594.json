@@ -1,0 +1,17 @@
+{
+    "brief_title": "Study of Pembrolizumab (MK-3475) in Participants With Relapsed or Refractory Classical Hodgkin Lymphoma (MK-3475-087/KEYNOTE-087)",
+    "phase": "Phase 2",
+    "drugs": "['pembrolizumab']",
+    "drugs_list": [
+        "pembrolizumab"
+    ],
+    "diseases": "['Hodgkin Lymphoma']",
+    "diseases_list": [
+        "Hodgkin Lymphoma"
+    ],
+    "enrollment": "211.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Relapsed or refractory de novo classical Hodgkin lymphoma \n\n Participant may have failed to achieve a response to, progressed after, or be ineligible for autologous stem cell transplant (auto-SCT) \n\n Participant may have failed to achieve a response or progressed after treatment with brentuximab vedotin or may be brentuximab vedotin na\u00efve \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 \n\n Measurable disease \n\n Adequate organ function \n\n ",
+    "exclusion_criteria": ": \n\n Diagnosis of immunosuppression or receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of study medication \n\n Prior monoclonal antibody within 4 weeks prior to study Day 1 or chemotherapy, targeted small molecular therapy, or radiation therapy within 2 weeks prior to study Day 1 \n\n Prior allogeneic hematopoietic stem cell transplantation \n\n Known clinically active central nervous system involvement \n\n Known additional malignancy that is progressing or requires active treatment \n\n Has a known history of Human Immunodeficiency Virus (HIV) \n\n Has known active Hepatitis B (HBV) or Hepatitis C (HCV) \n\n Active autoimmune disease requiring systemic treatment in past 2 years \n\n Has a history of (non-infectious) pneumonitis that required steroids, or current pneumonitis",
+    "brief_summary": "This is a study of pembrolizumab (MK-3475) for participants with relapsed/refractory classical Hodgkin Lymphoma (RRcHL) who: 1) have failed to achieve a response or progressed after autologous stem cell transplant (auto-SCT) and have relapsed after treatment with or failed to respond to brentuximab vedotin (BV) post auto-SCT or 2) were unable to achieve a Complete Response (CR) or Partial Response (PR) to salvage chemotherapy and did not receive auto-SCT, but have relapsed after treatment with or failed to respond to BV or 3) have failed to achieve a response to or progressed after auto-SCT and have not received BV post auto-SCT.~The primary study hypothesis is that treatment with single agent pembrolizumab will result in a clinically meaningful overall response rate.",
+    "NCT_ID": "NCT02453594"
+}

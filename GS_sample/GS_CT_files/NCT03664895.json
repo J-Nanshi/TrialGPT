@@ -1,0 +1,17 @@
+{
+    "brief_title": "Density Lowering Effect of OFS Add on to TMX(DELFINO Trial)",
+    "phase": "Phase 3",
+    "drugs": "['Leuplin or zoladex']",
+    "drugs_list": [
+        "Leuplin or zoladex"
+    ],
+    "diseases": "['Breast Cancer Invasive']",
+    "diseases_list": [
+        "Breast Cancer Invasive"
+    ],
+    "enrollment": "224.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Premenopausal women, ER+ breast cancer, stage I \n\n III, underwent standard treatment including surgery, Planned TMX \n\n available MMG density check via Volpara \n\n ",
+    "exclusion_criteria": ": \n\n Bilateral breast cancer \n\n Prior endocrine therapy \n\n Postmenopausal status \n\n unavailable MMG density check via volpara before and after TMX",
+    "brief_summary": "DELFINO tial is designed to investigate the role of OFS add on to TMX , based on MMG density as a surrogate marker in premenopausal women~Premise - MMG density as a surrogate marker of hormone therapy~Assumption - Add on OFS to TMX would have further decrease of density~3-arm(Observation arm + Randomised 2-arm), phase III, RCT with 1:1 allocation",
+    "NCT_ID": "NCT03664895"
+}

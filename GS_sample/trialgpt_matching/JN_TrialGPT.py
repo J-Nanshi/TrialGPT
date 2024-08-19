@@ -8,15 +8,21 @@ import json
 from nltk.tokenize import sent_tokenize
 import time
 import os
-from openai import OpenAI
+from groq import Groq
+# from openai import OpenAI
 from configparser import ConfigParser
 
-config = ConfigParser() 
-config.read('../secrets.ini')
-os.environ["OPENAI_API_KEY"] = config['OpenAI.Science-vNext-Internal']['api_key']
-client = OpenAI(
+# config = ConfigParser() 
+# config.read('../secrets.ini')
+# os.environ["OPENAI_API_KEY"] = config['OpenAI.Science-vNext-Internal']['api_key']
+# client = OpenAI(
+#     # This is the default and can be omitted
+#     api_key=os.environ.get("OPENAI_API_KEY"),
+# )
+os.environ["GROQ_API_KEY"] = "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"
+client = Groq(
     # This is the default and can be omitted
-    api_key=os.environ.get("OPENAI_API_KEY"),
+    api_key=os.environ.get("GROQ_API_KEY")
 )
 #%%
 def parse_criteria(criteria):
@@ -91,7 +97,7 @@ def get_matching_prompt(
 	return prompt, user_prompt
 
 
-def trialgpt_matching(trial: dict, patient: str, model: str):
+def trialgpt_matching(trial: dict, patient: str):
 	results = {}
 
 	# doing inclusions and exclusions in separate prompts
@@ -102,21 +108,21 @@ def trialgpt_matching(trial: dict, patient: str, model: str):
 			{"role": "system", "content": system_prompt},
 			{"role": "user", "content": user_prompt},
 		]
-
+		# print(message)
 		response = client.chat.completions.create(
-			model=model,
+			model="llama3-8b-8192",
 			messages=messages,
 			temperature=0,
 		)
 		
-		message = response.choices[0].message.content.strip()
-		message = message.strip("`").strip("json")
+		results = response.choices[0].message.content.strip()
+		results = results.strip("`").strip("json")
 		# time.sleep(sleep_duration)
 
 		try:
-			results[inc_exc] = json.loads(message)
+			results[inc_exc] = json.loads(results)
 		except:
-			results[inc_exc] = message
+			results[inc_exc] = results
 		# print(system_prompt, user_prompt)
 
 	return results, system_prompt, user_prompt

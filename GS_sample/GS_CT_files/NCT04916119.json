@@ -1,0 +1,17 @@
+{
+    "brief_title": "Study of IBI323 in Patients With Advanced Malignancies",
+    "phase": "Phase 1",
+    "drugs": "['IBI323']",
+    "drugs_list": [
+        "IBI323"
+    ],
+    "diseases": "['Advanced Malignancies']",
+    "diseases_list": [
+        "Advanced Malignancies"
+    ],
+    "enrollment": "322.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Phase Ia Patients with locally advanced, recurrent or metastatic solid tumors who have failed standard treatment Phase Ib cohort A Patients with IO-refractory advanced NSCLC cohort B Patients with IO-naive advanced NSCLC who have failed standard treatment cohort C Patients with advanced NSCLC who have no prior treatment and PD-L1 TPS\u22651% cohort D Patients with ES-SCLC or G3 neuroendocrine tumors who have failed standard treatment cohort E Patients with advanced MPM who have failed standard treatment cohort F Patients with advanced UC who have failed standard treatment cohort G Patients with advanced nccRCC who have failed standard treatment cohort H Patients with advanced HCC who have failed standard treatment cohort I Patients with advanced NPC who have failed standard treatment cohort J Patients with advanced CC or HNSCC who have failed standard treatment cohort K Patients with advanced GC or GEJC with HER2 negative who have no prior treatment cohort L Patients with advanced TNBC who have failed standard treatment \n\n Able to understand and willing to sign the ICF. \n\n 18 to 75 years old. \n\n Life expectancy at least 12 weeks. \n\n At least 1 measurable lesion per RECIST v1.1. \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1. \n\n Adequate organ and bone marrow functionAdequate organ and bone marrow function. \n\n ",
+    "exclusion_criteria": ": \n\n Prior treatment with any anti- LAG-3 antibody. \n\n Prior immunotherapy treatment for Stage Ia extension cohort ( immunotherapy untreated) and Stage Ib cohort B-L \n\n Any investigational drugs received within 4 weeks prior to the first study treatment. \n\n Receive the last dose of anti-tumor therapy within 4 weeks before the first dose of study therapy. \n\n Symptomatic CNS metastasis. \n\n History of autoimmune disease , present active autoimmune disease or inflammatory diseases \n\n Pregnant or nursing females.",
+    "brief_summary": "The purpose of this study is to evaluate safety, tolerability and efficacy of IBI323(anti-LAG-3/PD-L1) or in combination with chemotherapy in participants with advanced malignancies. Another purpose is to determine the pharmacokinetics,pharmacodynamics and immunogenicity of IBI323",
+    "NCT_ID": "NCT04916119"
+}

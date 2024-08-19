@@ -1,0 +1,21 @@
+{
+    "brief_title": "Neoadjuvant Nab-paclitaxel in Triple-negative or HER2-positive Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Nab-paclitaxel', 'Carboplatin', 'Herceptin']",
+    "drugs_list": [
+        "Nab-paclitaxel",
+        "Carboplatin",
+        "Herceptin"
+    ],
+    "diseases": "['Breast Cancer', 'Triple Negative Breast Cancer', 'HER2-positive Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Triple Negative Breast Cancer",
+        "HER2-positive Breast Cancer"
+    ],
+    "enrollment": "100.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Written informed consent for all study according to local regulatory requirements prior to beginning specific protocol procedures. \n\n Age at diagnosis \u2265 18 years, female. \n\n Histologically confirmed diagnosis of HER2-opsitive or triple-negative breast cancer. ER/PR-negativity is defined as \u22641% stained cells\uff1b HER2-positivity is defined as IHC 3+ or in-situ hybridisation (ISH) ratio >2.0. \n\n cT2-4NanyM0 or cTanyN1-3M0 \n\n ECOG \u2264 1, LVEF \u2265 55%. \n\n Laboratory requirements: for hematology, absolute neutrophil count (ANC) \u2265 1.5 \u00d7 109 / L and platelets \u2265 100 \u00d7 109 / L and hemoglobin \u2265 90 g/L; for hepatic function, total bilirubin \u2264 1.5 \u00d7 UNL, AST and ALT \u2264 2.5 \u00d7 UNL; for renal function, SCr \u2264 1.5 \u00d7 UNL \n\n Patients must be available and compliant for treatment and follow-up. \n\n ",
+    "exclusion_criteria": ": \n\n Prior chemotherapy, endocrine therapy or radiation therapy for any malignancy. \n\n Known or suspected congestive heart failure (> NYHA I) \n\n Currently active infection or severe symptomatic visceral disease. \n\n Definite contraindications for the use of corticosteroids or known hypersensitivity reaction to one of the compounds or incorporated substances used in this protocol \n\n rior malignancy with a disease-free survival of < 5 years, except curatively treated basalioma of the skin, pTis of the cervix uteri. \n\n Participation in another clinical trial with any investigational, not marketed drug within 30 days prior to study entry. \n\n Pregnant or lactating patients. Patients of childbearing potential must implement adequate non-hormonal contraceptive measures (barrier methods, intrauterine contraceptive devices, sterilization) during study treatment.",
+    "brief_summary": "To evaluate the efficacy and safety of nab-paclitaxel combined with carboplatin for Chinese patients with triple-negative and HER2-positive breast cancer in the neoadjuvant setting.",
+    "NCT_ID": "NCT03907800"
+}

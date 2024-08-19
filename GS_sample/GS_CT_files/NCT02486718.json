@@ -1,0 +1,22 @@
+{
+    "brief_title": "Study to Assess Safety and Efficacy of Atezolizumab (MPDL3280A) Compared to Best Supportive Care Following Chemotherapy in Patients With Lung Cancer [IMpower010]",
+    "phase": "Phase 3",
+    "drugs": "['Atezolizumab', 'Cisplatin', 'Vinorelbine', 'Docetaxel', 'Gemcitabine', 'Pemetrexed']",
+    "drugs_list": [
+        "Atezolizumab",
+        "Cisplatin",
+        "Vinorelbine",
+        "Docetaxel",
+        "Gemcitabine",
+        "Pemetrexed"
+    ],
+    "diseases": "['Non-Small Cell Lung Cancer']",
+    "diseases_list": [
+        "Non-Small Cell Lung Cancer"
+    ],
+    "enrollment": "1280.0",
+    "inclusion_criteria": "inclusion criteria: \n\n inclusion criteria for Enrollment Phase \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 \n\n Histological or cytological diagnosis of Stage IB (tumors greater than or equal to [>/=] 4 centimeters [cm])-IIIA (T2-3 N0, T1-3 N1, T1-3 N2, T4 N0-1) NSCLC (per the Union Internationale Contre le Cancer staging system (UICC)/American Joint Committee on Cancer staging system (AJCC) staging system, 7th edition; Detterbeck et al. 2009) \n\n Participants must have had complete resection of NSCLC 4-12 weeks (>/=28 days and less than or equal to [</=] 84 days) prior to enrollment and must be adequately recovered from surgery \n\n If mediastinoscopy was not performed preoperatively, it is required that, at a minimum, mediastinal lymph node systematic sampling will have occurred. Systematic sampling is defined as removal of at least one representative lymph node at specified levels. MLND entails resection of all lymph nodes at those same levels. For a right thoracotomy, sampling or MLND is required at levels 4 and 7 and for a left thoracotomy, levels 5 and/or 6 and 7. Exceptions will be granted if there is clear documentation in the operative report or in a separately submitted addendum by the surgeon of exploration of the required lymph node areas, the participant will be considered eligible if no lymph nodes are found in those areas; if participants have documented N2 disease in one level (per the UICC/AJCC staging system, 7th edition; Detterbeck et al. 2009), not all levels need to be sampled; if the preoperative staging imaging results (contrast computed tomography [CT] and positron emission tomography [PET] scans) do not suggest evidence of disease in the mediastinum, the participant will be considered eligible if N2 nodal sampling is not performed per surgeon's decision \n\n Eligible to receive a cisplatin-based chemotherapy regimen \n\n Adequate hematologic and end-organ function \n\n Women who are not postmenopausal (>/=12 months of non-therapy-induced amenorrhea) or surgically sterile must have a negative serum pregnancy test result within 14 days prior to initiation of cisplatin-based chemotherapy \n\n inclusion criteria for Randomized Phase - Women who are not postmenopausal (>/=12 months of non-therapy-induced amenorrhea) or surgically sterile must have a negative serum pregnancy test result within 14 days prior to initiation of atezolizumab or BSC \n\n ",
+    "exclusion_criteria": ": \n\n ",
+    "brief_summary": "This is a Phase III, global, multicenter, open-label, randomized study to compare the efficacy and safety of 16 cycles (1 cycle duration=21 days) of atezolizumab (MPDL3280A) treatment compared with best supportive care (BSC) in participants with Stage IB-Stage IIIA non-small cell lung cancer (NSCLC) following resection and adjuvant chemotherapy, as measured by disease-free survival (DFS) as assessed by the investigator and overall survival (OS). Participants, after completing up to 4 cycles of adjuvant cisplatin-based chemotherapy, will be randomized in a 1:1 ratio to receive atezolizumab for 16 cycles or BSC.",
+    "NCT_ID": "NCT02486718"
+}

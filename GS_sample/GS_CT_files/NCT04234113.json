@@ -1,0 +1,36 @@
+{
+    "brief_title": "Study of SO-C101 and SO-C101 in Combination With Pembro in Adult Patients With Advanced/Metastatic Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['SO-C101', 'pembrolizumab']",
+    "drugs_list": [
+        "SO-C101",
+        "pembrolizumab"
+    ],
+    "diseases": "['Thyroid', 'Renal Cell Carcinoma', 'Non Small Cell Lung Cancer', 'Small-cell Lung Cancer', 'Bladder Cancer', 'Melanoma', 'Merkel Cell Carcinoma', 'Skin Squamous Cell Carcinoma', 'Microsatellite Instability High', 'Triple Negative Breast Cancer', 'Mesothelioma', 'Thymic Cancer', 'Cervical Cancer', 'Biliary Tract Cancer', 'Hepatocellular Carcinoma', 'Ovarian Cancer', 'Gastric Cancer', 'Head and Neck Squamous Cell Carcinoma', 'Anal Cancer']",
+    "diseases_list": [
+        "Thyroid",
+        "Renal Cell Carcinoma",
+        "Non Small Cell Lung Cancer",
+        "Small-cell Lung Cancer",
+        "Bladder Cancer",
+        "Melanoma",
+        "Merkel Cell Carcinoma",
+        "Skin Squamous Cell Carcinoma",
+        "Microsatellite Instability High",
+        "Triple Negative Breast Cancer",
+        "Mesothelioma",
+        "Thymic Cancer",
+        "Cervical Cancer",
+        "Biliary Tract Cancer",
+        "Hepatocellular Carcinoma",
+        "Ovarian Cancer",
+        "Gastric Cancer",
+        "Head and Neck Squamous Cell Carcinoma",
+        "Anal Cancer"
+    ],
+    "enrollment": "200.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients with selected histologically or cytologically confirmed advanced and/or metastatic solid tumors who are refractory to or intolerant of existing therapies known to provide clinical benefit for their condition. \n\n ECOG performance score 0-1. Patients with ECOG is 2 to be discussed with the sponsor's medical monitor to be agreed for inclusion. \n\n Estimated life expectancy of \u22653 months \n\n Washout periods: 4 weeks for chemotherapy, 4 weeks or 5 half-lives (whichever shorter) for biologic agents including immuno-oncology therapy and 4 weeks from major surgeries, definitive radiotherapy and 2 weeks after palliative radiotherapy \n\n At least one measurable lesion per iRECIST in a non-irradiated port. If in a previously irradiated port, must have demonstrated progression since best response to radiation therapy. \n\n Have fully recovered from previous treatment to grade \u22641 toxicity (excluding alopecia) or have stable grade 2 neuropathy \n\n Adequate organ system function \n\n Negative serum pregnancy test, if woman of child-bearing potential (WOCBP; non-childbearing is defined as greater than one year postmenopausal or surgically sterilized). \n\n Accessible tumor tissue available for fresh biopsy \n\n ",
+    "exclusion_criteria": ": \n\n Key ",
+    "brief_summary": "A multicenter open-label phase 1/1b study to evaluate the safety and preliminary efficacy of SO-C101 as monotherapy and in combination with pembrolizumab in patients with selected advanced/metastatic solid tumors",
+    "NCT_ID": "NCT04234113"
+}

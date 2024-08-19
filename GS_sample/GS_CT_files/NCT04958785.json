@@ -1,0 +1,20 @@
+{
+    "brief_title": "Study of Magrolimab Combination Therapy in Patients With Non-Surgically Removable Locally Advanced or Metastatic Triple-Negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Magrolimab', 'Nab-Paclitaxel', 'Paclitaxel', 'Sacituzumab Govitecan-hziy']",
+    "drugs_list": [
+        "Magrolimab",
+        "Nab-Paclitaxel",
+        "Paclitaxel",
+        "Sacituzumab Govitecan-hziy"
+    ],
+    "diseases": "['Triple-Negative Breast Cancer']",
+    "diseases_list": [
+        "Triple-Negative Breast Cancer"
+    ],
+    "enrollment": "144.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Adequate performance status, hematologic, renal and liver function \n\n Measurable disease per RECIST v1.1 \n\n Cohort 1: Individuals with previously untreated unresectable locally advanced or metastatic TNBC that are considered PD-L1 negative (as determined by an approved test according to local regulations) \n\n Cohort 2: Individuals with unresectable, locally advanced or metastatic TNBC who have received 1 prior line of therapy in the advanced setting (must have been previously treated with a taxane in any setting). Individuals with tumors that are considered positive for PD-L1 expression (as determined by an approved test according to local regulations) must have received an immune checkpoint inhibitor for first-line treatment of locally advanced/metastatic TNBC \n\n Key ",
+    "exclusion_criteria": ": \n\n Positive serum pregnancy test or breastfeeding female \n\n Active CNS disease. Individuals with asymptomatic and stable, treated CNS lesions (radiation and/or surgery and/or other CNS-directed therapy who have not received corticosteroids for at least 4 weeks) are allowed \n\n RBC transfusion dependence, defined as requiring more than 2 units of packed RBC transfusions during the 4-week period prior to screening. Red blood cell transfusions are permitted during the screening period and prior to enrollment to meet the hemoglobin inclusion criteria \n\n History of hemolytic anemia, autoimmune thrombocytopenia, or Evans syndrome in the last 3 months \n\n Prior treatment with CD47 or signal regulatory protein alpha-targeting agents \n\n Known inherited or acquired bleeding disorders \n\n Cohort 1 only: Disease progression within 6 months following neoadjuvant/adjuvant therapy or rapid visceral progression and/or symptomatic disease, where single-agent chemotherapy would not be appropriate. \n\n Cohort 2 only: \n\n Individuals with active chronic inflammatory bowel disease (ulcerative colitis, Crohn disease) and Individuals with a history of bowel obstruction or gastrointestinal perforation within 6 months of enrollment \n\n Individuals who previously received topoisomerase I inhibitors or antibody-drug conjugates containing a topoisomerase inhibitor \n\n High-dose systemic corticosteroids (\u2265 20 mg of prednisone or its equivalent) are not allowed within 2 weeks of Cycle 1 Day 1 \n\n Have not recovered (ie, \u2265 Grade 2 is considered not recovered) from AEs due to a previously administered agent \n\n Note: individuals with any grade neuropathy or alopecia are an exception to this criterion and will qualify for the study \n\n Note: if individuals received major surgery, they must have recovered adequately from the toxicity and/or complications from the intervention prior to starting therapy \n\n Note: Other protocol defined Inclusion/",
+    "brief_summary": "The goals of this clinical study are to learn about the safety, tolerability, dosing and effectiveness of magrolimab in combination with nab-paclitaxel or paclitaxel (cohort 1) or with sacituzumab govitecan-hziy (cohort 2) in patients with non-surgically removable locally advanced or metastatic triple-negative breast cancer.",
+    "NCT_ID": "NCT04958785"
+}

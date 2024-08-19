@@ -1,0 +1,23 @@
+{
+    "brief_title": "A Study of Atezolizumab (MPDL3280A) Compared With a Platinum Agent (Cisplatin or Carboplatin) + (Pemetrexed or Gemcitabine) in Participants With Stage IV Non-Squamous or Squamous Non-Small Cell Lung Cancer (NSCLC) [IMpower110]",
+    "phase": "Phase 3",
+    "drugs": "['Atezolizumab (MPDL3280A) [TECENTRIQ], an engineered anti-PDL1 antibody', 'Carboplatin', 'Cisplatin', 'Gemcitabine', 'Pemetrexed']",
+    "drugs_list": [
+        "Atezolizumab (MPDL3280A) [TECENTRIQ]",
+        "an engineered anti-PDL1 antibody",
+        "Carboplatin",
+        "Cisplatin",
+        "Gemcitabine",
+        "Pemetrexed"
+    ],
+    "diseases": "['Non-Squamous Non-Small Cell Lung Cancer, Squamous Non-Small Cell Lung Cancer']",
+    "diseases_list": [
+        "Non-Squamous Non-Small Cell Lung Cancer",
+        "Squamous Non-Small Cell Lung Cancer"
+    ],
+    "enrollment": "572.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically or cytologically confirmed, Stage IV non-squamous or squamous NSCLC \n\n No prior treatment for Stage IV non-squamous or squamous NSCLC. Participant known to have a sensitizing mutation in the epidermal growth factor receptor (EGFR) gene or an anaplastic lymphoma kinase (ALK) fusion oncogene are excluded from the study \n\n Tumor PD-L1 expression as determined by immunohistochemistry (IHC) assay of archival tumor tissue or tissue obtained at screening \n\n Eastern Cooperative Oncology Group (ECOG) performance status 0 to 1 \n\n Measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST v1.1) \n\n Adequate hematologic and end-organ function \n\n ",
+    "exclusion_criteria": ": \n\n Known sensitizing mutation in the EGFR gene or ALK fusion oncogene \n\n Active or untreated central nervous system (CNS) metastases as determined by Computed Tomography (CT) or magnetic resonance imaging (MRI) evaluation \n\n Malignancies other than NSCLC within 5 years prior to randomization, with the exception of those with a negligible risk of metastasis or death treated with expected curative outcome \n\n Pregnant or lactating women \n\n History of autoimmune disease \n\n History of idiopathic pulmonary fibrosis, organizing pneumonia, drug induced pneumonitis, idiopathic pneumonitis, or evidence of active pneumonitis on screening chest CT scan. History of radiation pneumonitis in the radiation field (fibrosis) is permitted \n\n Positive test for Human Immunodeficiency Virus (HIV) \n\n Active hepatitis B or hepatitis C \n\n Prior treatment with cluster of differentiation (CD) 137 agonists or immune checkpoint blockade therapies, anti PD1, and anti-PD-L1 therapeutic antibody \n\n Severe infection within 4 weeks prior to randomization \n\n Significant history of cardiovascular disease",
+    "brief_summary": "This randomized, open-label study will evaluate the efficacy and safety of atezolizumab compared with chemotherapy consisting of a platinum agent (cisplatin or carboplatin per investigator discretion) combined with either pemetrexed (non-squamous disease) or gemcitabine (squamous disease) in programmed death-ligand 1 (PD-L1)-selected, chemotherapy-naive participants with Stage IV Non-Squamous or Squamous NSCLC.",
+    "NCT_ID": "NCT02409342"
+}

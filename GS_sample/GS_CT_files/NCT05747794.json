@@ -1,0 +1,19 @@
+{
+    "brief_title": "Study in Metastatic Breast Cancer Patients Receiving Eftilagimod Alpha or Placebo in Combination With Paclitaxel Chemotherapy",
+    "phase": "Phase 2; Phase 3",
+    "drugs": "['eftilagimod alpha', 'Paclitaxel', 'placebo']",
+    "drugs_list": [
+        "eftilagimod alpha",
+        "Paclitaxel",
+        "placebo"
+    ],
+    "diseases": "['Breast Carcinoma']",
+    "diseases_list": [
+        "Breast Carcinoma"
+    ],
+    "enrollment": "849.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Metastatic HR+ positive (estrogen receptor positive and/or progesterone receptor positive) or hormone receptor negative (HR\u02d7), and HER2-neg breast adenocarcinoma, histologically proven by biopsy on the last available tumor tissue \n\n Participants with HR+ metastatic breast cancer (MBC) who progressed on or after \u22651 line of endocrine based therapy and are indicated to receive chemotherapy for metastatic disease \n\n Participants with HR\u02d7 MBC (i.e. triple-negative breast cancer [TNBC]) who are indicated to receive paclitaxel chemotherapy without PD 1/PD-L1 therapy in the 1st line setting for metastatic disease \n\n ECOG performance status 0-1 \n\n Expected survival longer than three months \n\n ",
+    "exclusion_criteria": ": \n\n Prior chemotherapy for metastatic breast adenocarcinoma \n\n Participants with HR+ MBC who have received <1 line of ET based therapy in the metastatic setting \n\n Participants with HR+ MBC who are not primary or secondary resistant to ET-based therapy and would be candidates to ET based therapy as per applicable treatment guidelines \n\n TNBC participants who are candidates for PD-1/PD-L1 therapy in combination with chemotherapy \n\n Disease-free interval of less than twelve months from the last dose of adjuvant chemotherapy",
+    "brief_summary": "The goal of this clinical trial is to compare the safety and efficacy of eftilagimod alpha (efti) in combination with paclitaxel standard of care chemotherapy in participants with metastatic breast cancer.~The main questions it aims to answer are:~What is the optimal biological dose (OBD) of efti in combination with weekly paclitaxel chemotherapy?~Can efti combined with weekly paclitaxel chemotherapy prolong overall survival in participants with metastatic breast cancer if compared to weekly paclitaxel chemotherapy alone.~In the first component of the trial (phase 2, lead-in) researchers will compare two groups (different dose levels of efti in combination with standard chemotherapy) to see if the treatment is safe and well tolerated and evaluate which is the optimal biological dose. In the second component of the trial (phase 3) researchers will assess if the treatment of metastatic breast cancer with the optimal biological dose of efti in combination with paclitaxel is superior compared to chemotherapy alone (placebo-controlled).~The treatment concept of each trial component consists of a chemo-immunotherapy phase followed by an immunotherapy phase. In the first phase participants will be treated with efti plus paclitaxel chemotherapy or placebo plus paclitaxel chemotherapy. After completion of the chemotherapy per standard of care, participants will be treated with the study agent alone.",
+    "NCT_ID": "NCT05747794"
+}

@@ -1,0 +1,17 @@
+{
+    "brief_title": "A Study of MRG002 in Treatment of Advanced HER-2 Positive Breast Cancer Patients",
+    "phase": "Phase 2",
+    "drugs": "['MRG002']",
+    "drugs_list": [
+        "MRG002"
+    ],
+    "diseases": "['Breast Cancer With Liver Metastases']",
+    "diseases_list": [
+        "Breast Cancer With Liver Metastases"
+    ],
+    "enrollment": "99.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Willing to sign the informed consent form and follow the requirements specified in the protocol. \n\n Aged 18 to 75 (including 18 and 75), both genders; Life expectancy \u2265 12 weeks; \n\n The score of ECOG for performance status is 0 or 1 \n\n Patients with HER2-positive breast cancer confirmed by central laboratory and with evidence of liver metastasis by imaging; \n\n Archival or biopsy tumor specimens should be provided (primary or metastatic) for HER2 testing; \n\n Patients must have measurable lesions according to the Response Criteria in Solid Tumors (RECISTv1.1); \n\n Organ functions must meet the basic requirements. \n\n Patients of childbearing potential are willing to take effective contraceptive measures from the time of signing the informed consent form to 6 months after last administration of the study drug. \n\n ",
+    "exclusion_criteria": ": \n\n Previous history of other primary malignancies; \n\n Presence of peripheral neuropathy \u2265 grade 2 (according to CTCAE V5.0); \n\n Previously received antibody-drug conjugates, investigational drugs, anti-tumor vaccines or drugs, endocrine therapy for breast cancer, radiotherapy, CYP3A4 inhibitors or inducers, anthracyclines and other treatments; \n\n Central nervous system metastasis and/or neoplastic meningitis; \n\n History of decompensated cirrhosis, or liver metastases with a single lesion \u2265 10 cm in longest diameter; \n\n Pleural or peritoneal effusion with combined clinical symptoms, which seriously endangers the life safety of subjects or urgently requires clinical treatment; Or pericardial effusion with combined clinical symptoms; \n\n Any serious or uncontrolled systemic disease judged by the investigator; \n\n Uncontrolled cardiac disease; \n\n Evidence of active infection; \n\n Pulmonary embolism or deep venous thrombosis within 3 months prior to study treatment; \n\n History of interstitial pneumonia, severe chronic obstructive pulmonary disease, severe pulmonary dysfuction, symptomatic bronchospasm, etc.; \n\n Patients with active autoimmune disease or a history of autoimmune diseases who are receiving immunosuppressive agents or systemic hormone therapy, and are still using them within 2 weeks prior to enrollment; \n\n History of hypersensitivity to any component of MRG002 or known history of hypersensitivity of \u2265 Grade 3 to trastuzumab injection; \n\n Uncontrolled tumor-related bone pain or urgent spinal cord compression; \n\n Other conditions inappropriate for participation in this study, as deemed by the investigator.",
+    "brief_summary": "The objective of this study is to assess the safety, efficacy, pharmacokinetics, and immunogenicity of MRG002 in patients with HER2 positive breast cancer with liver metastases.",
+    "NCT_ID": "NCT05263869"
+}

@@ -1,0 +1,19 @@
+{
+    "brief_title": "Study of SHR-A1811 in HER2-positive Advanced Breast Cancer With Brain Metastases",
+    "phase": "Phase 2",
+    "drugs": "['SHR-A1811', 'Pyrotinib', 'Bevacizumab']",
+    "drugs_list": [
+        "SHR-A1811",
+        "Pyrotinib",
+        "Bevacizumab"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "75.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Females \u226518 yrs old; \n\n Pathologically confirmed HER2-positive advanced breast cancer; \n\n At least one measurable intracranial lesion according to RANO-BM criteria, which had not received local treatment; \n\n No indication for immediate local treatment or refuse to local treatment; \n\n More than 2 weeks from last systemic treatment; patients with new brain lesions after craniocerebral surgery were admitted if no radiotherapy was performed. \n\n Prior HER2-target treatment, endocrine therapy and chemotherapy was allowed; \n\n Life expectancy is not less than 6 months. \n\n Adequate function of major organs. \n\n ",
+    "exclusion_criteria": ": \n\n Leptomeningeal involvement; \n\n CNS complications requiring emergency neurosurgical intervention (e.g. excision, shunt tube placement);or uncontrolled symptomatic brain metastases; \n\n Previous treatment with trastuzumab deruxtecan (DS-8201a) or any other antibody drug conjugate (ADC) which consists of an exatecan derivative that is a topoisomerase 1 inhibitor; \n\n Patients who had progressed on previous HER2 tyrosine kinase inhibitor therapy were excluded from Arm 2, and those who had progressed on previous bevacizumab therapy were excluded from Arm 3; \n\n No other therapy for metastatic disease; \n\n Antitumor radiotherapy, chemotherapy, surgery, targeted therapy, or immunotherapy within 2 weeks or endocrine therapy within 1 week prior to enrolment; \n\n Participated in other drug clinical trials within 4 weeks before admission; \n\n History of clinically significant lung disease\uff1b \n\n Other malignant tumors, excluding cured cervical carcinoma in situ, skin basal cell carcinoma or skin squamous cell carcinoma, have been diagnosed in the past five years. \n\n According to the judgement of the researchers, there are concomitant diseases that seriously endanger the safety of patients or affect the completion of research (including, but not limited to, severe hypertension, severe diabetes, active infections, etc.). \n\n Any other conditions that researchers believe that patients are unsuitable for this study.",
+    "brief_summary": "This study aimed to evaluate the use of SHR-A1811 in HER2-positive Advanced Breast Cancer patients with brain metastases.",
+    "NCT_ID": "NCT05769010"
+}

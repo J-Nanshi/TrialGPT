@@ -1,0 +1,19 @@
+{
+    "brief_title": "A Prospective, Randomized Multicenter, Open-label Comparison of Preoperative Combination of Trastuzumab and Pertuzumab With or Without Concurrent Taxane Chemotherapy Given for Twelve Weeks in Patients With Operable HER2+/HR- Breast Cancer Within the ADAPT Protocol",
+    "phase": "Phase 2",
+    "drugs": "['Trastuzumab', 'Pertuzumab', 'Paclitaxel']",
+    "drugs_list": [
+        "Trastuzumab",
+        "Pertuzumab",
+        "Paclitaxel"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "220.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female patients, age at diagnosis 18 years and above (consider patients at 70 years and above for ADAPT Elderly) \n\n Histologically confirmed unilateral primary invasive carcinoma of the breast \n\n Clinical T1 - T4 (except inflammatory breast cancer) \n\n All clinical N (cN) \n\n No clinical evidence for distant metastasis (M0) \n\n Known HR status and HER2 status (local pathology) Tumor block available for central pathology review \n\n Performance Status ECOG \u2264 1 or KI \u2265 80% \n\n Negative pregnancy test (urine or serum) within 7 days prior to start of induction treatment in premenopausal patients \n\n Written informed consent prior to beginning specific protocol procedures, including expected cooperation of the patients for the treatment and follow-up, must be obtained and documented according to the local regulatory requirements \n\n The patient must be accessible for treatment and follow-up \n\n Additional inclusion criteria for participation in the HR-/HER2+ sub-protocol: \n\n Confirmed ER and PR negative and HER2+ by central pathology \n\n Clinical cT1c - T4a-c (participation of patients with tumors >cT2 is strongly recommended) \n\n All clinical N (participation of patients with cN0, if at least cT1c is strongly recommended) \n\n Patients must qualify for neoadjuvant treatment \n\n LVEF > 50%; LVEF within normal limits of each institution measured by echocardiography and normal ECG (within 42 days prior to induction treatment) \n\n ",
+    "exclusion_criteria": ": \n\n Known hypersensitivity reaction to the compounds or incorporated substances \n\n Prior malignancy with a disease-free survival of < 10 years, except curatively treated basalioma of the skin, pTis of the cervix uteri \n\n Non-operable breast cancer including inflammatory breast cancer \n\n Previous or concurrent treatment with cytotoxic agents for any reason after consultation with the sponsor \n\n Concurrent treatment with other experimental drugs. Participation in another clinical trial with any investigational not marketed drug within 30 days prior to study entry \n\n Male breast cancer \n\n Concurrent pregnancy; patients of childbearing potential must implement a highly effective (less than 1% failure rate) non-hormonal contraceptive measures during the study treatment \n\n Breast feeding woman \n\n Sequential breast cancer \n\n Reasons indicating risk of poor compliance Patient not able to consent \n\n Additional ",
+    "brief_summary": "Trial to evaluate efficacy of dual blockade with two anti-HER2 agents with or without chemotherapy backbone within the ADAPT trial.",
+    "NCT_ID": "NCT01817452"
+}

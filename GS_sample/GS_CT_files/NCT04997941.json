@@ -1,0 +1,20 @@
+{
+    "brief_title": "Higher Dose Preoperative taMOxifen in Premenopausal bREast Cancer Patients",
+    "phase": "Phase 2",
+    "drugs": "['Tamoxifen Oral Product', 'Assessment of Ki-67', 'Surgery']",
+    "drugs_list": [
+        "Tamoxifen Oral Product",
+        "Assessment of Ki-67",
+        "Surgery"
+    ],
+    "diseases": "['Premenopausal Breast Cancer', 'Hormone Receptor-positive Breast Cancer']",
+    "diseases_list": [
+        "Premenopausal Breast Cancer",
+        "Hormone Receptor-positive Breast Cancer"
+    ],
+    "enrollment": "238.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histopathologically and immunohistochemically confirmed ER+ and HER2- Premenopausal BC patients \n\n Tumor size >0.5cm on USG \n\n Stage I-IIIA BC and planned curative surgery \n\n ECOG 0-2 \n\n Patients with adequate bone marrow function \n\n - Hemoglobin > 10 g/dL, Plt > 100,000/mm3 \n\n Patients with adequate kidney function \n\n - serum Cr \u2264 1.4 mg/dL \n\n Patients with adequate liver function \n\n Bilirubin: \u2264 1.5 times of upper normal limit \n\n AST/ALT: \u2264 1.5 times of upper normal limit \n\n Alkaline phosphatase: \u2264 1.8 times of upper normal limit \n\n Patients who decided to voluntarily participate in this trial with written informed consent \n\n Premenopausal women : women who has not removed both ovaries, women who had menses in recent 1 year and FSH level is less than 30mIU/ml \n\n ",
+    "exclusion_criteria": ": \n\n Previous history of ipsilateral invasive breast cancer, in situ lesion \n\n Previous history of chemotherapy or endocrine therapy on contralateral BC for the past 2 years \n\n Patients who has distant metastasis \n\n Patients who is pregnant or breastfeeding \n\n Hormon receptor negative BC \n\n Her-2 positive BC \n\n Diagnosed pituitary adenoma \n\n Women who has endometriosis, unknown vaginal bleeding \n\n Inability to understand and willingness to sign a written informed consent \n\n Patients with endometriosis or unexplained vaginal bleeding \n\n Patients with a history of bleeding constitution, coagulopathy, or thromboembolism \n\n Patients who have administered a CYP3A inhibitor or inducer, CYP2D6 inhibitor, etc. within 4 weeks prior to randomization",
+    "brief_summary": "MORE-T trial is designed to investigate the effect of Tamoxifen 40mg (vs. Tamoxifen 20mg) for 2wks in presurgical setting.~The greater reduction in Ki-67 might be observed in Tamoxifen 40mg arm compared to the Tamoxifen 20mg arm.~Open Label, Phase 2, Randomized with 1:1 allocation",
+    "NCT_ID": "NCT04997941"
+}

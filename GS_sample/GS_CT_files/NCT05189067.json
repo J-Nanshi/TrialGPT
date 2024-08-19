@@ -1,0 +1,20 @@
+{
+    "brief_title": "Efficacy and Safety of Adjuvant Docetaxel and Trastuzumab in Stage I HER2-positive Breast Cancer",
+    "phase": "Phase 2; Phase 3",
+    "drugs": "['Paclitaxel', 'Trastuzumab', 'Docetaxel']",
+    "drugs_list": [
+        "Paclitaxel",
+        "Trastuzumab",
+        "Docetaxel"
+    ],
+    "diseases": "['HER2-positive Breast Cancer', 'Adjuvant Therapy']",
+    "diseases_list": [
+        "HER2-positive Breast Cancer",
+        "Adjuvant Therapy"
+    ],
+    "enrollment": "190.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female aged 18 - 70 years old; \n\n The histopathological confirm of invasive breast cancer; \n\n HER-2 positive: immuno-histochemistry (IHC) 3+ or fluorescence in situ hybridization (FISH) confirmed amplification of erbb2 gene; \n\n Tumor must be \u2264 2cm in greatest dimension, negative axillary lymph node or with micrometastasis (axillary nodes with tumor clusters \u2264 0.2cm); \n\n No more than 90 days from the patient's most recent breast surgery for this breast cancer; \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1; \n\n Adequate bone marrow function: neutrophil \u2265 1500/mm^3, hemoglobin \u2265 9 g/dl, and platelets \u2265 100,000/mm^3; \n\n Adequate liver and renal function: creatinine \u2264 1.5 folds of the upper limit of normal value; aspartate aminotransferase and alanine aminotransferase \u2264 1.5 folds of the upper limit of normal value, aspartate aminotransferase and alanine aminotransferase \u2264 2 folds of the upper limit of normal value for patient with Gilbert 's syndrome; \n\n Left ventricular ejection fraction (LVEF) \u2265 50%; \n\n Willing and able to sign informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Any of the following due to teratogenic potential of chemotherapy: pregnant women, nursing women, women of childbearing potential who are unwilling to employ adequate contraception; \n\n Locally advanced tumors at diagnosis, including tumors fixed to the chest wall, peau d'orange, skin ulcerations/nodules, or clinical inflammatory changes; \n\n History of prior chemotherapy in the past 5 years; \n\n History of prior trastuzumab therapy; \n\n Patients with a history of previous invasive breast cancer; \n\n Active, unresolved infection; \n\n Prior history of any other malignancy in the past 5 years, except for early stage tumors of the skin or cervix treated with curative intent; \n\n Can not tolerate or be allergic to chemotherapy, anti-HER-2 therapy or pharmaceutical materials such as benzyl alcohol; \n\n \u2265 grade 2 neuropathy; \n\n Active cardiac disease: Any prior myocardial infarction (asymptomatic changes on EKG suggestive of old myocardial infarction is not an exclusion); Documented congestive heart failure (CHF); Current use of any therapy specifically for CHF; Current uncontrolled hypertension (diastolic >100 mmHg or systolic > 200 mmHg); Clinically significant pericardial effusion; \n\n The antibody of hepatitis C virus, HIV or Treponema pallidum positive; HBsAg positive and hepatitis B virus DNA in peripheral blood \u2265 10^3 copy/mL\uff1b \n\n Enrollment on other Investigational studies within 30 days; \n\n Not allowed by the investigators.",
+    "brief_summary": "Among women with stage I HER2-positive breast cancer, adjuvant weekly paclitaxel plus trastuzumab (PH, qw\u00d712) is one of the standard therapies. However, it is quite inconvenient for patients to received weekly treatment for 12 weeks, which also increased the patients' and social economic burdens. In our study, a prospective, randomized, open-label, single-center clinical study was conducted to compare the efficacy and safety of adjuvant docetaxel plus trastuzumab (TH, q3w\u00d74) and the classic regimen (PH, qw\u00d712) in stage I HER2-positive breast cancer in Chinese population.",
+    "NCT_ID": "NCT05189067"
+}

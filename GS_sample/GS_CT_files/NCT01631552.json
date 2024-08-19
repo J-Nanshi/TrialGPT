@@ -1,0 +1,32 @@
+{
+    "brief_title": "Study of Sacituzumab Govitecan-hziy (IMMU-132) in Adults With Epithelial Cancer",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['Sacituzumab Govitecan-hziy (SG)']",
+    "drugs_list": [
+        "Sacituzumab Govitecan-hziy (SG)"
+    ],
+    "diseases": "['Gastric Adenocarcinoma', 'Esophageal Cancer', 'Hepatocellular Carcinoma', 'Non-small Cell Lung Cancer', 'Small Cell Lung Cancer', 'Ovarian Epithelial Cancer', 'Carcinoma Breast Stage IV', 'Hormone-refractory Prostate Cancer', 'Head and Neck Cancers- Squamous Cell', 'Renal Cell Cancer', 'Urinary Bladder Neoplasms', 'Cervical Cancer', 'Endometrial Cancer', 'Glioblastoma Multiforme', 'Triple Negative Breast Cancer', 'Pancreatic Cancer']",
+    "diseases_list": [
+        "Gastric Adenocarcinoma",
+        "Esophageal Cancer",
+        "Hepatocellular Carcinoma",
+        "Non-small Cell Lung Cancer",
+        "Small Cell Lung Cancer",
+        "Ovarian Epithelial Cancer",
+        "Carcinoma Breast Stage IV",
+        "Hormone-refractory Prostate Cancer",
+        "Head and Neck Cancers- Squamous Cell",
+        "Renal Cell Cancer",
+        "Urinary Bladder Neoplasms",
+        "Cervical Cancer",
+        "Endometrial Cancer",
+        "Glioblastoma Multiforme",
+        "Triple Negative Breast Cancer",
+        "Pancreatic Cancer"
+    ],
+    "enrollment": "515.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Individuals able to understand and give written informed consent. \n\n Histologically or cytologically confirmed epithelial cancer of one of the following types: \n\n Gastric adenocarcinoma (GC) \n\n Esophageal cancer (EC) \n\n Hepatocellular carcinoma (HCC) \n\n Non-small-cell lung cancer (NSCLC) \n\n Small-cell lung cancer (SCLC) \n\n Epithelial ovarian cancer (EOC) \n\n Cervical Cancer \n\n Endometrial Cancer \n\n Triple-negative breast cancer (TNBC) \n\n Non-triple-negative breast cancer \n\n Papillary thyroid cancer (excludes follicular, medullary, Hurthle cell, and anaplastic thyroid cancer) \n\n Glioblastoma multiforme (GBM) \n\n Hormone-refractory prostate cancer (HRPC) \n\n Head and neck cancers- squamous cell (SCCHN) \n\n Renal cell cancer (clear cell) (RCC) \n\n Urothelial cancer \n\n Stage IV (metastatic) disease (except for individuals with GBM). \n\n Refractory to or relapsed after at least one prior standard therapeutic regimen \n\n Adequate performance status (ECOG 0 or 1) \n\n Expected survival \u2265 6 months. \n\n Measurable disease by CT or MRI. \n\n At least 2 weeks beyond treatment (chemotherapy, investigational drugs including small molecular inhibitors, immunotherapy and/or radiation therapy) or major surgery and recovered from all acute toxicities to Grade 1 or less (except alopecia). \n\n At least 2 weeks beyond high dose systemic corticosteroids (however, low dose corticosteroids < 20 mg prednisone or equivalent daily are permitted). \n\n Adequate hematology without ongoing transfusional support (hemoglobin > 9 g/dL, absolute neutrophil count (ANC) > 1,500 per mm^3, platelets > 100,000 per mm^3). \n\n Adequate renal and hepatic function (creatinine \u2264 2.0 x institutional upper limit of normal (IULN), bilirubin \u2264 1.5 IULN, aspartate aminotransferase (AST) and alanine aminotransferase (ALT) \u2264 3.0 x IULN or 5 x IULN if know liver metastases). \n\n Otherwise, all toxicity at study entry \u2264 Grade 1. \n\n ",
+    "exclusion_criteria": ": \n\n Women who are pregnant or lactating. \n\n Women of childbearing potential and fertile men unwilling to use effective contraception during study until conclusion of 12-week post-treatment evaluation period. \n\n Individuals with Gilbert's disease. \n\n Individuals with brain metastases can be enrolled only if treated, non-progressive brain metastases and off high-dose steroids (> 20 mg prednisone or equivalent) for at least 4 weeks. \n\n Presence of bulky disease (defined as any single mass > 7 cm in its greatest dimension). Individuals with a mass over 7 cm, but otherwise eligible, may be considered for enrollment after discussion and approval with the medical monitor. \n\n Individuals with active \u2265 grade 2 anorexia, nausea or vomiting, and/or signs of intestinal obstruction. \n\n Individuals with non-melanoma skin cancer or carcinoma in situ of the cervix are eligible, while individuals with other prior malignancies must have had at least a 3-year disease-free interval. \n\n Individuals known to be HIV positive, hepatitis B positive, or hepatitis C positive. \n\n Known history of unstable angina, MI, or CHF present within 6 months or clinically significant cardiac arrhythmia (other than stable atrial fibrillation) requiring anti-arrhythmia therapy. \n\n Known history of clinically significant active COPD, or other moderate-to-severe chronic respiratory illness present within 6 months. \n\n Prior history of clinically significant bleeding, intestinal obstruction, or GI perforation within 6 months of initiation of study treatment. \n\n Infection requiring intravenous antibiotic use within 1 week. \n\n History of an anaphylactic reaction to irinotecan or \u2265 Grade 3 GI toxicity to prior irinotecan, \n\n Other concurrent medical or psychiatric conditions that, in the Investigator's opinion, may be likely to confound study interpretation or prevent completion of study procedures and follow-up examinations.",
+    "brief_summary": "The primary objective in Phase I is to evaluate the safety and tolerability of sacituzumab govitecan-hziy (SG) as a single agent administered in 21-day treatment cycles in previously treated participants with advanced epithelial cancer. In Phase II, the primary objective is to evaluate the safety and efficacy of sacituzumab govitecan-hziy administered in 21-day treatment cycles at a dose selected in Phase I.~Tumor types in the study will include: cervical, colorectal, endometrial, ovarian, esophageal, gastric adenocarcinoma, glioblastoma multiforme, head and neck cancers- squamous cell, hepatocellular, prostate, non-small-cell lung cancer, pancreatic, renal cell, small-cell lung cancer, non-triple negative breast cancer (non-TNBC), triple-negative breast cancer (TNBC) and metastatic urothelial cancer (mUC).",
+    "NCT_ID": "NCT01631552"
+}

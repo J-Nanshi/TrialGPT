@@ -1,0 +1,21 @@
+{
+    "brief_title": "A Study of Atezolizumab Plus Cobimetinib and Vemurafenib Versus Placebo Plus Cobimetinib and Vemurafenib in Previously Untreated BRAFv600 Mutation-Positive Patients With Metastatic or Unresectable Locally Advanced Melanoma",
+    "phase": "Phase 3",
+    "drugs": "['Atezolizumab', 'Atezolizumab Placebo', 'Cobimetinib', 'Vemurafenib', 'Vemurafenib Placebo']",
+    "drugs_list": [
+        "Atezolizumab",
+        "Atezolizumab Placebo",
+        "Cobimetinib",
+        "Vemurafenib",
+        "Vemurafenib Placebo"
+    ],
+    "diseases": "['Melanoma']",
+    "diseases_list": [
+        "Melanoma"
+    ],
+    "enrollment": "514.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Females of child bearing potential and males with female partners must and use of contraceptive methods with a failure rate of less than or equal to (</=)1% per year is required during treatment and for 6 months post treatment. Males should not expose pregnant partners to sperm and refrain from donating sperm for 6 months post treatment. Women must refrain from donating eggs during this same period \n\n Histologically confirmed Stage IV (metastatic) or unresectable Stage IIIc (locally advanced) melanoma \n\n Naive to prior systemic anti-cancer therapy for melanoma (example: chemotherapy, hormonal therapy, targeted therapy, immunotherapy, or other biologic therapies) except adjuvant treatment with interferon (IFN), interleukin (IL)-2, or vaccine therapies or herbal therapies \n\n Documentation of BRAFv600 mutation-positive status in melanoma tumor tissue (archival or newly obtained) through use of a clinical mutation test approved by the local health authority \n\n Eastern Cooperative Oncology Group Performance (ECOG) Status of 0 or 1 \n\n Measurable disease according to RECIST v1.1 (must be outside central nervous system (CNS)) \n\n Life expectancy >/=18 weeks \n\n For participants not receiving therapeutic anticoagulation: International normalized ratio (INR) or activated partial thromboplastin time (aPTT) less than or equal to (</=) 1.5*upper limit of normal (ULN) within 28 days prior to initiation of study treatment \n\n For participants receiving therapeutic anticoagulation: stable anticoagulant regimen and stable INR during the 28 days immediately preceding initiation of study treatment \n\n ",
+    "exclusion_criteria": ": \n\n Cancer-Related ",
+    "brief_summary": "This is a Phase III, double-blinded, placebo-controlled, randomized, multicenter study designed to evaluate the efficacy, safety, and pharmacokinetics of atezolizumab + cobimetinib + vemurafenib compared with placebo + cobimetinib + vemurafenib in patients with previously untreated BRAFv600 mutation-positive metastatic or unresectable locally advanced melanoma.",
+    "NCT_ID": "NCT02908672"
+}

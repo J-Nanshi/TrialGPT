@@ -1,0 +1,18 @@
+{
+    "brief_title": "Tucidinostat and Nab-paclitaxel in Advanced HR+/HER2- Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Tucidinostat', 'nab-paclitaxel']",
+    "drugs_list": [
+        "Tucidinostat",
+        "nab-paclitaxel"
+    ],
+    "diseases": "['HR+/HER2- Breast Cancer']",
+    "diseases_list": [
+        "HR+/HER2- Breast Cancer"
+    ],
+    "enrollment": "90.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age\u226518 years, \u226475, female; \n\n Histologically confirmed HR positive and HER2 negative postmenopausal metastatic breast cancer patients [HER2 negative is defined as immunohistochemistry(IHC) 0 or IHC 1+, and if the score of IHC is 2+, fluorescence in situ hybridization technology (FISH) test must be negative, HR positve is defined as ER or PR \u22651%]; \n\n Primary endocrine resistance or at least experienced one line of endocrine therapy for recurrent or metastatic disease; \n\n No more than 1 prior line of chemothrapy for recurrent or metastatic disease; \n\n Patients who have been exposed to taxanes in neoadjuvant or adjuvant setting will be allowed to enroll, if they have obtained benifits from neoadjuvant treatment or have progressed \u2265 12 months from completion of adjuvant treatment; \n\n ECOG performance status \u2264 1; \n\n At least one measurable disease based on RECIST v1.1 \n\n Adequate organ function; \n\n Life expectancy is more than 3 months; \n\n Willing and able to provide written informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Prior exposed to histone deacetylase inhibitors, or received taxanes for metastatic disease; \n\n Known hypersensitivity to any formulation component of the study drug; \n\n Received chemotherapy, targeted therapy, Chinese herbal medicine with anti-tumor indications, or immunomodulatory drugs (including thymosin, interferon, interleukin, etc.) within 4 weeks before enrollment, or still within 5 half-lives of such drugs; \n\n Toxicities that did not recover to National Cancer Institute Common Adverse Event Terminology Version 5.0 (NCICTCAEv5.0) grade 0 or 1 toxicity from prior antineoplastic therapy prior to the first dose of study treatment(alopecia, grade 2 fatigue, grade 2 anemia, non-clinically critical and asymptomatic laboratory abnormalities can be enrolled); \n\n Has known active central nervous system (CNS) metastases and/or carcinomatous meningitis. \n\n Pregnant or lactating female. \n\n Any other conditions deemed inappropriate by the investigator to participate in this study.",
+    "brief_summary": "This study is looking to see whether the combination of Tucidinostat and nab-paclitaxel is safe and effective in participants with advanced HR+/HER2- breast cancer.",
+    "NCT_ID": "NCT05633914"
+}

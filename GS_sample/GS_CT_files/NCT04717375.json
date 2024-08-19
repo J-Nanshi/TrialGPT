@@ -1,0 +1,19 @@
+{
+    "brief_title": "Study of BND-22 Administered Alone and in Combination With Other Therapeutics in Participants With Advanced Solid Tumors",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['BND-22', 'Pembrolizumab', 'Cetuximab']",
+    "drugs_list": [
+        "BND-22",
+        "Pembrolizumab",
+        "Cetuximab"
+    ],
+    "diseases": "['Cancer']",
+    "diseases_list": [
+        "Cancer"
+    ],
+    "enrollment": "130.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients with unresectable or metastatic disease who are refractory to or are not candidates for standard approved therapy \n\n Histologic confirmation of malignancy \n\n Measurable disease per RECIST v1.1 \n\n Eastern Cooperative Oncology Group Performance Status (ECOG) of 0 or 1 \n\n Participants must have adequate organ function as defined by lab tests \n\n Part 1: Following tumor types: Breast cancer, cervical cancer, colorectal cancer, adenocarcinoma or squamous cell carcinoma of the esophagus, gastric or gastroesophageal junction adenocarcinoma, squamous cell carcinoma of the head and neck, hepatobiliary cancers (hepatocellular carcinoma (HCC), gallbladder cancer, cholangiocarcinoma), non-small cell lung cancer, renal cell carcinoma, squamous cell carcinoma of the skin, or urothelial carcinoma \n\n Part 2: Following tumor types: Squamous cell carcinoma of the head and neck, Gastric or gastroesophageal junction adenocarcinoma, Non-small cell lung cancer \n\n ",
+    "exclusion_criteria": ": \n\n Active, known or suspected autoimmune disease \n\n Condition requiring systemic treatment with either corticosteroids or other immunosuppressive medications \n\n Brain or leptomeningeal metastases \n\n Known history of positive test for HIV \n\n Non-HCC patients: acute or chronic hepatitis B virus (HBV) or hepatitis C virus (HCV); HCC patients: untreated active HBV or dual infection with HBV/HCV \n\n Participants after solid organ or allogeneic hematopoietic stem cell transplant \n\n History of life-threatening toxicity related to prior immune therapy \n\n History of life-threatening toxicity related to prior cetuximab or other anti-EGFR antibodies (for Sub-Part 1C) \n\n Unstable or deteriorating cardiovascular disease within the previous 6 months \n\n Any major surgery within 4 weeks of study drug administration \n\n Prior/Concomitant Therapy: \n\n Cytotoxic/Non-cytotoxic anti-cancer agents, unless at least 4 weeks have elapsed from last dose \n\n Use of other investigational drugs within 28 days \n\n Prior treatment with macrophage or natural killer (NK) cells activating therapies \n\n Administration of a live attenuated vaccine within 28 days",
+    "brief_summary": "This is an open-label, multicenter, dose escalation and expansion study designed to evaluate the safety, tolerability, and preliminary anti-tumor activity of BND-22 administered alone and in combination with pembrolizumab or with cetuximab. The study will enroll advanced cancer patients with unresectable or metastatic disease who are refractory to or are not candidates for standard approved therapy and will be comprised of two parts - an initial 3 + 3 dose escalation phase followed by a dose expansion phase.",
+    "NCT_ID": "NCT04717375"
+}

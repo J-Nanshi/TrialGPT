@@ -1,0 +1,18 @@
+{
+    "brief_title": "Albumin-bound Paclitaxel and Carboplatin Versus Epirubicin and Docetaxel for Triple-negative Breast Cancer",
+    "phase": "Phase 4",
+    "drugs": "['Albumin-bound paclitaxel combined with carboplatin', 'Epirubicin combined with docetaxel']",
+    "drugs_list": [
+        "Albumin-bound paclitaxel combined with carboplatin",
+        "Epirubicin combined with docetaxel"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "110.0",
+    "inclusion_criteria": "inclusion criteria: \n\n patients developing breast cancer as confirmed by X-ray examination, cancer tissue negative for estrogen receptor, progesterone receptor and HER2, and tumor stage II-III; \n\n estimated survival > 3 months; \n\n presence of clinically measurable lesions; \n\n Karnofsky functional status score \u2265 70; \n\n normal routine blood test results, normal liver and kidney function, and near normal electrocardiographic manifestations; \n\n age at 18-70 years. \n\n ",
+    "exclusion_criteria": ": \n\n stage IV breast cancer patients with bone metastasis or other distant metastasis; \n\n severe renal insufficiency; \n\n older adult patients with severe organic diseases such as heart and lung diseases, who are not estimated to be able to tolerate chemotherapy; \n\n those who have received antineoplastic therapy; \n\n those who have received neoadjuvant chemotherapy but fail in 2 cycles of neoadjuvant chemotherapy and switch to other regimens or terminate chemotherapy; \n\n those with history of other malignant tumors; \n\n those with severe heart, liver, and kidney organ dysfunction or poor health who cannot tolerate chemotherapy, or those who cannot tolerate chemotherapy and switch to other therapeutic regimens; \n\n those with mental and nervous system diseases who cannot comply with treatment; \n\n those with dexamethasone intolerance or those who are highly allergic to any drug in neoadjuvant chemotherapy; \n\n pregnant or lactating women; \n\n those who are participating in other trials.",
+    "brief_summary": "To investigate the efficacy of albumin-bound paclitaxel combined with carboplatin versus epirubicin combined with docetaxel as neoadjuvant therapy for triple-negative breast cancer.",
+    "NCT_ID": "NCT04136782"
+}

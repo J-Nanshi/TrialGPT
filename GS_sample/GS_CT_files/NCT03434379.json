@@ -1,0 +1,20 @@
+{
+    "brief_title": "A Study of Atezolizumab in Combination With Bevacizumab Compared With Sorafenib in Patients With Untreated Locally Advanced or Metastatic Hepatocellular Carcinoma",
+    "phase": "Phase 3",
+    "drugs": "['Atezolizumab', 'Bevacizumab', 'Sorafenib']",
+    "drugs_list": [
+        "Atezolizumab",
+        "Bevacizumab",
+        "Sorafenib"
+    ],
+    "diseases": "['Carcinoma, Hepatocellular']",
+    "diseases_list": [
+        "Carcinoma",
+        "Hepatocellular"
+    ],
+    "enrollment": "558.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Locally advanced or metastatic and/or unresectable Hepatocellular Carcinoma (HCC) \n\n No prior systemic therapy for HCC. Previous use of herbal therapies/traditional Chinese medicines with anti-cancer activity included in the label is allowed, provided that these medications are discontinued prior to randomization. \n\n At least one measurable untreated lesion \n\n ECOG Performance Status of 0 or 1 \n\n Adequate hematologic and end-organ function \n\n For women of childbearing potential: agreement to remain abstinent \n\n For men: agreement to remain abstinent \n\n Child-Pugh class A \n\n ",
+    "exclusion_criteria": ": \n\n History of leptomeningeal disease \n\n Active or history of autoimmune disease or immune deficiency \n\n History of idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced pneumonitis, or idiopathic pneumonitis, or evidence of active pneumonitis on screening chest computed tomography scan \n\n Known active tuberculosis \n\n History of malignancy other than HCC within 5 years prior to screening, with the exception of malignancies with a negligible risk of metastasis or death \n\n Pregnancy or breastfeeding, or intention of becoming pregnant during study treatment or within at least 5 months after the last dose of atezolizumab, 6 months after the last dose of bevacizumab, or 1 month after the last dose of sorafenib \n\n Known fibrolamellar HCC, sarcomatoid HCC, or mixed cholangiocarcinoma and HCC \n\n Untreated or incompletely treated esophageal and/or gastric varices with bleeding or high-risk for bleeding \n\n A prior bleeding event due to esophageal and/or gastric varices within 6 months prior to initiation of study treatment. \n\n Moderate or severe ascites \n\n History of hepatic encephalopathy \n\n Co-infection of HBV and HCV \n\n Symptomatic, untreated, or actively progressing central nervous system (CNS) metastases \n\n Uncontrolled tumor-related pain \n\n Uncontrolled pleural effusion, pericardial effusion, or ascites requiring recurrent drainage procedures \n\n Uncontrolled or symptomatic hypercalcemia \n\n Treatment with systemic immunostimulatory agents \n\n Inadequately controlled arterial hypertension \n\n Prior history of hypertensive crisis or hypertensive encephalopathy \n\n Evidence of bleeding diathesis or significant coagulopathy \n\n History of intestinal obstruction and/or clinical signs or symptoms of GI obstruction including sub-occlusive disease related to the underlying disease or requirement for routine parenteral hydration \n\n Serious, non-healing or dehiscing wound, active ulcer, or untreated bone fracture \n\n Metastatic disease that involves major airways or blood vessels, or centrally located mediastinal tumor masses \n\n Local therapy to liver within 28 days prior to initiation of study treatment or non-recovery from side effects of any such procedure \n\n Chronic daily treatment with a non-steroidal anti-inflammatory drug (NSAID)",
+    "brief_summary": "This study will evaluate the efficacy and safety of atezolizumab in combination with bevacizumab compared with sorafenib in participants with locally advanced or metastatic Hepatocellular Carcinoma (HCC) who have received no prior systemic treatment.",
+    "NCT_ID": "NCT03434379"
+}

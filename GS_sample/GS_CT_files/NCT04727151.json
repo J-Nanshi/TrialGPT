@@ -1,0 +1,17 @@
+{
+    "brief_title": "TAC T-cells for the Treatment of HER2-positive Solid Tumors",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['TAC01-HER2']",
+    "drugs_list": [
+        "TAC01-HER2"
+    ],
+    "diseases": "['HER2-Positive Solid Tumors']",
+    "diseases_list": [
+        "HER2-Positive Solid Tumors"
+    ],
+    "enrollment": "70.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age \u2265 18 years. \n\n A recent tumor sample to confirm HER2-protein expression on tumor cell surface. \n\n Relapsed or refractory disease after at least two prior lines of therapy. \n\n a. For breast cancer patients, both prior lines of therapy must include HER2 targeted agents. \n\n Measurable disease per RECIST Version 1.1. \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1. \n\n Life expectancy of at least 12 weeks. \n\n Adequate organ function. \n\n ",
+    "exclusion_criteria": ": \n\n Active inflammatory or neurological disorder, autoimmune disease or infection \n\n Acute cardiovascular disease",
+    "brief_summary": "TAC01-HER2 is a novel cell therapy that consists of genetically engineered autologous T cells expressing T-cell Antigen Coupler (TAC) that recognizes human epidermal growth factor receptor 2 (HER2). TAC directs T-cells to the targeted antigen (HER2), and once engaged with the target, activates them via the endogenous T cell receptor.~This is an open-label, multicenter Phase 1/2 study that aims to establish safety, Maximum Tolerated Dose (MTD) or Recommended Phase 2 Dose (RP2D), pharmacokinetic profile and efficacy of TAC01-HER2 in subjects with relapsed or refractory solid tumors.",
+    "NCT_ID": "NCT04727151"
+}

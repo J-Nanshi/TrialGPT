@@ -1,0 +1,18 @@
+{
+    "brief_title": "SHR-A1811 Versus Investigator's Chemotherapy in Recurrent/Metastatic Breast Cancer Clinical Trial",
+    "phase": "Phase 3",
+    "drugs": "['SHR-A1811', 'Capecitabine/Eribulin/Gemcitabine/Paclitaxel/Nab-paclitaxel']",
+    "drugs_list": [
+        "SHR-A1811",
+        "Capecitabine/Eribulin/Gemcitabine/Paclitaxel/Nab-paclitaxel"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "528.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Low-HER2 expression defined as IHC 2+/ISH- or IHC 1+ (ISH- or untested). \n\n HR-positive breast cancer with at least one endocrine therapy and disease progression was judged by the investigator to no longer benefit from endocrine therapy. \n\n Has been treated with 0 to 1 prior lines of chemotherapy in the metastatic setting. \n\n Has documented radiologic progression (during or after most recent treatment). \n\n Has at least 1 protocol-defined measurable lesion. \n\n Has protocol-defined adequate cardiac, bone marrow, renal, hepatic and blood clotting functions. \n\n Fertile women (WOCBP) subjects agreed to use highly effective contraception and not to breastfeed from the time of study screening until 7 months after receiving the last study medication; a fertile woman must have a negative serum pregnancy test result within 7 days prior to the first treatment. \n\n ",
+    "exclusion_criteria": ": \n\n Has known active central nervous system (CNS) metastases. Subjects with previously treated brain metastases may participate provided they are stable. \n\n A history of human immunodeficiency virus (HIV) infection is known, or has an active autoimmune disease. \n\n History of interstitial lung disease or pneumonia requiring oral or intravenous steroids. \n\n Has moderate or severe cardiovascular disease. \n\n Active HBV(hepatitis B) or HCV (Hepatitis C virus)-infected subjects. \n\n Any other malignancies within 5 years except for those with negligible risk of metastasis or death.",
+    "brief_summary": "The aim of this study was to evaluate whether the progression-free survival of SHR-A1811 was superior to investigator-selected chemotherapy in patients with HER2-low recurrent/metastatic breast cancer. To evaluate whether SHR-A1811 is superior to investigator-selected chemotherapy in patients with HER2-low recurrent/metastatic breast cancer.",
+    "NCT_ID": "NCT05814354"
+}

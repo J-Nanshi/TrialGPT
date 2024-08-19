@@ -1,0 +1,20 @@
+{
+    "brief_title": "Oral Tamoxifen vs. TamGel vs. Control in Women With Atypical Hyperplasia or Lobular Carcinoma In Situ",
+    "phase": "Phase 2; Phase 3",
+    "drugs": "['Tamoxifen', 'Topical 4-OHT( 4-hydroxytamoxifen)gel 4 mg/each breast/day', 'Placebo']",
+    "drugs_list": [
+        "Tamoxifen",
+        "Topical 4-OHT( 4-hydroxytamoxifen)gel 4 mg/each breast/day",
+        "Placebo"
+    ],
+    "diseases": "['Atypical Hyperplasia', 'Lobular Carcinoma in Situ']",
+    "diseases_list": [
+        "Atypical Hyperplasia",
+        "Lobular Carcinoma in Situ"
+    ],
+    "enrollment": "104.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Willing to return to enrolling institution for follow-up \n\n Willing to complete required testing \n\n Ability to complete questionnaire by themselves or with assistance \n\n Female (sex that was assigned at birth) \n\n Ipsilateral intact breast with histology confirmation of atypical ductal or lobular hyperplasia, or LCIS, within the last 5 years, whether surgically excised or not. \n\n Eastern Cooperative Oncology Group (ECOG) performance status \u22641 \n\n Willingness to agree to use ONE effective form of birth control (abstinence is not an allowed method) prior to study entry and for the duration of study participation, and for 2 months following the last dose of study medications. Effective birth control methods are: copper IUD [intrauterine device], diaphragm/cervical cap/shield, spermicide, contraceptive sponge, condoms. Women of childbearing potential must have a negative pregnancy test within five days before starting study medications. Should a participant become pregnant or suspect she is pregnant while participating in this study; the participant should inform the study physician immediately. \n\n Willingness to avoid exposing breast skin to natural or artificial sunlight (i.e. tanning beds) for the duration of the study. \n\n Participants must have acceptable organ and marrow function as defined below within 30 days of randomization: judged by treating physician's evaluation of baseline laboratory data. \n\n Negative urine pregnancy test, if of childbearing potential. and / or FSH to verify menopausal status. \n\n ",
+    "exclusion_criteria": ": \n\n Clinically suspicious mass/lesions Breast cancer in the past 5 years. \n\n Prior thromboembolism within last 5 years (history of varicose veins and superficial phlebitis is allowed) Current pregnancy or lactation History of other prior breast cancer-specific therapy within the previous 2 years (chemotherapy, anti-HER2 agents, endocrine agents, everolimus, CDK4-6 inhibitors). \n\n Cytotoxic chemotherapy for any indication in last 2 years. \n\n Prior use of SERMS or AIs including tamoxifen, raloxifene, anastrozole, letrozole, or exemestane for prevention or therapy within 5 years. \n\n Exogenous sex steroid, including oral contraceptive pill use within 1 month prior to research core needle biopsy (CNB). \n\n Use of vaginally administered estrogens and hormone coated IUD such as Mirena is permitted History of any prior ipsilateral breast radiotherapy. Previous unilateral radiation of the contralateral side is allowed. \n\n Skin lesions on the breast that disrupt the stratum corneum (eg eczema, ulceration). \n\n History of endometrial neoplasia \n\n Current smoker. Cessation for at least 6 weeks \n\n Current users of potent inhibitors of tamoxifen metabolism. The potent inhibitors of tamoxifen metabolism are: bupropion, cinacalcet, fluoxetine, paroxetine, quinidine. \n\n Participants may not be receiving any other investigational agents within 90 days of enrollment or during this study. \n\n History of allergic reactions to tamoxifen. \n\n Uncontrolled intercurrent illness that in the judgement of the treating physician would make them unsuitable for study participation \n\n Anticoagulation meds and clinical concern for discontinuing meds for study research biopsy. \n\n Identification of a clinically suspicious mass on examination.",
+    "brief_summary": "The investigators plan to prospectively study breast tissue changes after a short course of Tamoxifen (Tam).",
+    "NCT_ID": "NCT04570956"
+}

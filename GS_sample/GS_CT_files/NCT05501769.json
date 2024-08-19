@@ -1,0 +1,17 @@
+{
+    "brief_title": "ARV-471 in Combination With Everolimus for the Treatment of Advanced or Metastatic ER+, HER2- Breast Cancer",
+    "phase": "Phase 1",
+    "drugs": "['ARV-471 in combination with Everolimus']",
+    "drugs_list": [
+        "ARV-471 in combination with Everolimus"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "32.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically or cytologically confirmed ER+ and HER2-advanced breast cancer (metastatic, recurrent, or unresectable) \n\n Women must be postmenopausal, or pre-/peri-menopausal women must be on ovarian suppression \n\n Measurable disease or non-measurable (evaluable) disease per RECIST v1.1 \n\n Received a minimum of 1 and up to 3 lines of anti-cancer therapy in the advanced/metastatic setting: must have received and progressed on (or were intolerant to) a CDK 4/6 inhibitor, either alone or in combination; must have received at least one endocrine therapy, either alone or in combination; may have received up to one line of chemotherapy \n\n Must be willing to use dexamethasone mouthwash for the prevention of everolimus-induced stomatitis \n\n ECOG performance status of 0 or 1 \n\n ",
+    "exclusion_criteria": ": \n\n Untreated brain metastases or brain metastases requiring steroids above physiologic replacement doses \n\n Prior treatment with ARV-471 \n\n Prior treatment targeting mTOR (e.g. everolimus) \n\n Prior anticancer or investigational drug treatment within 28 days (fulvestrant) or 14 days (tamoxifen or aromatase inhibitor, or CDK 4/6 inhibitor) before the first dose of study drug \n\n Prior anticancer or investigational anticancer drug therapy within 28 days or 5 half-lives (whichever is shorter) before the first dose of study drug, except as mentioned above \n\n Any of the following in the previous 12 months: myocardial infarction, severe/unstable angina, coronary/peripheral artery bypass graft, symptomatic congestive heart failure, cerebrovascular accident, transient ischemic attack, symptomatic pulmonary embolism, or other clinically significant episode of thromboembolism \n\n Any of the following in the previous 6 months: congenital long QT syndrome, Torsade de Pointes, sustained ventricular tachyarrhythmia and ventricular fibrillation, left anterior hemiblock, ongoing cardiac arrythmias/dysrhythmias, atrial fibrillation \n\n Hypertension that cannot be controlled by medication (>150/90 mmHg despite optimal medical therapy) \n\n Active, uncontrolled bacterial, fungal, or viral infection, including hepatitis B virus, hepatitis C virus, known human immunodeficiency virus (HIV), or acquired immunodeficiency syndrome (AIDS)-related illness \n\n Known history of drug-induced pneumonitis or other significant symptomatic deterioration of lung function \n\n Live vaccines within 14 days before the first dose of study drug \n\n Major surgery (as defined by the Investigator) within 4 weeks of first dose of study drug \n\n Radiation therapy within 4 weeks of first dose of study drug or prior irradiation to more than 25% of the bone marrow",
+    "brief_summary": "A phase 1b study to assess the combination of ARV-471 and everolimus in participants with advanced or metastatic ER+/HER2- breast cancer.",
+    "NCT_ID": "NCT05501769"
+}

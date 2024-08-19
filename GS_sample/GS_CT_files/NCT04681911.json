@@ -1,0 +1,24 @@
+{
+    "brief_title": "Inetetamab Combined With Pyrotinib and Chemotherapy in the Treatment of HER2 Positive Metastatic Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Inetetamab', 'Pyrotinib', 'Capecitabine', 'Gemcitabine', 'Vinorelbine', 'Carboplatin', 'Albumin paclitaxel', 'Eribulin']",
+    "drugs_list": [
+        "Inetetamab",
+        "Pyrotinib",
+        "Capecitabine",
+        "Gemcitabine",
+        "Vinorelbine",
+        "Carboplatin",
+        "Albumin paclitaxel",
+        "Eribulin"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "71.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Subjects must meet all of the following conditions: \n\n Adult female patients (age 18-70 years) with metastatic breast cancer confirmed by pathology or imaging; \n\n Pathological diagnosis of HER-2 was positive (definition: immunohistochemical results were + + + or in situ hybridization results were positive); \n\n Received trastuzumab treatment in the past; \n\n the patients have received 1-3 treatments for metastatic breast cancer in the past; \n\n According to RECIST 1.1, patients with at least one target lesion or simple bone metastasis can be evaluated; \n\n ECoG score of physical status was less than 2, and the expected survival time was not less than 3 months; \n\n Prior treatment-related toxicity should be reduced to NCI CTCAE (version 5.0) \u2264 1 degree (except for hair loss or other toxicity which is considered as no risk to patient's safety according to the investigator's judgment) 8\uff09LVEF\u226550%\uff1b \n\n 9) Sufficient functional reserve of bone marrow \n\n White blood cell count (WBC) \u2265 3.0 \u00d7 10 ^ 9 / L, \n\n Neutrophil count (ANC) \u2265 1.5 \u00d7 10 ^ 9 / L, \n\n Platelet count (PLT) \u2265 100 \u00d7 10 ^ 9 / L 10) Previous treatment-related toxicity should be relieved as NCI CTCAE (version 5.0) \u2264 1 degree, total bilirubin (TBIL) \u2264 1.5 \u00d7 upper limit of normal value (ULN), alanine aminotransferase (ALT / AST) \u2264 2.5 \u00d7 ULN (liver metastasis patients \u2264 5xuln), serum creatinine \u2264 1.5 \u00d7 ULN or creatinine clearance rate (CCR) \u2265 60 ml / min; 11) Be able to understand the research process, volunteer to participate in the study, and sign informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Subjects were not allowed to participate in the study if they had any of the following conditions: \n\n No trastuzumab treatment was received; \n\n Have received more than 3 therapeutic regimens for metastatic breast cancer; \n\n No treatment for metastatic breast cancer was received; \n\n Patients who are known to be allergic to active or other components of the study drug. \n\n They received radiotherapy, chemotherapy, endocrine therapy within 4 weeks before enrollment, or were participating in any clinical trials of intervention drugs; \n\n Pregnant or lactating women, women of childbearing age who refused to take effective contraceptive measures during the study period. \n\n Any other situation in which the researcher considers that the patient is not suitable for the study may interfere with the concomitant diseases or conditions involved in the study, or there are any serious medical barriers that may affect the safety of the subjects (e.g., uncontrollable heart disease, hypertension, active or uncontrollable infection, active hepatitis B virus infection)",
+    "brief_summary": "HER2-targeted therapy after the failure of trastuzumab treatment has become a new difficulty and challenge. Inetetamab, a new antibody to optimize the ADCC effect, has become one of the second-line treatment options after trastuzumab fails, showing good survival benefits. Pyrotinib, another second-line HER2 targeted drug, is a typical representative of TKI drugs, which not only has a strong HER2 antagonistic effect but also can synergize with monoclonal antibodies to amplify the ADCC effect. Pyrotinib and Inetetamab showed excellent anti-tumor efficacy and good safety in TKI and optimized ADCC respectively. we plan to carry out a phase II single-arm clinical study to evaluate the efficacy and safety of Inetetamab combined with Pyrotinib and chemotherapy in the treatment of her positive metastatic breast cancer.",
+    "NCT_ID": "NCT04681911"
+}

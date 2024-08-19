@@ -1,0 +1,18 @@
+{
+    "brief_title": "Olaparib as Adjuvant Treatment in Patients With Germline BRCA Mutated High Risk HER2 Negative Primary Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Olaparib', 'Placebo']",
+    "drugs_list": [
+        "Olaparib",
+        "Placebo"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "1836.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically confirmed non-metastatic primary invasive adenocarcinoma of the breast that is one of the following phenotypes: \n\n Triple negative breast cancer defined as: ER and PgR negative AND HER2 negative (not eligible for anti-HER2 therapy) \n\n ER and/or PgR positive, HER2 negative \n\n Documented germline mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious (known or predicted to be detrimental/lead to loss of function). \n\n Completed adequate breast and axilla surgery. \n\n Completed at least 6 cycles neoadjuvant or adjuvant chemotherapy containing anthracyclines, taxanes or the combination of both. Prior platinum as potentially curative treatment for prior cancer (e.g. ovarian) or as adjuvant or neoadjuvant treatment for breast cancer is allowed. \n\n ECOG 0-1. \n\n ",
+    "exclusion_criteria": ": \n\n Any previous treatment with a PARP inhibitor, including olaparib and/or known hypersensitivity to any of the excipients of study treatment. \n\n Patients with second primary malignancy. EXCEPTIONS are: \n\n adequately treated non-melanoma skin cancer, curatively treated in situ cancer of the cervix, Ductal Carcinoma in situ (DCIS) of the breast, stage 1 grade 1 endometrial carcinoma \n\n other solid tumours and lymphomas (without bone marrow involvement) diagnosed \u2265 5 years prior to randomisation and treated with no evidence of disease recurrence and for whom no more than one line of chemotherapy was applied. \n\n Concomitant use of known strong CYP3A inhibitors (e.g., itraconazole, telithromycin, clarithromycin, protease inhibitors boosted with ritonavir or cobicistat, indinavir, saquinavir, nelfinavir, boceprevir, telaprevir) or moderate CYP3A inhibitors (e.g., ciprofloxacin, erythromycin, diltiazem, fluconazole, verapamil). The required washout period prior to starting study treatment is 2 weeks. Concomitant use of known strong (e.g., phenobarbital, enzalutamide, phenytoin, rifampicin, rifabutin, rifapentine, carbamazepine, nevirapine and St John's Wort) or moderate CYP3A inducers (e.g., bosentan, efavirenz, modafinil). The required washout period prior to starting study treatment is 5 weeks for enzalutamide or phenobarbital and 3 weeks for other agents. \n\n Evidence of metastatic breast cancer",
+    "brief_summary": "Olaparib treatment in patients with germline BRCA1/2 mutations and high risk HER2 negative primary breast cancer who have completed definitive local treatment and neoadjuvant or adjuvant chemotherapy",
+    "NCT_ID": "NCT02032823"
+}

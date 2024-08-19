@@ -1,0 +1,19 @@
+{
+    "brief_title": "A Study of TY-302 in Patients With Advanced Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['TY-302: capsule, 25mg/50mg ; Tamoxifen: tablet,10mg']",
+    "drugs_list": [
+        "TY-302: capsule",
+        "25mg/50mg ; Tamoxifen: tablet,10mg"
+    ],
+    "diseases": "['Breast Cancer', 'Solid Tumor']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Solid Tumor"
+    ],
+    "enrollment": "60.0",
+    "inclusion_criteria": "inclusion criteria: \n\n 18-70years old, male or female with solid tumors, female with breast cancer \n\n Histological or cytological confirmation diagnosis of advanced solid tumors (except small cell lung cancer and eye cancer) in TY-302 alone study; and advanced breast cancer in the combination study. \n\n Biopsy proven diagnosis of ER and/or PR positive, HER2 negative. \n\n At least one measurable lesion according to Response Evaluation Criteria in Solid Tumours (RECIST) version 1.1. \n\n Eastern Cooperative Oncology Group (ECOG) performance score 0 or 1. \n\n Life expectancy of at least 3 month. \n\n Adequate organ function as defined by the following criteria: \n\n Serum aspartate transaminase (AST) and serum alanine transaminase (ALT) \u22642.5 x upper limit of normal (ULN), or AST and ALT \u22645 x ULN if liver function abnormalities are due to underlying malignancy; total serum bilirubin \u22641.5 x ULN; Absolute neutrophil count (ANC) \u22651.5\u00d7109/L; platelets(PLT)\u226575\u00d7109/L ; Hemoglobin(Hb) \u2265 90g/L; Serum creatinine \u22641.5 x ULN; Left ejection fraction (LVEF)\u226550%; QTc\u2264470 msec (based on the mean value of the triplicate ECGs). \n\n Female subjects have a negative urine or serum pregnancy. \n\n Provision of signed and dated, written informed consent prior to any study specific procedures, sampling and analyses. \n\n ",
+    "exclusion_criteria": ": \n\n Subjects presenting with any of the following were not to be included in the study: \n\n Previously treated by other CDK4/6 inhibitor. \n\n Hypersensitivity to TY-302(or Tamoxifen in the combination study) or to any of its excipients. \n\n Ocular fundus diseases in the combination study. \n\n Uncontrolled intercurrent illness including active infection, human immunodeficiency virus infection, active hepatitis or other severe acute or chronic medical or psychiatric condition. \n\n Current alcohol/drug abuse or dependence. \n\n Any of the following in the previous 6 months: myocardial infarction, severe/unstable angina, ongoing cardiac dysrhythmias of NCI CTCAE grade\u22652, atrial fibrillation of any grade, coronary/peripheral artery bypass graft, symptomatic congestive heart failure of NCI CTCAE grade\u22652, cerebrovascular accident. \n\n Presence of a condition that would interfere with enteric absorption of TY-302 and/or Tamoxifen. \n\n Any cytotoxic chemotherapy, investigational agents or anticancer drugs for the treatment from a previous treatment regimen within 4 weeks of the first dose. \n\n Spinal cord compression or brain metastases unless asymptomatic. \n\n Major surgery within 8 weeks of first study treatment. \n\n Current use or anticipated need for drugs that are known strong CYP3A4 inhibitors, strong CYP3A4 inducers, Narrow therapeutic index for CYP3A sensitive substrates, CYP2D6 inhibitors, CYP2D6 inducers. \n\n Patients on chronic anticoagulation. \n\n The subject inappropriate for entry into this study in the judgment of the investigator.",
+    "brief_summary": "The primary objective of this study is to evaluate the safety and tolerability of TY-302 single and the combination with Tamoxifen in dose-escalation and dose-expansion study.The drugs involved in this study are:~TY-302~Tamoxifen",
+    "NCT_ID": "NCT04433494"
+}

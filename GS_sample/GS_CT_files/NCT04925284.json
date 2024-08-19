@@ -1,0 +1,28 @@
+{
+    "brief_title": "Study of XB002 in Subjects With Solid Tumors (JEWEL-101)",
+    "phase": "Phase 1",
+    "drugs": "['XB002', 'Nivolumab', 'Bevacizumab']",
+    "drugs_list": [
+        "XB002",
+        "Nivolumab",
+        "Bevacizumab"
+    ],
+    "diseases": "['SCCHN', 'Non Small Cell Lung Cancer', 'Urothelial Cancer', 'Cervical Cancer', 'Pancreatic Cancer', 'Esophageal SCC', 'Metastatic Castration-resistant Prostate Cancer', 'Triple Negative Breast Cancer', 'Hormone Receptor-positive Breast Cancer', 'Epithelial Ovarian Cancer']",
+    "diseases_list": [
+        "SCCHN",
+        "Non Small Cell Lung Cancer",
+        "Urothelial Cancer",
+        "Cervical Cancer",
+        "Pancreatic Cancer",
+        "Esophageal SCC",
+        "Metastatic Castration-resistant Prostate Cancer",
+        "Triple Negative Breast Cancer",
+        "Hormone Receptor-positive Breast Cancer",
+        "Epithelial Ovarian Cancer"
+    ],
+    "enrollment": "524.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Cytologically or histologically and radiologically confirmed solid tumor that is inoperable, locally advanced, metastatic, or recurrent. \n\n Dose-Escalation Stage Cohorts A, AB and AN and Cohort-Expansion Stage (Cohorts B - K, BN, DB, FN and HN): The subject has received standard life-prolonging therapies unless they do not exist, or available therapies are intolerable or no longer effective. \n\n Cohort-Expansion Stage Cohort B and BN (Non-small Cell Lung Cancer): Subjects with Stage IV NSCLC who have documented radiographic disease progression during or following their last systemic anticancer therapy. \n\n Cohort-Expansion Stage Cohort C (Urothelial Cancer): Subjects with transitional cell histology (including renal pelvis, ureter, urinary bladder, urethra) who have documented radiographic disease progression during or following their last systemic anticancer therapy. See ",
+    "exclusion_criteria": " #1 for relevant details. \n\n Cohort-Expansion Stage Cohorts D and DB (Epithelial Ovarian Cancer): Subjects with high-grade serous ovarian cancer, including primary peritoneal cancer (PPC) and fallopian tube cancer (FTC) who have platinum-resistant disease following treatment with platinum-containing chemotherapy. \n\n Cohort-Expansion Stage Cohort E (Cervical Cancer): Subjects with persistent, recurrent, or metastatic carcinoma of the uterine cervix who have documented radiographic disease progression during or following their last systemic anticancer therapy. \n\n Cohorts F and FN (SCCHN): Subjects with head and neck cancer (squamous cell histology) who have documented radiographic disease progression during or following their last systemic anticancer therapy. Allowed primary tumor locations are oral cavity, oropharynx, hypopharynx, glottic larynx. Note: Excluded are subjects with primary tumor site of the nasopharynx. \n\n Cohort G (Pancreatic Cancer): Subjects with pancreatic cancer (adenocarcinoma histology) who have documented radiographic disease progression during or following their last systemic anticancer therapy. \n\n Cohorts H and HN (Esophageal SCC): Subjects with esophageal cancer (squamous cell histology) who have documented radiographic disease progression during or following their last systemic anticancer therapy. Note: subjects with esophageal adenocarcinoma and adenocarcinoma of gastroesophageal junction (GEJ) are excluded. \n\n Cohort I (mCRPC): Subjects with metastatic, castration resistant adenocarcinoma of the prostate. Note: Neuroendocrine differentiation and other histological features are permitted if adenocarcinoma is the primary histology. \n\n Cohort J (TNBC): Subjects with triple-negative (estrogen receptor negative [ER-]/progesterone receptor negative [PR-]/ human epidermal growth factor receptor 2 negative [HER-2-]) breast cancer who have documented radiographic disease progression during or following their last systemic anticancer therapy for inoperable locally advanced or metastatic disease. \n\n Cohort K (HR + BC): Subjects with breast cancer that is hormone receptor-positive (ER+ and/or PR+) and HER-2-) and who have documented radiographic disease progression during or following their last systemic anticancer therapy for inoperable locally advanced or metastatic disease. \n\n Expansion Cohorts: Subjects must have measurable disease per RECIST 1.1 as determined by the Investigator. \n\n Tumor tissue material collected approximately 2 years prior to consent. If archival tumor tissue is not available, a fresh tumor biopsy may be collected from subjects enrolled in the Dose-Escalation Stage and must be collected from subjects in the Cohort-Expansion Stage, at least 7 days (and up to 60 days) prior to first dose. \n\n Recovery to baseline or \u2264 Grade 1 severity (Common Terminology Criteria for Adverse Events version 5 [CTCAE v5]) from AEs. \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-1. \n\n Adequate organ and marrow function. \n\n Sexually active fertile subjects and their partners must agree to use medically accepted methods of contraception. \n\n Female subjects of childbearing potential must not be pregnant at screening. \n\n ",
+    "brief_summary": "This is a Phase 1, open-label, multicenter, dose-escalation and expansion study evaluating the safety, tolerability, PK, pharmacodynamics, and clinical antitumor activity of XB002 administered IV q3w alone and in combination with nivolumab or bevacizumab to subjects with advanced solid tumors.",
+    "NCT_ID": "NCT04925284"
+}

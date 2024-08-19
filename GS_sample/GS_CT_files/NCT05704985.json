@@ -1,0 +1,28 @@
+{
+    "brief_title": "Evaluating Safety and Biomarkers Using DK210 (EGFR) for Locally Advanced or Metastatic EGFR+ Tumors",
+    "phase": "Phase 1",
+    "drugs": "['DK210 (EGFR)', 'Radiation therapy', 'Immune checkpoint blockers', 'Chemotherapy']",
+    "drugs_list": [
+        "DK210 (EGFR)",
+        "Radiation therapy",
+        "Immune checkpoint blockers",
+        "Chemotherapy"
+    ],
+    "diseases": "['Cancer', 'Solid Tumor', 'Colorectal Cancer', 'Pancreas Cancer', 'Non Small Cell Lung Cancer', 'Head and Neck Cancer', 'Gynecologic Cancer', 'Skin Cancer', 'Kidney Cancer']",
+    "diseases_list": [
+        "Cancer",
+        "Solid Tumor",
+        "Colorectal Cancer",
+        "Pancreas Cancer",
+        "Non Small Cell Lung Cancer",
+        "Head and Neck Cancer",
+        "Gynecologic Cancer",
+        "Skin Cancer",
+        "Kidney Cancer"
+    ],
+    "enrollment": "60.0",
+    "inclusion_criteria": "inclusion criteria: \n\n ECOG performance status of 0-1 \n\n Life expectancy of >3 months according to the investigator's judgment \n\n By local standard confirmed progressive metastatic and/or locally advanced unresectable solid cancer with EGFR overexpression or amplification \n\n Measurable disease, defined as at least one (non-irradiated) lesion measurable on CT/MRI or bone scan as defined by RECIST 1.1. \n\n Progressive disease (PD) at study entry defined as one or more of the following criteria: \n\n Clinical PD with performance decline, clinical symptoms and/or observed tumor growth \n\n PD documented with imaging showing at least 20% growth (largest diameter) and/or new lesions \n\n Adequate cardiovascular, hematological, liver, and renal function. \n\n Subjects have failed one or more lines of systemic therapy and have not been operated on or receiving anti-cancer medication for at least 4 weeks. \n\n Males and females of childbearing potential must agree to use effective contraception starting prior to the first day of treatment and continuing during treatment \n\n Additional criteria may apply \n\n ",
+    "exclusion_criteria": ": \n\n Subjects with documented diffuse peritoneal disease or persistent abundant ascites \n\n Subjects with known prolonged QtC interval \n\n Concomitant or recent (<4 weeks or 5 half-lives of the last treatment, whichever is shorter) treatment with agents with anti-tumor activity, including immunotherapies, or experimental therapies. Bone treatments and supportive care can be continued \n\n Major surgery within 4 weeks, Radiation therapy for the treatment of metastases within less than 3 weeks (if single fraction of radiotherapy, then within 2 weeks) and radionuclide therapy for the treatment of metastases within 4 weeks prior to screening \n\n Uncontrolled intercurrent illness including, but not limited to, ongoing and uncontrolled infection (TBC, COVID or HIV patients treated with at least two anti-retroviral drugs and control of their infection with at least 500 /mm3 CD4+ T-cells in their blood and patients cured from Hepatitis B or C (i.e negativity of PCR) and liver function compatible with eligibility criteria are allowed to participate), multiple myeloma, multiple sclerosis, myasthenia gravis, or psychiatric illness/social situations that, in the opinion of the investigator, would limit compliance with study requirement \n\n Any other conditions that, in the investigator's opinion, might indicate the subject to be unsuitable for the study \n\n Additional criteria may apply",
+    "brief_summary": "This study will evaluate safety, pharmacodynamics and biomarkers of subcutaneous (SC) DK210(EGFR) given as monotherapy and in combination with immunotherapy, chemotherapy or radiation.",
+    "NCT_ID": "NCT05704985"
+}

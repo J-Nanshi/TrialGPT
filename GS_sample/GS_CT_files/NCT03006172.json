@@ -1,0 +1,24 @@
+{
+    "brief_title": "To Evaluate the Safety, Tolerability, and Pharmacokinetics of Inavolisib Single Agent in Participants With Solid Tumors and in Combination With Endocrine and Targeted Therapies in Participants With Breast Cancer",
+    "phase": "Phase 1",
+    "drugs": "['Inavolisib', 'Fulvestrant', 'Letrozole', 'Palbociclib', 'Metformin', 'Trastuzumab', 'Pertuzumab']",
+    "drugs_list": [
+        "Inavolisib",
+        "Fulvestrant",
+        "Letrozole",
+        "Palbociclib",
+        "Metformin",
+        "Trastuzumab",
+        "Pertuzumab"
+    ],
+    "diseases": "['Breast Cancer', 'Solid Tumor']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Solid Tumor"
+    ],
+    "enrollment": "256.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Evaluable or measurable disease per RECIST, Version 1.1 (measurable disease only for Arm D) \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 \n\n Life expectancy of greater than or equal to (\u2265) 12 weeks \n\n Adequate hematologic and organ function, including blood counts, liver and kidney function \n\n Stage I Arm A (Inavolisib): \n\n - Locally advanced, recurrent, or metastatic, PIK3CA mutant, incurable solid tumor malignancy, including breast cancer \n\n Stages I and II, Arms B and C: \n\n - Postmenopausal female participants with locally advanced or metastatic PIK3CA-mutant HR+/HER2- breast cancer \n\n Stage II, Arms D, E, or F: \n\n - Female participants with locally advanced or metastatic PIK3CA-mutant HR+/HER2- breast cancer \n\n Stage II Arm D: \n\n - Prior treatment with CDK4/6 inhibitor \n\n Stage II Arm G: \n\n Female participants with locally advanced or metastatic PIK3CA-mutant HER2+ breast cancer \n\n Left ventricular ejection fraction 50% or greater \n\n Stages I and II: \n\n - All participants must provide tumor tissue from the primary or metastatic tumor site obtained from a prior or new biopsy or surgical procedure for detection of PIK3CA mutation by central laboratory test. \n\n ",
+    "exclusion_criteria": ": \n\n Metaplastic breast cancer \n\n History of leptomeningeal disease \n\n Type 1 or 2 diabetes requiring anti-hyperglycemic medication \n\n Inability or unwillingness to swallow pills \n\n Malabsorption syndrome or other condition that would interfere with enteral absorption \n\n Known and untreated, or active central nervous system metastases \n\n Uncontrolled pleural effusion or ascites \n\n Any active infection that could impact patient safety or serious infection requiring intravenous antibiotics \n\n History of other malignancy within 5 years, except for treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, or Stage I uterine cancer \n\n History of or active ventricular dysrhythmias or congestive heart failure requiring medication or symptomatic coronary heart disease \n\n Congenital long QT syndrome, prolonged QT interval, or family history of sudden unexplained death or long QT syndrome \n\n Stage II Arms B, C, D, and E only: \n\n Prior treatment with >1 chemotherapy regimen for metastatic disease \n\n Prior treatment with PI3K inhibitor \n\n History of significant toxicity related to mTOR inhibitor requiring treatment discontinuation \n\n Stage II Arms B and E only: \n\n - Prior CDK4/6 inhibitor treatment \n\n Stage II Arm G only: \n\n Current uncontrolled hypertension or unstable angina \n\n History of congestive heart failure, serious cardiac arrhythmia, or recent myocardial infarction \n\n Prior ejection fraction decrease on trastuzumab \n\n Prior cumulative doxorubicin greater than 360 mg/m2 \n\n Symptomatic active lung disease \n\n History of significant toxicity related to trastuzumab and/or pertuzumab requiring discontinuation of treatment",
+    "brief_summary": "This is an open-label, multicenter, Phase I study designed to evaluate the safety, tolerability, and pharmacokinetics of inavolisib administered orally as a single agent in patients with locally advanced or metastatic PIK3CA-mutant solid tumors, including breast cancer, and in combination with standard-of-care endocrine and/or targeted therapies for the treatment of locally advanced or metastatic PIK3CA-mutant breast cancer. Participants will be enrolled in two stages: a dose-escalation stage (Stage I) and an expansion stage (Stage II). Participants will be assigned to one of seven regimens: inavolisib as a single agent (Arm A), inavolisib in combination with palbociclib and letrozole (Arm B), inavolisib in combination with letrozole (Arm C), inavolisib in combination with fulvestrant (Arm D), inavolisib in combination with palbociclib and fulvestrant (Arm E), inavolisib in combination with palbociclib, fulvestrant, and metformin (Arm F), and inavolisib in combination with trastuzumab and pertuzumab (and letrozole or fulvestrant, if applicable (Arm G)).",
+    "NCT_ID": "NCT03006172"
+}

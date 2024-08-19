@@ -1,0 +1,21 @@
+{
+    "brief_title": "Efficacy and Safety of Dose-dense Chemotherapy (ddEC-ddP) for Neoadjuvant Chemotherapy of HER2-negative Breast Cancer",
+    "phase": "Phase 2; Phase 3",
+    "drugs": "['Epirubicin', 'Cyclophosphamid', 'Docetaxel', 'Paclitaxel']",
+    "drugs_list": [
+        "Epirubicin",
+        "Cyclophosphamid",
+        "Docetaxel",
+        "Paclitaxel"
+    ],
+    "diseases": "['HER2-negative Breast Cancer', 'Neoadjuvant Chemotherapy']",
+    "diseases_list": [
+        "HER2-negative Breast Cancer",
+        "Neoadjuvant Chemotherapy"
+    ],
+    "enrollment": "260.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female aged 18-70 years old; \n\n Histological confirmed with unilateral invasive carcinoma (all pathological types are applicable), clinical stage IIA-IIIA; \n\n Definite reports on ER/PR/HER2 receptor showing all HER2 negative (HER2 is 0 \n\n 1+ or 2+ but determined negative via fluorescence in situ hybridization (FISH) or chemiluminescent in situ hybridization (CISH) detected (no amplification) is defined as HER2 negative); \n\n According to RECIST 1.1, there is at least one measurable objective focus, tumor size > 2cm; \n\n Eastern Cooperative Oncology Group (ECOG) performance score is 0 or 1; \n\n Cardiac function: left ventricular ejection fraction (LVEF)\u226555%; \n\n Normal bone marrow function: White blood cell count > 4 \u00d7 10^9/l, neutrophil count > 1.5 \u00d7 10^9/l, platelet count > 100 \u00d7 10^9/l and hemoglobin 9g/dl; \n\n Normal liver and renal function: aspartate aminotransferase (AST) and ALT \u22642.5 folds of the upper limit of normal values, total bilirubin \u22641.5 folds of the upper limit of normal values; Serum creatinine \u22641.5 folds of the upper limit of normal value. \n\n Informed consent form signed. \n\n ",
+    "exclusion_criteria": ": \n\n HER2 is positive; \n\n Metastasis at any location; \n\n Previous neoadjuvant therapy, including chemotherapy, radiotherapy and hormone therapy; \n\n Severe systemic disease and/or uncontrollable infection, unable to be enrolled in this study; \n\n Known allergic or intolerable to chemotherapeutic agents; \n\n Previously suffering from malignant tumors within 5 years (except for basal cell carcinoma and cervical carcinoma in situ), including contralateral breast cancer; \n\n Cardiovascular disease: LVEF <50% (echocardiography) of New York Heart Association (NYHA) \u2265 grade 2; \n\n Pregnant and breast-feeding women; Pregnancy test showed positive results before drug administration after enrolling in to the study; Women at childbearing age refuse to take contraception measures during the treatment and 8 weeks after completion of treatment; \n\n Already enrolled into other clinical trials; \n\n The researchers judged the patients who were not suitable for this study.",
+    "brief_summary": "Recent clinical studies showed that breast cancer patients especially for those with lymph node metastasis may benefit from dose-dense chemotherapy, like adriamycin and cyclophosphamide (AC) q2w\u00d74\u2192 paclitaxel (P) q2w\u00d74. However, the studies on dose-dense (dd) regimen chemotherapy is mostly based on postoperative adjuvant chemotherapy and the optimum of dose-dense chemotherapy has not been determined for Chinese population with HER2-negative breast cancer patients. In our study, a prospective, randomized, open-label, multi-center clinical study was conducted to compare the efficacy and safety of dose-dense chemotherapy regimen (dd epirubicin/cyclophosphamide (EC) followed by dd paclitaxel (P)) and conventional chemotherapy (epirubicin/cyclophosphamide (EC) followed by docetaxel (T)) as preoperative neoadjuvant chemotherapy in the treatment of HER2-negative breast cancer in Chinese population.",
+    "NCT_ID": "NCT04576143"
+}

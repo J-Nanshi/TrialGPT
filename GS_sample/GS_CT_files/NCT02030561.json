@@ -1,0 +1,18 @@
+{
+    "brief_title": "NK Cell Infusions With Trastuzumab for Patients With HER2+ Breast and Gastric Cancer",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['Trastuzumab + NK cells']",
+    "drugs_list": [
+        "Trastuzumab + NK cells"
+    ],
+    "diseases": "['Breast Cancer', 'Gastric Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Gastric Cancer"
+    ],
+    "enrollment": "29.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age 18-65 \n\n Histologically confirmed diagnosis of HER2-positive breast or gastric cancer (defined as IHC 3+ or HER2 FISH amplification ratio >2.2) \n\n Metastatic disease \n\n Presence of measurable tumour by RECIST 1.1 criteria \n\n Must have failed at least two lines of trastuzumab-containing systemic therapy (documented relapse while receiving adjuvant or neoadjuvant trastuzumab for HER2 positive breast cancer is eligible) \n\n At least two weeks since receipt of any biological therapy, chemotherapy, and/or radiation therapy \n\n Left ventricular ejection fraction \u226550% \n\n Adequate organ function ANC \u2265 1500/\u00b5L Platelet count \u2265 100,000/\u00b5L Creatinine clearance \u226560ml/minute Total bilirubin \u2264 1.5 x upper limit normal (ULN) AST \u2264 2 x upper limit normal ALT \u2264 2 x upper limit normal \n\n ECOG performance status of 0-1 \n\n Life expectancy of at least 60 days \n\n Negative serum or urine pregnancy test result within 14 days prior to enrolment for women who are of childbearing potential \n\n Ability to provide informed consent. Otherwise, a legally authorized representative (LAR) must be present throughout the consent process and is allowed to give consent on the patient's behalf. \n\n Patients with reproductive potential must agree to use an approved contraceptive method \n\n Ability to comply with study procedures \n\n ",
+    "exclusion_criteria": ": \n\n Treatment within the last 30 days with any investigational drug \n\n Concurrent administration of any other tumor therapy, including cytotoxic chemotherapy, hormonal therapy, and immunotherapy \n\n Major surgery within 28 days of study drug administration \n\n Active infection that in the opinion of the investigator would compromise the patient's ability to tolerate therapy \n\n Lactating or pregnant. \n\n Serious concomitant disorders that would compromise the safety of the patient or compromise the patient's ability to complete the study, at the discretion of the investigator; serious cardiac illness or medical conditions including but not limited to: \n\n Patients with dyspnea at rest. \n\n History of documented congestive heart failure \n\n High risk uncontrolled arrhythmias \n\n Angina pectoris requiring a medicinal product \n\n Clinically significant valvular disease \n\n Evidence of transmural infarction on ECG \n\n Poorly controlled hypertension \n\n Second primary malignancy that is clinically detectable at the time of consideration for study enrolment \n\n Symptomatic brain metastases \n\n Receipt of steroids during time period of 3 days prior to expanded NK cell infusion to 30 days after infusion (i.e. day -3 to day +30).",
+    "brief_summary": "This study will determine the safety and efficacy of expanded activated autologous NK cells administered after Trastuzumab in patients with HER2-positive breast or gastric cancer. It will also provide valuable insights of the role of NK cell infusions in adult solid tumors.",
+    "NCT_ID": "NCT02030561"
+}

@@ -1,0 +1,29 @@
+{
+    "brief_title": "First-in-Human Study of RLY-5836 in Advanced Breast Cancer and Other Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['RLY-5836', 'Fulvestrant', 'Palbociclib', 'Ribociclib', 'Abemaciclib']",
+    "drugs_list": [
+        "RLY-5836",
+        "Fulvestrant",
+        "Palbociclib",
+        "Ribociclib",
+        "Abemaciclib"
+    ],
+    "diseases": "['PIK3CA Mutation', 'Solid Tumor, Adult', 'HER2-negative Breast Cancer', 'Breast Cancer', 'Metastatic Breast Cancer', 'Advanced Breast Cancer', 'Unresectable Solid Tumor', 'Hormone Receptor Positive Tumor']",
+    "diseases_list": [
+        "PIK3CA Mutation",
+        "Solid Tumor",
+        "Adult",
+        "HER2-negative Breast Cancer",
+        "Breast Cancer",
+        "Metastatic Breast Cancer",
+        "Advanced Breast Cancer",
+        "Unresectable Solid Tumor",
+        "Hormone Receptor Positive Tumor"
+    ],
+    "enrollment": "220.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patient has ECOG performance status of 0-1 \n\n One or more documented primary oncogenic PIK3CA mutation(s) in blood and/or tumor per local assessment \n\n RLY-5836 single agent arm key inclusion criteria \n\n Disease that is refractory to standard therapy, intolerant to standard therapy, or participant has declined standard therapy. \n\n A histologically or cytologically confirmed diagnosis of unresectable or metastatic solid tumor \n\n Combination arms key inclusion criteria \n\n Males, postmenopausal females, or pre-/perimenopausal females previously treated with gonadotropin-releasing GnRH agonist at least 4 weeks prior to start of study drug with histologically or cytologically confirmed diagnosis of HR+, HER2- unresectable or metastatic breast cancer that is not amenable to curative therapy. \n\n Had previous treatment for advanced or metastatic breast cancer with antiestrogen therapy including, but not limited to, selective estrogen receptor degraders (e.g., fulvestrant), selective estrogen receptor modulators (e.g., tamoxifen), and aromatase inhibitors (AI) (letrozole, anastrozole, exemestane) \n\n ",
+    "exclusion_criteria": ": \n\n Part 1: Grade 3 or higher treatment-related adverse event (AE) or hypersensitivity reaction with prior PI3K\u03b1 inhibitor treatment. Part 2: Prior treatment with a PI3K\u03b1 inhibitor. \n\n Type 1 or Type 2 diabetes requiring antihyperglycemic medication, or fasting plasma glucose \u2265140 mg/dL and glycosylated hemoglobin (HbA1c) \u22657.0%.",
+    "brief_summary": "This is a Phase 1, first-in-human, open-label study designed to evaluate the maximum tolerated dose (MTD), recommended phase 2 dose (RP2D), safety, tolerability, pharmacokinetics, pharmacodynamics, and preliminary anti-tumor activity of RLY-5836 in advanced solid tumors in participants harboring a PIK3CA mutation in blood and/or tumor per local assessment. The study consists of 2 parts, a dose escalation (Part 1) and a dose expansion (Part 2).",
+    "NCT_ID": "NCT05759949"
+}

@@ -1,0 +1,19 @@
+{
+    "brief_title": "A Trial Using ARV-471 or Anastrozole in Post-Menopausal Women With Breast Cancer Prior to Surgery",
+    "phase": "Phase 2",
+    "drugs": "['ARV-471', 'Anastrozole', 'Surgical resection of breast tumor']",
+    "drugs_list": [
+        "ARV-471",
+        "Anastrozole",
+        "Surgical resection of breast tumor"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "150.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Post-menopausal females \u2265 18 years \n\n Histologically or cytologically confirmed ER+ and HER2- breast cancer (per local assessment). ER and HER2 status must be documented: \n\n ER+ disease, with ER staining of \u2265 10% of tumor cell nuclei by IHC per ASCO/CAP Guidelines (Allison 2020). \n\n HER2- disease by either IHC or in situ hybridization per ASCO/CAP guidelines \n\n Ki-67 score \u2265 5%, analyzed locally \n\n Clinical T1c-T4c, N0-N2, M0 breast cancer amenable to definitive surgical resection, without bilateral breast ductal carcinoma in situ or invasive breast cancer \n\n The primary tumor must be at least 1.5 cm by imaging \n\n ECOG performance status of 0 or 1 Willingness to undergo a screening biopsy, an on-treatment biopsy and surgical resection \n\n ",
+    "exclusion_criteria": ": \n\n Any other active malignancy within 3 years prior to enrollment, except for adequately treated basal cell or squamous cell skin cancer, or cervical carcinoma in situ \n\n Any of the following in the previous 6 months: Myocardial infarction; Severe unstable angina; Coronary/peripheral artery bypass graft; Symptomatic congestive heart failure (New York Heart Association class III or IV); Cerebrovascular accident; Transient ischemic attack; Symptomatic pulmonary embolism or other clinically significant episode of thromboembolism \n\n Any of the following in the previous 6 months: Congenital long QT syndrome; Torsade de Pointes; Sustained ventricular tachyarrhythmia and ventricular fibrillation; Left anterior hemiblock (bifascicular block); Ongoing cardiac dysrhythmias of NCI CTCAE \u2265 Grade 2; Atrial fibrillation of any grade (\u2265 Grade 2 in the case of asymptomatic lone atrial fibrillation) \n\n QTcF > 470 msec \n\n Active, uncontrolled bacterial, fungal or viral infection, including HBV, HCV, and HIV or AIDS-related illness \n\n Active inflammatory gastrointestinal disease, chronic diarrhea, known uncontrolled diverticular disease, or previous gastric resection or lap band surgery \n\n Cirrhosis meeting criteria for Child Pugh B and C \n\n Prior treatment for breast cancer including systemic therapy (eg, chemotherapy, hormonal therapy), radiation, surgery, or any investigational agents \n\n Any live vaccines within 14 days of planned start of first dose of study drug. \n\n Major surgery (as defined by the Investigator) within four weeks of first dose of study drug",
+    "brief_summary": "This trial is a Phase 2 neoadjuvant study evaluating ARV-471 or anastrozole in post-menopausal women with ER+/HER2- localized breast cancer.",
+    "NCT_ID": "NCT05549505"
+}

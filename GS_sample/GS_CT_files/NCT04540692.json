@@ -1,0 +1,18 @@
+{
+    "brief_title": "Evaluation of Sequencing of Anthracyclines and Taxanes for Locally Advanced HER2-negative Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Docetaxel or Paclitaxel', 'Cyclophosphamide + Doxorrubicin']",
+    "drugs_list": [
+        "Docetaxel or Paclitaxel",
+        "Cyclophosphamide + Doxorrubicin"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "494.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female participants, with at least 18 years old on the day of signing the free and informed consent; \n\n Invasive breast carcinoma stage III (RH positive) or IIB/III (RH negative), according to TNM 8th edition; Histologically confirmed diagnosis of invasive breast carcinoma (with any histology), HER-2 negative; \n\n The participant (or legally acceptable representative, if applicable) provides written informed consent for the study; \n\n The participant must agree to use a contraceptive as detailed in Appendix B of this protocol during the treatment period and for at least 120 days after the last dose of the study treatment; \n\n Have a functional capacity according to the Eastern Cooperative Oncology Group (ECOG) from 0 to 2. The evaluation of the ECOG must be carried out within 7 days before the inclusion date. \n\n Have adequate organic function. The samples must be collected within 60 days before the start of the study treatment; \n\n Have adequate cardiac function as assessed by echocardiogram or MUGA performed up to 60 days before the start of treatment under study. \n\n ",
+    "exclusion_criteria": ": \n\n - Individuals who do not meet the inclusion criteria above-mentioned.",
+    "brief_summary": "Phase III randomized clinical trial evaluating the sequencing of anthracyclines and taxanes in neoadjuvant therapy for locally advanced HER2-negative breast cancer.",
+    "NCT_ID": "NCT04540692"
+}

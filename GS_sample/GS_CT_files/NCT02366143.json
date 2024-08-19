@@ -1,0 +1,22 @@
+{
+    "brief_title": "A Study of Atezolizumab in Combination With Carboplatin Plus (+) Paclitaxel With or Without Bevacizumab Compared With Carboplatin+Paclitaxel+Bevacizumab in Participants With Stage IV Non-Squamous Non-Small Cell Lung Cancer (NSCLC)",
+    "phase": "Phase 3",
+    "drugs": "['Atezolizumab (MPDL3280A), an engineered anti-PD-L1 antibody', 'Bevacizumab', 'Carboplatin', 'Paclitaxel']",
+    "drugs_list": [
+        "Atezolizumab (MPDL3280A)",
+        "an engineered anti-PD-L1 antibody",
+        "Bevacizumab",
+        "Carboplatin",
+        "Paclitaxel"
+    ],
+    "diseases": "['Carcinoma, Non-Small-Cell Lung']",
+    "diseases_list": [
+        "Carcinoma",
+        "Non-Small-Cell Lung"
+    ],
+    "enrollment": "1202.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Eastern Cooperative Oncology Group performance status 0 or 1 \n\n Histologically or cytologically confirmed, Stage IV non-squamous NSCLC \n\n Participants with no prior treatment for Stage IV non-squamous NSCLC \n\n Known PD-L1 status as determined by immunohistochemistry assay performed on previously obtained archival tumor tissue or tissue obtained from a biopsy at screening \n\n Measurable disease as defined by RECIST v1.1 \n\n Adequate hematologic and end organ function \n\n ",
+    "exclusion_criteria": ": \n\n Cancer-Specific Exclusions: \n\n Active or untreated central nervous system metastases \n\n Malignancies other than NSCLC within 5 years prior to randomization, with the exception of those with a negligible risk of metastasis or death treated with expected curative outcome \n\n General Medical Exclusions: \n\n Pregnant or lactating women \n\n History of autoimmune disease \n\n History of idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced pneumonitis, idiopathic pneumonitis, or evidence of active pneumonitis on screening chest computed tomography scan. History of radiation pneumonitis in the radiation field (fibrosis) is permitted \n\n Positive test for human immunodeficiency virus \n\n Active hepatitis B or hepatitis C \n\n Severe infection within 4 weeks prior to randomization \n\n Significant cardiovascular disease \n\n Illness or condition that interferes with the participant's capacity to understand, follow and/or comply with study procedures \n\n ",
+    "brief_summary": "This randomized, open-label study evaluated the safety and efficacy of atezolizumab (an engineered anti-programmed death-ligand 1 [PD-L1] antibody) in combination with carboplatin+paclitaxel with or without bevacizumab compared with treatment with carboplatin+paclitaxel+bevacizumab in chemotherapy-na\u00efve participants with Stage IV non-squamous NSCLC. Participants were randomized in a 1:1:1 ratio to Arm A (Atezolizumab+Carboplatin+Paclitaxel), Arm B (Atezolizumab+Carboplatin+Paclitaxel+Bevacizumab), or Arm C (Carboplatin+Paclitaxel+Bevacizumab).",
+    "NCT_ID": "NCT02366143"
+}

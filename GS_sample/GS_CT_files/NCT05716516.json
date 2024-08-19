@@ -1,0 +1,17 @@
+{
+    "brief_title": "STUDY02001740;22SCH740: Estradiol For ER+ Advanced Breast Cancer (ESTHER)",
+    "phase": "Phase 2",
+    "drugs": "['Estradiol']",
+    "drugs_list": [
+        "Estradiol"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "36.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Post-menopausal women with ER+ breast cancer. \n\n Metastatic or locoregional recurrence not amenable to treatment with curative \n\n intent. \n\n Received \u22651 prior line of endocrine-based therapy (e.g., including tamoxifen, aromatase inhibitors, fulvestrant, or combinations) in the advanced/metastatic setting \n\n ",
+    "exclusion_criteria": ": \n\n During the study Treatment Phase with 17b-estradiol, no concurrent anti-cancer therapies are allowed with the following exceptions: \n\n Exception: Trastuzumab is allowed for the treatment of subjects with a history of HER2+ disease, and will be used at the physician's discretion. \n\n Exception: Anti-resorptive bone therapies (e.g., bisphosphonates, denosumab) are permitted. \n\n Any investigational cancer therapy in the last 3 weeks. \n\n Known CNS disease, unless clinically stable for \u2265 3 months. \n\n History of any of the following: \n\n Deep venous thrombosis. \n\n Pulmonary embolism. \n\n Stroke. \n\n Acute myocardial infarction. \n\n Congestive heart failure. \n\n Previous malignancy not treated with curative intent, or with an estimated recurrence risk \u226530%.",
+    "brief_summary": "Determine whether subjects harboring ESR1-mutant/amplified breast cancer have a higher rate of clinical benefit from 17b-estradiol therapy than subjects with ESR1-wild-type breast cancer",
+    "NCT_ID": "NCT05716516"
+}

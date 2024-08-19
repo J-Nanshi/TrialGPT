@@ -1,0 +1,21 @@
+{
+    "brief_title": "Study of Sacituzumab Govitecan-hziy Versus Treatment of Physician's Choice in Participants With HR+/HER2- Metastatic Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Sacituzumab Govitecan-hziy', 'Eribulin', 'Capecitabine', 'Gemcitabine', 'Vinorelbine']",
+    "drugs_list": [
+        "Sacituzumab Govitecan-hziy",
+        "Eribulin",
+        "Capecitabine",
+        "Gemcitabine",
+        "Vinorelbine"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "543.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Documented evidence of hormone receptor-positive human epidermal growth factor receptor 2 negative (HER2-negative) (hormonal receptor-positive (HR+)/HER2-) metastatic breast cancer (MBC) confirmed \n\n Refractory to or relapsed after at least 2, and no more than 4, prior systemic chemotherapy regimens for MBC including: \n\n At least 1 prior anticancer hormonal treatment. \n\n At least 1 cyclin-dependent kinase inhibitor 4/6 in the metastatic setting. \n\n Eligible for one of the chemotherapy options listed in the TPC arm \n\n Documented disease progression after the most recent therapy \n\n Adequate bone marrow function (hemoglobin \u2265 9 g/dL, absolute neutrophil count (ANC) \u2265 1,500 per mm^3, platelets \u2265 100,000 per mm^3). \n\n Adequate renal function: calculated creatinine clearance \u2265 30 mL/minute according to the Cockcroft and Gault formula \n\n Adequate hepatic function (bilirubin \u2264 1.5 institutional upper limit of normal (IULN), aspartate aminotransferase (AST) and Alanine aminotransferase (ALT) \u2264 2.5 x IULN or 5.0 x IULN) \n\n Females must not be lactating or pregnant at Screening or Baseline (as documented by a negative beta human chorionic gonadotropin (\u00df-hCG)) \n\n Key ",
+    "exclusion_criteria": ": \n\n Previous treatment with topoisomerase 1 Inhibitors as a free form or as other formulations \n\n History of significant cardiovascular disease or clinically significant electrocardiogram (ECG) abnormality \n\n Individuals with Gilbert's disease. \n\n Active serious infection requiring antibiotics \n\n Individuals with a history of an anaphylactic reaction to irinotecan \n\n Other concurrent medical or psychiatric conditions that, in the Investigator's opinion, may be likely to confound study interpretation or prevent completion of study procedures and follow-up examinations. \n\n Locally advanced MBC (stage IIIc) in individuals who are candidates for curative intent therapy at the time of study enrollment \n\n Note: Other protocol defined Inclusion/",
+    "brief_summary": "The primary objective of this study is to assess and compare the efficacy and safety of sacituzumab govitecan-hzi versus treatment of physician's choice (TPC) in participants with hormonal receptor-positive (HR+) human epidermal growth factor receptor 2 (HER2-) negative metastatic breast cancer (MBC).",
+    "NCT_ID": "NCT03901339"
+}

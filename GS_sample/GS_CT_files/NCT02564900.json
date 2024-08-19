@@ -1,0 +1,19 @@
+{
+    "brief_title": "Study of DS-8201a in Subjects With Advanced Solid Malignant Tumors",
+    "phase": "Phase 1",
+    "drugs": "['DS-8201a (DP1)', 'DS-8201a (DP2)', 'DS-8201a (DP)']",
+    "drugs_list": [
+        "DS-8201a (DP1)",
+        "DS-8201a (DP2)",
+        "DS-8201a (DP)"
+    ],
+    "diseases": "['Advanced Solid Tumors']",
+    "diseases_list": [
+        "Advanced Solid Tumors"
+    ],
+    "enrollment": "292.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Eastern Cooperative Oncology Group performance status( PS) of 0 or 1. \n\n Left Ventricular Ejection Fraction (LVEF) \u2265 50% \n\n Part 1: \n\n Advanced/unresectable or metastatic breast cancer or gastric or gastroesophageal junction adenocarcinoma that is refractory to or intolerable with standard treatment, or for which no standard treatment is available. \n\n Part 2a: \n\n Advanced breast cancer with HER2 overexpression that is refractory to or intolerable with standard treatment, or for which no standard treatment is available. \n\n Treated with ado-trastuzumab emtansine (T-DM1) \n\n Part 2b: \n\n Advanced gastric or gastroesophageal junction adenocarcinoma with HER2 overexpression that is refractory to or intolerable with standard treatment, or for which no standard treatment is available. \n\n Treated with trastuzumab \n\n Part 2c: \n\n Advanced breast cancer with HER2 low expression that is refractory to or intolerable with standard treatment, or for which no standard treatment is available. \n\n Part 2d: \n\n Satisfy at least one of the following criteria \n\n Advanced/unresectable or metastatic solid malignant tumor with HER2 expression other than breast cancer and gastric or gastroesophageal junction adenocarcinoma that is refractory to or intolerable with standard treatment, or for which no standard treatment is available. \n\n Advanced/unresectable or metastatic tumor with HER2 mutation that is refractory to or intolerable with standard treatment, or for which no standard treatment is available. \n\n Part 2e: \n\n Advanced breast cancer with HER2 overexpression that is refractory to or intolerable with standard treatment, or for which no standard treatment is available. \n\n Treated with ado-trastuzumab emtansine (T-DM1) (patients with HER2 overexpression only) \n\n ",
+    "exclusion_criteria": ": \n\n Has a medical history of symptomatic Congestive Heart Failure (CHF) (NYHA classes II-IV) or serious cardiac arrhythmia. \n\n Has a medical history of myocardial infarction or unstable angina. \n\n Has a QTc prolongation to > 450 millisecond (ms) in males and > 470 ms in females. \n\n Has a medical history of clinically significant lung diseases",
+    "brief_summary": "This is an open-label, two-part, multicenter study to evaluate the safety and tolerability of DS-8201a in participants with advanced solid malignant tumors.",
+    "NCT_ID": "NCT02564900"
+}

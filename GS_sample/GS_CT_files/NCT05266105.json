@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Phase 1 Study of Oral OP-1250 in Combination With Palbociclib in HR+/HER2- Breast Cancer Patients",
+    "phase": "Phase 1",
+    "drugs": "['OP-1250', 'Palbociclib']",
+    "drugs_list": [
+        "OP-1250",
+        "Palbociclib"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Confirmed and evaluable locally advanced or metastatic breast cancer \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 \n\n Must not have received prior oral endocrine or targeted therapy \u2264 2 weeks prior to first dose \n\n Must not have received prior chemotherapy, antibody therapy, or investigational therapy \u2264 4 weeks prior to the first dose \n\n Prior radiotherapy must have been completed 2 weeks prior to first dose \n\n Adequate safety laboratory tests \n\n Willingness to use effective contraception \n\n ",
+    "exclusion_criteria": ": \n\n Gastrointestinal disease \n\n Significant hepatic disease \n\n Significant cardiovascular disease \n\n Significant ECG abnormalities \n\n History of pulmonary embolism or high risk of thrombosis \n\n Known HIV infection \n\n Active infection (requiring antimicrobial therapy) \n\n Pregnant",
+    "brief_summary": "This is an open-label, Phase 1b dose escalation and expansion study to determine the maximum tolerated dose (MTD) of OP-1250 in combination with palbociclib (Ibrance\u00ae\ufe0f, Pfizer Inc.). Purpose of study is to evaluate the safety and pharmacokinetic (PK) profile, and estimate the preliminary anti-tumor activity of the combination in adult subjects with hormone receptor-positive (ER+ / HER2-) advanced or metastatic breast cancer (MBC).",
+    "NCT_ID": "NCT05266105"
+}

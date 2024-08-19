@@ -1,0 +1,20 @@
+{
+    "brief_title": "Gene Signatures to Guide HR+MBC Therapy in a Diverse Cohort",
+    "phase": "Phase 2",
+    "drugs": "['Capecitabine', 'Endocrine-therapy', 'MammoPrint \u00ae and BluePrint assays']",
+    "drugs_list": [
+        "Capecitabine",
+        "Endocrine-therapy",
+        "MammoPrint \u00ae and BluePrint assays"
+    ],
+    "diseases": "['Invasive Mammary Carcinoma', 'Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Invasive Mammary Carcinoma",
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "64.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Signed and dated written informed consent. \n\n Subjects \u2265 18 years of age. \n\n Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1. \n\n Clinical stage IV invasive mammary carcinoma or unresectable locoregional recurrence of invasive mammary carcinoma that is: \n\n ER/PR-positive (> 1% cells) by IHC and HER2 negative (by IHC or FISH) \n\n Previously exposed to an aromatase inhibitor (AI) or a selective estrogenreceptor modulator/ downregulator (SERM; SERD) + a CDK4/6 inhibitor \n\n Appropriate candidates for chemotherapy \n\n Measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 criteria that has not been previously irradiated and which can be followed by CT or MRI. \n\n Adequate organ function including: \n\n Absolute neutrophil count (ANC) \u2265 1.5 \u00d7 10^9/L \n\n Platelets \u2265 100 \u00d7 10^9/L \n\n Hemoglobin \u2265 9/g/dL (may have been transfused) \n\n Total serum bilirubin \u2264 1.5 times upper limit of normal (ULN) \n\n Aspartate aminotransferase (AST/SGOT) and alanine aminotransferase (ALT/SGPT) \u2264 2.5 \u00d7 ULN (or \u2264 5 \u00d7 ULN if liver metastases are present) \n\n Serum creatinine \u2264 1.5 x ULN or estimated creatinine clearance \u2265 50 mL/min as calculated using the Cockcroft-Gault (CG) equation \n\n ",
+    "exclusion_criteria": ": \n\n PIK3CA mutation \n\n Prior chemotherapy in the metastatic setting \n\n More than 1 line of prior endocrine therapy in the metastatic setting \n\n Radiation therapy \u2264 2 weeks prior to study entry. Patients who have received prior radiotherapy must have recovered from toxicity (\u2264 grade 1) induced by this treatment (except for alopecia) \n\n Previous malignant disease other than breast cancer within the last 5 years, with the exception of basal or squamous cell carcinoma of the skin, cervical carcinoma in situ, or low-risk cancers considered curatively treated (i.e. complete remission achieved at least 2 years prior to first dose of study drugs AND additional therapy not required while receiving study treatment). \n\n Symptomatic brain metastases (patients with a history of brain metastases must be clinically stable for more than 4 weeks from completion of radiation treatment and off steroids) \n\n Persisting toxicity related to prior therapy that has not reduced to Grade 1 [National Cancer Institute Common Toxicity Criteria for Adverse Events (NCI CTCAE) version 5.0]; however, alopecia and sensory neuropathy Grade \u2264 2 is acceptable. \n\n Pregnant or breastfeeding females.",
+    "brief_summary": "This is an open-label, multicenter, two-arm Phase II clinical trial that will evaluate the impact of 2nd line chemotherapy (i.e. capecitabine) on survival in patients with non-Luminal A hormone receptor-positive (HR+) metastatic breast cancer (MBC)",
+    "NCT_ID": "NCT05693766"
+}

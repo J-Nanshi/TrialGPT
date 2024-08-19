@@ -1,0 +1,21 @@
+{
+    "brief_title": "SEQUence of Endocrine Therapy in Advanced Luminal Breast Cancer (SEQUEL-Breast)",
+    "phase": "Phase 2",
+    "drugs": "['Alpelisib 150 MG Oral Tablet [Piqray]', 'Fulvestrant']",
+    "drugs_list": [
+        "Alpelisib 150 MG Oral Tablet [Piqray]",
+        "Fulvestrant"
+    ],
+    "diseases": "['Neoplasm, Breast', 'Congenital, Familial and Genetic Disorders']",
+    "diseases_list": [
+        "Neoplasm",
+        "Breast",
+        "Congenital",
+        "Familial and Genetic Disorders"
+    ],
+    "enrollment": "130.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Adult women and men (\u2265 18 years of age) with proven diagnosis of adenocarcino-ma of the breast withlocoregional recurrent or metastatic disease not amenable to resection or radiation therapy with curative intent andfor whom chemotherapy is not clinically indicated \n\n Estrogen receptor (ER) expression >10% and/or progesterone receptor (PR) expression >10% breast cancerbased on local la-boratory results. Tumor must be HER2- as defined by ASCO-CAP guidelines \n\n Patients must have progressed on fulvestrant as a preceding treatment line (as first or second line therapy) \n\n Previous treatment with a CDK4/6 inhibitor in the advanced setting \n\n The presence of an activating PIK3CA mutation \n\n Evaluable disease* as defined per RECIST v.1.1 \n\n Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1 or 2 \n\n ",
+    "exclusion_criteria": ": \n\n Patients with advanced, symptomatic, visceral spread, who are at risk of life-threatening complications in theshort term \n\n Known active uncontrolled or symptomatic CNS metastases, carcinomatous meningitis, or leptomeningealdisease as indicated by clinical symptoms, cerebral edema, and/or progressive growth \n\n Prior treatment with a PI3K /AKT/mTOR inhibitor \n\n Type 1 diabetes or uncontrolled type 2 diabetes (Hba1C > 68 mmol/mol) \n\n Clinically significant, uncontrolled heart disease and/or recent cardiac events",
+    "brief_summary": "The study is a nationwide, multicenter single-arm phase 2 study. The current phase 2 study investigates the efficacy of the combination of fulvestrant and alpelisib directly after progression on fulvestrant (either in first or second line, with or without previous use of CDK4/6-inhibitor) in patients with HR+ HER2- advanced breast cancer with PIK3CA mutated tumors.~All eligible patients must have progressive disease on fulvestrant as latest treatment line.~Previous treatment with a CDK4/6 inhibitor in first or second line is obligatory. After progressive disease is confirmed, it is important to continue fulvestrant (without CDK4/6 inhibition) during the screening period awaiting study enrollment.~After study enrollment all participants will be treated with alpelisib and fulvestrant beyond progression. Follow-up time will be until progression or death or until a different oncolytic treatment has started (in case no progressive disease during previous fulvestrant and alpelisib treatment has been documented).~Should participants discontinue due to reasons other than progression or death (e.g. toxicity), then they should still be evaluated for disease progression every 8 weeks as per protocol until progression, unless they do not wish to proceed with these screenings, or receive a different oncolytic treatment.",
+    "NCT_ID": "NCT05392608"
+}

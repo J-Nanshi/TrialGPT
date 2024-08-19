@@ -1,0 +1,17 @@
+{
+    "brief_title": "A Trial of Doxil and Multiday Vinorelbine in Patients With Metastatic Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Doxil and Vinorelbine']",
+    "drugs_list": [
+        "Doxil and Vinorelbine"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients must be informed of the investigational nature of this study and must give and sign informed consent in compliance with federal and institutional guidelines. \n\n Women 18 years or older with biopsy proven advanced breast cancer. \n\n Patients with reproductive potential must use an adequate contraceptive method (e.g., abstinence, intrauterine device, oral contraceptives, barrier device with spermicide, or surgical sterilization) during treatment and for three months after completing treatment. \n\n Performance status (PS) 0-2 (ECOG). PS must be 0-1 if patient has had more than one prior regimen for metastatic disease or more than 2 prior regimens, including adjuvant and metastatic. \n\n Measurable disease by RECIST criteria, with baseline staging completed within 14 days of registration. \n\n At least two weeks post surgery and three weeks from completion of irradiation and recovered from toxicities associated with these treatments. \n\n Psychological, family, social and geographical conditions allowing weekly medical follow up during chemotherapy are required. \n\n Preregistration blood work must include complete blood counts with differential, and blood chemistries including serum bilirubin, GGT, LDH, SGOT, SGPT, alkaline phosphatase, creatinine, and tumor markers, CEA and CA 27-29. Patients must have: \n\n Absolute neutrophil count (ANC) >1,500/mm3 \n\n Platelet count >100,000/mm3 \n\n Hemoglobin > 8.0 g/dl \n\n Serum creatinine < 2.5 mg/dl (< 200 mol/L) \n\n Serum bilirubin < the upper limit of normal (ULN) \n\n SGOT and SGPT or AST and ALT < 2.0 x ULN \n\n Alkaline phosphatase < 2.0 x ULN, except if attributed to tumor \n\n Life expectancy > than 12 week. \n\n ",
+    "exclusion_criteria": ": \n\n Prior Doxil\u00ae or vinorelbine \n\n Cumulative anthracycline dose exceeding 400 mg/m2 anthracycline \n\n Primary anthracycline refractory disease, ie. disease progression during treatment or relapse/recurrence within 6 months after last dose of anthracycline \n\n If PS 0-1, more than 3 prior chemotherapy regimens, including adjuvant and metastatic \n\n If PS 2, more than 1 prior regimen for metastatic disease or more than 2 prior chemotherapy regimens, including adjuvant and metastatic \n\n Hormone therapy including aromatase inhibitors within 2 weeks of baseline \n\n Pregnant or lactating women. Women of reproductive potential must have a negative pregnancy test and must agree to use an effective contraceptive method \n\n Prior history of cardiac disease, with New York Heart Association Class II or greater, or clinical evidence of congestive heart failure \n\n Symptomatic brain metastasis \n\n Past medical history of severe hypersensitivity reaction to conventional formulation of doxorubicin HCL or the components of Doxil\u00ae or vinorelbine",
+    "brief_summary": "This is a phase II trial of Doxil on day 1 and vinorelbine on days 1 and 2 in women with metastatic breast cancer. Administered every 28 days. A study to assess the safety and efficacy of Doxil and vinorelbine in metastatic breast cancer.",
+    "NCT_ID": "NCT00159094"
+}

@@ -1,0 +1,22 @@
+{
+    "brief_title": "A Study of Novel Anti-cancer Agents in Patients With Metastatic Triple Negative Breast Cancer",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['Durvalumab', 'Capivasertib', 'Oleclumab', 'Paclitaxel', 'Trastuzumab deruxtecan', 'Datopotamab deruxtecan']",
+    "drugs_list": [
+        "Durvalumab",
+        "Capivasertib",
+        "Oleclumab",
+        "Paclitaxel",
+        "Trastuzumab deruxtecan",
+        "Datopotamab deruxtecan"
+    ],
+    "diseases": "['Triple Negative Breast Neoplasms']",
+    "diseases_list": [
+        "Triple Negative Breast Neoplasms"
+    ],
+    "enrollment": "210.0",
+    "inclusion_criteria": "inclusion criteria \n\n Female \n\n At least 18 years of age at the time of screening \n\n Patient must have locally confirmed advanced/unresectable or metastatic TNBC. \n\n No prior treatment for metastatic (Stage IV) TNBC \n\n Patient must have at least 1 lesion, not previously irradiated, that can be accurately measured \n\n WHO/ECOG status at 0 or 1 at enrollment \n\n Patients enrolled to Arm 6 (durvalumab and DS-8201a) Must provide documentation of locally determined advanced/unresectable or metastatic TNBC with HER2 low tumor expression (IHC 2+/ISH-, IHC 1+/ISH-, or IHC 1+/ISH untested) \n\n ",
+    "exclusion_criteria": " \n\n History of allogeneic organ transplantation \n\n Active or prior documented autoimmune or inflammatory disorders \n\n Active infection including tuberculosis, hepatitis B (known positive HBV surface antigen [HBsAg] result), hepatitis C virus (HCV), or human immunodeficiency virus (positive HIV 1/2 antibodies) \n\n Untreated CNS metastases \n\n Known allergy or hypersensitivity to any of the study drugs or any of the study drug excipients \n\n Any concurrent chemotherapy, IP, or biologic therapy for cancer treatment \n\n Female patients who are pregnant, breastfeeding \n\n Cardiac Ejection Fraction less than 50% \n\n Patients enrolled in Arm 2 only: \n\n Potent inhibitors or inducers or substrates of CYP3A4 or substrates of CYP2C9 or CYP2D6 within 2 weeks before the first dose of study treatment (3 weeks for St John's Wort) \n\n Diagnosis of diabetes mellitus Type I or diabetes mellitus Type II requiring insulin treatment. \n\n Any factors that increase the risk of QTc prolongation or risk of arrhythmic events, such as heart failure, hypokalemia, potential for torsades de pointes, congenital long QT syndrome, family history of long QT syndrome or unexplained sudden death under 40 years of age, or any concomitant medication known to prolong the QT interval \n\n Prior treatment with PI3K inhibitors, AKT inhibitors, or mammalian target of rapamycin (mTOR) inhibitors. \n\n Patients enrolled in Arm 5 only: History of venous thromboembolism in the past 3 months \n\n Patients enrolled in Arm 7 only: Clinically significant corneal disease in the opinion of the Investigator. \n\n Patients enrolled in Arm 6 and 7 only: \n\n History of or active interstitial lung disease/pneumonitis \n\n Use of chloroquine or hydroxychloroquine in <14 days prior to Day 1 of DS-8201a (Arm 6) or Dato-DXd (DS-1062a; Arm 7) treatment \n\n Patients enrolled in Arm 6 only: Previously been diagnosed as HER2+ or received HER2-targeted therapy.",
+    "brief_summary": "This study is designed to determine the efficacy and safety of durvalumab in combination with novel oncology therapies with or without paclitaxel and durvalumab + paclitaxel for first-line metastatic triple negative breast cancer",
+    "NCT_ID": "NCT03742102"
+}

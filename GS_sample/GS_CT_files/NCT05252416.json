@@ -1,0 +1,28 @@
+{
+    "brief_title": "(VELA) Study of BLU-222 in Advanced Solid Tumors",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['BLU-222', 'Carboplatin', 'Ribociclib', 'Fulvestrant']",
+    "drugs_list": [
+        "BLU-222",
+        "Carboplatin",
+        "Ribociclib",
+        "Fulvestrant"
+    ],
+    "diseases": "['Advanced Solid Tumors', 'HR+ Breast Cancer', 'CCNE1 Amplification', 'HER2-negative Breast Cancer', 'Ovarian Cancer', 'Endometrial Cancer', 'Gastric Cancer', 'Esophageal Adenocarcinoma', 'Carcinosarcoma']",
+    "diseases_list": [
+        "Advanced Solid Tumors",
+        "HR+ Breast Cancer",
+        "CCNE1 Amplification",
+        "HER2-negative Breast Cancer",
+        "Ovarian Cancer",
+        "Endometrial Cancer",
+        "Gastric Cancer",
+        "Esophageal Adenocarcinoma",
+        "Carcinosarcoma"
+    ],
+    "enrollment": "366.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Advanced solid tumors that has progressed beyond standard of care OR \n\n HR+ HER2- BC that has progressed following treatment with a CDK4/6 inhibitor OR \n\n Endometrial and gastric cancer that has progressed after at least 2 prior therapies (including one prior platinum therapy) OR \n\n Platinum refractory or platinum resistant ovarian cancer CCNE1 amplified tumors that have progressed beyond standard of care \n\n ",
+    "exclusion_criteria": ": \n\n Have visceral crisis, lymphangitic spread, or leptomeningeal carcinomatosis. \n\n Have received the following anticancer therapy: \n\n a. Previous therapy with CDK2i, PKMYT1i, or WEE1i, except in Part 1A where up to 10 patients who previously received PKMYT1i, or WEE1 inhibitor will be permitted. \n\n Have central nervous system (CNS) metastases or spinal cord compression that is associated with progressive neurological symptoms or requires increasing doses of corticosteroids to control the CNS disease. \n\n Have known intracranial hemorrhage and/or bleeding diatheses. \n\n Have clinically active ongoing ILD of any etiology, including drug-induced ILD, and radiation pneumonitis within 28 days prior to initiation of study treatment. \n\n Have any unresolved toxicities from prior therapy greater than CTCAE Grade 1 or that have not resolved to baseline at the time of starting the study. \n\n Have mean resting QTcF > 450 msec in men or QTcF > 470 msec in women, a history of prolonged QT syndrome or Torsades de pointes, or a familial history of prolonged QT syndrome. \n\n Have clinically significant, uncontrolled, cardiovascular disease including congestive heart failure Grade III or IV according to the New York Heart Association classification; myocardial infarction or unstable angina within the previous 6 months, uncontrolled hypertension, or clinically significant, uncontrolled arrhythmias, including bradyarrhythmia that may cause QT prolongation (eg, Type II second degree heart block or third-degree heart block). \n\n Have a history of another primary malignancy other than completely resected carcinomas in situ) that has been diagnosed or required therapy within 2 years prior to initiation of study treatment. \n\n Have known active, uncontrolled infection (viral, bacterial, or fungal), including tuberculosis, hepatitis B virus (HBV), hepatitis C virus, AIDS-related illness, or COVID-19 infection (symptoms and a positive test result). \n\n Requires treatment with a prohibited medication or herbal remedy that cannot be discontinued at least 2 weeks before the start of study drug administration. \n\n Have planned major surgical procedure within 14 days of the first dose of study drug (procedures such as central venous catheter placement, tumor needle biopsy, and feeding tube placement are not considered major surgical procedures). \n\n Unwilling or unable to comply with scheduled visits, study drug administration plan, laboratory tests, or other study procedures and study restrictions. \n\n Patient is a woman who is not postmenopausal or surgically sterile, and is unwilling to abstain from sexual intercourse or employ highly effective contraception OR is a man who is not surgically sterile, and is unwilling to abstain from sexual intercourse or employ highly effective contraception \n\n Patient is a pregnant female",
+    "brief_summary": "This is a Phase 1/2, open-label, first-in-human (FIH) study designed to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), and anticancer activity of BLU-222, a selective inhibitor of CDK2.",
+    "NCT_ID": "NCT05252416"
+}

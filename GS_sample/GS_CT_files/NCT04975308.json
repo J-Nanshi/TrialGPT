@@ -1,0 +1,21 @@
+{
+    "brief_title": "A Study of Imlunestrant, Investigator's Choice of Endocrine Therapy, and Imlunestrant Plus Abemaciclib in Participants With ER+, HER2- Advanced Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Imlunestrant', 'Exemestane', 'Fulvestrant', 'Abemaciclib']",
+    "drugs_list": [
+        "Imlunestrant",
+        "Exemestane",
+        "Fulvestrant",
+        "Abemaciclib"
+    ],
+    "diseases": "['Breast Neoplasms', 'Neoplasm Metastasis']",
+    "diseases_list": [
+        "Breast Neoplasms",
+        "Neoplasm Metastasis"
+    ],
+    "enrollment": "860.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Have a diagnosis of ER+, HER2- locally advanced or metastatic breast cancer \n\n Have disease that has demonstrated progression on or after an aromatase inhibitor alone or in combination with a cyclin-dependent kinase (CDK)4/6 inhibitor \n\n -- Participants are expected to have received prior treatment with a CDK4/6 inhibitor, if this treatment is approved and can be reimbursed \n\n Must be deemed appropriate for treatment with endocrine therapy \n\n If female, have a postmenopausal status by natural or surgical means or by ovarian function suppression \n\n Have RECIST evaluable disease (measurable disease and/or nonmeasurable bone-only disease) \n\n Have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group scale (Oken et al. 1982) \n\n Have adequate renal, hematologic, and hepatic organ function \n\n Must be able to swallow capsules/tablets \n\n ",
+    "exclusion_criteria": ": \n\n Have received prior treatment with chemotherapy (except for neoadjuvant/ adjuvant chemotherapy), fulvestrant, or any investigational-ER-directed therapy (including SERDs and non-SERDs), any PI3K-, mTOR- or AKT- inhibitor \n\n Have visceral crisis, lymphangitic spread within the lung, or any evidence of leptomeningeal disease. \n\n Have symptomatic or untreated brain metastasis. \n\n Have serious preexisting medical conditions that, in the judgment of the investigator, would preclude participation in this study \n\n Known allergic reaction against any of the components of the study treatment",
+    "brief_summary": "The main purpose of this study is to measure how well imlunestrant works compared to standard hormone therapy, and how well imlunestrant with abemaciclib work compared to imlunestrant in participants with breast cancer that is estrogen receptor positive (ER+) and human epidermal receptor 2 negative (HER2-). Participants must have breast cancer that is advanced or has spread to another part of the body. Study participation could last up to 5 years.",
+    "NCT_ID": "NCT04975308"
+}

@@ -1,0 +1,34 @@
+{
+    "brief_title": "Stereotactic Brain-directed Radiation With or Without Aguix Gadolinium-Based Nanoparticles in Brain Metastases",
+    "phase": "Phase 2",
+    "drugs": "['Stereotactic Radiation', 'AGuIX gadolinium-based nanoparticles', 'Placebo']",
+    "drugs_list": [
+        "Stereotactic Radiation",
+        "AGuIX gadolinium-based nanoparticles",
+        "Placebo"
+    ],
+    "diseases": "['Whole Brain Radiation', 'Brain Cancer', 'Brain Metastases', 'Melanoma', 'Lung Cancer', 'Breast Cancer', 'HER2-positive Breast Cancer', 'Colorectal Cancer', 'Gastrointestinal Cancer', 'SRS', 'SRT', 'Stereotactic Radiation', 'AGuIX', 'Nanoparticle', 'Cystic', 'Brain Tumor']",
+    "diseases_list": [
+        "Whole Brain Radiation",
+        "Brain Cancer",
+        "Brain Metastases",
+        "Melanoma",
+        "Lung Cancer",
+        "Breast Cancer",
+        "HER2-positive Breast Cancer",
+        "Colorectal Cancer",
+        "Gastrointestinal Cancer",
+        "SRS",
+        "SRT",
+        "Stereotactic Radiation",
+        "AGuIX",
+        "Nanoparticle",
+        "Cystic",
+        "Brain Tumor"
+    ],
+    "enrollment": "134.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Participants must have a biopsy proven solid malignancy and at least one intracranial measurable lesion spanning \u22655mm in maximal unidimensional size and radiographically consistent with or pathologically proven to be a brain metastasis AND meet one of the following additional criteria regarding the primary site or nature of the intracranial disease: \n\n Melanoma with intracranial growth consistent with tumor progression despite immunotherapy \n\n Gastrointestinal primary \n\n HER2 positive breast cancer (subtype assessed using most representative tissue available in opinion of enrolling clinician and/or study PI) \n\n Cystic metastases \n\n Metastases \u22652cm in maximal unidimensional size \n\n Locally recurrent metastases after prior stereotactic radiation \n\n Locally recurrent metastases after prior whole brain radiation *Patients with metastases from melanoma, GI primaries, or HER2+ breast cancer, as well as those with cystic metastases or metastases \u22652cm in maximal unidimensional size, who have local recurrences after prior brain-directed radiation can only be treated in the strata permitting prior radiation (last two strata above) \n\n Age \u226518 years at diagnosis of brain metastases \n\n Estimated glomerular filtration rate of \u2265 60 mL/min/1.73m2 \n\n Karnofsky performance status of at least 70 (i.e. at minimum, cares for self but unable to carry on normal activity or do active work) \n\n Estimated survival based on extracranial disease of at least 3 months in the opinion of the enrolling clinician and/or study PI \n\n Ability to understand and the willingness to sign a written informed consent document \n\n The effects of AGuIX on the developing human fetus are unknown. For this reason, women of child-bearing potential must agree to use adequate contraception prior to study entry and for the duration of the therapeutic component of study participation \n\n ",
+    "exclusion_criteria": ": \n\n Participants who cannot undergo a brain MRI \n\n Participants who cannot receive gadolinium \n\n Participants with widespread, definitive leptomeningeal disease \n\n Patients requiring radiation to either >10 targets (if na\u00efve to whole brain radiation) or >20 targets (if whole brain radiation has been given previously) per the discretion of the treating clinician and/or study PI \n\n Pregnant women are excluded from this study because of the potential deleterious effects of gadolinium on the developing fetus. Because there is an unknown but potential risk for adverse events in nursing infants, women who are breastfeeding are not eligible for this study \n\n In cohorts who have received prior brain-directed radiation, patients are not eligible for this study if they have active (at the time of protocol screening) brain metastases that require radiation that are in or within 1.0cm of the brainstem, eyes, optic nerves, or optic chiasm if the juxtaposed organ at risk (i.e. brainstem, eyes, optic nerves, or optic chiasm) has previously received either >6.0 Gy in a single fraction or, if prior radiation was fractionated, a cumulative dose in 2.0 Gy equivalents, using an alpha/beta ratio of 2, of >40.0 Gy. In addition, all patients who have had prior brain-directed radiation, regardless of technique/dose/fractionation, are not eligible for the study until written approval is provided by the study/site PI",
+    "brief_summary": "The purpose of this study is to determine whether AGuIX (Activation and Guidance of Irradiation by X-ray) gadolinium-based nanoparticles make radiation work more effectively in the treatment of patients with brain metastases that are more difficult to control with stereotactic radiation alone.",
+    "NCT_ID": "NCT04899908"
+}

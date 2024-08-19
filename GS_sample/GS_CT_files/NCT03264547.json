@@ -1,0 +1,21 @@
+{
+    "brief_title": "A Study to Compare Eribulin Mesylate + Pertuzumab + Trastuzumab With Paclitaxel or Docetaxel + Pertuzumab + Trastuzumab",
+    "phase": "Phase 3",
+    "drugs": "['Pertuzumab', 'Trastuzumab', 'Docetaxel', 'Paclitaxel', 'Eribulin']",
+    "drugs_list": [
+        "Pertuzumab",
+        "Trastuzumab",
+        "Docetaxel",
+        "Paclitaxel",
+        "Eribulin"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "480.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients with breast cancer that is confirmed histologically or cytologically \n\n Patients who are confirmed to be HER2 positive for the primary or a metastatic lesion at a participating medical institution \n\n Patients with no medical history of treatment for advanced/recurrent cancer using a regimen of drugs including chemotherapeutics \n\n >=6 months have passed since perioperative treatment with anticancer agents \n\n Presence of a measurable lesion not required \n\n Female aged 20-70 years old at the time of consent acquisition \n\n Baseline left ventricular ejection fraction (LVEF) measured by ECHO or MUGA of >=50% \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of 0-1 \n\n Patients who have maintained major organ functions, meeting all of the following criteria on a test within 28 days before enrollment. If there are multiple test results during this period, that obtained immediately before enrollment should be adopted. \n\n (1) Neutrophil count: >=1,500/mm3 (2) Platelet count: >=100,000/mm 3 (3) Hemoglobin: >=9.0 g/dL (4) Total bilirubin: <=1.5 mg/dL (5) AST (GOT), ALT (GPT): <=2.5 times the ULN (<=5 times in those with liver metastasis) (6) Serum creatinine: <=1.5 mg/dL 10) Patients with a life expectancy of at least 6 months 11) Patient who submits written consent herself after receiving sufficient explanation about this study 12) Patients who can undergo QOL investigation \n\n ",
+    "exclusion_criteria": ": \n\n Patients planning to undergo radical surgery if they respond to a treatment \n\n Patients who have non-hematological adverse events assessed as Grade >=3 in the Common Terminology Criteria for Adverse Events ver. 4.0 in the Japanese JCOG version (CTCAE v4.0-JCOG) at the time of enrollment \n\n Patients who have symptomatic metastases to the central nervous system or whose symptoms are hard to control \n\n Patients who have active double cancer \n\n Patients who have poorly controlled hypertension, or unstable angina \n\n Patients who have a past history of congestive heart failure assessed as Class ll or higher in the New York Heart Association (NYHA) classification, or clinically significant arrhythmia requiring treatment \n\n Patients with a past history of myocardial infarction within 6 months before enrollment \n\n Patients who are expected to undergo major surgical treatment or who had severe injury within 28 days before enrollment, or who require major surgical treatment during the study treatment period \n\n Patients with interstitial pneumonia which is symptomatic or requires treatment \n\n Pregnant women, those with a positive pregnancy test, and lactating women \n\n Patients with active systemic infection (including HCV and HBV), or who are found to be HIV-positive \n\n Patients with hypersensitivity against pertuzumab and trastuzumab \n\n Patients whom the investigator consider unable or unwilling to follow the protocol requirements",
+    "brief_summary": "To verify that combination therapy with trastuzumab + pertuzumab + eribulin brings similar PFS and better QOL compared to trastuzumab + pertuzumab + taxane in advanced/recurrent HER2-positive breast cancer patients who have no medical history of chemotherapy except ado-trastuzumab emtansine",
+    "NCT_ID": "NCT03264547"
+}

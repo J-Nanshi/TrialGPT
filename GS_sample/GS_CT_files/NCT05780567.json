@@ -1,0 +1,24 @@
+{
+    "brief_title": "Clinical Study on Adjuvant Therapy of TQB3616 Combined With Endocrine Therapy Compared With Placebo Combined With Endocrine Therapy in Patients With Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['TQB3616 capsules, Letrozole, Anastrozole, Tamoxifen', 'Placebo capsules, Letrozole, Anastrozole, Tamoxifen']",
+    "drugs_list": [
+        "TQB3616 capsules",
+        "Letrozole",
+        "Anastrozole",
+        "Tamoxifen",
+        "Placebo capsules",
+        "Letrozole",
+        "Anastrozole",
+        "Tamoxifen"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "1946.0",
+    "inclusion_criteria": "inclusion criteria: \n\n The subjects voluntarily joined the study and signed the informed consent, with good compliance. \n\n Age: 18-75 years old (upon signing the informed consent); Eastern Cooperative Oncology Group Performance Status (PS) score: 0 \n\n 1; \n\n Surgical treatment of radical mastectomy; \n\n Pathological examination confirmed HR positive and HER2 negative invasive breast cancer; \n\n The major organs are functioning well, meeting the following criteria\uff1a \n\n Blood biochemical tests should meet the following criteria (no corrective therapy has been used within 7 days prior to screening)\uff1a \n\n Hemoglobin (HB) \u226590 g/L\uff1b \n\n Neutrophil absolute value (NEUT) \u2265 1.5\u00d7109/L\uff1b \n\n Platelet count (PLT) \u2265 100 \u00d7109/L\uff1b \n\n Blood biochemical tests should meet the following criteria (no corrective therapy has been used within 7 days prior to screening)\uff1a \n\n Total bilirubin (TBIL) \u2264 1.5 times the upper limit of normal (ULN)\uff1b \n\n Alanine transferase (ALT) and aspartate transferase (AST) \u2264 1.5\u00d7ULN\uff1b \n\n Serum creatinine (Cr) \u2264 1.5\u00d7ULN, or creatinine clearance (Ccr) \u2265 60 ml/min\uff1b \n\n Blood clotting tests must meet the following criteria (no anticoagulant therapy)\uff1a \n\n Prothrombin time (PT) \u2264 1.5\u00d7ULN; \n\n Activated partial thromboplastin time (APTT) \u2264 1.5\u00d7ULN; \n\n International Normalized ratio (INR) \u2264 1.5\u00d7ULN. \n\n Left ventricular ejection fraction (LVEF) \u226550%. \n\n ",
+    "exclusion_criteria": ": \n\n Complicated diseases and medical history: \n\n Has had other malignant tumors within 5 years or currently has other malignant tumors; \n\n Have a variety of factors that affect oral medication (such as inability to swallow); \n\n Current history of serious lung disease such as interstitial pneumonia\uff1b \n\n Severe infections common terminology criteria for adverse events (\u2265CTCAE (common terminology criteria for adverse events) 2 grade) that were active or uncontrolled before the study treatment started (Except hair loss and hemoglobin)\uff1b \n\n Known allergy to aromatase inhibitors, tamoxifen, TQB3616/ placebo, or any excipients; \n\n There was a history of live attenuated vaccine vaccination within 28 days prior to randomization or live attenuated vaccine vaccination was planned during the study period; \n\n Participated in clinical trials of other antitumor agents within 4 weeks prior to randomization\uff1b \n\n The presence of other serious physical or mental illnesses or abnormalities in laboratory tests that may increase the risk of study participation or interfere with the study results, as well as subjects who are deemed unsuitable for study participation for other reasons by the investigator.",
+    "brief_summary": "This is a Phase III, randomized, double-blind, parallel, multi-center trail to evaluate the efficacy and safety of TQB3616 capsule combined with endocrine compared to placebo compared with endocrine in HR-positive and HER2-negative breast cancer adjuvant therapy. Approximately 1946 female subjects will be randomized to either TQB3616 combined with endocrine group or TQB3616-matching placebo combined endocrine group. Randomization will follow a 2:1 ratio, 1297 subjects in experimental group and 649 in the the Placebo Comparator group.",
+    "NCT_ID": "NCT05780567"
+}

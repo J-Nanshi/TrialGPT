@@ -1,0 +1,19 @@
+{
+    "brief_title": "Precise Treatment for BLIS Subtype of TNBC in the First-line Treatment of Locally Advanced or Metastatic Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['VEGFR', 'nab-paclitaxel', 'Eribulin Mesylate/Vinorelbine/Capecitabine/Carboplatin']",
+    "drugs_list": [
+        "VEGFR",
+        "nab-paclitaxel",
+        "Eribulin Mesylate/Vinorelbine/Capecitabine/Carboplatin"
+    ],
+    "diseases": "['Triple-Negative Breast Cancer']",
+    "diseases_list": [
+        "Triple-Negative Breast Cancer"
+    ],
+    "enrollment": "192.0",
+    "inclusion_criteria": "inclusion criteria: \n\n ECOG Performance Status of 0-1 \n\n Expected lifetime of not less than three months \n\n Metastatic or locally advanced, histologically documented TNBC (absence of HER2, ER, and PR expression) \n\n Cancer stage: recurrent or metastatic breast cancer; Local recurrence be confirmed by the researchers could not be radical resection \n\n Patients had received no previous chemotherapy or targeted therapy for metastatic triple-negative breast cancer \n\n At least one measurable or non-measurable lesion according to Response Evaluation Criteria in Solid Tumors v1.1 (RECIST v1.1), which didn't receive radiation therapy \n\n The functions of major organs are basically normal \n\n For women of childbearing potential: agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive measures as outlined for each specific treatment arm \n\n Have the cognitive ability to understand the protocol and be willing to participate and to be followed up \n\n ",
+    "exclusion_criteria": ": \n\n Symptomatic, untreated, or actively progressing CNS metastases \n\n Significant cardiovascular disease \n\n Adverse reactions of Grade \u22651 that are still continuing due to previous treatments. Exceptions are those of hair loss or which researchers take it as exception \n\n Active hepatitis B or hepatitis C \n\n History of malignancy other than breast cancer within 5 years prior to screening, with the exception of those with a negligible risk of metastasis or death \n\n Pregnancy or breastfeeding, or intention of becoming pregnant during the study \n\n History of gastrointestinal bleeding within 6 months or any serious bleeding events \n\n Abdominal fistula, gastrointestinal perforation or abdominal abscess occurred within 28 days before participating in this study \n\n Long-term unhealing wound or incomplete healing of fracture \n\n Urine protein \u22652+ and 24h urine protein quantitative > 1 g \n\n Patients suffering from hypertension and unable to reach the normal range after antihypertensive drug treatment (systolic blood pressure >140mmHg, diastolic blood pressure >90mmHg)",
+    "brief_summary": "The study is being conducted to evaluate VEGFR BP102 with nab-paclitaxe or treatment of physician's choice (TPC) versus nab-paclitaxe or TPC in patients for basal-like immune suppressed (BLIS) subtype of triple-negative breast cancer (TNBC) in the first-line teatment of unresectable locally advanced or metastatic TNBC.",
+    "NCT_ID": "NCT05806060"
+}

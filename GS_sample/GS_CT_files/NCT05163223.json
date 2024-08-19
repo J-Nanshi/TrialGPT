@@ -1,0 +1,21 @@
+{
+    "brief_title": "Therapeutic Cancer Vaccine (AST-301, pNGVL3-hICD) in Patients With Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['AST-301(pNGVL3-hICD)', 'rhuGM-CSF', 'Placebo', 'Pembrolizumab', 'Capecitabine']",
+    "drugs_list": [
+        "AST-301(pNGVL3-hICD)",
+        "rhuGM-CSF",
+        "Placebo",
+        "Pembrolizumab",
+        "Capecitabine"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "146.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Has a residual invasive cancer in the breast(non-pCR) after neoadjuvant treatment \n\n Has stage I, II, or III disease prior to surgery per American Joint Committee on Cancer (AJCC) \n\n HER 2 1+ by IHC or HER2 2+by IHC without gene amplification by ISH, as defined by American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) guidelines. \n\n Hormone receptor (ER and PR) negative by ASCO/CAP guidelines \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 \n\n Demonstrates adequate organ function. \n\n Key ",
+    "exclusion_criteria": ": \n\n Has a history of hypersensitivity or other contraindications to rhGM-CSF \n\n Has a history of invasive malignancy \u22645 years prior to first administration of investigational drug except for adequately treated non-melanoma skin cancer or carcinoma in situ. \n\n Is on immune suppression therapy or has a history of immune suppression therapy \u22644 weeks prior to the first administration of investigational drugs \n\n Has a history of autoimmune disease or inflammatory disease \n\n Has active infection including tuberculosis, hepatitis B, hepatitis C or human immunodeficiency virus (HIV) infection \n\n Is pregnant or breastfeeding or expecting to conceive children",
+    "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of an adjuvant treatment of therapeutic cancer vaccine (AST-301, pNGVL3-hICD) in patients with HER2-low expression (IHC 1+ or 2+ and ISH-) and hormone receptor-negative(ER-, PR-) breast cancer with residual disease after neoadjuvant treatment.~Patients will be randomized 1:1 to either the Experimental arm (combination of AST-301/rhuGM CSF and standard adjuvant therapy) or the Control arm (combination of placebo/rhuGM CSF and standard adjuvant therapy). Standard adjuvant chemotherapy will be pembrolizumab or capecitabine.~Adjuvant therapy will be administered in compliance with the NCCN guideline for breast cancer (Version 8, 2021), and IP (AST-301) will be administered 3 times every 3 weeks in the adjuvant treatment period, with a booster administered at 24 weeks (\u00b17 days) post the third dose of IP administration.~Survival follow up will be performed to determine invasive Disease Free survival(iDFS).",
+    "NCT_ID": "NCT05163223"
+}

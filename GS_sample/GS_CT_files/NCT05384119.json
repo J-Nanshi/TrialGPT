@@ -1,0 +1,19 @@
+{
+    "brief_title": "Study of TTI-101 in Combination for Participants With Metastatic Hormone Receptor (HR)-Positive and Human Epidermal Receptor 2 (HER2)-Negative Breast Cancer",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['TTI-101', 'Palbociclib', 'Aromatase inhibitor (AI)']",
+    "drugs_list": [
+        "TTI-101",
+        "Palbociclib",
+        "Aromatase inhibitor (AI)"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "53.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Participants must meet all the following criteria to be eligible: \n\n Age \u226518 years at the time of informed consent. \n\n Metastatic or locally advanced breast cancer not amenable to curative treatment by surgery or radiotherapy. \n\n Currently receiving palbociclib and AI therapy in the metastatic setting with evidence of progressive disease. In addition: \n\n Must have remained on palbociclib and AI therapy for \u22656 months for advanced breast cancer or metastatic disease prior to evidence of progression that in the opinion of the treating physician warrants continued therapy with palbociclib and AI. \n\n Must be continuing on palbociclib at a dose of 125, 100, or 75 mg administered orally for 21 days every 28-day cycle. \n\n All men and premenopausal women must be on medical gonadal suppression therapy with a gonadotropin analog (e.g, goserelin or leuprolide) and have estrogen levels in the postmenopausal range by institutional criteria at baseline. \n\n Has an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1. \n\n Has documented confirmation of histological or cytological HR-positive, HER2-negative breast cancer per local laboratory testing. \n\n Only 1 prior line of systemic treatment (palbociclib and AI) in the locally advanced or metastatic setting is allowed; the participant must have shown evidence of progressive disease on palbociclib and AI in the locally advanced or metastatic setting prior to enrollment. \n\n Willing to provide a representative fresh tumor tissue specimen prior to enrollment. The fresh tumor specimen must be obtained after evidence of progression on first-line palbociclib and AI. \n\n The presence of measurable disease as per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 is required. Lesions in a previously irradiated area that have not progressed are not considered measurable. \n\n ",
+    "exclusion_criteria": ": \n\n Participants meeting any of the following ",
+    "brief_summary": "The primary objectives of the Phase 1b part of this study are to evaluate the safety and tolerability of TTI-101 when added to palbociclib and aromatase inhibitor (AI) administered orally to participants with HR-positive HER2-negative palbociclib-resistant breast cancer, and to determine the recommended Phase 2 dose (RP2D) for TTI-101 when added to palbociclib and AI.~The primary objective of the Phase 2 part of this study is to evaluate tumor response by Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 criteria in participants who receive TTI-101 added to palbociclib and AI.",
+    "NCT_ID": "NCT05384119"
+}

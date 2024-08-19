@@ -31,6 +31,7 @@ trial2info
 #%%
 # loading the patient info
 _, queries, _ = GenericDataLoader(data_folder=f"../dataset/{corpus}/").load(split="test")
+queries
 #%%
 queries_1 = {'sigir-20141': 'A 58-year-old African-American woman presents to the ER with episodic pressing/burning anterior chest pain that began two days earlier for the first time in her life. The pain started while she was walking, radiates to the back, and is accompanied by nausea, diaphoresis and mild dyspnea, but is not increased on inspiration. The latest episode of pain ended half an hour prior to her arrival. She is known to have hypertension and obesity. She denies smoking, diabetes, hypercholesterolemia, or a family history of heart disease. She currently takes no medications. Physical examination is normal. The EKG shows nonspecific changes.'}
 #%%

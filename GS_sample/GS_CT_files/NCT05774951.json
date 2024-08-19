@@ -1,0 +1,22 @@
+{
+    "brief_title": "A Study of Camizestrant in ER+/HER2- Early Breast Cancer After at Least 2 Years of Standard Adjuvant Endocrine Therapy",
+    "phase": "Phase 3",
+    "drugs": "['Camizestrant', 'Tamoxifen', 'Anastrozole', 'Letrozole', 'Exemestane']",
+    "drugs_list": [
+        "Camizestrant",
+        "Tamoxifen",
+        "Anastrozole",
+        "Letrozole",
+        "Exemestane"
+    ],
+    "diseases": "['Breast Cancer, Early Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Early Breast Cancer"
+    ],
+    "enrollment": "4300.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women and Men, \u226518 years at the time of screening (or per national guidelines) \n\n Histologically confirmed ER+/HER2- early-stage resected invasive breast cancer with high or intermediate risk of recurrence, based on clinical-pathological risk features, as defined in the protocol. \n\n Completed adequate (definitive) locoregional therapy (surgery with or without radiotherapy) for the primary breast tumour(s), with or without (neo)adjuvant chemotherapy \n\n Completed at least 2 years but no more than 5 years (+3 months) of adjuvant ET \n\n Prior adjuvant therapy with CDK4/6 inhibitors for 2 years is allowed \n\n Eastern Cooperative Oncology Group (ECOG) performance status of \u2264 1 \n\n Adequate organ and marrow function \n\n ",
+    "exclusion_criteria": ": \n\n Inoperable locally advanced or metastatic breast cancer \n\n Pathological complete response following treatment with neoadjuvant therapy \n\n History of any other cancer (except non-melanoma skin cancer or carcinoma in situ of the cervix or considered at very low risk of recurrence per investigator judgement) unless in complete remission with no therapy for a minimum of 5 years from the date of randomisation \n\n Any evidence of severe or uncontrolled systemic diseases which, in the investigator's opinion precludes participation in the study or compliance \n\n Known LVEF <50% with heart failure NYHA Grade \u22652. \n\n Mean resting QTcF interval >470 ms at screening \n\n Concurrent exogenous reproductive hormone therapy or non-topical hormonal therapy for non-cancer-related conditions \n\n Any concurrent anti-cancer treatment not specified in the protocol with the exception of bisphosphonates (e.g. zoledronic acid) or RANKL inhibitors (eg, denosumab) \n\n Previous treatment with camizestrant, investigational SERDs/investigational ER targeting agents, or fulvestrant \n\n Currently pregnant (confirmed with positive serum pregnancy test) or breastfeeding \n\n Patients with known hypersensitivity to active or inactive excipients of camizestrant or drugs with a similar chemical structure or class to camizestrant. In pre-/peri-menopausal female and male patients, known hypersensitivity or intolerance to LHRH agonists, that would preclude the patient from receiving any LHRH agonist",
+    "brief_summary": "This is a Phase III open-label study to assess if camizestrant improves outcomes compared to standard endocrine therapy in patients with ER+/HER2 - early breast cancer with intermediate or high risk for disease recurrence who completed definitive locoregional therapy (with or without chemotherapy) and standard adjuvant endocrine therapy (ET) for at least 2 years and up to 5 years. The planned duration of treatment in either arm of the study is 60 months.",
+    "NCT_ID": "NCT05774951"
+}

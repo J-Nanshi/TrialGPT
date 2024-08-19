@@ -1,0 +1,22 @@
+{
+    "brief_title": "Roll-over Study to Allow Continued Access to Ribociclib",
+    "phase": "Phase 4",
+    "drugs": "['Ribociclib', 'Letrozole', 'Anastrozole', 'Goserelin', 'Tamoxifen', 'Fulvestrant']",
+    "drugs_list": [
+        "Ribociclib",
+        "Letrozole",
+        "Anastrozole",
+        "Goserelin",
+        "Tamoxifen",
+        "Fulvestrant"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "137.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Currently participating in a Novartis sponsored global study (parent study), receiving treatment with ribociclib in combination with other drugs, and the parent study has fulfilled its primary objective(s) \n\n Must have been receiving treatment with ribociclib for at least 6 cycles in the parent study \n\n Currently has evidence of clinical benefit as determined by the Investigator \n\n Key ",
+    "exclusion_criteria": ": \n\n Permanent discontinuation of ribociclib in the parent study \n\n Currently has unresolved toxicities for which ribociclib dosing has been interrupted in the parent study 3. Local access to commercially available ribociclib and reimbursed \n\n Other protocol-defined inclusion/",
+    "brief_summary": "This is an open-label, multi-center, roll-over study to evaluate the long term safety of ribociclib in combination with other drugs in participants who are participating in a Novartis sponsored global study, that has fulfilled requirements for its primary objective(s), and who in the opinion of the Investigator, would benefit from continued treatment.",
+    "NCT_ID": "NCT05161195"
+}

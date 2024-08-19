@@ -1,0 +1,21 @@
+{
+    "brief_title": "Neoadjuvant FDC With Melatonin or Metformin for Locally Advanced Breast Cancer.",
+    "phase": "Phase 2",
+    "drugs": "['metformin', 'Fluoruracil', 'Doxorubicin', 'Cyclophosphamide', 'melatonin']",
+    "drugs_list": [
+        "metformin",
+        "Fluoruracil",
+        "Doxorubicin",
+        "Cyclophosphamide",
+        "melatonin"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "96.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age >18. Obtained Inform Consent Morphologically confirmed breast cancer stage IIB, IIIA,IIIB,IIIC. ( triple negative, luminal B) Eastern Collaborative Oncology Group Performance Status Scale 0 - 2. Expected survival >6 month Adequate liver and bone marrow function \n\n ",
+    "exclusion_criteria": ": \n\n Systemic treatment for breast cancer IV stage disease Evidence of liver and bone marrow clinically meaningful disfunction Severe uncontrolled concomitant conditions and diseases Pregnancy or lactation Second malignancy Diabetes mellitus requiring drug therapy Any condition preventing study participation by investigator opinion",
+    "brief_summary": "This study evaluates the addition melatonin and metformin to conventional chemotherapy FDC (Fluoruracil, Doxorubicin, cyclophosphamide) in the treatment of locally advanced breast cancer. Third of patients will receive FDC\u04456 cycles, other third will receive combination of melatonin and FDC\u04456 cycles and other patients will receive combination of metformin and FDC\u04456 cycles.",
+    "NCT_ID": "NCT02506777"
+}

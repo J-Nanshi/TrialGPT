@@ -1,0 +1,24 @@
+{
+    "brief_title": "Phase 1a and Phase 2 Study for PK, PD, Safety and Preliminary Efficacy of ST-067",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['ST-067']",
+    "drugs_list": [
+        "ST-067"
+    ],
+    "diseases": "['Cancer', 'Solid Tumor', 'Melanoma', 'Renal Cell Carcinoma', 'Triple-negative Breast Cancer', 'Non Small Cell Lung Cancer', 'Squamous Cell Carcinoma of the Head and Neck', 'Carcinoma']",
+    "diseases_list": [
+        "Cancer",
+        "Solid Tumor",
+        "Melanoma",
+        "Renal Cell Carcinoma",
+        "Triple-negative Breast Cancer",
+        "Non Small Cell Lung Cancer",
+        "Squamous Cell Carcinoma of the Head and Neck",
+        "Carcinoma"
+    ],
+    "enrollment": "198.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Male and female patients aged \u226518 years \n\n Must provide written informed consent and any authorizations required by local law \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 \n\n Have histologically or cytologically confirmed diagnosis of advanced/metastatic solid tumor \n\n For Phase 1a, the following solid tumors are allowed: Melanoma, Merkel cell, RCC, urothelial, NSCLC,TNBC, SCCHN, microsatellite instability high, high tumor mutation burden (Hi TMB) or mismatch repair deficient, gastric, cervical, endometrial, cutaneous squamous, small cell lung, esophageal, hepatocellular carcinoma and platinum resistant ovarian cancer. \n\n For patients who have developed disease progression through standard therapy, or \n\n For patients whom standard of care therapy that prolongs survival is not available or suitable (according to the investigator and after consultation with the Medical Monitor) \n\n For Phase 2, the following solid tumors are allowed: \n\n Melanoma, RCC, TNBC, NSCLC, SCCHN, and MSI-Hi tumors \n\n Has at least 1 measurable lesion per RECIST 1.1 criteria which has not been biopsied or received prior irradiation \n\n Has an accessible tumor for biopsy pre- and on-treatment (mandatory). \n\n ",
+    "exclusion_criteria": ": \n\n History of another malignancy \n\n Known symptomatic brain metastases requiring >10 mg/day of prednisolone \n\n Significant cardiovascular disease \n\n Significant ECG abnormalities i \n\n Evidence of an ongoing systemic bacterial, fungal, or viral infection \n\n Has received a live vaccine within 30 days \n\n Major surgery within 4 weeks \n\n Prior solid organ or bone marrow progenitor cell transplantation \n\n Prior high dose chemotherapy requiring stem cell rescue \n\n History of active autoimmune disorders \n\n Ongoing immunosuppressive therapy, including systemic or enteric corticosteroids.",
+    "brief_summary": "This is a multicenter Phase 1a open-label, dose escalation study, and a Phase 2 study of ST-067. Phase 1a is a first-in-human (FIH) dose escalation study in patients aged 18 years or older diagnosed with solid tumors who have exhausted available standard. Phase 2 will enroll patients aged 18 years or older diagnosed with the following solid tumors: melanoma, renal cell carcinoma, triple negative breast cancer, non-small cell lung cancer, squamous cell carcinoma of the head and neck, and microsatellite instability-high tumors.",
+    "NCT_ID": "NCT04787042"
+}

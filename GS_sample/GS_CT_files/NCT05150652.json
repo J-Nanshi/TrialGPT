@@ -1,0 +1,23 @@
+{
+    "brief_title": "Neoadjuvant Endocrine Therapy in ER-positive, HER2-negative Early Stage Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Anastrozole 1mg', 'Letrozole 2.5mg', 'Exemestane 25 mg', 'Tamoxifen']",
+    "drugs_list": [
+        "Anastrozole 1mg",
+        "Letrozole 2.5mg",
+        "Exemestane 25 mg",
+        "Tamoxifen"
+    ],
+    "diseases": "['Breast Cancer', 'HER2-negative Breast Cancer', 'Node-negative Breast Cancer', 'Breast Carcinoma']",
+    "diseases_list": [
+        "Breast Cancer",
+        "HER2-negative Breast Cancer",
+        "Node-negative Breast Cancer",
+        "Breast Carcinoma"
+    ],
+    "enrollment": "70.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Pathologically confirmed invasive breast cancer, clinically stage I-II. \n\n Clinically lymph node negative \n\n Eligible for anti-endocrine treatment (per medical oncologist) \n\n Postmenopausal women \n\n Ability to understand and the willingness to sign a written informed consent document \n\n ",
+    "exclusion_criteria": ": \n\n Progesterone receptor negativity \n\n High grade tumor \n\n Synchronous non-breast malignancy \n\n Receiving any other investigational agents that could impact the efficacy of this trial regimen \n\n History of allergic reactions attributed to compounds of similar chemical or biologic composition to Anastrozole, Letrozole, Exemestane, Tamoxifen or other agents used in study \n\n Uncontrolled intercurrent illness \n\n Medical, psychiatric or other condition and/or social situations that would limit compliance with study requirements",
+    "brief_summary": "The goal of this study is to access whether treatment of early state estrogen-rich breast cancers with neoadjuvant endocrine therapy will result in higher rates of margin negativity on lumpectomy specimen.",
+    "NCT_ID": "NCT05150652"
+}

@@ -1,0 +1,18 @@
+{
+    "brief_title": "Chidamide in Combination With Vincristine Metronomic Chemotherapy for Advanced Triple-negative Breast Cancer",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['Chidamide']",
+    "drugs_list": [
+        "Chidamide"
+    ],
+    "diseases": "['Breast Cancer', 'Chemotherapy Effect']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Chemotherapy Effect"
+    ],
+    "enrollment": "40.0",
+    "inclusion_criteria": "inclusion criteria: \n\n female; \n\n aged \u2265 18 years and \u226475 years; \n\n histologically proved metastatic triple-negative breast cancer; \n\n at least one measurable or evaluable lesion based on RECIST 1.1 criteria; \n\n estimated life expectancy \u2265 3 months; (6) normal heart, liver, and kidney function; \n\n Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1; - \n\n informed consent signed by the participants. \n\n ",
+    "exclusion_criteria": ": \n\n received neoadjuvant or adjuvant therapy containing vinorelbine or capecitabine within one year prior to treatment initiation; \n\n participated in other new drug clinical trials within 4 weeks before enrollment; \n\n inflammatory breast cancer; \n\n symptomatic visceral disease; \n\n second primary malignancy; \n\n mental disorder.",
+    "brief_summary": "The mechanism of action of cidabenamide and the advantages of vincristine metronomic chemotherapy make it possible to combine the two drugs. Therefore, it is necessary to conduct a prospective study to investigate the value of chidamide in combination with vincristine metronomic treatment for triple-negative breast cancer.",
+    "NCT_ID": "NCT05747313"
+}

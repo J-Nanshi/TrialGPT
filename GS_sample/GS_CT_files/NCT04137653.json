@@ -1,0 +1,18 @@
+{
+    "brief_title": "Treatment of Triple-negative Breast Cancer With Albumin-bound Paclitaxel as Neoadjuvant Therapy: a Prospective RCT",
+    "phase": "Phase 3",
+    "drugs": "['nab-Paclitaxel+carboplatin', 'Paclitaxel+carboplatin']",
+    "drugs_list": [
+        "nab-Paclitaxel+carboplatin",
+        "Paclitaxel+carboplatin"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "1498.0",
+    "inclusion_criteria": "inclusion criteria: \n\n breast cancer is confirmed by the mammography, and the immunohistochemical results of cancer tissues are negative for estrogen receptor, progesterone receptor and anti-human epidermal growth factor receptor 2; \n\n positive for axillary lymph node metastasis; \n\n 18-70 years of age, female; \n\n patients have good compliance with the planned treatment, who are volunteer to participate in the study, are willing to be treated with solvent-based paclitaxel or nab-P at random, and provide written informed consent with the premise of fully understanding the study protocol. \n\n ",
+    "exclusion_criteria": ": \n\n pregnant and lactating women; \n\n distant metastasis; \n\n patients with a history of other cancers or who have received radiotherapy on the chest; \n\n abnormalities in blood tests or presence of other symptoms of infection; \n\n allergy to paclitaxel; \n\n patients who have psychotropic drug abuse until now or those with a history of mental disorders; \n\n abnormalities in important organs such as the heart, lung, liver and kidney; \n\n patients who have participated in other clinical trials.",
+    "brief_summary": "Triple-negative breast cancer (TNBC) accounts for about 20% of clinical breast cancer. Clinical characteristics include early onset, high malignancy and heterogeneity. There is no effective drug target for TNBC, resulting in poor outcomes, high relapse rate and distant metastasis. So, further research on TNBC pathological features is particularly important.~Compared with the solvent-based paclitaxel, albumin-bound paclitaxel (nab-P) demonstrates a stronger therapeutic effect. With albumin nanoparticles as a carrier, nab-P increases the concentration of extra-tumor drugs by passing through the albumin receptor (Gp60) transmembrane pathway and the secreted protein acidic and rich in cysteine (SPARC) approach that binds to the extracellular matrix of the tumor. Numerous clinical trials have found that nab-P is superior to the solvent-based paclitaxel in the treatment of breast cancer, especially in breast cancer with poor prognosis. However, the current efficacy of nab-P in the treatment of TNBC has not been fully verified. The mechanism underlying the killing effect of nab-P on TNBC breast cancer cells remains unclear yet. This trial will compare the therapeutic effect of nab-P with solvent-based paclitaxel in TNBC patients, and seek for important scientific clues, scientific evidence, and clinical data for nab-P in the treatment of TNBC.",
+    "NCT_ID": "NCT04137653"
+}

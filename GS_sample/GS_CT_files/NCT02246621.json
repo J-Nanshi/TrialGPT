@@ -1,0 +1,20 @@
+{
+    "brief_title": "A Study of Nonsteroidal Aromatase Inhibitors Plus Abemaciclib (LY2835219) in Postmenopausal Women With Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Abemaciclib', 'Anastrozole', 'Letrozole', 'Placebo']",
+    "drugs_list": [
+        "Abemaciclib",
+        "Anastrozole",
+        "Letrozole",
+        "Placebo"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "493.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Have a diagnosis of hormone receptor-positive (HR+), human epidermal growth factor receptor 2-negative (HER2-) breast cancer \n\n Have locoregionally recurrent disease not amenable to resection or radiation therapy with curative intent or metastatic disease \n\n Have postmenopausal status \n\n Have either measurable disease or nonmeasurable bone-only disease \n\n Have a performance status \u22641 on the Eastern Cooperative Oncology Group (ECOG) scale \n\n Have adequate organ function \n\n Have discontinued previous localized radiotherapy for palliative purposes or for lytic lesions at risk of fracture prior to randomization and recovered from the acute effects of therapy \n\n Are able to swallow capsules \n\n ",
+    "exclusion_criteria": ": \n\n Have visceral crisis, lymphangitic spread, or leptomeningeal carcinomatosis \n\n Have inflammatory breast cancer \n\n Have clinical evidence or a history of central nervous system (CNS) metastasis \n\n Are currently receiving or have previously received endocrine therapy for locoregionally recurrent or metastatic breast cancer \n\n Have received prior (neo)adjuvant endocrine therapy with a disease-free interval \u226412 months from completion of treatment \n\n Are currently receiving or have previously received chemotherapy for locoregionally recurrent or metastatic breast cancer \n\n Have received prior treatment with everolimus \n\n Have received prior treatment with any cyclin-dependent kinase (CDK) 4/6 inhibitor (or participated in any CDK4/6 inhibitor clinical trial for which treatment assignment is still blinded) \n\n Have initiated bisphosphonates or approved receptor activator of nuclear factor kappa-B ligand (RANK-L) targeted agents <7 days prior to randomization \n\n Are currently receiving an investigational drug in a clinical trial or participating in any other type of medical research judged not to be scientifically or medically compatible with this study \n\n Have received treatment with a drug that has not received regulatory approval for any indication within 14 or 21 days of randomization for a nonmyelosuppressive or myelosuppressive agent, respectively \n\n Have had major surgery within 14 days prior to randomization",
+    "brief_summary": "The main purpose of this study is to evaluate how effective nonsteroidal aromatase inhibitors (NSAI) plus abemaciclib are in postmenopausal women with breast cancer. Participants will be randomized to abemaciclib or placebo in a 2:1 ratio.",
+    "NCT_ID": "NCT02246621"
+}

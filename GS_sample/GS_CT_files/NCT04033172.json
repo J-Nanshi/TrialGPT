@@ -1,0 +1,18 @@
+{
+    "brief_title": "Pyrotinib Plus Fulvestrant in Patients With HR+/HER2+ Metastatic Breast Cancer (Pyrotinib+Fulvestrant )",
+    "phase": "Phase 2",
+    "drugs": "['Pyrotinib Plus Fulvestrant']",
+    "drugs_list": [
+        "Pyrotinib Plus Fulvestrant"
+    ],
+    "diseases": "['Breast Cancer', 'HER2-positive Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "HER2-positive Breast Cancer"
+    ],
+    "enrollment": "40.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women aged 18-75 years old; HR positive and HER2 positive (immunohistochemistry or FISH test confirmed). \n\n ECOG score \u2264 2, expected survival \u2265 3 months. \n\n Histology or cytology confirmed as breast cancer. \n\n Prior to trastuzumab and endocrine therapy and progression/recurrence. \n\n At least one RECIST 1.1 defined measurable lesions. \n\n Normal function of major organs. \n\n ",
+    "exclusion_criteria": ": \n\n pregnant or lactating women \n\n Patients who have relapsed or progressed within 12 months of end of adjuvant or neoadjuvant therapy, including chemotherapy, target therapy (eg lapatinib\uff0c trastuzumab), or other anti-tumor therapy. Except for endocrine therapy. \n\n Severe chronic gastrointestinal diseases with diarrhea as the main symptom (such as Crohn's disease, malabsorption, or \u22652 grade diarrhea caused by any cause at baseline). \n\n Rapid progress of organ invasion (such as liver and lung disease greater than 1/2 organ area or liver dysfunction, etc.) \n\n Patients with central nervous system disorders or mental disorders \n\n Bone metastasis lesions only, no other measurable lesions. \n\n Hypertension (systolic blood pressure > 180 mmHg or diastolic blood pressure > 100 mmHg) without ideal control. \n\n Uncontrolled heart disease. \n\n Have congenital long or short QT syndrome or have a family history or personal history of Brugada syndrome. \n\n Uncontrolled rain metastasis.",
+    "brief_summary": "Pyrotinib is an oral tyrosine kinase inhibitor targeting both HER1, HER2 and HER4 receptors. This study is a single-arm, prospective, single-center clinical study of pyrotinib plus fulvestrant as the therapy HR+/HER2+ metastatic breast cancer.",
+    "NCT_ID": "NCT04033172"
+}

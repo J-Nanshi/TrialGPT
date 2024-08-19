@@ -1,0 +1,21 @@
+{
+    "brief_title": "Olaparib in gBRCA Mutated Pancreatic Cancer Whose Disease Has Not Progressed on First Line Platinum-Based Chemotherapy",
+    "phase": "Phase 3",
+    "drugs": "['Olaparib', 'Olaparib', 'Placebo', 'Placebo']",
+    "drugs_list": [
+        "Olaparib",
+        "Olaparib",
+        "Placebo",
+        "Placebo"
+    ],
+    "diseases": "['Germline BRCA1/2 Mutations and', 'Metastatic Adenocarcinoma of the Pancreas']",
+    "diseases_list": [
+        "Germline BRCA1/2 Mutations and",
+        "Metastatic Adenocarcinoma of the Pancreas"
+    ],
+    "enrollment": "154.0",
+    "inclusion_criteria": "Key inclusion criteria \n\n Histologically or cytologically confirmed pancreas adenocarcinoma receiving initial chemotherapy for metastatic disease and without evidence of disease progression on treatment \n\n Patients with measurable disease and/or non-measurable or no evidence of disease assessed at baseline by CT (or MRI where CT is contraindicated) will be entered in this study. \n\n Documented mutation in gBRCA1 or gBRCA2 that is predicted to be deleterious or suspected deleterious \n\n Patients are on treatment with a first line platinum-based (cisplatin, carboplatin or oxaliplatin) regimen for metastatic pancreas cancer, have received a minimum of 16 weeks of continuous platinum treatment and have no evidence of progression based on investigator's opinion. \n\n Patients who have received platinum as potentially curative treatment for a prior cancer (eg ovarian cancer) or as adjuvant/neoadjuvant treatment for pancreas cancer are eligible provided at least 12 months have elapsed between the last dose of platinum-based treatment and initiation of the platinum-based chemotherapy for metastatic pancreas cancer. \n\n Major ",
+    "exclusion_criteria": ": \n\n gBRCA1 and/or gBRCA2 mutations that are considered to be non detrimental (eg, Variants of uncertain clinical significance or Variant of unknown significance or Variant, favour polymorphism or benign polymorphism etc.) \n\n Progression of tumour between start of first line platinum based chemotherapy for metastatic pancreas cancer and randomisation. \n\n Cytotoxic chemotherapy or non-hormonal targeted therapy within 28 days of Cycle \n\n 1 Day 1 is not permitted. \n\n Exposure to an investigational product within 30 days or 5 half lives (whichever is longer) prior to randomisation \n\n Any previous treatment with a PARP inhibitor, including Olaparib",
+    "brief_summary": "A Phase III, Randomised, Double Blind, Placebo Controlled, Multicentre Study of Maintenance Olaparib Monotherapy in Patients with gBRCA Mutated Metastatic Pancreatic Cancer whose Disease Has Not Progressed on First Line Platinum Based Chemotherapy",
+    "NCT_ID": "NCT02184195"
+}

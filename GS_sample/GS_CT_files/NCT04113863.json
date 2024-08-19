@@ -1,0 +1,18 @@
+{
+    "brief_title": "Evaluation of ATRA Activity in Combination With Anastrozole in Pre-operative Phase of Operable Early Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['all-trans retinoic acid', 'Anastrozole 1mg']",
+    "drugs_list": [
+        "all-trans retinoic acid",
+        "Anastrozole 1mg"
+    ],
+    "diseases": "['Breast Neoplasm Female']",
+    "diseases_list": [
+        "Breast Neoplasm Female"
+    ],
+    "enrollment": "112.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Signed, informed consent \n\n Histologically confirmed non-metastatic operable primary invasive HR-positive breast cancer subjected to diagnostic core biopsy \n\n Menopausal status \n\n HR-positive/HER2-negative eBC defined as \n\n ER>1% on immunohistochemistry (IHC) staining \n\n HER2 score equal to 0, 1+, 2+ (if FISH neg) on IHC staining \n\n Available paraffin-embedded tumor block (FFPE) taken at diagnostic biopsy for Ki67 determination (IHC) \n\n Adequate bone marrow, hepatic and renal function including the following: \n\n Hb \u2265 9.0 g/dL, absolute neutrophil count \u2265 1.5 x 109/L, platelets \u2265100 x 109/L \n\n Total bilirubin \u2264 1.5 x upper normal limit, excluding cases where elevated bilirubin can be attributed to Gilberts Syndrome \n\n AST (SGOT), ALT (SGPT) \u2264 2.5 x upper normal limit (or 5x UNL in the presence of liver metastases) \n\n Creatinine \u2264 1.5 x upper normal limit \n\n Age \u2265 18 years \n\n Performance status (PS) \u2264 1 (ECOG scale) \n\n ",
+    "exclusion_criteria": ": \n\n Presence of metastatic disease \n\n Pre-menopausal status \n\n Previous investigational treatment for any condition within 4 weeks of randomization date \n\n Treatment including radiation therapy, chemotherapy, biotherapy and/or hormonal therapy for the currently diagnosed breast cancer prior to study entry \n\n Co-existing active infection or serious concurrent illness \n\n Any medical or other condition that in the Investigator's opinion renders the patient unsuitable for this study due to unacceptable risk \n\n Psychiatric disorders or altered mental status precluding understanding of the informed consent process and/or completion of the necessary studies \n\n Gastrointestinal disorders that may interfere with absorption of the study drug.",
+    "brief_summary": "This is an Italian, single center, randomized, phase II study. ATRA (all-trans retinoic acid) and derivatives (retinoids) are promising anticancer agents and exert their anti-proliferative, differentiating and apoptotic effects through the nuclear retinoic acid receptors, including RAR\u03b1 (retinoic acid receptor alpha). Although the clinical use of ATRA in haematological malignancies (Acute Promyelocytic Leukemia, APL) is well established, its use in solid tumors is limited. However, some recent pre-clinical evidence suggests a possible role of ATRA in the treatment of specific subtypes of HR-positive (Hormonal Receptor)/HER2-negative early breast cancer (eBC).~Moving from pre-clinical evidence and given the well-known retinoid mechanism of action, The hypotheses is that ATRA contributes to tumor regression in a specific sub-population of eBCs. Using a preoperative window-of-opportunity model, aimed at testing the activity of ATRA in combination with anastrozole in postmenopausal women with newly diagnosed, resectable, HR+/HER2- eBCs.",
+    "NCT_ID": "NCT04113863"
+}

@@ -1,0 +1,22 @@
+{
+    "brief_title": "Dose Escalation and Expansion Study of SAR443216 in Participants With Relapsed/Refractory HER2 Expressing Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['SAR443216 IV', 'SAR443216 SC']",
+    "drugs_list": [
+        "SAR443216 IV",
+        "SAR443216 SC"
+    ],
+    "diseases": "['Neoplasm Malignant', 'Breast Cancer', 'Lung Neoplasm Malignant', 'Gastric Cancer', 'Neoplasm']",
+    "diseases_list": [
+        "Neoplasm Malignant",
+        "Breast Cancer",
+        "Lung Neoplasm Malignant",
+        "Gastric Cancer",
+        "Neoplasm"
+    ],
+    "enrollment": "200.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Participants must be \u2265 18 years of age \n\n Histologically or cytologically confirmed diagnosis of metastatic solid tumors \n\n Eastern Cooperative Oncology Group (ECOG) performance status 0-1 \n\n Participants must have HER2 expression in tumor tissue and/or with HER2 aberration detected in tumor or blood by means of validated assay(s) \n\n Body weight within [45 - 150 kg] (inclusive) \n\n Male and female participants including woman of childbearing potential must agree to follow contraceptive guidance \n\n Capable of giving signed informed consent \n\n ",
+    "exclusion_criteria": ": \n\n Any clinically significant cardiac disease \n\n History of or current interstitial lung disease or pneumonitis \n\n Uncontrolled or unresolved acute renal failure \n\n Prior solid organ or hematologic transplant. \n\n Known positivity with human immunodeficiency virus (HIV), known active hepatitis A, B, and C, or uncontrolled chronic or ongoing infectious requiring parenteral treatment. \n\n Receipt of a live-virus vaccination within 28 days of planned treatment start \n\n Participation in a concurrent clinical study in the treatment period. \n\n Inadequate hematologic, hepatic and renal function \n\n Participant not suitable for participation, whatever the reason, as judged by the Investigator, including medical or clinical conditions. \n\n The above information is not intended to contain all considerations relevant to the potential participation in a clinical trial.",
+    "brief_summary": "Primary Objectives:~Part 1 (Dose Escalation)~To determine the MTD/maximum administered dose (MAD) of SAR443216 administered as a single agent in participants with HER2 expressing solid tumors and determine the RP2D for intravenous (IV) and subcutaneous (SC) administration in the dose escalation part.~To determine the safety of SAR443216 after intravenous (IV) and subcutaneous (SC) administration.~Part 2 (Dose expansion)~\u2022 To assess preliminary clinical activity of single agent SAR4443216 at the RP2D in participants with HER2 expressing solid tumors, with various levels of HER2 expression.~Secondary Objectives:~Part 1 \u2022 To assess preliminary clinical activity of single agent SAR443216 after IV and SC administration at the R2PD in participants with HER2 expressing solid tumors, with various levels of HER2 expression.~Part 2~\u2022 To determine the safety of SAR443216.~Part 1 and 2~To characterize the pharmacokinetic (PK) profile of SAR443216 when administered as a single agent after IV and SC (Part 1 only) administration.~To evaluate the immunogenicity of SAR443216 after IV and SC administration.~To assess preliminary clinical activity of single agent SAR443216 at the R2PD in participants with HER2 expressing solid tumors, with various levels of HER2 expression.",
+    "NCT_ID": "NCT05013554"
+}

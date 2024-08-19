@@ -1,0 +1,17 @@
+{
+    "brief_title": "Oral Vinorelbine and Capecitabine in Advanced HER2-negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['oral vinorelbine and capecitabine']",
+    "drugs_list": [
+        "oral vinorelbine and capecitabine"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n female; \n\n aged \u2265 18 years and \u226475 years; \n\n histologically proved metastatic HER-2 negative breast cancer. HER2-negative status determined by situ hybridization (FISH) or immunohistochemistry (IHC) (IHC 0, 1+, 2+ and/or FISH HER2 negative); \n\n at least one measurable or evaluable lesion based on RECIST 1.1 criteria; \n\n estimated life expectancy \u2265 3 months; \n\n normal heart, liver, and kidney function; \n\n Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1; \n\n informed consent signed by the participants \n\n ",
+    "exclusion_criteria": ": \n\n received neoadjuvant or adjuvant therapy containing vinorelbine or capecitabine within one year prior to treatment initiation; \n\n participated in other new drug clinical trials within 4 weeks before enrollment; \n\n inflammatory breast cancer; \n\n symptomatic visceral disease; \n\n second primary malignancy; \n\n mental disorder.",
+    "brief_summary": "This study was a prospective, single-arm, open-label phase II clinical trial conducted at National cancer center in China.",
+    "NCT_ID": "NCT05747326"
+}

@@ -1,0 +1,21 @@
+{
+    "brief_title": "Assessing ImmunoResponse Post Eribulin: Eribulin and Immunogenicity in Advanced Breast Cancer",
+    "phase": "Phase 4",
+    "drugs": "['Eribulin Injection [Halaven]', 'Paclitaxel injection']",
+    "drugs_list": [
+        "Eribulin Injection [Halaven]",
+        "Paclitaxel injection"
+    ],
+    "diseases": "['Breast Cancer Female', 'Neoplasm, Breast', 'Breast Cancer Metastatic']",
+    "diseases_list": [
+        "Breast Cancer Female",
+        "Neoplasm",
+        "Breast",
+        "Breast Cancer Metastatic"
+    ],
+    "enrollment": "82.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Written informed consent prior to beginning of trial specific procedures \n\n Subject must be female and aged \u2265 18 years on day of signing informed consent \n\n ECOG 0-1 \n\n Histologically confirmed, HER2 negative breast cancer determined by core biopsy of tumor lesion. Human epidermal growth factor receptor 2 (HER2) negativity is defined as either of the following by local laboratory assessment: In situ hybridization (ISH) non-amplified (ratio \u2264 2.2), or IHC 0 or IHC 1+. \n\n Indication for chemotherapy \n\n Previous therapy with one chemotherapy line \n\n Target lesion (RECIST 1.1) \n\n Adequate organ function defined as: \n\n Creatinine Clearance > 50 ml/min ANC \u2265 1.5 x 10 3 /\u03bcL Thrombocytes > 100 x 10 3 /\u03bcL \n\n ",
+    "exclusion_criteria": ": \n\n HER2 positive disease \n\n Indication for an anti-hormone treatment \n\n Active infection requiring systemic therapy. \n\n Active autoimmune disease or other diseases that requires systemic treatment with corticosteroids or immunosuppressive drugs. \n\n History of primary or acquired immunodeficiency (including allogenic organ transplant). \n\n Active or prior documented inflammatory bowel disease (e.g., Crohn's disease, ulcerative colitis). \n\n Severely impaired liver function (Child Pugh C) \n\n Hypersensitivity to study medication or any of its components \n\n Neuropathy (PNP) > Grade 2 (CTCAE 5.0) \n\n Congenital long QT syndrome \n\n Preexisting concomitant use of strong CYP3A4 and CYP2C8 inhibiting or inducing drugs \n\n Life expectancy of less than three months \n\n Pregnancy (contraception is required according tocontraceptive guidance) \n\n Lactation \n\n Known history of following infections: Human immunodeficiency virus (HIV), History of acute or chronic Hepatitis B or Hepatitis C \n\n Has received a live-virus vaccination within 30 days of planned treatment start. Seasonal flu vaccines that do not contain live virus are permitted. \n\n Does not agree to blood collection",
+    "brief_summary": "After progression of disease after one chemotherapy, metastatic breast cancer patients will be randomized 1:1 to one of the following treatment arms:~Arm A. Eribulin Arm B. Paclitaxel~Blood draws for immune analysis will be performed before start of therapy, on day 1 of cycle 2 and on day 21 of cycle 4 (end of therapy) for the primary study aim. Patients will be treated under study conditions for a maximum of 4 therapy cycles.",
+    "NCT_ID": "NCT05033769"
+}

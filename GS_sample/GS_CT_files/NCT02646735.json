@@ -1,0 +1,18 @@
+{
+    "brief_title": "Fulvestrant 500mg With Exemestane Endocrine Therapy for Postmenopausal Advanced Breast Cancer Patients",
+    "phase": "Phase 2",
+    "drugs": "['Fulvestrant 500 mg', 'Exemestane 25 mg']",
+    "drugs_list": [
+        "Fulvestrant 500 mg",
+        "Exemestane 25 mg"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "148.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Signed informed consent document on file; \n\n Age over 60 years; \n\n Age < 60 years and amenorrheic for 12 or more months in the absence of chemotherapy, tamoxifen, toremifene, or ovarian suppression and FSH and oestradiol level in the postmenopausal range; \n\n Patients with metastatic or locally advanced disease not amenable to therapy with Curative intent \n\n ER + and/or PgR +; \n\n Duration of adjuvant non-aromatase inhibitors treatment should be at least 2 years or more; \n\n WHO performance status 0, 1 or 2; \n\n Patients with life expectancy of more than 3 months. \n\n ",
+    "exclusion_criteria": ": \n\n Presence of life-threatening metastatic visceral disease; \n\n Previous systemic chemotherapy for advanced breast cancer; \n\n Received systemic endocrine therapy for advanced disease; \n\n Extensive radiation therapy within the last 4 weeks ; \n\n Platelets < 100*109 / L,Total bilirubin no less than 1.5ULRR, ALT or AST no less than 2.5ULRR if no demonstrable liver metastases or no less than 5ULRR in presence of liver metastases; \n\n Severe renal impairment, bleeding diathesis, long-term anticoagulant therapy; \n\n History of hypersensitivity to active or inactive excipients of fulvestrant, Exemestane and/or castor oil.",
+    "brief_summary": "A Randomized, Open label, Parallel-group, Multi-center study. Eligible patients will be randomized in a 1:1 ratio to receive fulvestrant 500 mg or Exemestane 25mg.",
+    "NCT_ID": "NCT02646735"
+}

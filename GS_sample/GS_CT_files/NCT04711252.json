@@ -1,0 +1,22 @@
+{
+    "brief_title": "A Comparative Study of AZD9833 Plus Palbociclib Versus Anastrozole Plus Palbociclib in Patients With ER-Positive HER2 Negative Breast Cancer Who Have Not Received Any Systemic Treatment for Advanced Disease",
+    "phase": "Phase 3",
+    "drugs": "['AZD9833', 'Anastrozole', 'Anastrozole placebo', 'AZD9833 placebo', 'Palbociclib', 'Luteinizing hormone-releasing hormone (LHRH) agonist']",
+    "drugs_list": [
+        "AZD9833",
+        "Anastrozole",
+        "Anastrozole placebo",
+        "AZD9833 placebo",
+        "Palbociclib",
+        "Luteinizing hormone-releasing hormone (LHRH) agonist"
+    ],
+    "diseases": "['ER-Positive HER2-Negative Breast Cancer']",
+    "diseases_list": [
+        "ER-Positive HER2-Negative Breast Cancer"
+    ],
+    "enrollment": "1342.0",
+    "inclusion_criteria": "inclusion criteria \n\n Full list of inclusion criteria \n\n Pre-/peri-menopausal women or men can be enrolled if amenable to be treated with concomitant, approved LHRH agonists for the duration of the study treatment. \n\n De novo Stage 4 disease, or recurrence from early stage disease after at least 24 months of standard adjuvant endocrine therapy. Note that at least 12 months must have elapsed since the patient's last dose of adjuvant AI therapy without disease progression on treatment. Note that a 2-week washout period is required after the last dose of tamoxifen prior to randomisation. \n\n Histologically or cytologically documented diagnosis of ER+, HER2-negative breast cancer based on local laboratory results. \n\n Previously untreated with any systemic anti-cancer therapy for their locoregionally recurrent or metastatic ER+ disease. \n\n Measurable disease as defined per RECIST v.1.1 OR at least one lytic or mixed (lytic + sclerotic) bone lesion with a soft tissue component that can be assessed by CT or MRI. \n\n Eastern Cooperative Oncology Group performance status of 0 or 1. \n\n Adequate organ and marrow function. \n\n Willingness and ability to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures. \n\n INFORMATION FOR TRIAL PARTICIPANTS \n\n Participants can join the trial if they: \n\n Have breast cancer that cannot be treated with surgery or radiation \n\n Have breast cancer that has already spread into other parts of the body at the time of diagnosis, or has come back after at least 2 years of a standard endocrine treatment \n\n Have ER proteins but not overexpression of HER2 protein in their tumors \n\n Have never received any type of cancer therapy that affects the whole body for advanced breast cancer \n\n Are able to do their daily activities \n\n ",
+    "exclusion_criteria": " \n\n Full list of ",
+    "brief_summary": "The study is intended to show superiority of AZD9833 in combination with palbociclib (a CDK4/6 inhibitor) versus anastrozole (an aromatase inhibitor) and palbociclib as the initial treatment of patients with hormone receptor-positive (ER-positive), human epidermal growth factor 2-negative (HER2-negative) advanced/metastatic breast cancer.~INFORMATION FOR TRIAL PARTICIPANTS~In this trial, the researchers will look at how well camizestrant with palbociclib works, compared with anastrozole with palbociclib, in participants with breast cancer that has either spread into other parts of the body at the time of diagnosis, or has come back after at least 2 years of standard endocrine treatment.~Participants in this trial will have breast cancer that has ER proteins but does not have overexpression of HER2 protein.",
+    "NCT_ID": "NCT04711252"
+}

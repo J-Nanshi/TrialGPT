@@ -1,0 +1,20 @@
+{
+    "brief_title": "A Study Evaluating the Efficacy and Safety of Adjuvant Atezolizumab or Placebo and Trastuzumab Emtansine for Participants With HER2-Positive Breast Cancer at High Risk of Recurrence Following Preoperative Therapy",
+    "phase": "Phase 3",
+    "drugs": "['Atezolizumab', 'Trastuzumab Emtansine', 'Placebo', 'Trastuzumab']",
+    "drugs_list": [
+        "Atezolizumab",
+        "Trastuzumab Emtansine",
+        "Placebo",
+        "Trastuzumab"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "1700.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically confirmed invasive breast carcinoma \n\n Centrally-confirmed human epidermal growth factor receptor 2 (HER2)-positive invasive breast cancer \n\n Centrally confirmed PD-L1 and hormone receptor status \n\n Clinical stage at disease presentation (prior to neoadjuvant therapy): cT4/anyN/M0, any cT/N2-3/M0, or cT1-3/N0-1/M0 (participants with cT1mi/T1a/T1b/N0 are not eligible) \n\n Completion of pre-operative systemic chemotherapy including at least 9 weeks of taxane and 9 weeks of trastuzumab (anthracycline and/or additional HER2-targeted agents are permitted) \n\n <=12 weeks between primary surgery and randomization \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1 \n\n Screening left ventricular ejection fraction (LVEF) >= 50% and no decrease in LVEF by >15% from the pre-chemotherapy LVEF. If no pre-chemotherapy LVEF, screening LVEF >= 55% \n\n Life expectancy >= 6 months \n\n Adequate hematologic and end organ function \n\n ",
+    "exclusion_criteria": ": \n\n Stage IV breast cancer \n\n An overall response of disease progression according to the investigator at the conclusion of preoperative systemic therapy \n\n Prior treatment with T-DM1, or atezolizumab, or other immune checkpoint inhibitors \n\n History of exposure to various cumulative doses of anthracyclines \n\n History of other malignancy within 5 years prior to screening, except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, Stage I uterine cancer, or ductal carcinoma in situ (DCIS) \n\n Current grade >=2 peripheral neuropathy \n\n History of idiopathic pulmonary fibrosis, organizing pneumonia, or pneumonitis \n\n History of or active autoimmune disease or immune deficiency \n\n Treatment with immunostimulatory or immunosuppressive agents \n\n Cardiopulmonary dysfunction \n\n Any known active liver disease",
+    "brief_summary": "This is a Phase III, two-arm, randomized, double-blind placebo-controlled study in participants with HER2-positive primary breast cancer who have received preoperative chemotherapy and HER2-directed therapy, including trastuzumab followed by surgery, with a finding of residual invasive disease in the breast and/or axillary lymph nodes.",
+    "NCT_ID": "NCT04873362"
+}

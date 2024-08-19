@@ -1,0 +1,21 @@
+{
+    "brief_title": "A Phase 1 Study of HRS8807 Monotherapy and in Combination With SHR6390 in Subjects With ER-Positive, HER2-Negative Metastatic or Locally Advanced Breast Cancer",
+    "phase": "Phase 1",
+    "drugs": "['HRS8807', 'HRS8807', 'HRS8807\u3001SHR6390', 'HRS8807\u3001SHR6390']",
+    "drugs_list": [
+        "HRS8807",
+        "HRS8807",
+        "HRS8807\u3001SHR6390",
+        "HRS8807\u3001SHR6390"
+    ],
+    "diseases": "['ER-Positive, HER2-Negative Breast Cancer']",
+    "diseases_list": [
+        "ER-Positive",
+        "HER2-Negative Breast Cancer"
+    ],
+    "enrollment": "90.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histological diagnosis of metastatic or locally advanced breast cancer; Histologically proven diagnosis of ER-positive, HER2-negative; \n\n At least 1 line of endocrine therapy in the metastatic or advanced setting that had progressed or intolerance; \u2264 2 lines of chemotherapy for metastatic or advanced disease; \n\n Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1; \n\n Expected survival of more than 3 months. \n\n ",
+    "exclusion_criteria": ": \n\n All patients in monotherapy and or in combination wih phase who are known allergic to HRS8807 or SHR6390 ingredient; \n\n Presence of symptomatic metastatic visceral disease ; \n\n Patients with known active brain metastases; \n\n Clinically serious cardiovascular disease; \n\n Abnormal electrocardiographic (ECG) with clinical significancy by investigator judgement; \n\n Abnormal thyroid function laboratory results; \n\n Active infection or unexplained fever >38.5\u2103 during screening period or on the day of the first dose.",
+    "brief_summary": "The study is to assess safety and tolerability of HRS8807 monotherapy and in combination with SHR6390 in subjects with metastatic or locally advanced breast cancer in order to estimate the Dose-Limiting Toxicity (DLT), Maximum Tolerated Dose (MTD) and select the Recommended Phase 2 Dose (RP2D).",
+    "NCT_ID": "NCT04993430"
+}

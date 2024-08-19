@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study of BMS-986406 as Monotherapy and Combination Therapies in Participants With Advanced Tumors",
+    "phase": "Phase 1",
+    "drugs": "['BMS-986406', 'Nivolumab']",
+    "drugs_list": [
+        "BMS-986406",
+        "Nivolumab"
+    ],
+    "diseases": "['Advanced Cancer']",
+    "diseases_list": [
+        "Advanced Cancer"
+    ],
+    "enrollment": "112.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically or cytologically confirmed locally advanced unresectable, metastatic, or recurrent malignant tumor. Eligible tumor types are non-small cell lung cancer (NSCLC), renal cell carcinoma (RCC), pancreatic ductal adenocarcinoma (PDAC), gastric/gastroesophageal junction, castration-resistant prostate cancer (CRPC), ovarian, squamous cell carcinoma of the head and neck (SCCHN), bladder, melanoma, mesothelioma, triple negative breast cancer (TNBC), and soft tissue sarcoma, except for participants with tumors with central nervous system (CNS) metastases as the only site of active disease \n\n Measurable disease by Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1), Prostate Cancer Working Group 3 (PCWG3) (for prostate cancer), or modified Response Evaluation Criteria in Solid tumors (mRECIST) (for mesothelioma) \n\n Eastern Cooperative Oncology Group Performance Status of 0 or 1 \n\n Adequate organ function \n\n ",
+    "exclusion_criteria": ": \n\n Prior organ or tissue allograft \n\n Leptomeningeal metastases \n\n Untreated CNS metastases \n\n Serious or uncontrolled medical disorders \n\n Other protocol-defined inclusion/",
+    "brief_summary": "The purpose of this study is to assess the safety and tolerability of BMS-986406 administered alone and in combination with nivolumab in participants with advanced tumors.",
+    "NCT_ID": "NCT05298592"
+}

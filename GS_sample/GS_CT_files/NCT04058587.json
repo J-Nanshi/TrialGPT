@@ -1,0 +1,17 @@
+{
+    "brief_title": "A Phase I Trial of Simmitinib in Advanced Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['Simmitinib']",
+    "drugs_list": [
+        "Simmitinib"
+    ],
+    "diseases": "['Advanced Solid Tumor']",
+    "diseases_list": [
+        "Advanced Solid Tumor"
+    ],
+    "enrollment": "50.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Voluntary written informed consent of the patient obtained before any study-specific procedure\uff1b \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1; \n\n Patients with histologically/cytologically confirmed diagnosis of advanced solid tumors refractory to standard therapy or for whom no standard therapy exist; \n\n Adequate washing period from last anti-tumor therapy; \n\n Measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1; \n\n The expected survival time for more than 12 weeks; \n\n Adequate bone marrow, hepatic, renal, pancreas, and coagulation function, Blood phosphorus and calcium in the normal range. \n\n ",
+    "exclusion_criteria": ": \n\n Prior treatment with selective FGFR inhibitors or multi-target kinase Inhibitors with FGFR as the main target; \n\n Unrecovered from any drug-related adverse event to grade \u2264 1 according to the National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE) v.3.0 derived from any previous anti-tumor treatment, excluding alopecia, Pigmentation, or other toxicity with little safety risk for subjects; \n\n Active Central Nervous System (CNS) metastases (brain or leptomeningeal metastases, etc.); \n\n Any other history of malignancy within 3 years; \n\n Congenital coagulation abnormalities. Active bleeding or previous history of massive bleeding (>30ml within 3 months), history of hemoptysis (more than 5ml fresh bleeding within 4 weeks); \n\n Corneal diseases of clinical significance. There is a history of retinal pigment epithelial detachment or evidence of the presence of retinal pigment epithelial detachment. History of age-related macular degeneration or evidence of age-related macular degeneration exists\uff1b \n\n Subjects with impaired cardiac function or heart disease of clinical significance; \n\n Pregnant or lactating women.",
+    "brief_summary": "This is an open label, multi-center, phase I study of oral Simmitinib in subjects with advanced solid tumors including gastric cancer.",
+    "NCT_ID": "NCT04058587"
+}

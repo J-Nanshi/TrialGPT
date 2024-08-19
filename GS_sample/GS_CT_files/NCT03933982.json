@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study of Pyrotinib Plus Vinorelbine in Patients With Brain Metastases From HER2-positive Metastatic Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Pyrotinib Plus Vinorelbine']",
+    "drugs_list": [
+        "Pyrotinib Plus Vinorelbine"
+    ],
+    "diseases": "['Breast Cancer', 'Brain Metastases']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Brain Metastases"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age18-75 years. \n\n ECOG performance status \u22642. \n\n Histologically confirmed HER2 positive advanced breast cancer. \n\n Prior to anthracyclines and taxanes (neoadjuvant, adjuvant and metastatic setting). Received \u22644 regimes in metastatic setting. Prior to trastuzumab is allowed. \n\n Not received whole brain radiotherapy (WBRT) or recurrence after WBRT. \n\n Controlled CNS symptoms (headache, dizziness, lethargy, nausea etc.). \n\n Patients with CNS metastasis; at least one CNS metastases with a longest diameter \u22651 cm and a diameter perpendicular to the longest diameter should be \u22650.5 cm; \n\n Signed the informed consent form prior to patient entry. \n\n ",
+    "exclusion_criteria": ": \n\n Participated in other drug clinical trials within 4 weeks before the start of the study; \n\n Received radiotherapy, chemotherapy, surgery and target therapy within 4 weeks before the start of the study; \n\n Received endocrine therapy within 7 days before the start of the study; \n\n Suitable for surgical resection; \n\n Accompanied by rapid progress of organ invasion; \n\n Factors influencing the usage of oral administration (such as unable to swallow, gastrointestinal resection, chronic diarrhea and intestinal obstruction etc.). \n\n Prior to pyrotinib or vinorelbine or anti-HER2 TKI drugs; \n\n Allergies to any compounds of experimental drugs; \n\n CNS disorders or mental disorders, history of clear neurological or mental disorders, including epilepsy or dementia; \n\n Other malignancies within 5 years, except cured in-situ of uterine cervix carcinoma , skin basal cell carcinoma and squamous-cell carcinoma. \n\n Any other situations judged by investigator as not suitable for participating in this study.",
+    "brief_summary": "Pyrotinib is an oral tyrosine kinase inhibitor targeting both HER1, HER2 and HER4 receptors. This study is a single-arm, prospective, open label clinical study of pyrotinib plus vinorelbine as the therapy of brain metastases from HER2-positive metastatic breast cancer.",
+    "NCT_ID": "NCT03933982"
+}

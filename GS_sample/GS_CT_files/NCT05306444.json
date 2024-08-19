@@ -1,0 +1,17 @@
+{
+    "brief_title": "HBM7008 -Study on Subjects With Advanced Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['HBM 7008']",
+    "drugs_list": [
+        "HBM 7008"
+    ],
+    "diseases": "['Advanced Solid Tumor']",
+    "diseases_list": [
+        "Advanced Solid Tumor"
+    ],
+    "enrollment": "108.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Willingness to sign a written informed consent document. \n\n Male or female subject aged \u226518 years old at the time of screening. \n\n Histologically or cytologically confirmed advanced solid tumors (e.g., breast cancer, ovarian cancer, endometrial cancer, cervical cancer, squamous cell non-small cell lung cancer (sNSCLC), cholangiocarcinoma, esophagus cancer, urothelial carcinoma, head and neck squamous cell carcinoma (HNSCC)), followed by dose-expansion cohorts (Part 2) of subjects with advanced and/or metastatic non-small cell lung cancer (NSCLC), triple-negative breast cancer (TNBC).or recurrent and progressed since last antitumor therapy for which no alternative, curative standard therapy exists. \n\n Adequate organ and bone marrow function. \n\n ",
+    "exclusion_criteria": ": \n\n Prior used anti-B7H4 and/or anti-4-1BB antibody treatment. \n\n Immuno-oncology therapy or targeted anti-cancer therapy within 4 weeks prior to first dose of IP, any other anti-cancer therapy within 2 weeks prior to first dose of IP. \n\n Not yet recovered from surgery or (immune-related) toxicity related with previous treatment. \n\n Known history or active infection of hepatitis B or C. \n\n History of cirrhosis or non-alcohol steatohepatitis, alcohol or drug-related, autoimmune hepatitis. \n\n Known brain metastases or other central nervous system metastases that are either symptomatic or untreated that require concurrent treatment. \n\n Active infection that requires treatment with antibiotics or antiviral treatment within 3 weeks prior to first dose of IP. \n\n Known history of infection with human immunodeficiency virus or known acquired immunodeficiency syndrome (AIDS). \n\n Known autoimmune disease. \n\n Clinically significant cardiac condition. \n\n Pregnant or breastfeeding women.",
+    "brief_summary": "Study to evaluate the safety and tolerability of the study drug HBM7008, to determine the maximum tolerated dose and/or recommended Phase 2 study dose of HBM7008.",
+    "NCT_ID": "NCT05306444"
+}

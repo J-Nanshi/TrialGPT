@@ -1,0 +1,23 @@
+{
+    "brief_title": "A Randomized, Open-label, Multi-center Phase IV Study Evaluating Palbociclib Plus Endocrine Treatment Versus a Chemotherapy-based Treatment Strategy in Patients With Hormone Receptor Positive / HER2 Negative Breast Cancer in a Real World Setting (GBG 93 - PADMA Study).",
+    "phase": "Phase 4",
+    "drugs": "['Palbociclib / Chemotherapy (capecitabine, epirubicin, paclitaxel, vinorelbine) / Endocrine therapy (exemestane, fulvestrant, letrozole, tamoxifen)']",
+    "drugs_list": [
+        "Palbociclib / Chemotherapy (capecitabine",
+        "epirubicin",
+        "paclitaxel",
+        "vinorelbine) / Endocrine therapy (exemestane",
+        "fulvestrant",
+        "letrozole",
+        "tamoxifen)"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "150.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Written informed consent prior to beginning specific protocol procedures, including expected cooperation of the patients for the treatment and follow-up, willingness and ability to complete collection of data via wearable device and study mobile must be obtained and documented according to the local regulatory requirements. \n\n Female or male patients. \n\n Age \u2265 18 years old. \n\n Metastatic invasive hormone receptor positive and HER2 negative breast cancer (histologically confirmed). \n\n Patients who in the opinion of the treating physician are candidates suitable for randomization for mono-chemotherapy treatment, that has either an approved label in Europe and/or is supported by guidelines for the treatment of first-line advanced BC, which are based on evidence on safety and efficacy in this setting. \n\n Symptomatic or asymptomatic metastatic breast cancer. \n\n Resolution of all acute toxic effects of prior anti-cancer therapy or surgical procedures to NCI CTCAE version 4.0 grade \u2264 1 (except alopecia or other toxicities not considered a safety risk for the patient at investigator's discretion). \n\n Life-expectancy > 6 months. \n\n For female patients: The patients need to be either A) of non-childbearing potential (documented postmenopausal or post hysterectomy) B) childbearing potential with negative serum or urinary pregnancy test (in this case patients need to use highly effective non-hormonal contraceptive methods). \n\n ",
+    "exclusion_criteria": ": \n\n Indication for poly-chemotherapy or single-agent endocrine therapy only or bevacizumab. \n\n Asymptomatic oligometastases of the bone as the only site of metastatic disease. \n\n Uncontrolled/untreated central nervous system lesions. \n\n Patients who received treatment for metastatic/relapsed breast cancer. \n\n Inadequate organ function as per physician's assessment immediate prior to randomization. \n\n Treatment with preparations containing St. John\u00b4s Wort within the last 7 days prior to randomization and/or concurrent use. \n\n Known severe hypersensitivity reactions to compounds or excipients similar to palbociclib, planned chemotherapy or planned endocrine therapy. \n\n Existing contraindication against the use of palbociclib, planned chemotherapy or planned endocrine therapy. \n\n Patients with hereditary problems of galactose intolerance, the Lapp lactase deficiency, and glucose-galactose malabsorption. \n\n Female patients: pregnancy or lactation at the time of randomization or intention to become pregnant during the study and up to six months after treatment. Male patients: Intention to beget a child during the study and up to six months after treatment.",
+    "brief_summary": "The goal of the study for patients with metastatic breast cancer (MBC) is to show that palbociclib + endocrine therapy shows a significant improvement in time-to-treatment failure over chemotherapy regimen (mono-chemotherapy with or without endocrine therapy). This would provide level 1 evidence from real world that palbociclib plus endocrine therapy is the first choice in MBC patients needing first-line therapy not only compared to endocrine therapy but also compared to chemotherapy with or without endocrine maintenance therapy.~In addition, we assume that patient-reported outcome as measured by FACT-B and a novel composite endpoint of well-being and healthcare utilization (DMTI) will be improved with palbociclib + endocrine treatment vs. chemotherapy regimen.",
+    "NCT_ID": "NCT03355157"
+}

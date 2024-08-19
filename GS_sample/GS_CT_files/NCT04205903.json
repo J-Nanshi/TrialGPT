@@ -1,0 +1,40 @@
+{
+    "brief_title": "Nilotinib in Preventing Paclitaxel-Induced Peripheral Neuropathy in Patients With Stage I-III Breast Cancer",
+    "phase": "Phase 1",
+    "drugs": "['Nilotinib', 'Nilotinib Hydrochloride Monohydrate', 'Paclitaxel', 'Placebo', 'Questionnaire Administration']",
+    "drugs_list": [
+        "Nilotinib",
+        "Nilotinib Hydrochloride Monohydrate",
+        "Paclitaxel",
+        "Placebo",
+        "Questionnaire Administration"
+    ],
+    "diseases": "['Anatomic Stage I Breast Cancer AJCC v8', 'Anatomic Stage IA Breast Cancer AJCC v8', 'Anatomic Stage IB Breast Cancer AJCC v8', 'Prognostic Stage II Breast Cancer AJCC v8', 'Prognostic Stage IIA Breast Cancer AJCC v8', 'Prognostic Stage IIB Breast Cancer AJCC v8', 'Prognostic Stage III Breast Cancer AJCC v8', 'Prognostic Stage IIIA Breast Cancer AJCC v8', 'Prognostic Stage IIIB Breast Cancer AJCC v8', 'Prognostic Stage IIIC Breast Cancer AJCC v8', 'Anatomic Stage II Breast Cancer AJCC v8', 'Anatomic Stage IIA Breast Cancer AJCC v8', 'Anatomic Stage IIB Breast Cancer AJCC v8', 'Anatomic Stage III Breast Cancer AJCC v8', 'Anatomic Stage IIIA Breast Cancer AJCC v8', 'Anatomic Stage IIIB Breast Cancer AJCC v8', 'Anatomic Stage IIIC Breast Cancer AJCC v8', 'Prognostic Stage I Breast Cancer AJCC v8', 'Prognostic Stage IA Breast Cancer AJCC v8', 'Prognostic Stage IB Breast Cancer AJCC v8']",
+    "diseases_list": [
+        "Anatomic Stage I Breast Cancer AJCC v8",
+        "Anatomic Stage IA Breast Cancer AJCC v8",
+        "Anatomic Stage IB Breast Cancer AJCC v8",
+        "Prognostic Stage II Breast Cancer AJCC v8",
+        "Prognostic Stage IIA Breast Cancer AJCC v8",
+        "Prognostic Stage IIB Breast Cancer AJCC v8",
+        "Prognostic Stage III Breast Cancer AJCC v8",
+        "Prognostic Stage IIIA Breast Cancer AJCC v8",
+        "Prognostic Stage IIIB Breast Cancer AJCC v8",
+        "Prognostic Stage IIIC Breast Cancer AJCC v8",
+        "Anatomic Stage II Breast Cancer AJCC v8",
+        "Anatomic Stage IIA Breast Cancer AJCC v8",
+        "Anatomic Stage IIB Breast Cancer AJCC v8",
+        "Anatomic Stage III Breast Cancer AJCC v8",
+        "Anatomic Stage IIIA Breast Cancer AJCC v8",
+        "Anatomic Stage IIIB Breast Cancer AJCC v8",
+        "Anatomic Stage IIIC Breast Cancer AJCC v8",
+        "Prognostic Stage I Breast Cancer AJCC v8",
+        "Prognostic Stage IA Breast Cancer AJCC v8",
+        "Prognostic Stage IB Breast Cancer AJCC v8"
+    ],
+    "enrollment": "20.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Men or Women with a known diagnosis of breast cancer stages I-III. \n\n Be eligible for weekly or dose dense single agent paclitaxel therapy based on physician assessment. \n\n Have an Eastern Cooperative Oncology Group (ECOG) performance status =< 2 \n\n Patients with ECOG scores of 3 or greater typically do not receive chemotherapeutic intervention. \n\n Leukocytes >= 2,000/uL. \n\n Absolute neutrophil count >= 1,500/uL. \n\n Platelets >= 100,000/uL. \n\n Total bilirubin =< upper limit of normal (ULN). \n\n Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal. \n\n Creatinine within normal institutional limits OR >= 50 mL/min for patients with creatinine levels above institutional normal. \n\n Corrected QT interval (QTc) < 450 milliseconds. \n\n If a female subject is with child bearing potential, she must have a negative pregnancy test at screening. \n\n Female subjects of child-bearing potential and men must agree to use adequate contraception prior to study entry, for the duration of study participation and for 3 months after completion of study treatment administration. Adequate contraception includes methods such as oral contraceptives, double barrier method (condom plus spermicide or diaphragm), or abstaining from sexual intercourse. \n\n Be willing and able to understand and sign the written informed consent document. \n\n ",
+    "exclusion_criteria": ": \n\n Known distant metastatic disease. \n\n Is HER2+ and is receiving paclitaxel in conjunction with trastuzumab +/- pertuzumab. \n\n Has experienced > grade 1 neuropathy during previous therapies for early stage breast cancer. \n\n Has experienced prior treatment-related toxicities that have not recovered to grade 1 or less (except for alopecia). \n\n Has a history of grade 3-4 immediate hypersensitivity reaction to paclitaxel. \n\n Has a history of clinically significant allergic reactions attributed to compounds of similar chemical or biologic composition to nilotinib or paclitaxel. \n\n Has uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements. \n\n Is currently pregnant or breast feeding as there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with nilotinib and paclitaxel. \n\n Has any other medical or psychiatric condition that in the opinion of the investigator would make the study therapy unsafe for the patient. \n\n Has gastrointestinal (GI) disorders or impairment of GI function that is likely to significantly alter the absorption of nilotinib \n\n Uses potent CYP3A4 inhibitors (grapefruit juice, cyclosporine, ketoconazole, ritonavir) and if treatment cannot be either safely discontinued or switched to a different medication prior to starting nilotinib. \n\n Has a known diagnosis of human immunodeficiency virus (HIV) and is currently taking combination antiretroviral therapy known or suspected to affect paclitaxel pharmacokinetics (PK). \n\n Is concurrently using potent OATP1B1 inhibitors, including antibiotics (rifampicin, rifamycin SV, systemic fusidic acid, clarithromycin, erythromycin, roxithromycin, telithromycin), antiretrovirals (indinavir, saquinavir, ritonavir), cyclosporine, and gemfibrozil.",
+    "brief_summary": "This phase Ib/II trial studies the side effects and best dose of nilotinib in preventing paclitaxel-induced peripheral neuropathy in stage I-III breast cancer patients who are receiving paclitaxel therapy. Chemotherapy is the usual or ?standard? treatment for breast cancer. It kills cancer cells and lowers the chance that the cancer will come back. Sometimes, this treatment can cause numbness and tingling, especially in the hands and feet. This is called chemotherapy-induced peripheral neuropathy. This study aims to test the safety and effectiveness, both good and bad, of taking nilotinib in preventing chemotherapy-induced peripheral neuropathy.",
+    "NCT_ID": "NCT04205903"
+}

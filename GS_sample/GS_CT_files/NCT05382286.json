@@ -1,0 +1,23 @@
+{
+    "brief_title": "Study of Sacituzumab Govitecan-hziy and Pembrolizumab Versus Treatment of Physician's Choice and Pembrolizumab in Patients With Previously Untreated, Locally Advanced Inoperable or Metastatic Triple-Negative Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Sacituzumab Govitecan-hziy', 'Pembrolizumab', 'Paclitaxel', 'nab-Paclitaxel', 'Gemcitabine', 'Carboplatin']",
+    "drugs_list": [
+        "Sacituzumab Govitecan-hziy",
+        "Pembrolizumab",
+        "Paclitaxel",
+        "nab-Paclitaxel",
+        "Gemcitabine",
+        "Carboplatin"
+    ],
+    "diseases": "['Triple Negative Breast Cancer', 'PD-L1 Positive']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer",
+        "PD-L1 Positive"
+    ],
+    "enrollment": "440.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Individuals with locally advanced, inoperable, or metastatic triple-negative breast cancer (TNBC) who have not received previous systemic therapy for advanced disease and whose tumors are programmed cell death ligand 1 (PD-L1) positive at screening. \n\n Individuals must have completed treatment for Stage I to III breast cancer, if indicated, and \u2265 6 months must have elapsed between completion of treatment with curative intent and first documented local or distant disease recurrence. \n\n Individuals presenting with de novo metastatic TNBC are eligible for this study. \n\n TNBC status and tumor PD-L1 combined positive score (CPS) will be confirmed centrally on a recent or archival tumor specimen. \n\n Individuals must have measurable disease by computed tomography (CT) or magnetic resonance imaging (MRI) as per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 criteria as evaluated locally. \n\n Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1. \n\n Demonstrates adequate organ function \n\n Male and female individuals of childbearing potential who engage in heterosexual intercourse must agree to use protocol-specified method(s) of contraception. \n\n Individuals with HIV must be on antiretroviral therapy (ART) and have a well-controlled HIV infection/disease. \n\n Key ",
+    "exclusion_criteria": ": \n\n Positive serum pregnancy test or women who are lactating. \n\n Received prior therapy with an agent directed to another stimulatory or coinhibitory T-cell receptor. \n\n Individuals may not have received systemic anticancer treatment within the previous 6 months or radiation therapy within 2 weeks prior to enrollment. \n\n Individuals may not be participating in a study with an investigational agent or investigational device within 4 weeks prior to randomization. Individuals participating in observational studies are eligible. \n\n Have previously received topoisomerase 1 inhibitors or antibody drug conjugates containing a topoisomerase inhibitor. \n\n Have an active second malignancy. \n\n Have active serious infection requiring antibiotics. \n\n Individuals positive for HIV-1 or 2 with a history of Kaposi sarcoma and/or Multicentric Castleman Disease. \n\n Have active hepatitis B virus (HBV) or hepatitis C virus (HCV) infection. \n\n Has an active autoimmune disease that has required systemic treatment in the past 2 years. \n\n Note: Other protocol defined Inclusion/",
+    "brief_summary": "The primary objective of this study is to compare the progression-free survival (PFS) between sacituzumab govitecan-hziy (SG) and pembrolizumab versus treatment of physician's choice (TPC) and pembrolizumab in participants with previously untreated, locally advanced inoperable or metastatic triple-negative breast cancer, whose tumors express programmed cell death ligand 1 (PD-L1).",
+    "NCT_ID": "NCT05382286"
+}

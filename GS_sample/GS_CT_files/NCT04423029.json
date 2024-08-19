@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study of DF6002 Alone and in Combination With Nivolumab",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['DF6002', 'Nivolumab']",
+    "drugs_list": [
+        "DF6002",
+        "Nivolumab"
+    ],
+    "diseases": "['Solid Tumors']",
+    "diseases_list": [
+        "Solid Tumors"
+    ],
+    "enrollment": "473.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Advanced/metastatic solid tumors, for which no standard therapy exists or standard therapy has failed among the following tumor types: melanoma, non-small cell lung cancer, small cell lung cancer, head and neck squamous cell, urothelial, gastric, esophageal, cervical, hepatocellular, merkel cell, cutaneous squamous cell carcinoma, renal cell, endometrial, triple-negative breast, ovarian, and prostate \n\n ECOG performance status of 0 or 1 \n\n Clinical or radiological evidence of disease \n\n Adequate hematological, hepatic and renal function \n\n Anticoagulants are required for the following: Khorana Risk Score \u2265 2 or as assessed by Investigator as being at high risk for venous thromboembolism (VTE) or history of VTE \u2265 6 months from enrollment \n\n ",
+    "exclusion_criteria": ": \n\n Concurrent anticancer treatment (with the exception of palliative bone directed radiotherapy), immune therapy, or cytokine therapy (except for erythropoietin), major surgery (excluding prior diagnostic biopsy), concurrent systemic therapy with steroids or other immunosuppressive agents, or use of any investigational drug within 28 days before the start of study treatment \n\n Previous malignant disease other than the current target malignancy within the last 3 years, with the exception of basal or squamous cell carcinoma of the skin, localized prostate cancer or cervical carcinoma in situ \n\n Rapidly progressive disease \n\n Serious cardiac illness or medical conditions \n\n Known diagnosis of antiphospholipid syndrome or clinically significant hereditary thrombophilia \n\n Other protocol-defined inclusion/",
+    "brief_summary": "The purpose of this study is to evaluate the safety, tolerability, drug-levels, drug-effects and preliminary anti-tumor activity of DF6002 alone and in combination with Nivolumab in participants with advanced solid tumors.",
+    "NCT_ID": "NCT04423029"
+}

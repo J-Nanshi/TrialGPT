@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study of Avastin (Bevacizumab) Plus Crossover Fluoropyrimidine-Based Chemotherapy in Patients With Metastatic Colorectal Cancer.",
+    "phase": "Phase 3",
+    "drugs": "['Chemotherapy', 'Bevacizumab']",
+    "drugs_list": [
+        "Chemotherapy",
+        "Bevacizumab"
+    ],
+    "diseases": "['Colorectal Cancer']",
+    "diseases_list": [
+        "Colorectal Cancer"
+    ],
+    "enrollment": "820.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Adult patients, >=18 years of age \n\n Metastatic colorectal cancer and disease progression \n\n Previously treated with first-line chemotherapy plus Avastin \n\n Eastern Cooperative Oncology Group (ECOG) performance status <=2. \n\n ",
+    "exclusion_criteria": ": \n\n Diagnosis of progression of disease more than 3 months after last Avastin administration \n\n First-line patients with progression-free survival in first-line of <3 months \n\n Patients receiving less than 3 consecutive months of Avastin in first-line therapy \n\n Past or current history (within the last 2 years prior to treatment start) of other malignancies, except for curatively treated basal and squamous cell cancer of the skin or in situ cancer of the cervix \n\n Clinically significant cardiovascular disease within 6 months prior to start of study treatment \n\n Known central nervous system (CNS) disease, except for treated CNS metastases as defined by protocol",
+    "brief_summary": "This study will evaluate the efficacy and safety of adding bevacizumab to crossover fluoropyrimidine-based chemotherapy in patients with metastatic colorectal cancer who have experienced disease progression under first line treatment with standard chemotherapy plus bevacizumab. Participants will receive chemotherapy alone, or in combination with bevacizumab. The anticipated time on study treatment is until disease progression or unacceptable toxicity occurs. Participants are allowed to continue on bevacizumab, even after stopping chemotherapy.",
+    "NCT_ID": "NCT00700102"
+}

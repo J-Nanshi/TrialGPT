@@ -1,0 +1,18 @@
+{
+    "brief_title": "Thalidomide Plus Chemotherapy Versus Chemotherapy Alone for Advanced Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Thalidomide', \"Physician's choice chemotherapy\"]",
+    "drugs_list": [
+        "Thalidomide",
+        "Physician's choice chemotherapy"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "60.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women >/= 18 and < 65 years of age . \n\n Histologically or cytologically confirmed breast cancer with evidence of metastatic disease. (Note: the participant must be recovered from any clinically significant toxicity thereof last therapy.) \n\n ECOG performance status 0-2. \n\n Adequate bone marrow, kidney and liver function. \n\n ER/PR breast cancer positive patients must have received and progressed on at least one endocrine therapy (adjuvant or metastatic), or have disease that the treating physician believes to be inappropriate for endocrine therapy. \n\n ",
+    "exclusion_criteria": ": \n\n Prior treatment with thalidomide. \n\n Patients with HER2 positive disease. \n\n Untreated and/or uncontrolled brain metastases. \n\n Prior malignancy unless curatively treated and disease-free for > 5 years prior to study entry. Prior adequately treated non-melanoma skin cancer, in situ cancer of the cervix, DCIS or stage I grade 1 endometrial cancer allowed. \n\n Known HIV (Human Immunodeficiency Virus) infection. \n\n Pregnant or breast-feeding women. \n\n Bilateral invasive breast cancer. \n\n Cardiac and thrombotic disease or risk for same as judged by Investigator. \n\n Other serious illness or medical conditions such as (partial list- review with Investigator) history of significant neurologic or psychiatric disorders that would prohibit the understanding and giving of informed consent, active uncontrolled infection, active peptic ulcer, unstable diabetes mellitus or subjects with symptomatic, intrinsic lung disease resulting in dyspnea at rest.",
+    "brief_summary": "Sixty advanced breast cancer patients are planed to enrolled in this clinical trial. Forty patients are enrolled into thalidomide plus chemotherapy group. Twenty patients are enrolled into chemotherapy alone group. There is no restriction on chemotherapy regimen and lines.",
+    "NCT_ID": "NCT02649101"
+}

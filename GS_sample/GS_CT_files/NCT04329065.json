@@ -1,0 +1,39 @@
+{
+    "brief_title": "Concurrent WOKVAC Vaccination, Chemotherapy, and HER2-Targeted Monoclonal Antibody Therapy Before Surgery for the Treatment of Patients With Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['pUMVC3-IGFBP2-HER2-IGF1R Plasmid DNA Vaccine', 'Paclitaxel', 'Trastuzumab', 'Pertuzumab']",
+    "drugs_list": [
+        "pUMVC3-IGFBP2-HER2-IGF1R Plasmid DNA Vaccine",
+        "Paclitaxel",
+        "Trastuzumab",
+        "Pertuzumab"
+    ],
+    "diseases": "['Anatomic Stage I Breast Cancer AJCC v8', 'Anatomic Stage IA Breast Cancer AJCC v8', 'Anatomic Stage IB Breast Cancer AJCC v8', 'Anatomic Stage II Breast Cancer AJCC v8', 'Anatomic Stage IIA Breast Cancer AJCC v8', 'Anatomic Stage IIB Breast Cancer AJCC v8', 'Anatomic Stage III Breast Cancer AJCC v8', 'Anatomic Stage IIIA Breast Cancer AJCC v8', 'Anatomic Stage IIIB Breast Cancer AJCC v8', 'Anatomic Stage IIIC Breast Cancer AJCC v8', 'Prognostic Stage I Breast Cancer AJCC v8', 'Prognostic Stage IA Breast Cancer AJCC v8', 'Prognostic Stage IB Breast Cancer AJCC v8', 'Prognostic Stage II Breast Cancer AJCC v8', 'Prognostic Stage IIA Breast Cancer AJCC v8', 'Prognostic Stage IIB Breast Cancer AJCC v8', 'Prognostic Stage III Breast Cancer AJCC v8', 'Prognostic Stage IIIA Breast Cancer AJCC v8', 'Prognostic Stage IIIB Breast Cancer AJCC v8', 'Prognostic Stage IIIC Breast Cancer AJCC v8']",
+    "diseases_list": [
+        "Anatomic Stage I Breast Cancer AJCC v8",
+        "Anatomic Stage IA Breast Cancer AJCC v8",
+        "Anatomic Stage IB Breast Cancer AJCC v8",
+        "Anatomic Stage II Breast Cancer AJCC v8",
+        "Anatomic Stage IIA Breast Cancer AJCC v8",
+        "Anatomic Stage IIB Breast Cancer AJCC v8",
+        "Anatomic Stage III Breast Cancer AJCC v8",
+        "Anatomic Stage IIIA Breast Cancer AJCC v8",
+        "Anatomic Stage IIIB Breast Cancer AJCC v8",
+        "Anatomic Stage IIIC Breast Cancer AJCC v8",
+        "Prognostic Stage I Breast Cancer AJCC v8",
+        "Prognostic Stage IA Breast Cancer AJCC v8",
+        "Prognostic Stage IB Breast Cancer AJCC v8",
+        "Prognostic Stage II Breast Cancer AJCC v8",
+        "Prognostic Stage IIA Breast Cancer AJCC v8",
+        "Prognostic Stage IIB Breast Cancer AJCC v8",
+        "Prognostic Stage III Breast Cancer AJCC v8",
+        "Prognostic Stage IIIA Breast Cancer AJCC v8",
+        "Prognostic Stage IIIB Breast Cancer AJCC v8",
+        "Prognostic Stage IIIC Breast Cancer AJCC v8"
+    ],
+    "enrollment": "16.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients must be at least >= 18 years of age \n\n Clinical stage I-III breast cancer, HER2+ (per American Society of Clinical Oncology [ASCO]/College of American Pathologists [CAP] guideline update, 2018), regardless of estrogen receptor (ER)/ progesterone receptor (PR) status and planning to undergo neoadjuvant therapy with either paclitaxel, trastuzumab, and pertuzumab (THP) or docetaxel, carboplatin, trastuzumab, and pertuzumab (TCHP) \n\n Patients who have received prior neoadjuvant chemotherapy are allowed but may only receive paclitaxel, trastuzumab, and pertuzumab for the duration the study \n\n Subjects with Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1 \n\n White blood cell (WBC) >= 3000/mm^3 (within 4 weeks of initiating study treatment) \n\n Lymphocyte count >= 500/mm^3 (within 4 weeks of initiating study treatment) \n\n Absolute neutrophil count (ANC) >= 1,500/ uL (within 4 weeks of initiating study treatment) \n\n Platelets >= 75,000/ uL (within 4 weeks of initiating study treatment) \n\n Total bilirubin =< 1.5 x institutional upper limit of normal (ULN), except patients with Gilbert's syndrome in whom total bilirubin must be < 3.0 mg/dL (within 4 weeks of initiating study treatment) \n\n Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) =< 3 x institutional upper limit of normal (ULN) (within 4 weeks of initiating study treatment) \n\n Creatinine =< 2.0 mg/dL or creatinine clearance > 30 ml/min (within 4 weeks of initiating study treatment) \n\n Left ventricular ejection fraction (LVEF) >= lower limit of normal for institution performing the multi-gated acquisition (MUGA) or echocardiogram (ECHO) done within 3 months of initiating study treatment \n\n Female patients of child-bearing potential must agree to use dual methods of contraception and have a negative urine pregnancy test at screening, and male patients must use an effective barrier method of contraception if sexually active with a female of child-bearing potential. Acceptable methods of contraception are condoms with contraceptive foam, oral, implantable or injectable contraceptives, contraceptive patch, intrauterine device, diaphragm with spermicidal gel, or a sexual partner who is surgically sterilized or post-menopausal. For both male and female patients, effective methods of contraception must be used throughout the study and for three months following the last vaccine \n\n Ability to understand and willingness to sign a written informed consent document \n\n ",
+    "exclusion_criteria": ": \n\n Patients with any of the following cardiac conditions: \n\n Symptomatic restrictive cardiomyopathy \n\n Dilated cardiomyopathy \n\n Unstable angina within 4 months prior to enrollment \n\n New York Heart Association functional class III-IV heart failure on active treatment \n\n Symptomatic pericardial effusion \n\n Uncontrolled autoimmune disease requiring active systemic treatment \n\n Known hypersensitivity reaction to the granulocyte-macrophage colony stimulating factor (GM-CSF) adjuvant; any known contra-indication to GM-CSF \n\n Pregnant or breast feeding \n\n Known human immunodeficiency virus (HIV)-positive \n\n History of uncontrolled diabetes \n\n Known current or a history of hepatitis B or C virus, including chronic and dormant states, unless disease has been treated and confirmed cleared \n\n Major surgery within the 4 weeks prior to initiation of study vaccine \n\n Current use of immunosuppressive agents or systemic corticosteroids. Topical, ocular, intra-articular, intranasal, inhalational corticosteroids (with minimal systemic absorption) are allowed. Patients who have received systemic corticosteroids =< 30 days prior to starting study drug will be excluded \n\n Patient is currently enrolled in any other clinical protocol or investigational trial that involves administration of experimental therapy and/or therapeutic devices, or investigational drug \n\n Patients may not be receiving any other investigational agents",
+    "brief_summary": "This phase II trial studies the immunologic response and side effects of using the WOKVAC vaccine in combination with chemotherapy and HER2-targeted monoclonal antibody therapy before surgery in treating patients with breast cancer. Vaccines like WOKVAC are made from tumor-associated antigens which may help the body build an effective immune response to kill tumor cells. Chemotherapy drugs, such as paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Trastuzumab and pertuzumab are forms of targeted therapy because they work by attaching themselves to specific molecules (receptors) on the surface of tumor cells, known as HER2 receptors. When trastuzumab and pertuzumab attach to HER2 receptors, the signals that tell the cells to grow are blocked and the tumor cell may be marked for destruction by the body's immune system. Giving the WOKVAC vaccine at the same time (concurrently) with paclitaxel, trastuzumab, and pertuzumab before surgery may kill more tumor cells.",
+    "NCT_ID": "NCT04329065"
+}

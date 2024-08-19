@@ -1,0 +1,18 @@
+{
+    "brief_title": "Platinum Rechallenge in Patients With Platinum-sensitive mTNBC",
+    "phase": "Phase 2",
+    "drugs": "['Vinorelbine', 'DDP']",
+    "drugs_list": [
+        "Vinorelbine",
+        "DDP"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "84.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Females with age between 18 and 70 years old \n\n Performance status no more than 2 \n\n Life expectancy longer than 3 months \n\n Histological proven unresectable recurrent or advanced breast cancer \n\n Triple-negative for estrogen receptor (ER), progestogen receptor (PR), and human epithelial receptor-2 (HER2) by immunohistochemistry (ER <1%, PR <1% and Her2 negative). A negative Her2 gene amplification should be verified by FISH test for those patients with Her2 (2+). \n\n Patients must have progressed after 1or 2 prior chemotherapy regimens for metastatic disease, cis/carbo-platin pretreated only 1 previous line prior to randomisation. Platinum sensitive in this study is defined as complete or partial or stable disease following completion (a minimum of 4 treatment cycles) of previous platinum-based chemotherapy and disease progression greater than 3 months after completion of their last dose of platinum chemotherapy (last dose). \n\n At least one measurable disease according to the response evaluation criteria in solid tumor (RECIST 1.1) \n\n Radiation therapy within 4 weeks prior to enrollment \n\n All patients enrolled are required to have adequate hematologic, hepatic, and renal function \n\n Be able to understand the study procedures and sign informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Patients had prior treatment with vinorelbine \n\n Pregnant or lactating women, women of child-bearing potential, unwilling to use adequate contraceptive protection during the process of the study \n\n Patients with symptomatic central nervous system metastases are not permitted, except for those with stable and asymptomatic brain metastases who have completed cranial irradiation, and have at least one measurable lesion outside the brain. Radiotherapy should be completed within 4 weeks prior to the registration \n\n Treatment with an investigational product within 4 weeks before the first treatment \n\n Severe cardiopulmonary insufficiency, severe hepatic and renal dysfunction \n\n Uncontrolled serious infection \n\n Other active malignancies (including other hematologic malignancies) or other malignancies, except for cured nonmelanoma skin cancer or cervical intraepithelial neoplasia.",
+    "brief_summary": "Platinum Retreated in Patients with Platinum Sensitive mTNBC",
+    "NCT_ID": "NCT02607215"
+}

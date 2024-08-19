@@ -1,0 +1,20 @@
+{
+    "brief_title": "Impact of Neoadjuvant Hormonal Therapy on the Surgical Management of Extensive Ductal Carcinomas in Situ",
+    "phase": "Phase 2",
+    "drugs": "['Tamoxifen 20 mg', 'Anastrozole 1Mg Tab']",
+    "drugs_list": [
+        "Tamoxifen 20 mg",
+        "Anastrozole 1Mg Tab"
+    ],
+    "diseases": "['Ductal Carcinoma in Situ', 'Extensive Disease', 'Mastectomy']",
+    "diseases_list": [
+        "Ductal Carcinoma in Situ",
+        "Extensive Disease",
+        "Mastectomy"
+    ],
+    "enrollment": "262.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patient \u2265 40 years old \n\n Histological diagnosis of ductal carcinoma in situ without infiltrating contingent \n\n Clinical T0N0 \n\n Estrogen receptor positive (OR+) regardless of progesterone receptor (PR) status \n\n Indication for mastectomy \n\n DCIS visible on MRI performed with clip sequence \n\n Effective contraceptive method for women of childbearing age who are sexually active and who have reported sexual activity. \n\n Informing the patient and obtaining free, informed and written consent signed by the patient and the investigator. \n\n Affiliated patient or beneficiary of the social security system. \n\n ",
+    "exclusion_criteria": ": \n\n Invasive breast carcinoma \n\n Lobular carcinoma in situ \n\n pN+ patient \n\n Indication for conservative surgery \n\n Contraindications to anastrozole or tamoxifen \n\n Concomitant treatments that may interact and reduce the efficacy of tamoxifen by interaction with cytochrome CYP2D6. \n\n Histologically proven multifocal lesion \n\n Contraindication to breast MRI (pace maker, heart valve, metallic implant, neuronal or peripheral stimulator, severe claustrophobia, ...) \n\n History of homolateral breast cancer \n\n Ongoing contralateral breast cancer \n\n Known mutation BRCA1 BRCA2 \n\n Other cancer in progress at inclusion \n\n Pregnant woman, or breastfeeding, \n\n Persons deprived of liberty or under guardianship or trusteeship, \n\n Impossibility to undergo the medical follow-up of the trial for geographical, social, psychic or psychiatric reasons.",
+    "brief_summary": "Ductal carcinoma in situ (DCIS) accounts for approximately 20% of newly diagnosed breast cancer cases. Of these women, 20% require radical management in the form of mastectomy because of the extent of the lesions, which most often manifest as diffuse microcalcifications.~This mutilating surgical management contrasts with the excellent prognosis of this pathology and considerably alters the quality of life of patients.~Neoadjuvant hormone therapy has shown its efficacy in hormone-dependent infiltrating ductal carcinomas and offers the possibility of conservative surgery after hormone therapy.~Adjuvant hormone therapy with Tamoxifen or anti-aromatase drugs has shown its efficacy in the prevention of homo or contralateral recurrence.~The HORNEO 01 trial fits perfectly in the current context of surgical de-escalation of ductal carcinomas in situ. The objective of the study is to evaluate the impact of neoadjuvant hormone therapy on the surgical management of extensive DCIS.",
+    "NCT_ID": "NCT04666961"
+}

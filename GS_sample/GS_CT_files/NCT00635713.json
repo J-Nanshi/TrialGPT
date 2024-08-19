@@ -1,0 +1,19 @@
+{
+    "brief_title": "Second Line Breast Cancer Trial",
+    "phase": "Phase 3",
+    "drugs": "['Fulvestrant', 'Anastrozole', 'Fulvestrant']",
+    "drugs_list": [
+        "Fulvestrant",
+        "Anastrozole",
+        "Fulvestrant"
+    ],
+    "diseases": "['Advanced Breast Cancer']",
+    "diseases_list": [
+        "Advanced Breast Cancer"
+    ],
+    "enrollment": "588.0",
+    "inclusion_criteria": "inclusion criteria: \n\n postmenopausal women with confirmation of breast cancer \n\n objective evidence of recurrence or progression of breast cancer no more than 1 prior hormonal therapy for breast cancer \n\n ",
+    "exclusion_criteria": ": \n\n presence of life-threatening metastatic visceral disease \n\n previous treatment with FASLODEX, ARIMIDEX or any aromatase inhibitor for breast cancer \n\n more than 1 prior endocrine medical treatment for advanced breast cancer .",
+    "brief_summary": "The main purpose of this study is to compare the effect of 2 doses of FASLODEX with 1 dose of ARIMIDEX in terms of time to tumor progression in postmenopausal women with advanced breast cancer.",
+    "NCT_ID": "NCT00635713"
+}

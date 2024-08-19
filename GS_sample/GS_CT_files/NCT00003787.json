@@ -1,0 +1,18 @@
+{
+    "brief_title": "Women's Healthy Eating and Living Study",
+    "phase": "",
+    "drugs": "['educational/counseling intervention', 'therapeutic dietary intervention']",
+    "drugs_list": [
+        "educational/counseling intervention",
+        "therapeutic dietary intervention"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "3088.0",
+    "inclusion_criteria": "DISEASE CHARACTERISTICS: Primary operable stage I (tumors at least 1 cm), stage II, and stage IIIA invasive breast carcinoma Treatment within the past 4 years by total mastectomy and axillary dissection, or breast sparing surgical removal of cancer with clear macroscopic margins and axillary dissection followed by adjuvant breast radiation No evidence of recurrent disease or new breast cancer since completion of initial local treatment confirmed within the past 6 months by physician evaluation, except stage I mastectomy, for which physician evaluation can be within 1 year prior to randomization Hormone receptor status: Not specified \n\n PATIENT CHARACTERISTICS: Age: 18 to 70 at time of diagnosis Sex: Female Menopausal status: Not specified Performance status: Not specified Life expectancy: At least 10 years (excluding breast cancer) Hematopoietic: Not specified Hepatic: No cirrhosis Renal: Not specified Other: Not pregnant Accessible geographically and by telephone Able to communicate dietary data via 24-hour food recall Able to commit to the intervention schedule No comorbidity requiring a specific diet or taking a medication which contraindicates consuming a high fiber diet (e.g., systemic scleroderma, other digestive malabsorption syndromes, and insulin dependent diabetes) No other primary or recurrent invasive cancer within the past 10 years except nonmelanoma skin cancer or carcinoma in situ of the cervix \n\n PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: No concurrent chemotherapy Endocrine therapy: No concurrent estrogen replacement therapy, including vaginal estrogen creams Radiotherapy: See Disease Characteristics Surgery: See Disease Characteristics Other: No concurrent enrollment in another clinical trial that has dietary restrictions or endpoints similar to this study",
+    "exclusion_criteria": "",
+    "brief_summary": "RATIONALE: Dietary fats, fruits, vegetables, and fiber may affect the risk of breast cancer recurrence.~PURPOSE: Randomized clinical trial to determine the effectiveness of a diet rich in vegetables, fruit, and fiber and low in fat in women who have been treated for stage I, stage II, or stage III breast cancer.",
+    "NCT_ID": "NCT00003787"
+}

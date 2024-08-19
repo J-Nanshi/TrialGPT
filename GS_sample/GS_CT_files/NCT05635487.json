@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study of SHR-A1811 Combined With Pyrotinib Maleate as Neoadjuvant Treatment in HER2-positive Breast Cancer Patients",
+    "phase": "Phase 2",
+    "drugs": "['SHR-A1811', 'Pyrotinib']",
+    "drugs_list": [
+        "SHR-A1811",
+        "Pyrotinib"
+    ],
+    "diseases": "['HER2-positive Breast Cancer']",
+    "diseases_list": [
+        "HER2-positive Breast Cancer"
+    ],
+    "enrollment": "61.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female patients aged \u2265 18 but \u2264 75 years \n\n Histologically confirmed to be HER2-positive invasive breast cancer \n\n Treatment-naive patients with stage II-III \n\n Eastern Cooperative Oncology Group (ECOG) score 0-1 \n\n Good level of organ function \n\n ",
+    "exclusion_criteria": ": \n\n Previously received any anti-tumor therapy (chemotherapy, radiotherapy, molecular targeted therapy, endocrine therapy, etc.) \n\n Received any other anti-tumor therapy at the same time \n\n Bilateral breast cancer, inflammatory breast cancer or occult breast cancer \n\n Stage IV breast cancer \n\n With a history of any malignancies in the past 5 years, excluding cured cervical carcinoma in situ and melanoma skin cancer \n\n Inability to swallow, chronic diarrhea, intestinal obstruction, and a variety of factors affecting drug administration and absorption \n\n Participated in other drug clinical trials within 4 weeks before enrollment \n\n History of allergies to the drug components of this protocol \n\n Clinically significant pulmonary diseases \n\n Clinically significant cardiovascular diseases \n\n History of immunodeficiency \n\n Active hepatitis and liver cirrhosis",
+    "brief_summary": "This is a single-arm, phase II trial evaluating the efficacy and safety of SHR-A1811 combined with pyrotinib maleate in Stage II-III HER2-positive breast cancer. Subjects will receive the neoadjuvant therapy of SHR-A1811 and pyrotinib for six cycles, and then undergo surgery within 4 weeks after neoadjuvant therapy. Efficacy will be assessed every 2 cycles.",
+    "NCT_ID": "NCT05635487"
+}

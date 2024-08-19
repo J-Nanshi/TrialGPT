@@ -1,0 +1,18 @@
+{
+    "brief_title": "TACTIVE-U: A Study to Learn About the Study Medicine (Called ARV-471) When Given With Other Medicines in People With Advanced or Metastatic Breast Cancer (Sub-Study B)",
+    "phase": "Phase 2",
+    "drugs": "['ARV-471', 'Ribociclib']",
+    "drugs_list": [
+        "ARV-471",
+        "Ribociclib"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "35.0",
+    "inclusion_criteria": "inclusion criteria: \n\n histological or cytological diagnosis of ER+ and HER2- advanced/metastatic breast cancer that is not amendable to surgical resection with curative intent (\u22651% ER+ stained cells on the most recent tumor biopsy). \n\n prior anticancer therapies: up to 2 lines of prior therapies for advanced/metastatic disease; 1 line of any CDK4/6 inhibitor-based regimen is required (in any setting eg adjuvant, metastatic) \n\n at least 1 measurable lesion as defined by RECIST v1.1. \n\n ECOG PS \u22641. \n\n ",
+    "exclusion_criteria": ": \n\n visceral crisis at risk of life-threatening complications in the short term \n\n known history of drug-induced pneumonitis or other significant symptomatic deterioration of lung functions. \n\n newly diagnosed brain metastases, or symptomatic CNS metastases, carcinomatous meningitis, or leptomeningeal disease. Participants with a history of CNS metastases or cord compression are eligible if they have been definitively treated, clinically stable and discontinued anti-seizure medications and corticosteroids for at least 14 days prior to enrollment in the of study. \n\n history of any other tumor malignancies within the past 3 years, except for the following: (1) adequately treated basal or squamous cell carcinoma of the skin; (2) curatively treated in situ carcinoma of the cervix. \n\n inflammatory breast cancer \n\n impaired cardiovascular function or clinically significant cardiovascular diseases \n\n concurrent administration of medications, food, or herb supplements that are strong inhibitors and strong/moderate inducers of CYP3A and drugs known to predispose to Torsade de Pointes or QT interval prolongation. \n\n renal impairment, not adequate liver function and/or bone marrow function \n\n known active infection",
+    "brief_summary": "The purpose of this clinical trial is to learn about the safety and effects of the study medicine (called ARV-471) when given together with other medicines for the potential treatment of advanced or metastatic breast cancer.~This study is seeking participants who have breast cancer that:~is advanced, may have spread to other organs (metastatic) and cannot be fully treated by surgery or radiation therapy~is sensitive to hormonal therapy (it is called estrogen receptor positive); and~is no longer responding to previous treatments~This study is divided into separate sub-studies.~For Sub-Study B:~All participants will receive ARV-471 and a medicine called ribociclib. ARV-471 and ribociclib will be given at the same time by mouth, at home, 1 time a day.~The experiences of people receiving the study medicine will be examined. This will help determine if the study medicine is safe and effective.~Participants will continue to take ARV-471 and ribociclib until their cancer is no longer responding, or side effects become too severe. They will have visits at the study clinic about every 4 weeks.",
+    "NCT_ID": "NCT05573555"
+}

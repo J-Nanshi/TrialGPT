@@ -1,0 +1,18 @@
+{
+    "brief_title": "GB491 Combined With Fulvestrant for HR+ HER2- Locally Advanced or Metastatic Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['GB491+ Fulvestrant', 'Placebo+Fulvestrant']",
+    "drugs_list": [
+        "GB491+ Fulvestrant",
+        "Placebo+Fulvestrant"
+    ],
+    "diseases": "['Locally Advanced or Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Locally Advanced or Metastatic Breast Cancer"
+    ],
+    "enrollment": "270.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Females or males of 18 years of age or older at study screening \n\n Histologically or cytologically confirmed locally advanced or advanced metastatic breast cancer that is not amenable to curative surgical resection or radiation therapy \n\n The subject has been diagnosed with ER-positive breast cancer in the local laboratory \n\n Subject has HER2-negative breast cancer in the local laboratory \n\n Menopausal status is not limited (including Premenopausal/perimenopausal/postmenopausal state) \n\n According to RECIST V1.1, the patient has at least one measurable lesion that has not been irradiated by radiotherapy and can be evaluated by CT/MRI; If only bone metastases are present, there must be at least one osteolytic bone lesion that can be evaluated by CT/MRI \n\n ECOG performance status of 0 or 1 \n\n Adequate organ and marrow function. \n\n ",
+    "exclusion_criteria": ": \n\n Previous treatment with fulvestrant, everolimus and any other CDK4/6 inhibitors \n\n Subjects with known hypersensitivity to any component of GB491 or Fulvestrant \n\n Known active, uncontrolled, or symptomatic central nervous system metastasis, carcinomatous meningitis, or clinically manifested leptomeningeal disease, cerebral edema, spinal compression or/and tumor progressive growth \n\n Visceral crisis \n\n Patients with skin lesion only and radiographically non-measurable at baseline \n\n Persistent toxicities (CTCAE Grade >2) caused by previous anticancer therapy, excluding alopecia \n\n Patients who have been on bisphosphonates and denosumab therapy at a stable dose for less than 14 days prior to randomization \n\n Patients who have received limited field radiotherapy in 2 weeks or extended field radiotherapy in 4 weeks before randomization or radiation with more than 30% of the bone marrow \n\n Subjects use drugs or fruits containing strong inducers or inhibitors of CYP3A4/5, or drugs with narrow therapeutic window that are mainly metabolized by CYP3A4/5 in 14 days before randomization \n\n Patients with long-term systematic use of corticosteroids \n\n Any severe and/or uncontrollable medical conditions \n\n Patients with severely impaired lung function \n\n Known history of HIV infection or history of HIV seropositivity \n\n Subjects have significant hepatic disease \n\n Coagulation abnormalities \n\n Subjects with a history of other primary malignancies, except for non-melanoma skin cancer and cervical cancer in situ disease-free status \u2265 3 years \n\n Lactating women",
+    "brief_summary": "GB491-004 is a multicenter, randomized, double-blind, placebo-controlled Phase III study to evaluate the efficacy and safety of GB491 in combination with fulvestrant in patients with HR-positive, HER2-negative locally advanced or metastatic breast cancer who have progressed on prior endocrine therapy.",
+    "NCT_ID": "NCT05054751"
+}

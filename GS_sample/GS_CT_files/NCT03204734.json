@@ -1,0 +1,18 @@
+{
+    "brief_title": "Capecitabine or Endocrinotherapy as a Maintenance Therapy Regimen at Least 2nd Line in Hormone Receptor Positive and HER2 Negative Metastatic Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Capecitabine', 'endocrine therapy']",
+    "drugs_list": [
+        "Capecitabine",
+        "endocrine therapy"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "132.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Signed informed consent \n\n The age is Above 18 years of age, <70 years old \n\n HR-positive & HER2-negative \n\n Metastatic breast cancer,incurable. \n\n For recurrent or metastatic lesions has had at least 1 but no more than 3 kinds of chemotherapy, if there is disease progression within 6 months after the end of the adjuvant chemotherapy, adjuvant chemotherapy will been the first-line treatment for metastatic lesions \n\n No prior use of capecitabine therapy or the use of capecitabine treatment was effective, and the efficacy evaluation was CR/PR/SD more than 6 months. \n\n Eastern Cooperative Oncology Group performance status (ECOG PS)=0 \n\n 1 \n\n The basic function of normal bone marrow \n\n Functions of liver and kidney is normal \n\n Expectation of life is more than 3 months \n\n Agreed to take contraceptive measures during treatment \n\n ",
+    "exclusion_criteria": ": \n\n Previous toxicity was not recovered to 0-1 degrees \n\n Central nervous system metastasis \n\n Pregnancy or lactation \n\n There are uncontrolled infection, myocardial infarction, thrombosis, etc. \n\n There are uncontrolled chronic diseases such as diabetes, hypertension, peptic ulcer, chronic hepatitis, mental disease; \n\n Researchers believe that is not suitable for the study \n\n Patients with other malignant tumor history, except the healed skin basal cell carcinoma and carcinoma of uterine cervix; \n\n Bilateral breast cancer \n\n Capecitabine was ineffective in past treatment",
+    "brief_summary": "A single-site study about the efficacy of sequential monotherapy: Capecitabine vs. endocrine therapy, in metastatic breast cancer patients with HR-positive & HER2-negative after capecitabine-base chemotherapy.",
+    "NCT_ID": "NCT03204734"
+}

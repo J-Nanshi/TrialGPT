@@ -1,0 +1,22 @@
+{
+    "brief_title": "ACH-TH vs EC-TH as Neoadjuvant Therapy for HER2-positive EBC",
+    "phase": "Phase 2",
+    "drugs": "['Doxorubicin liposome', 'Cyclophosphamide', 'Trastuzumab', 'Docetaxel', 'Epirubicin']",
+    "drugs_list": [
+        "Doxorubicin liposome",
+        "Cyclophosphamide",
+        "Trastuzumab",
+        "Docetaxel",
+        "Epirubicin"
+    ],
+    "diseases": "['Breast Cancer', 'Neoadjuvant Chemotherapy']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Neoadjuvant Chemotherapy"
+    ],
+    "enrollment": "180.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Adult patient, >/= 18 years of age, </= 70 years of age. \n\n HER2-positive breast cancer \n\n Histologically confirmed invasive breast carcinoma \n\n Clinical stage T2-4/N0-3/M0 or node positive at presentation (patients with T1 tumors will not be eligible) \n\n Known hormone-receptor status \n\n Non previous anti-breast cancer neoadjuvant chemotherapy \n\n Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 \n\n Adequate hematologic, renal and liver function \n\n Screening Left ventricular ejection fraction (LVEF) >/= 50% on echocardiogram (ECHO) \n\n Adequate organ function \n\n ",
+    "exclusion_criteria": ": \n\n Stage IV (metastatic) breast cancer or bilateral breast cancer \n\n History of any prior (ipsi- or contralateral breast cancer except lobular carcinoma in situ) \n\n History of other malignancy within the last 5 years except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, Stage I uterine cancer, or other non-breast malignancies with a similar outcome to those mentioned above \n\n Cardiopulmonary dysfunction as defined by protocol \n\n Current severe, uncontrolled systemic disease \n\n Pregnant or lactating women \n\n Any known active liver disease, e.g. due to HBV, HCV, autoimmune hepatic disorders, or sclerosing cholangitis \n\n Concurrent serious uncontrolled infections requiring treatment or known infection with HIV \n\n History of intolerance, including Grade 3 to 4 infusion reaction or \n\n hypersensitivity to trastuzumab or chemotherapy drugs",
+    "brief_summary": "Breast cancer is the most common malignant tumor in women. EC-TH is one of the standard chemotherapy regimens for HER-2 positive early breast cancer(EBC). Earlier use of trastuzumab may improve DFS rate. In this study, the investigators want to find out whether ACH-TH regimen compared with the EC-TH regimen in HER2+ EBC could improve the pCR rate in neoadjuvant chemotherapy.",
+    "NCT_ID": "NCT04172259"
+}

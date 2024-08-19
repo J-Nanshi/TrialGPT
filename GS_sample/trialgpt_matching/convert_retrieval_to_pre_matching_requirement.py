@@ -1,17 +1,17 @@
 #%%
 import json
 
-# Loading the output of retrieval process
+# Load the output of retrieval process
 with open('../../GS_sample/results/qid2nctids_all_30_patients_results_GS_data_k50_bm25wt1_medcptwt1_N700.json') as f:
     retrived_ncts = json.load(f)
 retrived_ncts
 #%%
-#loading the synthetic patient raw detials
+#lLoad the synthetic patient raw detials
 with open('../../GS_sample/dataset/GS_data/synthetic_patient_cases_random_30_modified.jsonl') as f:
     patient_queries = [json.loads(line) for line in f]
 patient_queries
 #%%
-# loading TrialGPT clinical trial info
+# Load TrialGPT clinical trial info
 with open('../../GS_sample/dataset/trial_info.json') as f:
     trial_info = json.load(f)
 trial_info
@@ -65,7 +65,5 @@ for patient_id, nct_ids in retrived_ncts.items():
 # Save the output to a JSON file
 with open('../../GS_sample/dataset/GS_data/pre_matching_retrived_process_file.json', 'w') as f:
     json.dump(output, f, indent=4)
-
-print("JSON file 'pre_matching_process_file.json' has been created.")
 
 # %%

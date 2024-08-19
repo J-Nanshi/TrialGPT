@@ -1,0 +1,42 @@
+{
+    "brief_title": "Study of Pembrolizumab (MK-3475) in Participants With Advanced Solid Tumors (MK-3475-158/KEYNOTE-158)",
+    "phase": "Phase 2",
+    "drugs": "['pembrolizumab', 'pembrolizumab']",
+    "drugs_list": [
+        "pembrolizumab",
+        "pembrolizumab"
+    ],
+    "diseases": "['Advanced Cancer', 'Anal Carcinoma', 'Anal Cancer', 'Biliary Cancer', 'Cholangiocarcinoma', 'Bile Duct Cancer', 'Neuroendocrine Tumor', 'Carcinoid Tumor', 'Endometrial Carcinoma', 'Endometrial Cancer', 'Cervical Carcinoma', 'Cervical Cancer', 'Vulvar Carcinoma', 'Vulvar Cancer', 'Small Cell Lung Carcinoma', 'Small Cell Lung Cancer (SCLC)', 'Mesothelioma', 'Thyroid Carcinoma', 'Thyroid Cancer', 'Salivary Gland Carcinoma', 'Salivary Gland Cancer', 'Salivary Cancer', 'Parotid Gland Cancer', 'Advanced Solid Tumors', 'Colorectal Carcinoma']",
+    "diseases_list": [
+        "Advanced Cancer",
+        "Anal Carcinoma",
+        "Anal Cancer",
+        "Biliary Cancer",
+        "Cholangiocarcinoma",
+        "Bile Duct Cancer",
+        "Neuroendocrine Tumor",
+        "Carcinoid Tumor",
+        "Endometrial Carcinoma",
+        "Endometrial Cancer",
+        "Cervical Carcinoma",
+        "Cervical Cancer",
+        "Vulvar Carcinoma",
+        "Vulvar Cancer",
+        "Small Cell Lung Carcinoma",
+        "Small Cell Lung Cancer (SCLC)",
+        "Mesothelioma",
+        "Thyroid Carcinoma",
+        "Thyroid Cancer",
+        "Salivary Gland Carcinoma",
+        "Salivary Gland Cancer",
+        "Salivary Cancer",
+        "Parotid Gland Cancer",
+        "Advanced Solid Tumors",
+        "Colorectal Carcinoma"
+    ],
+    "enrollment": "1609.0",
+    "inclusion_criteria": "inclusion criteria: \n\n - Histologically or cytologically-documented, advanced solid tumor of one of the following types: \n\n Anal Squamous Cell Carcinoma \n\n Biliary Adenocarcinoma (gallbladder or biliary tree (intrahepatic or extrahepatic cholangiocarcinoma) except Ampulla of Vater cancers) \n\n Neuroendocrine Tumors (well- and moderately-differentiated) of the lung, appendix, small intestine, colon, rectum, or pancreas \n\n Endometrial Carcinoma (sarcomas and mesenchymal tumors are excluded) \n\n Cervical Squamous Cell Carcinoma \n\n Vulvar Squamous Cell Carcinoma \n\n Small Cell Lung Carcinoma \n\n Mesothelioma \n\n Thyroid Carcinoma \n\n Salivary Gland Carcinoma (sarcomas and mesenchymal tumors are excluded) \n\n Any advanced solid tumor, with the exception of colorectal carcinoma (CRC), which is Microsatellite Instability (MSI)-High (MSI-H) OR \n\n Any advanced solid tumor (including Colorectal Carcinoma [CRC]) which is Mismatch Repair Deficient (dMMR)/MSI-H in participants from mainland China who are of Chinese descent. (CRC participants will have a histologically proven locally advanced unresectable or metastatic CRC which is dMMR/MSI-H that has received 2 prior lines of therapy.) OR \n\n Any advanced solid tumor that has failed at least one line of therapy and is TMB-H (\u226510 mut/Mb, F1CDx assay), excluding dMMR/MSI-H tumors. \n\n Note: For participants to be eligible for enrollment they must have failed at least one line of standard of care systemic therapy (ie, not treatment na\u00efve), with the exception of CRC participants who must have failed at least 2 lines of standard of care systemic therapy, as per CRC specific eligibility criteria. Participants must not have melanoma or NSCLC. \n\n Progression of tumor or intolerance to therapies known to provide clinical benefit. There is no limit to the number of prior treatment regimens \n\n Can supply tumor tissue for study analyses (dependent on tumor type) \n\n Radiologically-measurable disease \n\n Performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) Performance Scale within 3 days prior to first dose of pembrolizumab \n\n Life expectancy of at least 3 months \n\n Adequate organ function \n\n Female participants of childbearing potential must be willing to use adequate contraception during the intervention period and for at least the time needed to eliminate each study intervention after the last dose of study intervention. and agrees not to donate eggs (ova, oocytes) to others or freeze/store for her own use for the purpose of reproduction during this period. The length of time required to continue contraception for each study intervention is as follows: MK-3475 (120 days) \n\n ",
+    "exclusion_criteria": ": \n\n Currently participating and receiving study therapy or has participated in a study of an investigational agent and received study therapy or used an investigational device within 4 weeks of the first dose of study treatment \n\n Diagnosis of immunodeficiency or receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of study treatment \n\n Active autoimmune disease that has required systemic treatment in the past 2 years \n\n Prior anti-cancer monoclonal antibody (mAb) within 4 weeks prior to study Day 1 or not recovered from an adverse event caused by mAbs administered more than 4 weeks earlier \n\n Prior chemotherapy, targeted small molecule therapy, or radiation therapy within 2 weeks of study Day 1 or not recovered from adverse events caused by a previously administered agent \n\n Known additional malignancy within 2 years prior to enrollment with the exception of curatively treated basal cell carcinoma of the skin, squamous cell carcinoma of the skin and/or curatively resected in situ cancers \n\n Known active central nervous system (CNS) metastases and/or carcinomatous meningitis \n\n Has known glioblastoma multiforme of the brain stem \n\n Has a history of (noninfectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease. \n\n Active infection requiring systemic therapy \n\n Known psychiatric or substance abuse disorders that would interfere with the participant's ability to cooperate with the requirements of the study \n\n Pregnant, breastfeeding, or expecting to conceive or father children within the projected duration of the study, starting with the screening visit through 120 days after the last dose of study treatment \n\n Previously participated in any other pembrolizumab (MK-3475) study, or received prior therapy with an anti-programmed cell death (PD)-1, anti-PD-Ligand 1 (anti-PD-L1), anti-PD-Ligand 2 (anti-PD-L2), or any other immunomodulating mAb or drug specifically targeting T-cell co-stimulation or checkpoint pathways \n\n Known history of Human Immunodeficiency Virus (HIV) \n\n Known active Hepatitis B or C \n\n Received live vaccine within 30 days of planned start of study treatment \n\n Has severe hypersensitivity (\u2265Grade 3) to pembrolizumab and/or any of its excipients \n\n Known history of active tuberculosis (TB, Bacillus tuberculosis) \n\n Has had an allogenic tissue/solid organ transplant.",
+    "brief_summary": "In this study, participants with multiple types of advanced (unresectable and/or metastatic) solid tumors who have progressed on standard of care therapy will be treated with pembrolizumab (MK-3475).",
+    "NCT_ID": "NCT02628067"
+}

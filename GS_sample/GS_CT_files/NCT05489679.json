@@ -1,0 +1,17 @@
+{
+    "brief_title": "A Study of AC682 In Chinese Patients With ER+/HER2- Locally Advanced or Metastatic Breast Cancer",
+    "phase": "Phase 1",
+    "drugs": "['AC682']",
+    "drugs_list": [
+        "AC682"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "150.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients must be \u226518 years-of-age at the time of signing of the ICF \n\n Histologically and/or cytologically confirmed advanced estrogen receptor positive (ER+) human epidermal growth factor 2 negative (HER2-) breast cancer \n\n Female patients must be postmenopausal \n\n At least 1 measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 or at least 1 predominantly lytic bone lesion in the absence of measurable disease \n\n Previously received at least 1 endocrine therapy regimen; concomitant use of cyclin-dependent kinase (CDK) 4/6 inhibitor(s) is acceptable; Previous chemotherapy is not required, but up to 2 prior regimens of cytotoxic chemotherapy is allowed. \n\n Patients who have adequate organ functions at baseline \n\n ",
+    "exclusion_criteria": ": \n\n Treatment with any of the following: \n\n systemic anti-cancer chemotherapy, biologic, or hormonal agent from a previous treatment regimen or clinical study within 4 weeks prior to the first dose of AC682; systemic small molecules from a previous treatment regimen or clinical study within 14 days or 5 half-lives (whichever is longer) prior to the first dose of AC682 (at least 10 days must have elapsed between the last dose of such agent and the first dose of study drug) \n\n Received radiotherapy (including radioactive isotope therapy) within 4 weeks prior to the first dose of AC682 \n\n Major surgery (excluding placement of vascular access) within 4 weeks of first dose of AC682 \n\n With known metastasis to the brain \n\n Any condition that impairs a patient's ability to swallow whole pills. Impairment of gastrointestinal function (GI) or GI disease or other condition at baseline that will interfere significantly with the absorption, distribution, or metabolism of AC682. \n\n Use of prophylactic growth factors and blood transfusions \u226414 days prior to the first dose of AC682 and during dose limiting toxicity observation period",
+    "brief_summary": "This clinical trial is evaluating AC682 in participants with estrogen receptor positive/human epidermal growth factor 2 negative (ER+/HER2-) locally advanced or metastatic breast cancer. The main goals of this study are to:~To evaluate the safety and tolerability of AC682~To evaluate the pharmacokinetic of AC682~To evaluate the preliminary anti-tumor activity of AC682",
+    "NCT_ID": "NCT05489679"
+}

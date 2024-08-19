@@ -1,0 +1,20 @@
+{
+    "brief_title": "A Study of TBio-4101 (TIL) and Pembrolizumab in Patients With Advanced Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['TBio-4101', 'Pembrolizumab']",
+    "drugs_list": [
+        "TBio-4101",
+        "Pembrolizumab"
+    ],
+    "diseases": "['Breast Cancer', 'Colorectal Cancer', 'Uveal Melanoma']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Colorectal Cancer",
+        "Uveal Melanoma"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Advanced or metastatic breast carcinoma, colorectal adenocarcinoma, or uveal melanoma that has failed or is refractory to standard of care therapy \n\n Have at least one target lesion that can be used for response assessments and have at least 1 tumor amenable for tissue harvest for TIL manufacturing. \n\n ECOG performance status of 0 or 1 \n\n Demonstrate adequate organ function \n\n Additional inclusion criteria exist \n\n Key ",
+    "exclusion_criteria": ": \n\n Ischemic heart disease (current or past), or clinically significant atrial or ventricular rhythm abnormality are excluded unless cardiac clearance is received. \n\n Prior cell therapy or organ transplant \n\n Have a primary or acquired immunodeficiency disorders \n\n History of severe immediate hypersensitivity reaction to cyclophosphamide, fludarabine, IL-2, or pembrolizumab, or any of their constituents \n\n LVEF \u2264 45% or NYHA functional classification > 1 \n\n FEV1 \u2264 60% of predicted value and DLCO (corrected) < 60% of predicted value \n\n Brain metastasis \n\n Chronic anti-coagulant therapy that cannot either be discontinued or temporarily changed \n\n Additional ",
+    "brief_summary": "A multicenter trial to investigate TBio-4101, an autologous, neoantigen-selected, tumor-reactive TIL product, in patients with advanced solid malignancies.",
+    "NCT_ID": "NCT05576077"
+}

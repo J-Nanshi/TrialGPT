@@ -1,0 +1,17 @@
+{
+    "brief_title": "Research of Intensive Treatment in Hormone Receptor<10% and Human Epidermal Growth Factor Receptor-2 Negative Breast Cancer Patients With Positive Lymph Node Residual Disease After Neoadjuvant Chemotherapy",
+    "phase": "Phase 4",
+    "drugs": "['Vinorelbine']",
+    "drugs_list": [
+        "Vinorelbine"
+    ],
+    "diseases": "['Primary Breast Cancer']",
+    "diseases_list": [
+        "Primary Breast Cancer"
+    ],
+    "enrollment": "304.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female patients, 18\u2266age \u226666 years \n\n Biopsy proven lymph node positive, estrogen receptor<10%\u3001progesterone receptor <10% and human epidermal growth factor receptor-2 negative primary breast cancer \n\n Must have completed neo-adjuvant chemotherapy with a standard regimen(containing both anthracycline and paclitaxel) \n\n Must have undergone surgery to remove the primary tumor by either a mastectomy or enlarged local excision \n\n Postoperative residual positive lymph nodes \n\n Adequate recovery from recent surgery \n\n No history of other malignancies \n\n No currently uncontrolled diseased or active infection \n\n Not pregnant or breast feeding, and on appropriate birth control if of child-bearing potential \n\n Adequate cardiovascular function reserve with a myocardial infarction within the past six month \n\n without radiotherapy and chemotherapy contraindication \n\n Adequate hematologic function with: \n\n Absolute neutrophil count (ANC) \u22651500/mm3 \n\n Platelets \u2265100,000/ mm3 \n\n Hemoglobin \u226510 g/dL \n\n Adequate hepatic and renal function with: \n\n Serum bilirubin \u22641.5\u00d7UNL \n\n Alkaline phosphatase and alanine aminotransferase (ALT) \u22642.5 x ULN. (\u22645 x ULN is acceptable in the setting of hepatic metastasis) \n\n BUN between 1.7 and 8.3 mmol/L \n\n Cr between 40 and 110 umol/L \n\n Knowledge of the investigational nature of the study and Ability to give informed consent \n\n Ability and willingness to comply with study procedures. \n\n ",
+    "exclusion_criteria": ": \n\n Known or suspected distant metastases \n\n Concurrent malignancy or history of other malignancy \n\n Uncontrolled diseases(e.g., heart failure, myocardial infarction within 6 months, arrhythmia, unstable diabetes, hypercalcemia) or active infection \n\n Geographical, social, or psychological problems that would compromise study compliance \n\n Known or suspected hypersensitivity to vinorelbine",
+    "brief_summary": "This is a phase IV, single-center, prospective, open-label, randomized,controlled study",
+    "NCT_ID": "NCT03270007"
+}

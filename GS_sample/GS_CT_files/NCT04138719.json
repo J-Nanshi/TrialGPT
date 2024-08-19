@@ -1,0 +1,20 @@
+{
+    "brief_title": "Nab-paclitaxel Plus Carboplatin Versus Nab-paclitaxel Plus Epirubicin in the Neoadjuvant Therapy for Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Nab-paclitaxel + Carboplatin', 'Nab-paclitaxel + Epirubicin']",
+    "drugs_list": [
+        "Nab-paclitaxel + Carboplatin",
+        "Nab-paclitaxel + Epirubicin"
+    ],
+    "diseases": "['Breast Cancer', 'Triple-negative Breast Cancer', 'Nab-paclitaxel']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Triple-negative Breast Cancer",
+        "Nab-paclitaxel"
+    ],
+    "enrollment": "520.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Females with age between 18 to 70 years old; \n\n Histologically confirmed primary invasive breast cancer; \n\n Histologically confirmed triple negative breast cancer; \n\n Patients who planned to accept preoperative neoadjuvant therapy and had a mass larger than 2 cm. \n\n Blood specimens and 5 sections of tumor tissue at baseline, blood specimens at surgery can be obtained. \n\n Have at least one measurable lesion as per the RECIST criteria (version 1.1); \n\n Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to one; \n\n LVEF\u226555%\uff1b \n\n Bone marrow function\uff1aneutrophils (\u22651.5\u00d710^9/L), platelets (\u2265100\u00d710^9/L), hemoglobin (\u226590 g/L); \n\n Renal and hepatic function: Serum creatinine\u2264 1.5\u00d7institutional upper limit of normal (ULN); AST and ALT \u2264 2.5 \u00d7 ULN; Total bilirubin\u22641.5\u00d7ULN, or patients with Gilbert's syndrome \u2264 2.5 \u00d7 ULN; \n\n Patients had good compliance with the planned treatment, understood the research process and written informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Previous treatment with any cytotoxic chemotherapy, endocrine therapy, biotherapy or radiotherapy; \n\n Patients with heart disease above grade II (including grade II) identified by New York Heart Association (NYHA) scores; \n\n Patients with severe systemic infection or other serious diseases; \n\n Patients allergic to or intolerant of chemotherapeutic drugs or their adjuvants; \n\n Patients with other malignant tumors in the past five years, except for cured cervical carcinoma in situ and non-melanoma skin cancer; \n\n Pregnancy or lactation, as well as reproductive age patients who refused to take appropriate contraceptive measures in the trial; \n\n Participation in any trial drug treatment or another interventional clinical trial 30 days before first dose was given; \n\n The researchers considered the patients who were not suitable for enrollment.",
+    "brief_summary": "This is a multicenter, open, randomized, comparison study. Triple-negative breast cancer (TNBC) is a term applied to breast cancer cases that have <1% expression of the estrogen receptor (ER) and the progesterone receptor (PR) and do not over express HER2.~Neoadjuvant therapy is often used to reduce the size of tumors, especially in locally advanced tumors. The purpose of this therapy is to make part of patients operable and to facilitate breast-conserving surgery.~The purpose of this study is to assess the efficacy and safety of the following two proposals: nab-paclitaxel plus carboplatin versus nab-paclitaxel plus epirubicin, in order to provide support for rational clinical application.~The total number of patients to be included in this study is 520 patients.",
+    "NCT_ID": "NCT04138719"
+}

@@ -1,0 +1,21 @@
+{
+    "brief_title": "The Trial Comparing Dose-dense AC-T With TP as Adjuvant Therapy for TNBC With Homologous Recombination Repair Deficiency",
+    "phase": "Phase 3",
+    "drugs": "['Epirubicin', 'Cyclophosphamide', 'Paclitaxel', 'Carboplatin', 'Paclitaxel']",
+    "drugs_list": [
+        "Epirubicin",
+        "Cyclophosphamide",
+        "Paclitaxel",
+        "Carboplatin",
+        "Paclitaxel"
+    ],
+    "diseases": "['Triple Negative Breast Cancer']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer"
+    ],
+    "enrollment": "200.0",
+    "inclusion_criteria": "inclusion criteria: \n\n 18-60 years \n\n Histologically confirmed adenocarcinoma of the breast, complete tumor removal by either modified radical mastectomy or local excision plus axillary lymph node dissection (i.e., breast conservation therapy) or sentinel node biopsy. (Tumor-free margins at least 1 mm for both invasive and noninvasive carcinoma except for lobular carcinoma in situ (less than 1 mm allowed); \n\n Histologically confirmed ER(-) PR(-) and HER-2(IHC(immunohistochemistry) 0-1+ or FISH (fluorescence in situ hybridization) negative) \n\n Next-generation sequencing confirmed homologous recombination repair deficiency \n\n Meet one of the following criteria: \n\n (1) Positive axillary lymph nodes; (2) Negative axillary lymph nodes with at least one of the following risk factors: age<= 35 years; grade III; infiltrative tumor size > 2cm; intravascular tumor embolus; Ki-67>=50%. \n\n 6. Eastern Cooperative Oncology Group (ECOG) Performance Score 0-1 7. Adequate bone marrow reserve with ANC > 1500, HGB > 9g/dL and platelets > 100,000. \n\n 8. Adequate renal function with serum creatinine < 2.0. 9. Adequate hepatic reserve with serum bilirubin < 2.0, AST/ALT < 2X the upper limit of normal, and alkaline phosphatase < 5X the upper limit of normal. Serum bilirubin > 2.0 is acceptable in the setting of known Gilbert's syndrome. \n\n 10. Not pregnant, and on appropriate birth control if of child-bearing potential. \n\n 11. Written informed consent according to the local ethics committee requirements. \n\n ",
+    "exclusion_criteria": ": \n\n Prior systemic treatment of breast cancer, including chemotherapy; \n\n Metastatic breast cancer; \n\n Patients with medical conditions that indicate intolerant to adjuvant therapy and related treatment, including uncontrolled pulmonary disease, diabetes mellitus, severe infection, active peptic ulcer, coagulation disorder, connective tissue disease or myelo-suppressive disease; \n\n Has active hepatitis B or hepatitis C with abnormal liver function tests (LFTs) or is known to be HIV positive; \n\n Contraindication for using dexamethasone; \n\n History of congestive heart failure, uncontrolled or symptomatic angina pectoris, arrhythmia or myocardial infarction; poorly controlled hypertension (systolic BP>180 mmHg or diastolic BP>100 mmHg); \n\n Pregnant or breast feeding. \n\n Hepatic, renal, or bone marrow dysfunction as detailed above. \n\n Known severe hypersensitivity to any drugs in this study; \n\n Treatment with any investigational drugs within 30 days before the beginning of study treatment.",
+    "brief_summary": "The purpose of this trial is to compare the 3-year disease-free survival of dose-dense epirubicin and cyclophosphamide followed by paclitaxel with paclitaxel plus carboplatin as adjuvant therapy for triple-negative breast cancer with homologous recombination repair deficiency.~The other purpose of this trial is to observe the patient's tolerance.",
+    "NCT_ID": "NCT03876886"
+}

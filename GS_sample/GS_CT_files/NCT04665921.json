@@ -1,0 +1,29 @@
+{
+    "brief_title": "A Study of SGN-STNV in Advanced Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['SGN-STNV']",
+    "drugs_list": [
+        "SGN-STNV"
+    ],
+    "diseases": "['Carcinoma, Non-Small Cell Lung', 'HER2 Negative Breast Neoplasms', 'Endometrial Neoplasms', 'Esophageal Neoplasms', 'Gastroesophageal Junction Carcinoma', 'Stomach Neoplasms', 'Colorectal Neoplasms', 'Exocrine Pancreatic Adenocarcinoma', 'Appendiceal Adenocarcinoma', 'Pseudomyxoma Peritonei', 'Ovarian Neoplasms', 'Uterine Cervical Neoplasms']",
+    "diseases_list": [
+        "Carcinoma",
+        "Non-Small Cell Lung",
+        "HER2 Negative Breast Neoplasms",
+        "Endometrial Neoplasms",
+        "Esophageal Neoplasms",
+        "Gastroesophageal Junction Carcinoma",
+        "Stomach Neoplasms",
+        "Colorectal Neoplasms",
+        "Exocrine Pancreatic Adenocarcinoma",
+        "Appendiceal Adenocarcinoma",
+        "Pseudomyxoma Peritonei",
+        "Ovarian Neoplasms",
+        "Uterine Cervical Neoplasms"
+    ],
+    "enrollment": "315.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Disease indication \n\n Must have disease that is relapsed or refractory or be intolerant to standard-of-care therapies and should have no appropriate standard-of-care therapeutic option. \n\n Non-small cell lung cancer (NSCLC) \n\n HER2 negative breast cancer \n\n Ovarian cancer \n\n Cervical cancer \n\n Endometrial cancer \n\n Esophageal cancer \n\n Gastric cancer and GEJ carcinoma \n\n Colorectal cancer \n\n Exocrine pancreatic adenocarcinoma \n\n Appendiceal adenocarcinoma and pseudomyxoma peritonei of unknown origin \n\n Participants enrolled in the following study parts should have a tumor site accessible for biopsy and agree to biopsy as follows: \n\n Disease-specific expansion cohorts: pre-treatment biopsy \n\n Biology expansion cohort: pretreatment biopsy and additional on-treatment biopsy during Cycle 1 \n\n Measurable disease per the Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1) at baseline \n\n An Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1 \n\n Adequate renal, hepatic, and hematologic function \n\n ",
+    "exclusion_criteria": " \n\n History of another malignancy within 3 years before the first dose of study drug, or any evidence of residual disease from a previously diagnosed malignancy. \n\n Known active central nervous system metastases \n\n Carcinomatous meningitis \n\n Previous receipt of monomethylauristatin E (MMAE)-containing drugs \n\n Pre-existing neuropathy \u2265 Grade 2 per the National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI CTCAE) v5.0 \n\n Any uncontrolled \u2265 Grade 3 (per the NCI CTCAE, Version 5.0) viral, bacterial, or fungal infection within 2 weeks prior to the first dose of SGN-STNV \n\n There are additional inclusion and ",
+    "brief_summary": "This trial will look at a drug called SGN-STNV to find out whether it is safe for patients with solid tumors. It will study SGN-STNV to find out what its side effects are. A side effect is anything the drug does besides treating cancer. It will also study how well SGN-STNV works to treat solid tumors.~The study will have two parts. Part A of the study will find out how much SGN-STNV should be given to patients. Part B will use the dose found in Part A to find out how safe SGN-STNV is and if it works to treat certain types of solid tumors.",
+    "NCT_ID": "NCT04665921"
+}

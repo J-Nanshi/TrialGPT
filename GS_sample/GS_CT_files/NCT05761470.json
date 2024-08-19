@@ -1,0 +1,20 @@
+{
+    "brief_title": "Neoadjuvant Camrelizumab and Fluzoparib and Nab-paclitaxel in Early Breast Cancer With HRR Gene Mutation",
+    "phase": "Phase 2",
+    "drugs": "['Camrelizumab', 'Fluzoparib', 'Nab-paclitaxel']",
+    "drugs_list": [
+        "Camrelizumab",
+        "Fluzoparib",
+        "Nab-paclitaxel"
+    ],
+    "diseases": "['Her-2 Negative Breast Cancer', 'HRR Gene Mutation']",
+    "diseases_list": [
+        "Her-2 Negative Breast Cancer",
+        "HRR Gene Mutation"
+    ],
+    "enrollment": "66.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically documented Her-2 negative \n\n TNM stage: T1c, N1-N2\uff1bT2-4, N0-N2\uff1bany T, N3 \n\n No distant metastatic disease \n\n Eastern Cooperative Oncology Group Performance Status: 0 \n\n 1 \n\n HRR gene mutation: at least one pathogenic or likely pathogenic variant in germline or somatic BRCA1, BCRA2 and PALB2 genes, or in germline ATM, BARD1, BRIP1, CDK12, CHEK2, RAD51C, RAD51D genes. \n\n ",
+    "exclusion_criteria": ": \n\n Patients who are pregnant or lactating at the time of randomization or refuse to contraception. \n\n Patients who have other malignant diseases within 2 years, except for cured skin basal cell carcinoma, breast carcinoma in situ or cervical carcinoma in situ \n\n Patients with psychiatric disorder, peripheral or central nerve system disease or any disorder, which compromises ability to give informed consent or participate in this study. \n\n Patients who have myocardial infarction or congestive heart failure, or other serious cardiac disease. \n\n Patients who have used immunosuppressive drug or corticosteroids within 14 days. \n\n Patients who have other diseases which researchers. \n\n Patients who allergy to any of the drugs in this trail.",
+    "brief_summary": "This study is to evaluate the efficacy and safety of combination of Camrelizumab (Immunotherapy, PD-1 inhibitor), Fluzoparib (PARP inhibitor) and Nab-paclitaxel in neoadjuvant therapy of Her-2 negative breast cancer patients with HRR gene mutation.",
+    "NCT_ID": "NCT05761470"
+}

@@ -1,0 +1,18 @@
+{
+    "brief_title": "Substantially Improving the Cure Rate of High-risk BRCA1-like Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['ddAC-CP-Olaparib', 'ddAC-mini CTC']",
+    "drugs_list": [
+        "ddAC-CP-Olaparib",
+        "ddAC-mini CTC"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "174.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women and men with stage III adenocarcinoma of the breast harboring signs of a breast cancer with features of homologous recombination deficiency (HRD) \n\n Age of 18-65 years \n\n The tumor must be HER2-negative \n\n Treatment must start within 8 weeks after the last surgical resection \n\n Eastern Cooperative Oncology Group (ECOG) performance status 0-1 \n\n ",
+    "exclusion_criteria": ": \n\n Previous radiation therapy \n\n Previous chemotherapy \n\n Any previous treatment with a PARP-inhibitor, including olaparib \n\n Pre-existing neuropathy from any cause in excess of Grade 1 \n\n Chronic concomitant use of known strong or moderate CYP3A inducers",
+    "brief_summary": "Investigator-initiated, international, multicentre, randomized, open-label, (neo)adjuvant phase III study in target population (stage III, HER2-negative, BRCA1-like breast cancer patients) comparing optimized standard-dose chemotherapy with intensified, alkylating chemotherapy with stem cell rescue.",
+    "NCT_ID": "NCT02810743"
+}

@@ -1,0 +1,17 @@
+{
+    "brief_title": "Docetaxel 2-weeks Regimen in the Treatment of HER2 Negative Metastatic Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Docetaxel']",
+    "drugs_list": [
+        "Docetaxel"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "90.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Signed informed consent \n\n The age is Above 18 years of age, <70 years old \n\n The diagnosis of breast cancer was confirmed by cytological examination or pathological examination. HER2-negative \n\n Clinical stage was metastatic breast cancer or locally advanced breast cancer. \n\n Must have at least one measurable lesion, according to RECISTv1.1. \n\n Eastern Cooperative Oncology Group performance status (ECOG PS)=0 \n\n 2 \n\n Docetaxel or paclitaxel can been used in initial treatment or in the past for locally advanced, recurrent or metastatic lesions,if used must been proved effective, and recent progress over 6 months. \n\n The basic function of normal bone marrow \n\n Functions of liver and kidney is normal \n\n Expectation of life is more than 3 months \n\n Agreed to take contraceptive measures during treatment \n\n ",
+    "exclusion_criteria": ": \n\n The patient had a history of allergy to taxanes or their components. \n\n Recent progress of taxanes in 6 months. \n\n In the elution period of other chemotherapy regimens. \n\n Severe coagulopathy. \n\n HER2 positive breast cancer \n\n Previous toxicity was not recovered to 0-1 degrees \n\n Central nervous system metastasis had not Controlled yet \n\n Pregnancy or lactation \n\n There are uncontrolled infection, myocardial infarction, thrombosis, etc. \n\n There are uncontrolled chronic diseases such as diabetes, hypertension, peptic ulcer, chronic hepatitis, mental disease; \n\n HIV infection \n\n Patients with other malignant tumor history, except the healed skin basal cell carcinoma and carcinoma of uterine cervix; \n\n Researchers believe that is not suitable for the study",
+    "brief_summary": "A Randomized, Controlled Clinical Trial Comparing the Efficacy and Safety of a Single Agent Docetaxel 2-Weeks Regimen in the Treatment of HER2 Negative Metastatic Breast Cancer to a 3-Weeks Regimen",
+    "NCT_ID": "NCT03147963"
+}

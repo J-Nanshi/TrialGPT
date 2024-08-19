@@ -7,6 +7,7 @@ Conduct the first stage retrieval by the hybrid retriever
 from beir.datasets.data_loader import GenericDataLoader
 import faiss
 import json
+import pandas as pd
 import nltk
 from nltk import word_tokenize
 import numpy as np
@@ -15,6 +16,7 @@ from rank_bm25 import BM25Okapi
 import sys
 import tqdm
 import torch
+import time
 from transformers import AutoTokenizer, AutoModel
 
 #%%
@@ -31,7 +33,7 @@ The function returns the BM25 index and the list of trial IDs.'''
 def get_bm25_corpus_index(corpus):
 	corpus_path = os.path.join(f"../trialgpt_retrieval/bm25_corpus_{corpus}.json")
 
-	# if already cached then load, otherwise build
+	# if already cached then load, otherwise buildd
 	if os.path.exists(corpus_path):
 		corpus_data = json.load(open(corpus_path))
 		tokenized_corpus = corpus_data["tokenized_corpus"]
@@ -133,7 +135,7 @@ corpus = "GS_data"
 q_type = "gpt-4-turbo"
 # different k for fusion
 # k = int(sys.argv[3])
-k = 50
+k = 100
 
 # bm25 weight 
 # bm25_wt = int(sys.argv[4])
@@ -144,7 +146,7 @@ bm25_wt = 1
 medcpt_wt = 1
 
 # how many to rank
-N = 50
+N = range(10,110,10)
 
 #%%
 # # loading the qrels
@@ -152,7 +154,7 @@ N = 50
 # qrels
 #%%
 # loading all types of queries
-id2queries = json.load(open(f"../../GS_sample/dataset/GS_data/token_counts/id2queries_for_5_patient.json"))
+id2queries = json.load(open(f"../../GS_sample/dataset/GS_data/GS_id2quries_all_30_synthetic_patients.json"))
 id2queries
 #%%
 # loading the indices
@@ -168,108 +170,112 @@ model = AutoModel.from_pretrained("ncbi/MedCPT-Query-Encoder")
 tokenizer = AutoTokenizer.from_pretrained("ncbi/MedCPT-Query-Encoder")
 #%%
 # then conduct the searches, saving top 1k
-output_path = f"../../GS_sample/dataset/GS_data/token_counts/Results/qid2nctids_retrieval_results_for_5_patients_{corpus}_k{k}_bm25wt{bm25_wt}_medcptwt{medcpt_wt}_N{N}.json"
-output_path
-#%%
-qid2nctids = {}
-recalls = []
-with open(f"../../GS_sample/dataset/{corpus}/token_counts/5_selected_syntetic_patient_for_token_count.jsonl", "r") as f:
-	for line in tqdm.tqdm(f.readlines()):
-		entry = json.loads(line)
-		query = entry["text"]
-		qid = entry["_id"]
+for i in tqdm.tqdm(N):
+	# output_path = f"../../GS_sample/dataset/GS_data/Retrival_N_experiments_with_timings_and_topk/retrievals/qid2nctids_retrieval_results_for_30_patients_{corpus}_k{k}_bm25wt{bm25_wt}_medcptwt{medcpt_wt}_N{i}.json"
+	qid2nctids = {}
+	recalls = []
+	time_counts, patients = [], []
+	with open(f"../../GS_sample/dataset/{corpus}/synthetic_patient_cases_random_30_modified.jsonl", "r") as f:
+		for line in tqdm.tqdm(f.readlines()):
+			start_time = time.time()
+			entry = json.loads(line)
+			query = entry["text"]
+			qid = entry["_id"]
+			patients.append(qid)
+			# if qid not in qrels:
+				# continue
 
-		# if qid not in qrels:
-			# continue
+			# truth_sum = sum(qrels[qid].values())
+			
+			# get the keyword list
+			if q_type in ["raw", "human_summary"]:
+				conditions = [id2queries[qid][q_type]]
+			elif "turbo" in q_type:
+				conditions = id2queries[qid][q_type]["conditions"]
+			elif "Clinician" in q_type:
+				conditions = id2queries[qid].get(q_type, [])
 
-		# truth_sum = sum(qrels[qid].values())
+			if len(conditions) == 0:
+				nctid2score = {}
+			else:
+				# a list of nctid lists for the bm25 retriever
+				bm25_condition_top_nctids = []
+
+				for condition in conditions:
+					tokens = word_tokenize(condition.lower())
+					top_nctids = bm25.get_top_n(tokens, bm25_nctids, n=i)
+					bm25_condition_top_nctids.append(top_nctids)
+					# if condition[0] =="Chest pain":
+						# break 
+				# doing MedCPT retrieval
+				with torch.no_grad():
+					encoded = tokenizer(
+						conditions, 
+						truncation=True, 
+						padding=True, 
+						return_tensors='pt', 
+						max_length=256,
+					# ).to("cuda")
+					)
+
+					# encode the queries (use the [CLS] last hidden states as the representations)
+					# embeds = model(**encoded).last_hidden_state[:, 0, :].cpu().numpy()
+					embeds = model(**encoded).last_hidden_state[:, 0, :].numpy()
+
+					# search the Faiss index
+					scores, inds = medcpt.search(embeds, k=i) #'''getting the scores and indices of the clinial trials stored in faiss'''
+
+				medcpt_condition_top_nctids = []
+
+				for ind_list in inds:
+					top_nctids = [medcpt_nctids[ind] for ind in ind_list] #'''here they are doing for each index present in ind_list map and retrive the the nctid corresponding to index of medcpt_ncts'''
+					medcpt_condition_top_nctids.append(top_nctids)
+					# break
+
+				nctid2score = {}
+				'''first they calculate the scores for each id with iterations for bm25 and
+				they are appending the scores to the nctid2score. if the nctid is already existing and has a scrore
+				the score of the id in that iteration is added to the previous score of x iteration.
+				thus the same haapens for medcpt as if the nctid doesnt have a scrore it is calculated and appended 
+				to the list. However if present then the score is combined with previous iterations.
+				Note that - not only the scores combine id repeated in individual list but also combines if 
+				they occur in both the as well
+				Eg - bm25_list [ "NCT1"=0.5, "NCT2"=0.1, "NCT3"=0.6], medcpt_list ["NCT1"=0.5, "NCT4"=0.4, NCT2"=0.7]
+				nctid2score = NCT1 = 0.5+0.5 = 1, NCT2 = 0.1+0.7 = 0.8, NCT3 = 0.6, NCT4 = 0.4'''
+
+				for condition_idx, (bm25_top_nctids, medcpt_top_nctids) in enumerate(zip(bm25_condition_top_nctids, medcpt_condition_top_nctids)):
+
+
+					if bm25_wt > 0:
+						for rank, nctid in enumerate(bm25_top_nctids):
+							if nctid not in nctid2score:
+								nctid2score[nctid] = 0
+							
+							nctid2score[nctid] += (1 / (rank + k)) * (1 / (condition_idx + 1))
+							# break
+
+					if medcpt_wt > 0:
+						for rank, nctid in enumerate(medcpt_top_nctids):
+							if nctid not in nctid2score:
+								nctid2score[nctid] = 0
+							
+							nctid2score[nctid] += (1 / (rank + k)) * (1 / (condition_idx + 1))
+							# break
+					# break
 		
-		# get the keyword list
-		if q_type in ["raw", "human_summary"]:
-			conditions = [id2queries[qid][q_type]]
-		elif "turbo" in q_type:
-			conditions = id2queries[qid][q_type]["conditions"]
-		elif "Clinician" in q_type:
-			conditions = id2queries[qid].get(q_type, [])
+			nctid2score = sorted(nctid2score.items(), key=lambda x: -x[1])
+			top_nctids = [nctid for nctid, _ in nctid2score[:i]]
+			qid2nctids[qid] = top_nctids
+			end_time = time.time()
+			time_counts.append(end_time - start_time)
+			#Caluculating the precesion of each patient not necessary currently 
+			# actual_sum = sum([qrels[qid].get(nctid, 0) for nctid in top_nctids])
+			# recalls.append(actual_sum / truth_sum)
+			# break
 
-		if len(conditions) == 0:
-			nctid2score = {}
-		else:
-			# a list of nctid lists for the bm25 retriever
-			bm25_condition_top_nctids = []
+	with open(output_path, "w") as f:
+		json.dump(qid2nctids, f, indent=4)
 
-			for condition in conditions:
-				tokens = word_tokenize(condition.lower())
-				top_nctids = bm25.get_top_n(tokens, bm25_nctids, n=N)
-				bm25_condition_top_nctids.append(top_nctids)
-				# if condition[0] =="Chest pain":
-					# break 
-			# doing MedCPT retrieval
-			with torch.no_grad():
-				encoded = tokenizer(
-					conditions, 
-					truncation=True, 
-					padding=True, 
-					return_tensors='pt', 
-					max_length=256,
-				# ).to("cuda")
-				)
-
-				# encode the queries (use the [CLS] last hidden states as the representations)
-				# embeds = model(**encoded).last_hidden_state[:, 0, :].cpu().numpy()
-				embeds = model(**encoded).last_hidden_state[:, 0, :].numpy()
-
-				# search the Faiss index
-				scores, inds = medcpt.search(embeds, k=N) #'''getting the scores and indices of the clinial trials stored in faiss'''
-
-			medcpt_condition_top_nctids = []
-
-			for ind_list in inds:
-				top_nctids = [medcpt_nctids[ind] for ind in ind_list] #'''here they are doing for each index present in ind_list map and retrive the the nctid corresponding to index of medcpt_ncts'''
-				medcpt_condition_top_nctids.append(top_nctids)
-				# break
-
-			nctid2score = {}
-			'''first they calculate the scores for each id with iterations for bm25 and
-			they are appending the scores to the nctid2score. if the nctid is already existing and has a scrore
-			the score of the id in that iteration is added to the previous score of x iteration.
-			thus the same haapens for medcpt as if the nctid doesnt have a scrore it is calculated and appended 
-			to the list. However if present then the score is combined with previous iterations.
-			Note that - not only the scores combine id repeated in individual list but also combines if 
-			they occur in both the as well
-			Eg - bm25_list [ "NCT1"=0.5, "NCT2"=0.1, "NCT3"=0.6], medcpt_list ["NCT1"=0.5, "NCT4"=0.4, NCT2"=0.7]
-			nctid2score = NCT1 = 0.5+0.5 = 1, NCT2 = 0.1+0.7 = 0.8, NCT3 = 0.6, NCT4 = 0.4'''
-
-			for condition_idx, (bm25_top_nctids, medcpt_top_nctids) in enumerate(zip(bm25_condition_top_nctids, medcpt_condition_top_nctids)):
-
-
-				if bm25_wt > 0:
-					for rank, nctid in enumerate(bm25_top_nctids):
-						if nctid not in nctid2score:
-							nctid2score[nctid] = 0
-						
-						nctid2score[nctid] += (1 / (rank + k)) * (1 / (condition_idx + 1))
-						# break
-
-				if medcpt_wt > 0:
-					for rank, nctid in enumerate(medcpt_top_nctids):
-						if nctid not in nctid2score:
-							nctid2score[nctid] = 0
-						
-						nctid2score[nctid] += (1 / (rank + k)) * (1 / (condition_idx + 1))
-						# break
-				# break
-	
-		nctid2score = sorted(nctid2score.items(), key=lambda x: -x[1])
-		top_nctids = [nctid for nctid, _ in nctid2score[:N]]
-		qid2nctids[qid] = top_nctids
-
-        #Caluculating the precesion of each patient not necessary currently 
-		# actual_sum = sum([qrels[qid].get(nctid, 0) for nctid in top_nctids])
-		# recalls.append(actual_sum / truth_sum)
-		# break
-
-with open(output_path, "w") as f:
-	json.dump(qid2nctids, f, indent=4)
-
+	df = pd.DataFrame({"Patients": patients, f"Time_Top{i}": time_counts})
+	df.to_csv(f"../../GS_sample/dataset/GS_data/Retrival_N_experiments_with_timings_and_topk/timings/Time_taken_for_30_patient_to_get_Top{i}_trials.csv", index=None)
 # %%

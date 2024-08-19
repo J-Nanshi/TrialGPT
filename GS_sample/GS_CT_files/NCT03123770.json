@@ -1,0 +1,20 @@
+{
+    "brief_title": "Efficacy and Safety of Neoadjuvant DC-T in Breast Cancer Patients",
+    "phase": "Phase 4",
+    "drugs": "['Pegylated liposomal doxorubicin', 'Cyclophosphamide', 'Epirubicin', 'Docetaxel']",
+    "drugs_list": [
+        "Pegylated liposomal doxorubicin",
+        "Cyclophosphamide",
+        "Epirubicin",
+        "Docetaxel"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "384.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women aged : 18 \n\n 70 years. \n\n WHO (ECOG) performance status 0-2. \n\n Patients who have read and understand the informed consent form and have given written informed consent. \n\n Diagnosed as invasive breast cancer by core biopsy \n\n Diagnosed pre-surgically as (cTNM Staging)Stage II-III and suit for neoadjuvant chemotherapy. \n\n Patients had previously not received chemotherapy\uff0cradiotherapy or biotherapy. \n\n Normal organ function\uff0cmeeting the requirement of laboratory testing below: \n\n WBC\u22654.0\u00d7109/L, \n\n NEU\u22651.5\u00d7109/L, \n\n PLT\u2265100\u00d7109/L, \n\n HB \u226510g/dL, \n\n Scr\u22641.5\u00d7 ULN, \n\n AST \u22642.5\u00d7ULN, \n\n ALT \u22642.5\u00d7ULN, \n\n TDIL\u22641.5\u00d7ULN. \n\n Patients with measurable lesion assessed by imaging using the RECIST (Response Evaluation Criteria In Solid Tumor) guideline\uff0c\uff08long diameter of primary lesion \u22651cm or minor diameter of lymph node \u22651.5cm\uff09\uff1b \n\n ",
+    "exclusion_criteria": ": \n\n Pregnant or lactating women were excluded. \n\n History of receiving organ transplantation\uff08including Autologous bone marrow transplantation and peripheral hematopoietic stem-cell transplantation). \n\n Dysfunction of peripheral nerve system caused by other diseases or history of either severe mental disorder or central nervous system disorders. \n\n Uncontrolled infection or severe peptic ulcer need treatment. \n\n Severe hepatic disease\uff08such as hepatic cirrhosis),nephrosis,respiratory disease or uncontrolled diabetes. \n\n Patients with malignancies (other than breast cancer) within the last 5 years, except for adequately treated in situ carcinoma of the cervix or basal cell carcinoma of the skin. \n\n Significant abnormal EKG or cardiac disease with drastic symptoms like congestive heart failure or severe coronary disease or uncontrolled arrhythmia or myocardial infarction within 12 months or NYHA level III-IV or LVEF<55% . \n\n Be allergic to test drugs.",
+    "brief_summary": "This is a multicentric, open-label,non-randomized concurrent control, 1:1 match,non-inferiority trial that assesses the efficacy and safety of neoadjuvant chemotherapy regimen DC-T and EC-T in breast cancer patients.",
+    "NCT_ID": "NCT03123770"
+}

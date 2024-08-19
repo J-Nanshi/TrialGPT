@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study to Learn About a New Medicine Called ARV-471 (PF-07850327) in People Who Have Advanced Metastatic Breast Cancer.",
+    "phase": "Phase 3",
+    "drugs": "['ARV-471', 'Fulvestrant']",
+    "drugs_list": [
+        "ARV-471",
+        "Fulvestrant"
+    ],
+    "diseases": "['Advanced Breast Cancer']",
+    "diseases_list": [
+        "Advanced Breast Cancer"
+    ],
+    "enrollment": "560.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Adult participants with loco-regional recurrent or metastatic breast disease not amenable to surgical resection or radiation therapy \n\n Confirmed diagnosis of ER+/HER2- breast cancer \n\n Prior therapies for locoregional recurrent or metastatic disease must fulfill all the following criteria: \n\n One line of CDK4/6 inhibitor therapy in combination with endocrine therapy \n\n \u2264 1 endocrine therapy in addition to CDK4/6 inhibitor with ET \n\n Most recent endocrine treatment duration must have been given for \u22656 months prior to disease progression \n\n Radiological progression during or after the last line of therapy \n\n Measurable disease evaluable per Response Evaluation Criterion in Solid Tumors (RECIST) v.1.1 or non-measurable bone-only disease \n\n Eastern Cooperative Oncology Group (ECOG) performance status 0-1 \n\n Participants should be willing to provide blood and tumor tissue \n\n ",
+    "exclusion_criteria": ": \n\n Participants with advanced, symptomatic visceral spread, that are at risk of life-threatening complications in the short term \n\n Prior treatment with: \n\n ARV-471, fulvestrant, mTOR, PI3K, AKT pathway inhibitors, PARP inhibitor for any setting \n\n other investigational novel endocrine therapy (ie, SERD, SERCA, CERAN) for any setting \n\n prior CDK4/6 inhibitor treatment in the neoadjuvant/ adjuvant setting \n\n prior chemotherapy for advanced/metastatic disease \n\n Inadequate liver, kidney and bone marrow function \n\n Active brain metastases \n\n Participants with significant concomitant illness",
+    "brief_summary": "A study to learn about a new medicine called ARV-471 (PF-07850327) in people who have advanced metastatic breast cancer.",
+    "NCT_ID": "NCT05654623"
+}

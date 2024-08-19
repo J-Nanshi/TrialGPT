@@ -1,0 +1,18 @@
+{
+    "brief_title": "Serial Circulating Tumor DNA (ctDNA) Monitoring During Adjuvant Capecitabine in Early Triple-negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Capecitabine']",
+    "drugs_list": [
+        "Capecitabine"
+    ],
+    "diseases": "['Triple Negative Breast Cancer', 'Breast Cancer']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer",
+        "Breast Cancer"
+    ],
+    "enrollment": "25.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Anatomic stage I - III triple-negative breast cancer at diagnosis \n\n Estrogen receptors (ER) and Progesterone receptors (PR) status <10% \n\n Residual disease following at least 4 cycles of neoadjuvant chemotherapy. Patients who received other investigational immunotherapy or targeted therapy during the neoadjuvant phase of treatment are eligible. \n\n \u2265 18 years of age \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2 \n\n All clinically significant toxic effects of prior cancer therapy resolved to Grade \u2264 1 by the National Cancer Institute Common Terminology Criteria for Adverse Events, version 5.0 (NCI CTCAE, v 5.0), except alopecia and G2 neuropathy. \n\n No evidence of metastatic disease. \n\n A minimum 4-week wash out from previous chemotherapy treatment is required. \n\n Adequate hematologic function: Absolute neutrophil count (ANC) \u2265 1,500 cells/\u03bcL (\u2265 1,500/mm3); Platelets \u2265 100,000 cells/\u03bcL (\u2265 100,000/mm3) \n\n Adequate hepatic function: Bilirubin \u2264 1.5 times the specific institutional upper limit of normal (ULN). Exception: If Gilbert's syndrome; then \u2264 5 times ULN. Aspartate transaminase (AST) and alanine transaminase (ALT) each \u2264 2.5 x ULN \n\n Adequate renal function: Serum creatinine \u2264 1.5 x ULN; or calculated creatinine clearance > 50 mL/min using the Cockcroft Gault formula. \n\n Planned for 6 months or 8 cycles of adjuvant capecitabine. \n\n Women of childbearing potential (WOCBP) must have a negative pregnancy test. \n\n WOCBP must agree to use effective contraception during the study and for 3 months after the last dose. \n\n Male participants and their female partners of child bearing potential must be willing to use an appropriate method of contraception during the study and for 3 months after the last dose. \n\n Capable of giving signed informed consent, which includes compliance with requirements and restrictions listed in the informed consent form (ICF) and in the protocol \n\n ",
+    "exclusion_criteria": ": \n\n Metastatic breast cancer \n\n Has not had definitive surgical resection \n\n Pregnant or breastfeeding \n\n Has not completed definitive adjuvant radiation if planned \n\n Known human immunodeficiency virus (HIV) positivity or active hepatitis B or C. \n\n Investigational agents within 4 weeks of study initiation \n\n Inability to swallow oral medications",
+    "brief_summary": "The purpose of the study is to evaluate the use of a circulating tumor DNA (ctDNA) assay, ie, a liquid biopsy, as a tool to identify triple-negative breast cancer (TNBC) patients who will or will not experience benefit from treatment with capecitabine. Participants will be monitored for changes in ctDNA in the blood over time received during capecitabine treatment. Results of ctDNA analysis will be correlated to genetic characteristics of individual tumors. This may inform future clinical trials in which patients could receive a different treatment than capecitabine to reduce their risk of breast cancer relapse.",
+    "NCT_ID": "NCT04768426"
+}

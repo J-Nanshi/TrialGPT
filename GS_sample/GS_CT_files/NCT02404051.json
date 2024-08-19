@@ -1,0 +1,23 @@
+{
+    "brief_title": "Fulvestrant and EVerolimus Plus EXemestane in Metastatic Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Everolimus', 'Exemestane', 'Fulvestrant']",
+    "drugs_list": [
+        "Everolimus",
+        "Exemestane",
+        "Fulvestrant"
+    ],
+    "diseases": "['Metastatic Breast Cancer', 'Breast Cancer', 'Hormone Receptor Positive Tumor', 'Human Epidermal Growth Factor 2 Negative Carcinoma of Breast', 'Locally Advanced Malignant Neoplasm']",
+    "diseases_list": [
+        "Metastatic Breast Cancer",
+        "Breast Cancer",
+        "Hormone Receptor Positive Tumor",
+        "Human Epidermal Growth Factor 2 Negative Carcinoma of Breast",
+        "Locally Advanced Malignant Neoplasm"
+    ],
+    "enrollment": "745.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Adult women (\u2265 18 years of age) with LABC or MBC not amenable to curative treatment by surgery or radiotherapy, refractory to NSAI \n\n Histological or cytological confirmation of ER+ BC and/or PgR+. \n\n Postmenopausal women. \n\n Radiological or objective evidence of recurrence or progression on or after the last systemic therapy prior to randomization \n\n Patients must have: \n\n At least one lesion that can be accurately measured in at least one dimension \u2265 20 mm with conventional imaging techniques or \u2265 10 mm with spiral CT or MRI \n\n Bone lesions: lytic or mixed (lytic + sclerotic) in the absence of measurable disease as defined above. \n\n Adequate bone marrow and coagulation according RCP \n\n Adequate liver function, according RCP \n\n Adequate renal function, according RCP \n\n ECOG Performance Status \u2264 2 \n\n Written informed consent \n\n ",
+    "exclusion_criteria": ": \n\n HER2-overexpressing patients by local laboratory testing (IHC3+ staining or in situ hybridization positive). \n\n Patients who received chemotherapy for MBC \n\n Patients who received more than one NSAI treatment for LABC or MBC \n\n Pre-menopausal, pregnant, lactating women. \n\n Known hypersensitivity to mTOR inhibitors \n\n Patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose galactose malabsorption. \n\n Radiotherapy within four weeks prior to enrollment \n\n Currently receiving hormone replacement therapy, unless discontinued prior to enrollment. \n\n Patients receiving concomitant immunosuppressive agents or chronic corticosteroids use, at the time of study entry except in some cases \n\n Patients with symptomatic visceral disease in need of urgent disease control \n\n Symptomatic brain or other CNS metastases. \n\n Patients with a known history of HIV seropositivity. \n\n Active, bleeding diathesis, or on oral anti-vitamin K medication (except cases). \n\n Any severe and / or uncontrolled medical conditions such as: \n\n Unstable angina pectoris, symptomatic congestive heart failure, myocardial infarction \u22646 months prior to enrollment, serious uncontrolled cardiac arrhythmia \n\n Uncontrolled diabetes as defined by fasting serum glucose > 1.5 \u00d7 ULN \n\n Acute and chronic, active infectious disorders \n\n Impairment of gastrointestinal function or gastrointestinal disease that may significantly alter the absorption of the study treatments (e.g., ulcerative disease, uncontrolled nausea, vomiting, diarrhea, malabsorption syndrome) \n\n Inability to swallow oral medications \n\n Significant symptomatic deterioration of lung function. \n\n Hepatic-related ",
+    "brief_summary": "This is a multi-center, randomized, open-label, parallel group study designed to evaluate efficacy and safety of fulvestrant followed, at progression, by examestane and everolimus versus examestane and everolimus followed, at progression, by fulvestrant in postmenopausal women with HR+ and HER2- LABC or MBC whose disease has progressed to NSAI in the adjuvant or metastatic setting.",
+    "NCT_ID": "NCT02404051"
+}

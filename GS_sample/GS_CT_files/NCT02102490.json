@@ -1,0 +1,17 @@
+{
+    "brief_title": "A Study of Abemaciclib (LY2835219) In Participants With Previously Treated Breast Cancer That Has Spread",
+    "phase": "Phase 2",
+    "drugs": "['Abemaciclib']",
+    "drugs_list": [
+        "Abemaciclib"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "132.0",
+    "inclusion_criteria": "inclusion criteria. \n\n Have a diagnosis of Hormone Receptor Positive (HR+), Human Epidermal Growth Factor Receptor 2 Negative (HER2-) breast cancer. \n\n Recurrent, locally advanced, unresectable or metastatic breast cancer with disease progression following anti-estrogen therapy. \n\n Prior treatment with at least 2 chemotherapy regimens: \n\n At least 1 of these regimens must have been administered in the metastatic setting. \n\n At least 1 of these regimens must have contained a taxane. \n\n No more than 2 prior chemotherapy regimens in the metastatic setting. \n\n Have a performance status (PS) of 0 to 1 on the Eastern Cooperative Oncology Group scale. \n\n Have discontinued all previous therapies for cancer. \n\n Have the presence of measureable disease as defined by Response Evaluation Criteria in Solid Tumors Version 1.1. \n\n ",
+    "exclusion_criteria": ": \n\n Have either a history of central nervous system (CNS) metastasis or evidence of CNS metastasis on the magnetic resonance image of brain obtained at baseline. \n\n Received prior therapy with another cyclin-dependent kinases 4 and 6 (CDK4/6) inhibitor. \n\n Have received treatment with a drug that has not received regulatory approval for any indication within 14 or 21 days of the initial dose of study drug. \n\n Have had major surgery within 14 days of the initial dose of study drug. \n\n Have a history of any other cancer (except non-melanoma skin cancer or carcinoma in-situ of the cervix).",
+    "brief_summary": "The main purpose of this study is to evaluate whether the study drug known as abemaciclib is effective in treating participants with breast cancer who have already tried other drug treatments.",
+    "NCT_ID": "NCT02102490"
+}

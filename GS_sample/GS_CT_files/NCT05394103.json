@@ -1,0 +1,19 @@
+{
+    "brief_title": "Highly Selective CDK7 Inhibitor Q901 in Selected Advanced Solid Tumors",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['Q901', 'Pembrolizumab']",
+    "drugs_list": [
+        "Q901",
+        "Pembrolizumab"
+    ],
+    "diseases": "['Advanced Cancer', 'Metastatic Cancer']",
+    "diseases_list": [
+        "Advanced Cancer",
+        "Metastatic Cancer"
+    ],
+    "enrollment": "130.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Participants with histologically or cytologically confirmed advanced or metastatic ovarian, CRPC, HR+ HER2- breast, endometrial, colorectal, small-cell lung, or pancreatic cancer, who have progressed following standard-of-care therapy or for whom there is no standard therapy that confers clinical benefit \n\n Measurable disease per RECIST v 1.1 \n\n ECOG performance status 0,1 or 2 \n\n Life expectancy of at least 3 months \n\n Age \u2265 18 years \n\n Signed, written IRB-approved informed consent form \n\n ",
+    "exclusion_criteria": ": \n\n New York Heart Association Class III or IV cardiac disease, or myocardial infarction, severe unstable angina, coronary/peripheral artery bypass graft, congestive heart failure within the past 6 months \n\n Have a corrected QT interval (using Fridericia's correction formula) (QTcF) of >470 msec (females) and >450 msec (males) \n\n Active, uncontrolled bacterial, viral, or fungal infections, requiring systemic therapy \n\n Active, poorly controlled autoimmune or inflammatory diseases",
+    "brief_summary": "Multicenter, open-label, dose-escalation, safety, tolerability, PK and pharmacodynamic study with a dose expansion at the RP2D to evaluate safety and potential antitumor activity of Q901 as a monotherapy and in combination with pembrolizumab",
+    "NCT_ID": "NCT05394103"
+}

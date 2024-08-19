@@ -1,0 +1,21 @@
+{
+    "brief_title": "Regimens Comparison for Breast Cancers of Positive Lymph Nodes",
+    "phase": "Phase 3",
+    "drugs": "['Epirubicin, CTX, Paclitaxel', 'Epirubicin, Paclitaxel']",
+    "drugs_list": [
+        "Epirubicin",
+        "CTX",
+        "Paclitaxel",
+        "Epirubicin",
+        "Paclitaxel"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "1000.0",
+    "inclusion_criteria": "inclusion criteria: \n\n patients with breast cancer after breast cancer surgery with positive lymph nodes age 18-70 years old \n\n ",
+    "exclusion_criteria": ": \n\n with other malignance disease",
+    "brief_summary": "To compare the efficacy and safety of EC-T and ET regimen as adjuvant treatment of breast cancer patients with positive lymph nodes",
+    "NCT_ID": "NCT01134523"
+}

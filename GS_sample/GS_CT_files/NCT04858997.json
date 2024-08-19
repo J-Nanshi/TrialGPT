@@ -1,0 +1,18 @@
+{
+    "brief_title": "Tumor Response Time of Palbociclib in Combination With AI in Real-world Chinese Patients",
+    "phase": "Phase 2",
+    "drugs": "['Palbociclib', 'AI']",
+    "drugs_list": [
+        "Palbociclib",
+        "AI"
+    ],
+    "diseases": "['Breast Neoplasms']",
+    "diseases_list": [
+        "Breast Neoplasms"
+    ],
+    "enrollment": "150.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Adult women (\u2265 18 years of age) with proven diagnosis of adenocarcinoma of the breast with evidence of locoregionally recurrent or metastatic disease not amenable to resection or radiation therapy with curative intent and for whom chemotherapy is not clinically indicated. \n\n Documentation of histologically or cytologically confirmed diagnosis of estrogen-receptor positive (ER+, > 10%) breast cancer based on local laboratory results. \n\n Previously untreated with any systemic anti-cancer therapy for their locoregionally recurrent or metastatic ER+ disease. \n\n Postmenopausal women. \n\n At least one measurable lesion as defined per RECIST v.1.1. \n\n Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-2. \n\n Adequate organ and marrow function. \n\n Willingness and ability to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures. \n\n ",
+    "exclusion_criteria": ": \n\n Patients with advanced, symptomatic, visceral spread, that are at risk of life-threatening complications including any of the following: \n\n massive uncontrolled effusions [pleural, pericardial, peritoneal] \n\n pulmonary lymphangitis, \n\n over 50% liver involvement \n\n Known active uncontrolled or symptomatic CNS metastases, carcinomatous meningitis,or leptomeningeal disease as indicated by clinical symptoms, cerebral edema, and/or progressive growth. \n\n Prior neoadjuvant or adjuvant treatment with a non-steroidal aromatase inhibitor (ie, anastrozole or letrozole) with disease recurrence while on or within 12 months of completing treatment. \n\n Prior treatment with any CDK4/6 inhibitor. \n\n QTc >480 msec (based on the mean value of the triplicate ECGs), family or personal history of long or short QT syndrome, Brugada syndrome or known history of QTc prolongation, or Torsade de Pointes (TdP). \n\n Female patients who are pregnant or nursing.",
+    "brief_summary": "The international treatment guidelines now include recommendations for the use of CDK 4/6 inhibitors in combination with hormone agents for the treatment of postmenopausal women with hormone-receptor-positive/HER2-negative ABC as the first-line standard therapy in endocrine sensitive patients.~Nevertheless, it is generally thought that chemotherapy is associated with greater and earlier tumor response, especially in case of high burden of disease. In a retrospective analysis of real-world clinical practice (2002-2012) from US, only 60% of patients initiated ET as the first treatment following metastatic diagnosis . In the real-life world of China, a large number of HR+/HER2- ABC patients with non-visceral crisis also received chemotherapy in first-line treatment, even though the ORR is similar compared with CDK4/6 inhibitors with endocrine therapy. Zhejiang Cancer Hospital retrospective analysis of 5 cases of advanced breast cancer first-line use of Ibance + ET, they were evaluated within 50 days (from 27days to 50days).~Based on the early response time observed in real-world data mentioned above, it is proposed a prospective study to further observe the tumor reduction rate in real-world, including to identify the time of patient symptom improvement according to the quality of life scale.",
+    "NCT_ID": "NCT04858997"
+}

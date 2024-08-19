@@ -1,0 +1,17 @@
+{
+    "brief_title": "High Risk ER+HER2- T1-2N0-1 Early Breast Cancer With Palbociclib Plus Endocrine Therapy(HIPEx)",
+    "phase": "Phase 2",
+    "drugs": "['Palbociclib']",
+    "drugs_list": [
+        "Palbociclib"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "578.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patient is an adult, \u2265 19 years old at the time of informed consent \n\n Premenopausal and postmenopausal women or men with invasive breast cancer \n\n De novo primary disease \n\n Patient who performed surgery with curative aim \n\n Patient who has negative surgical resection margins \n\n Patient with histologically confirmed HER2-negative breast cancer \n\n Patient with histologically and cytologically confirmed ER positive breast cancer by local laboratory testing \n\n Pathological node assessment: pN0 or pN1 \n\n Tumor size \u2265 0.5 cm, and T1 or T2 \n\n Clinical High-Risk (Clinical high-risk patients as per the modified Adjuvant! Online guideline in the clinical trial MINADCT(Microarray in Node Negative Disease May Avoid Chemotherapy), refer to section 5.2.1) \n\n Genomic High-Risk in BCT score (\u2265 4) \n\n Patients agreed to use effective contraception or not be of childbearing potential. \n\n Patient has adequate bone marrow and organ function \n\n Patient has an Eastern Cooperative Oncology Group (ECOG) performance status \u2264 1 \n\n Patient who is able to swallow and retain oral medication \n\n A FFPE tumor sample must be available for inclusion. The tumor sample must be taken from the excised primary tumor \n\n ",
+    "exclusion_criteria": ": \n\n Patient with recurred breast cancer \n\n Patient with histologically confirmed ER negative \n\n Patient with histologically confirmed HER2-positive \n\n Pathological node assessment: pN2 or pN3 \n\n Patients has received neoadjuvant chemotherapy or endocrine therapy \n\n Patient has received preoperative treatment with CDK 4/6 inhibitors. \n\n Patient has received preoperative radiation therapy \n\n Tumor size less than 0.5 cm \n\n Patients with low clinical risk group (section 5.2.1) \n\n Patients who low BCT risk group (BCT score<4) \n\n Patients with lactose intolerance \n\n Patients with a hypersensitivity to IP and/or components of IP \n\n Pregnant women, women of childbearing potential or lactating women \n\n Patients who have serious underlying co-morbidities which could cause end-organ dysfunction \n\n A FFPE tumor sample is not available",
+    "brief_summary": "This is a phase II, multi-center, single-arm, open-label trial to evaluate efficacy of palbociclib with endocrine therapy as adjuvant treatment in women with C-high/G-high risk ER-positive/HER2-negative T1-2N0-1 EBC(Early Breast Cancer)",
+    "NCT_ID": "NCT04247633"
+}

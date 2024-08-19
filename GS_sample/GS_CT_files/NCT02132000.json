@@ -1,0 +1,18 @@
+{
+    "brief_title": "Efficacy and Tolerability of Toremifene or Tamoxifen Therapy in Premenopausal Estrogen and Progesterone Receptor Positive Breast Cancer Patients",
+    "phase": "Phase 2; Phase 3",
+    "drugs": "['toremifene or tamoxifen']",
+    "drugs_list": [
+        "toremifene or tamoxifen"
+    ],
+    "diseases": "['Breast Cancer Patients in Premenopausal', 'Estrogen and/or Progesterone Receptor Positive']",
+    "diseases_list": [
+        "Breast Cancer Patients in Premenopausal",
+        "Estrogen and/or Progesterone Receptor Positive"
+    ],
+    "enrollment": "3036.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Clinical diagnosis of Breast cancer \n\n Received standard treatment (chemotherapy, operation, or radiotherapy) \n\n premenopausal \n\n estrogen and/or progesterone receptor positive \n\n ",
+    "exclusion_criteria": ": \n\n Metastatic tumors \n\n During pregnancy or lactation",
+    "brief_summary": "In premenopausal women, endocrine adjuvant therapy for breast cancer primarily consists of tamoxifen alone or with ovarian suppressive strategies. Toremifene is a chlorinated derivative of tamoxifen, but with a superior risk-benefit profile. In this trial, we sought to compare the efficacy and tolerability of toremifene and tamoxifen therapy in premenopausal patients with operable,estrogen and/or progesterone receptor positive breast cancer patients.",
+    "NCT_ID": "NCT02132000"
+}

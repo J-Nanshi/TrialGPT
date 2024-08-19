@@ -1,0 +1,17 @@
+{
+    "brief_title": "Named Patient Use Program to Provide Abemaciclib (LY2835219) for the Treatment of Metastatic Breast Cancer",
+    "phase": "",
+    "drugs": "['Abemaciclib']",
+    "drugs_list": [
+        "Abemaciclib"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients with hormone receptor positive metastatic breast cancer for whom there is reasonable expectation that abemaciclib may provide clinical benefit and who are suitable to receive abemaciclib.",
+    "exclusion_criteria": "",
+    "brief_summary": "The treating physician/investigator contacts Lilly when, based on their medical opinion, a patient meets the criteria for inclusion in the expanded access program.",
+    "NCT_ID": "NCT03763604"
+}

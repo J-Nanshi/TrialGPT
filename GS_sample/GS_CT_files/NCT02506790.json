@@ -1,0 +1,19 @@
+{
+    "brief_title": "Neoadjuvant Toremifene With Melatonin or Metformin in Locally Advanced Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['metformin', 'Melatonin', 'Toremifene']",
+    "drugs_list": [
+        "metformin",
+        "Melatonin",
+        "Toremifene"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "96.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age > 18. \n\n Obtained Inform Concent. \n\n Morphologically confirmed breast cancer stage IIB, IIIA, IIIB, IIIC ER positive. \n\n Eastern Collaborative Oncology Group Performance Status Scale 0-2. \n\n Expected survival > 6 month. \n\n Adequate liver and bone marrow function. \n\n ",
+    "exclusion_criteria": ": \n\n Systemic treatment for breast cancer. \n\n Stage IV disease. \n\n Evidence of liver and bone marrow clinically meaningful disfunction. \n\n Severe uncontrolled concomitant conditions and diseases. \n\n Pregnancy or lactation. \n\n Second malignancy. \n\n Diabetes mellitus requiring drug therapy. \n\n Any condition preventing study participation by investigators opinion.",
+    "brief_summary": "This study evaluates the addition melatonin and metformin to toremifene in the treatment of locally advanced breast cancer. Third of patients will receive toremifene, other third will receive combination of melatonin and toremifene and other patients will receive combination of metformin and toremifene.",
+    "NCT_ID": "NCT02506790"
+}

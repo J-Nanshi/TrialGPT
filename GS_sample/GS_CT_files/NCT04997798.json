@@ -1,0 +1,19 @@
+{
+    "brief_title": "Dalpiciclib in Combination With Exemestane and Trastuzumab Plus Pyrotinib in Early Triple Positive Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Trastuzumab Pyrotinib Exemestane Dalpiciclib']",
+    "drugs_list": [
+        "Trastuzumab Pyrotinib Exemestane Dalpiciclib"
+    ],
+    "diseases": "['Breast Cancer', 'Estrogen Receptor Positive Tumor', 'HER2-positive Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Estrogen Receptor Positive Tumor",
+        "HER2-positive Breast Cancer"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n 18 Years to 75 Years \n\n Newly diagnosed clinical stage II or III ER+/HER2+ breast cancer, staging criteria is to be based on AJCC 7. \n\n Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 \n\n Primary tumor must have positive estrogen receptor (ER) \u226510% \n\n Primary tumor must be HER2-positive (IHC 3+ or FISH/CISH amplification) \n\n Baseline LVEF \u226550% measured by Echocardiography (preferred) or MUGA scan \n\n Normal organ and marrow function \n\n Written Informed Consent (IC) must be signed and dated by the patient and the Investigator prior to randomization. \n\n Baseline corrected QT interval (QTcF) < 480 ms \n\n All patients must be female. \n\n ",
+    "exclusion_criteria": ": \n\n Inflammatory breast cancer \n\n Evidence of bilateral invasive breast cancer or metastatic disease \n\n Received any prior treatment for primary invasive breast cancer \n\n Pregnant or lactating women \n\n Abnormal baseline hematological values: \n\n Abnormal baseline liver function, bilirubin, creatinine and/or INR (international normalized ratio) \n\n Subjects with known infection with HIV, HBV, HCV \n\n Other investigational drugs while on study \n\n Severe or uncontrolled hypertension, history of congestive heart failure or severe coronary arterial disease. \n\n Subjects assessed by the investigator to be unable or unwilling to comply with the requirements of the protocol",
+    "brief_summary": "This is a phase II open-label, multicenter trial assessing the efficacy of combination regimenDalpiciclib plus Exemestane plus trastuzumab plus pyrotinibin early triple positive breast cancer patients.",
+    "NCT_ID": "NCT04997798"
+}

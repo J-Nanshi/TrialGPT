@@ -1,0 +1,20 @@
+{
+    "brief_title": "Study to Evaluate PM01183 in Combination With Olaparib in Advanced Solid Tumors",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['PM01183 + olaparib']",
+    "drugs_list": [
+        "PM01183 + olaparib"
+    ],
+    "diseases": "['Advanced Cancer', 'Ovarian Cancer', 'Endometrial Cancer', 'Breast Cancer']",
+    "diseases_list": [
+        "Advanced Cancer",
+        "Ovarian Cancer",
+        "Endometrial Cancer",
+        "Breast Cancer"
+    ],
+    "enrollment": "100.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients \u226518 years of age, no upper age limit. \n\n Written informed consent obtained prior to any study specific procedures or assessments. \n\n Histologically confirmed diagnosis of cancer: \n\n Phase I: patients with advanced or metastatic solid tumors without established standard therapeutic alternatives. \n\n Phase II: platinum-resistant ovarian cancer patients (epithelial non-mucinous), triple negative breast cancer and endometrial cancer (any grade). \n\n For patients included in the phase II part of the study, evidence of measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) criteria version 1.1 is required. \n\n At least one lesion, not previously irradiated, that can be accurately measured at baseline as \u2265 10 mm in the longest diameter (except lymph nodes which must have short axis \u2265 15 mm) with computed tomography (CT) or magnetic resonance imaging (MRI) and which is suitable for accurate repeated measurements, OR \n\n At least one lesion (measurable and/or non-measurable) that can be accurately assessed by (CT/MRI/plain x-ray) at baseline and follow up visits. \n\n Patients included in the phase II part of the study must have received at least one line of standard therapy for locally advanced or metastatic disease, and developed progression disease afterwards. \n\n ECOG score < 2. \n\n Life expectancy of \u2265 3 months. \n\n Patients must have normal organ and bone marrow function measured within 28 days prior to administration of study treatment as defined below: \n\n Haemoglobin \u2265 10.0 g/dL and no blood transfusions in the 28 days prior to entry/randomisation (choose whichever is most applicable to the study). \n\n Absolute neutrophil count (ANC) \u2265 1.5 x 109/L \n\n i. No features suggestive of myelodisplastic syndrome (MSD)/ Acute myeloid leukaemia (AML) on peripheral blood smear c. White blood cells (WBC) > 3x109/L d. Platelet count \u2265 100 x 109/L e. Total bilirubin \u2264 1.5 x institutional upper limit of normal (ULN) f. AST (SGOT)/ALT (SGPT) \u2264 2.5 x institutional ULN unless liver metastases are present in which case it must be \u2264 5x ULN g. Albumin \u2265 3.0 g/dl h. Serum creatinine \u2264 1.5 x institutional ULN i. Creatinine clearance \u2265 30 ml/min. \n\n Patients should sign an informed consent form before inclusion in the study that specifies that the clinical trial treatment entails consent for the analysis of biological samples of tumor and blood. \n\n Patient is willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations including follow up. \n\n Evidence of non-childbearing status for women of childbearing potential (WOCBP)*. \n\n WOCBP should only be included after a confirmed menstrual period and a negative urine or serum pregnancy test within 28 days of study treatment, confirmed prior to treatment on day 1.. The inclusion of WOCBP requires use of a highly effective contraceptive measure (Appendix H). \n\n ",
+    "exclusion_criteria": ": \n\n Patients should not enter the study if any of the following ",
+    "brief_summary": "Phase Ib/II study to evaluate the efficacy and tolerability of PM01183 in combination with olaparib in patients with advanced solid tumors.",
+    "NCT_ID": "NCT02684318"
+}

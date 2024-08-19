@@ -1,0 +1,19 @@
+{
+    "brief_title": "A Study of Fluzoparib\u00b1Apatinib Versus Chemotherapy Treatment of Physician's Choice in HER2-negative Metastatic Breast Cancer Patients With Germline BRCA Mutation",
+    "phase": "Phase 3",
+    "drugs": "['Fluzoparib; Apatinib', 'Fluzoparib', \"Physician's choice chemotherapy\"]",
+    "drugs_list": [
+        "Fluzoparib; Apatinib",
+        "Fluzoparib",
+        "Physician's choice chemotherapy"
+    ],
+    "diseases": "['Treatment in HER2-negative Metastatic Breast Cancer Patients With Germline BRCA Mutation']",
+    "diseases_list": [
+        "Treatment in HER2-negative Metastatic Breast Cancer Patients With Germline BRCA Mutation"
+    ],
+    "enrollment": "474.0",
+    "inclusion_criteria": "inclusion criteria: \n\n \uff08Saftey Lead-in + phase 3\uff09Germline mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious \n\n \uff08Saftey Lead-in + phase 3\uff09human epidermal growth factor receptor type 2 (HER2)-negative metastatic breast cancer \n\n \uff08Saftey Lead-in + phase 3\uff09had received \u22642 lines of chemotherapy for mBC \n\n \uff08Saftey Lead-in + phase 3\uff09Prior therapy with an anthracycline and a taxane in either an adjuvant or metastatic setting. \n\n ER/PR breast cancer positive patients must have received and progressed on at least one endocrine therapy (adjuvant or metastatic), or have disease that the treating physician believes to be inappropriate for endocrine therapy. \n\n ECOG performance status 0-1. \n\n Adequate bone marrow, kidney and liver function. \n\n ",
+    "exclusion_criteria": ": \n\n Prior treatment with a poly (ADP-ribose) polymerase (PARP) inhibitor or Apatinib \n\n Prior malignancy unless curatively treated and disease-free for > 5 years prior to study entry. Prior adequately treated non-melanoma skin cancer, in situ cancer of the cervix, DCIS or stage I grade 1 endometrial cancer allowed \n\n Radiation or anti-hormonal therapy or other targeted anticancer therapy within 14 days before randomization \n\n Known to be human immunodeficiency virus positive \n\n Known active hepatitis C virus, or known active hepatitis B virus \n\n Untreated and/or uncontrolled brain metastases \n\n Pregnant or breast-feeding women",
+    "brief_summary": "This is a multicenter, randomized, open-label, 3-arm Phase 3 study to evaluate the efficacy and safety of Fluzoparib alone or with Apatinib versus Physicians Choice Chemotherapy, as treatment, in patients with a Germline BRCA Mutation and HER2-negative Metastatic Breast Cancer. The study contains a Safety Lead-in Phase in which the safety and tolerability of Fluzoparib+Apatinib will be assessed prior to the Phase 3 portion of the study.",
+    "NCT_ID": "NCT04296370"
+}

@@ -1,0 +1,26 @@
+{
+    "brief_title": "PERS Genetic Model Assistant Decision-making System of Neoadjuvant Chemotherapy for Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['NVB', 'EPI', 'DDP', 'CAP', 'GEM', 'H', 'CTX', 'T']",
+    "drugs_list": [
+        "NVB",
+        "EPI",
+        "DDP",
+        "CAP",
+        "GEM",
+        "H",
+        "CTX",
+        "T"
+    ],
+    "diseases": "['Breast Cancer Model', 'Effects of Chemotherapy', 'Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer Model",
+        "Effects of Chemotherapy",
+        "Breast Cancer"
+    ],
+    "enrollment": "320.0",
+    "inclusion_criteria": "inclusion criteria: all of the patients in the trial need to meet \n\n age: at least 18 years old; \n\n ECOG(Eastern Cooperative Oncology Group) scoring \u22641; \n\n confirmed by histology or cytology breast infiltrating ductal carcinoma \n\n agreed to breast cancer tissue biopsy \n\n here is a new adjuvant chemotherapy against patients with stage II/III \n\n According to RECIST criteria, target lesion in patients with at least one, at least one single diameter measurable lesions .Is defined as a measurable lesions with the following method can accurately measure at least one of the diameter of the lesion: lesions or greater diameter 20 mm or measured in conventional methods spiral CT measurement lesions 10 mm diameter or greater. Positron emission tomography (CT) and ultrasound can not be used as measurement method lesions. \n\n The normal numerical laboratory\uff1a The patient's level of organ function must meet the following requirements: enough reserves: bone marrow neutrophils (cent leaves and ribbon neutrophils) absolute count (ANC) \u22651.5*109 / L, or platelets\u2265 100*109 / L, or acuity \u2265 9 g/dL and hemoglobin.Liver: bilirubin < 1.5 times the upper limit of normal, alkaline phosphatase (AP), aspartate aminotransferase (AST) and alanine aminotransferase (ALT) < 3.0 times the upper limit of normal (If allowed to AP with liver metastasis, AST, ALT < 5 times the upper limit of normal).Kidney\uff1a creatinine clearance or 45 mL/min. \n\n Signed informed consent; \n\n is expected to survival in patients with 3 or more months. \n\n patient adherence and geographic location of residence meet the needs of the follow-up. \n\n in the research into the group of 7 days before the serum or urine pregnancy test must be negative, and must be for the nursing of patients.Or sterilization surgery, patients after menopause, or agreed to in the research during the treatment and research within 6 months after the end of the treatment period using an approved by the medical contraception (such as intrauterine device (IUD), pill or condoms) \n\n ",
+    "exclusion_criteria": ": \n\n ECOG(Eastern Cooperative Oncology Group) scoring \u22652 ; \n\n At the same time to accept any other anti-tumor treatment. \n\n In the past 12 months have congestive heart failure, drug treatment can't control history of arrhythmia, myocardial infarction, etc; \n\n The serious, which has not been controlled intercurrent infection, organ dysfunction, or serious metabolic disorder of patients; \n\n Active infection (decided by the researchers. \n\n According to the researcher's judgment, there is serious to endanger the safety of patients, or patients completed the research associated with disease. \n\n Pregnancy or breast-feeding women. \n\n Always have a clear history of neurological or psychiatric disorders, including epilepsy, or dementia. \n\n A history of other tumors or combined with other tumor patients. \n\n Before study enrollment for any reason within 30 days of use had not been approved by the local drug \uff1b \n\n Unwilling or unable to continue to comply with the experimental program, or can not cope with patients follow-up; \n\n Researchers think that is unfavorable to the participants.",
+    "brief_summary": "This study aims to explore new PERS prediction model can improve the pathological complete response rate of neoadjuvant chemotherapy of breast cancer and disease-free survival.",
+    "NCT_ID": "NCT03006614"
+}

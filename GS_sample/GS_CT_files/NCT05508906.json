@@ -1,0 +1,22 @@
+{
+    "brief_title": "Phase 1b Combo w/ Ribociclib and Alpelisib",
+    "phase": "Phase 1",
+    "drugs": "['OP-1250', 'Ribociclib', 'Alpelisib']",
+    "drugs_list": [
+        "OP-1250",
+        "Ribociclib",
+        "Alpelisib"
+    ],
+    "diseases": "['Metastatic Breast Cancer', 'Advanced Breast Cancer', 'HR-positive Breast Cancer', 'HER2-negative Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer",
+        "Advanced Breast Cancer",
+        "HR-positive Breast Cancer",
+        "HER2-negative Breast Cancer"
+    ],
+    "enrollment": "60.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female or male aged >18 years. \n\n Willing and able to participate and comply with all study requirements \n\n Histologically- or cytologically-confirmed advanced or MBC \n\n HR+/HER2- disease, as determined in the most recently obtained archival tumor tissue sample from a metastatic site, using locally accepted criteria by the local pathology report \n\n Evaluable disease (measurable and non-measurable): Measurable disease, ie, at least 1 measurable lesion as per RECIST 1.1 (a lesion at a previously irradiated site may only be counted as a target lesion if there is clear sign of progression since the irradiation).-Subject must have received at least 6 months of a prior continuous endocrine therapy for locally advanced or metastatic breast cancer \n\n Life expectancy \u22656 months, as judged by the investigator \n\n Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1 \n\n Has received no more than 2 prior hormonal regimens for advanced or metastatic disease. Prior hormonal regimens in combination with CDK4/6 inhibitors are allowed. \n\n Has received no more than 1 prior chemotherapy for locally advanced or metastatic breast cancer. \n\n ",
+    "exclusion_criteria": ": \n\n Prior or concurrent malignancy whose natural history or treatment may interfere with the safety or efficacy assessment of the investigational regimen \n\n Clinically significant, uncontrolled heart disease and/or cardiac repolarization abnormality \n\n History of cerebral vascular disease within 6 months prior to the first administration of study drug dose \n\n History of a pulmonary embolism, or deep venous thrombosis within the last 6 months, or subject has an increased risk of thrombosis as determined by the investigator \n\n History of pneumonitis or interstitial lung disease \n\n Leptomeningeal disease or spinal cord compression \n\n Medical history or ongoing gastrointestinal disorders that could affect absorption of oral therapeutics \n\n Known human immunodeficiency virus infection \n\n Known clinically significant history of liver disease consistent with Child-Pugh Class B or C, including active viral or other hepatitis (eg, hepatitis B or hepatitis C virus), current alcohol abuse, or cirrhosis",
+    "brief_summary": "This is a Phase 1b open-label, 2-part study in 2 treatment groups. The 2 treatment groups are as follows:~Treatment Group 1: OP-1250 in combination with ribociclib (KISQALI\u00ae, Novartis Pharmaceuticals Corporation).~Treatment Group 2: OP-1250 in combination with alpelisib (PIQRAY\u00ae, Novartis Pharmaceuticals Corporation).",
+    "NCT_ID": "NCT05508906"
+}

@@ -1,0 +1,18 @@
+{
+    "brief_title": "Adjuvant Chemotherapy for Triple Negative Breast Cancer Patients With Residual Disease After Neoadjuvant Chemotherapy",
+    "phase": "Phase 2",
+    "drugs": "['Epirubicin or Pirarubicin', 'Cyclophosphamide']",
+    "drugs_list": [
+        "Epirubicin or Pirarubicin",
+        "Cyclophosphamide"
+    ],
+    "diseases": "['Triple Negative Breast Cancer']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer"
+    ],
+    "enrollment": "286.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients with histologically confirmed invasive adenocarcinoma of the breast. \n\n Triple negative breast cancer: hormone receptor negative (ER < 10% and PgR < 10%) and HER2 negative (IHC 0/1+ or ISH non-amplified), as defined by the local pathology laboratory. \n\n Clinical stage at presentation: T1-4, N0-3, M0, with indications for neoadjuvant chemotherapy. \n\n Patient must have received platinum and taxanes neoadjuvant chemotherapy for at least 4 cycles and no tumor progression occurred. \n\n Patients should have undergone adequate tumor excision in the breast and lymph nodes after neoadjuvant chemotherapy. \n\n Residual invasive disease must be \u22651cm in the breast, and/or have positive axillary lymph nodes observed on pathologic exam after neoadjuvant chemotherapy. \n\n ECOG Performance Status: 0-1. \n\n Patients without severe heart, lung, liver and kidney disease. \n\n Adequate hematologic and end-organ function. \n\n No more than 6 weeks may elapse between definitive breast surgery and randomization. \n\n ",
+    "exclusion_criteria": ": \n\n Previous neoadjuvant chemotherapy with anthracycline or other drugs (except platinum and taxanes). \n\n Previous neoadjuvant chemotherapy with platinum or taxanes alone. \n\n Patients have received other adjuvant therapy. \n\n Comprehensive medical examinations have revealed distant metastases before randomization. \n\n Patients who are not suitable for anthracycline evaluated by investigators. \n\n Prior history of other malignancy (except carcinoma in situ).",
+    "brief_summary": "This study will evaluate the efficacy and safety of antharcycline-based adjuvant chemotherapy compared with observation in triple negative breast cancer (TNBC) patients with residual invasive disease after platinum and taxanes based neoadjuvant chemotherapy.",
+    "NCT_ID": "NCT04437160"
+}

@@ -1,0 +1,18 @@
+{
+    "brief_title": "Clinical Study of the Efficacy and Safety of BCD-178 and Perjeta\u00ae as Neoadjuvant Therapy of HER2-Positive Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['BCD-178', 'Perjeta']",
+    "drugs_list": [
+        "BCD-178",
+        "Perjeta"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "336.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Signed informed consent ; \n\n Histologically confirmed diagnosis of invasive breast cancer; \n\n Disease stage cT2-cT4, cN0-cN3, cM0; \n\n Positive HER2 expression, negative estrogen and progesterone receptor expression; \n\n ECOG score 0-1; \n\n Adequate organ function; \n\n Baseline LVEF \u2265 55%, as measured with the standard procedure; \n\n Consent of women of childbearing potential to use highly effective methods of contraception, starting from the signing of the informed consent form, throughout the study and for 6 months after receiving the last dose of the product. \n\n ",
+    "exclusion_criteria": ": \n\n Stage IV (metastatic) breast cancer; \n\n A history of any systemic therapy for breast cancer; \n\n Concomitant diseases and/or conditions that significantly increase the risk of adverse events during the study; \n\n Pregnancy or breastfeeding, as well as pregnancy planning throughout the study and for 6 months after receiving the last dose of the product; \n\n Hypersensitivity or allergy to any of the components of BCD-178, Perjeta, trastuzumab, carboplatin, and docetaxel.",
+    "brief_summary": "The goal of this study is to compare the efficacy and safety of BCD-178 and Perjeta as neoadjuvant therapy for HER2-positive breast cancer.~Subjects with histologically confirmed diagnosis of HER2-positive invasive breast cancer (stage II-III, tumor size > 2 cm), with no estrogen (ER) and progesterone (PR) receptors will be randomized to one of two treatment groups (BCD-178 group or Perjeta group) in a 1:1 ratio.",
+    "NCT_ID": "NCT05802225"
+}

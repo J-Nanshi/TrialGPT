@@ -1,0 +1,20 @@
+{
+    "brief_title": "Combination Neoadjuvant Chemotherapy With or Without Apatinib for HER2 Negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Apatinib', 'Paclitaxel', 'Cisplatin', 'Surgery']",
+    "drugs_list": [
+        "Apatinib",
+        "Paclitaxel",
+        "Cisplatin",
+        "Surgery"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "196.0",
+    "inclusion_criteria": "inclusion criteria: \n\n 18 \n\n 70 year-old\uff0cFemale \n\n Patients with histologically confirmed primary invasive breast adenocarcinoma,cT2-4N0-3M0 \n\n ECOG 0-1 \n\n HER2-negative tumor in biopsy, defined as: Immunohistochemical (IHC) 0-1+ or IHC 2+ confirmed as FISH negative. \n\n Adequate organ function \n\n ",
+    "exclusion_criteria": ": \n\n Unwilling to use adequate contraceptive protection during the process of the study and for at least 8 weeks after the last dose of study drug. \n\n Pregnant or breastfeeding patients \n\n Metastatic or recurrent patients \n\n Any evidence of sense or motor nerve disorders \n\n Any concurrent malignancy other than breast cancer \n\n Uncontrolled hypertension with hypotensive drugs therapy (systolic blood pressure > 140 mmHg, diastolic blood pressure > 90 mmHg). Patients with grade I or above myocardial ischemia or myocardial infarction or arrhythmia (including QT interval \u2265 440 ms) or cardiac insufficiency \n\n Inability to swallow, gastrointestinal resection, chronic diarrhea and obstruction of the intestine, various factors which affect drug use and absorption \n\n Coagulation disorders \n\n Artery or venous thrombosis occurred within 6 months before the study begins \n\n Have received prior treatment with a VEGFR TKI",
+    "brief_summary": "RATIONALE:~The combination of anti-angiogenic targeted therapy with neoadjuvant chemotherapy has been shown to further improve the pathologic response rate for HER2-negative breast cancer patients. Apatinib is a highly potent human vascular endothelial growth factor receptor 2 (VEGFR2) tyrosine kinase inhibitor that has been independently developed in China, and it can exert anti-angiogenic effects by inhibiting VEGFR2. It is unknown whether giving combination neoadjuvant chemotherapy together with apatinib is more effective in treating patients with nonmetastatic HER2-negative breast cancer.~PURPOSE:~To explore the efficacy and safety of apatinib added to weekly paclitaxel and cisplatin neoadjuvant therapy for HER-2 negative breast cancer patients",
+    "NCT_ID": "NCT03982485"
+}

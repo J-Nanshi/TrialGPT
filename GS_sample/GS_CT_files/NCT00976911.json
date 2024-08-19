@@ -1,0 +1,20 @@
+{
+    "brief_title": "AURELIA: A Study of Avastin (Bevacizumab) Added to Chemotherapy in Patients With Platinum-resistant Ovarian Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Bevacizumab', 'liposomal doxorubicin', 'paclitaxel', 'topotecan']",
+    "drugs_list": [
+        "Bevacizumab",
+        "liposomal doxorubicin",
+        "paclitaxel",
+        "topotecan"
+    ],
+    "diseases": "['Ovarian Cancer']",
+    "diseases_list": [
+        "Ovarian Cancer"
+    ],
+    "enrollment": "361.0",
+    "inclusion_criteria": "inclusion criteria: \n\n female patients, >/=18 years of age \n\n epithelial ovarian, fallopian tube or primary peritoneal cancer \n\n platinum-resistant disease (disease progression within <6 months of platinum therapy) \n\n EOCG performance status of 0-2 \n\n ",
+    "exclusion_criteria": ": \n\n non-epithelial tumours \n\n ovarian tumours with low malignant potential \n\n previous treatment with >2 chemotherapy regimens \n\n prior radiotherapy to the pelvis or abdomen",
+    "brief_summary": "This randomized, open-label, 2-arm study will evaluate the efficacy and safety of Avastin added to chemotherapy versus chemotherapy alone in patients with epithelial ovarian, fallopian tube or primary peritoneal cancer with disease progression within 6 months of platinum therapy. All patients will receive standard chemotherapy with either paclitaxel or topotecan or liposomal doxorubicin. Patients randomized to Arm 2 of the study will receive Avastin (10 mg/kg iv 2-weekly or 15 mg/kg iv 3-weekly) concomitantly. Anticipated time on study treatment is until disease progression. Patients will then receive standard of care, those in Arm 1 (chemotherapy only) may opt to receive Avastin (15 mg/kg iv 3-weekly). Target sample size is 100-500 individuals.",
+    "NCT_ID": "NCT00976911"
+}

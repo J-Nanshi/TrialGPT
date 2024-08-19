@@ -1,0 +1,18 @@
+{
+    "brief_title": "Neoadjuvant Dalpiciclib Plus Aromatase Inhibitors or Chemotherapy in Luminal B/HER2-negative Breast Cancer (DAPATH)",
+    "phase": "Phase 2",
+    "drugs": "['Dalpiciclib combined with aromatase inhibitors', 'anthracycline-cyclophosphamide followed by taxane']",
+    "drugs_list": [
+        "Dalpiciclib combined with aromatase inhibitors",
+        "anthracycline-cyclophosphamide followed by taxane"
+    ],
+    "diseases": "['Luminal B/HER2-negative Breast Cancer']",
+    "diseases_list": [
+        "Luminal B/HER2-negative Breast Cancer"
+    ],
+    "enrollment": "120.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patient is \u2265 18 years-old at the time of consent to participate this trial \n\n Famale stage I-IIIA breast cancer patients or T4bN0-2M0 \n\n HR-positive, HER2-negtive invasive breast cancer, Ki67\u226520% or PgR<20% \n\n No prior anti-cancer treatment \n\n ECOG 0-1 \n\n ",
+    "exclusion_criteria": ": \n\n Known to have other aggressive malignant tumor in the past 5 years. \n\n Bilateral breast cancer; Inflammatory breast cancer; Occult breast cancer; Distant metastasis confirmed by pathology. \n\n There are other concomitant diseases that seriously threaten the patient's safety or affect the patient's completion of the study, such as serious infection, liver disease, cardiovascular disease, kidney disease, respiratory disease or uncontrolled diabetes or dyslipidemia. \n\n Female patients during pregnancy or lactation. \n\n The investigator determines that subjects are not appropriate to participate in the study due to other factors.",
+    "brief_summary": "Compare the efficacy and safety of Dalpiciclib combined with aromatase inhibitors versus chemotherapy as a neoadjuvant therapy in Luminal B/HER2-negative breast cancer, and explore the predictive biomarkers of the response to the two neoadjuvant therapies.",
+    "NCT_ID": "NCT05640778"
+}

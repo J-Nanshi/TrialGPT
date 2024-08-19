@@ -1,0 +1,25 @@
+{
+    "brief_title": "Marched Pair Study Conventional Doxorubicin(DOX) Versus Pegylated Liposomal Doxorubicin(PLD) Neoadjuvant Chemotherapy",
+    "phase": "Phase 2",
+    "drugs": "['Pegylated Liposomal Doxorubicin', 'Cyclophosphamide', 'Taxotere', 'Dexrazoxane (DZR)', 'vitamin B', 'Doxorubicin', 'Breast Conserved Surgery', 'Modified Radical Mastectomy', 'Sentinel Lymph Node Biopsy\uff08SLNB\uff09']",
+    "drugs_list": [
+        "Pegylated Liposomal Doxorubicin",
+        "Cyclophosphamide",
+        "Taxotere",
+        "Dexrazoxane (DZR)",
+        "vitamin B",
+        "Doxorubicin",
+        "Breast Conserved Surgery",
+        "Modified Radical Mastectomy",
+        "Sentinel Lymph Node Biopsy\uff08SLNB\uff09"
+    ],
+    "diseases": "['Antineoplastic Combined Chemotherapy Protocols']",
+    "diseases_list": [
+        "Antineoplastic Combined Chemotherapy Protocols"
+    ],
+    "enrollment": "160.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patient with histological proof of invasive cancer, whose clinical tumor diameter is > 2 cm, or < 2 cm, but Axillary lymphnodes are involved .There is no metastatic Imaging findings. \n\n Stage II,III tumor, non-metastatic, grade II - III \n\n Performance Status = 0-1 World Health Organization (WHO). \n\n Patient non pretreated for breast cancer. \n\n Patient without cardiac pathology and without anthracyclines contra-indication (assessed by normal ejection fraction). \n\n Normal haematological, renal and hepatic functions : platelets > 100. 109 /l, Hb > 10 g/dl, normal bilirubin serum , Aspartate transaminase(ASAT) and Alanine Aminotransferase(ALAT) < 2,5 Upper Limit of Normal (ULN), alkaline phosphatases < 2,5 ULN, creatinin < 140 \u00b5mol/l or creatinin clearance > 60 ml/min \n\n Written informed consent dated and signed by the patient \n\n ",
+    "exclusion_criteria": ": \n\n All other breast cancers than those described in inclusion criteria, in particular inflammatory and/or neglected (T4b or T4d) forms. \n\n Patient presenting with intraduct cancer in situ.(DCIS) \n\n Grade I well differentiated tumor. \n\n Non measurable lesion, in the two diameters, whatever radiological methods used. \n\n Patient already operated for breast cancer or having had primary axillar node dissection. \n\n Patient presenting with cancer in other system. \n\n Any psychological, familial, sociological or geographical condition that may potentially hamper compliance with the study protocol and follow up schedule, assessed with the patient prior to registration in the trial",
+    "brief_summary": "The regimen PLD plus cyclophosphamide 4 cycles followed by paclitaxel or docetaxel 4 cycles(noted in phase II CAPRICE) will be used as experimental group. The regimen will be compared to the standard treatment of doxorubicin plus cyclophosphamide(AC) 4 cycles followed by paclitaxel or docetaxel 4 cycles[noted in National Comprehensive Cancer Network (NCCN) guideline].",
+    "NCT_ID": "NCT02953184"
+}

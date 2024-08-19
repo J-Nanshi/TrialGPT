@@ -1,0 +1,18 @@
+{
+    "brief_title": "Comparison Trial of Letrozole to Anastrozole in the Adjuvant Treatment of Postmenopausal Women With Hormone Receptor and Node Positive Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Letrozole', 'Anastrozole']",
+    "drugs_list": [
+        "Letrozole",
+        "Anastrozole"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "4172.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Recent primary surgery for breast cancer \n\n Early stage breast cancer \n\n Postmenopausal \n\n Hormone receptor positive \n\n Positive lymph node involvement \n\n ",
+    "exclusion_criteria": ": \n\n Metastatic disease \n\n Presence of contralateral breast cancer including DCIS \n\n Progression \n\n Other protocol-defined inclusion/",
+    "brief_summary": "Eligible patients will be post-menopausal hormone receptor- and lymph node-positive females who recently underwent primary surgery for breast cancer. Patients will be randomized to letrozole (2.5 mg per day for 5 years) vs anastrozole (1 mg per day for 5 years). Follow up will occur for 5 years after the completion of enrollment for survival and disease status updates.",
+    "NCT_ID": "NCT00248170"
+}

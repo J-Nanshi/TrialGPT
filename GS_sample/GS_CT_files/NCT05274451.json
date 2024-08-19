@@ -1,0 +1,33 @@
+{
+    "brief_title": "A Study to Investigate LYL797 in Adults With Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['LYL797']",
+    "drugs_list": [
+        "LYL797"
+    ],
+    "diseases": "['Triple Negative Breast Cancer', 'TNBC - Triple-Negative Breast Cancer', 'Non-small Cell Lung Cancer', 'Non Small Cell Lung Cancer', 'Non Small Cell Lung Cancer Metastatic', 'Non-Small Cell Carcinoma of Lung, TNM Stage 4', 'Advanced Breast Cancer', 'Advanced Lung Carcinoma', 'NSCLC', 'NSCLC, Recurrent', 'NSCLC Stage IV', 'Relapsed Cancer', 'Relapse/Recurrence', 'Recurrent Breast Cancer', 'Recurrent NSCLC']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer",
+        "TNBC - Triple-Negative Breast Cancer",
+        "Non-small Cell Lung Cancer",
+        "Non Small Cell Lung Cancer",
+        "Non Small Cell Lung Cancer Metastatic",
+        "Non-Small Cell Carcinoma of Lung",
+        "TNM Stage 4",
+        "Advanced Breast Cancer",
+        "Advanced Lung Carcinoma",
+        "NSCLC",
+        "NSCLC",
+        "Recurrent",
+        "NSCLC Stage IV",
+        "Relapsed Cancer",
+        "Relapse/Recurrence",
+        "Recurrent Breast Cancer",
+        "Recurrent NSCLC"
+    ],
+    "enrollment": "54.0",
+    "inclusion_criteria": "inclusion criteria: \n\n \u2265 18 years of age at time of informed consent \n\n Histologically confirmed TNBC or NSCLC that is relapsed or refractory, metastatic or locally advanced and unresectable that is ROR1+ by central laboratory immunohistochemistry (IHC) \n\n Measurable disease including a target lesion and an additional lesion for biopsy \n\n Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 \n\n Adequate organ and marrow function \n\n Women of childbearing potential must have a negative pregnancy test at screening \n\n All participants must agree to practice highly effective methods of contraception \n\n ",
+    "exclusion_criteria": ": \n\n Prior treatment with any adoptive T-cell therapy or anti-ROR1 therapy \n\n Prior solid organ transplantation \n\n Active, untreated brain metastasis or leptomeningeal disease; stable, treated brain involvement by disease is allowed \n\n Untreated or active infection at the time of screening or leukapheresis \n\n HIV-positive, HTLV-1-positive, active acute or chronic HBV or HCV, or active tuberculosis \n\n Impaired cardiac function or clinically significant cardiac disease \n\n Uncontrolled pleural or pericardial effusion \n\n Systemic corticosteroids or other immunosuppressive medications within 14 days of leukapheresis \n\n Required chronic anticoagulation, such as warfarin, low molecular weight heparin, or Factor Xa inhibitors \n\n Pregnant or lactating/nursing women",
+    "brief_summary": "This study will evaluate the safety and tolerability of LYL797, a ROR1-targeted CAR T-cell therapy, in patients with ROR1+ relapsed or refractory triple negative breast cancer (TNBC) or non-small cell lung cancer (NSCLC). The first part of the study will determine the safe dose for the next part of the study, and will enroll TNBC and NSCLC patients. The second part of the study will test that dose in additional TNBC and NSCLC patients.",
+    "NCT_ID": "NCT05274451"
+}

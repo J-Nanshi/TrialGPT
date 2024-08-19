@@ -1,0 +1,23 @@
+{
+    "brief_title": "BI-1607 in Combination With Trastuzumab in Subjects With HER2-positive Advanced Solid Tumors",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['BI-1607', 'BI-1607', 'Trastuzumab']",
+    "drugs_list": [
+        "BI-1607",
+        "BI-1607",
+        "Trastuzumab"
+    ],
+    "diseases": "['HER2-positive Breast Cancer', 'HER2-positive Gastric Cancer', 'HER2-positive Metastatic Breast Cancer', 'Metastatic Gastroesophageal Junction Adenocarcinoma', 'Metastatic Gastric Adenocarcinoma']",
+    "diseases_list": [
+        "HER2-positive Breast Cancer",
+        "HER2-positive Gastric Cancer",
+        "HER2-positive Metastatic Breast Cancer",
+        "Metastatic Gastroesophageal Junction Adenocarcinoma",
+        "Metastatic Gastric Adenocarcinoma"
+    ],
+    "enrollment": "116.0",
+    "inclusion_criteria": "Main inclusion criteria: \n\n Is willing and able to provide written informed consent for the trial. \n\n Is \u226518 years of age on day of signing informed consent. \n\n Has received standard of care or is intolerant to standard of care antineoplastic therapy. Subjects who are intolerant to trastuzumab cannot be enrolled in the study. \n\n Has at least 1 measurable disease lesion as defined by RECIST v1.1 criteria. \n\n Has a locally confirmed HER2+ tumor. \n\n Must have progressive disease after the last line of treatment. In addition, subjects must have received the following previous lines of treatment: \n\n Prior lines of treatment including trastuzumab and chemotherapy. \n\n At least one prior line of treatment with an antibody-drug conjugate (ADC) (eg, trastuzumab-emtansine [TDM-1, or trastuzumab-deruxtecan]). \n\n Main ",
+    "exclusion_criteria": ": \n\n Needs doses of prednisolone >10 mg daily (or equipotent doses of other corticosteroids) while on the trial other than as premedication. \n\n Has known active central nervous system (CNS) metastases and/or carcinomatous meningitis. \n\n Has cardiac or renal amyloid light-chain amyloidosis. \n\n Has had clinically significant lung disease requiring systemic corticosteroid treatment within the last 6 months of enrollment. \n\n Has an active, known, or suspected autoimmune disease. \n\n Is at high medical risk because of nonmalignant systemic disease including severe active infections on treatment with antibiotics, antifungals, or antivirals. \n\n Has presence of chronic graft versus host disease. \n\n Has had an allogenic tissue/solid organ transplant. \n\n Has uncontrolled or significant cardiovascular disease. \n\n Has a known additional malignancy of another type, except for adequately treated cone-biopsied carcinoma in situ (eg, breast carcinoma, cervical cancer in situ), adequately controlled superficial bladder cancer, and basal or squamous cell carcinoma of the skin. \n\n Has a diagnosis of primary or acquired immunodeficiency disorder or is taking any other form of immunosuppressive therapy.",
+    "brief_summary": "HER2+ breast and gastric cancer patients' survival is significantly improved by trastuzumab alone or in combination with chemotherapy. However, many patients remain uncured and develop resistance to trastuzumab resulting in relapse or progression of the disease. BI-1607, a human immunoglobulin G1 (IgG1) monoclonal antibody (mAb) targets CD32b (Fc Gamma Receptor IIB), it is intended to enhance the efficacy and overcome resistance to existing cancer treatments such as trastuzumab.~This is a Phase 1/2a, first-in-human, open-label, multicenter, dose-escalation, consecutive-cohort study of BI-1607 in combination with trastuzumab in subjects with HER2+ advanced solid tumors whose tumor has progressed after standard therapy.",
+    "NCT_ID": "NCT05555251"
+}

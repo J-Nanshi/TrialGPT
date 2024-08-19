@@ -1,0 +1,18 @@
+{
+    "brief_title": "Topical Calcipotriene Treatment for Breast Cancer Immunoprevention",
+    "phase": "Phase 1",
+    "drugs": "['Topical Calcipotriene Ointment', 'Topical Vaseline']",
+    "drugs_list": [
+        "Topical Calcipotriene Ointment",
+        "Topical Vaseline"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "120.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Participants must have histologically confirmed benign, premalignant or early malignant breast lesions on core biopsy that will proceed directly to surgical removal without any intervening neoadjuvant chemotherapy. \n\n Patients diagnosed with benign breast lesions (papilloma and sclerosing lesion), flat epithelial atypia, atypical ductal hyperplasia, lobular carcinoma in situ (Tis N0 M0; stage 0), ductal carcinoma in situ (Tis N0 M0; stage 0), primary invasive ductal and lobular carcinoma (T1or2 N0or1 M0; stage I-II), who will directly receive surgery and no neoadjuvant chemotherapy. \n\n Patients with hormone receptor positive, Her2 positive and triple negative cancers will be eligible. \n\n Patients with multicentric and multifocal tumors will be eligible. \n\n Age 45 years. To avoid the impact of menstrual cycles-associated alterations in the immune environment of the breast, the age is limited to post-menopausal women. \n\n Ability to understand and the willingness to sign a written informed consent document. \n\n ",
+    "exclusion_criteria": ": \n\n Participants scheduled to undergo neoadjuvant therapy for breast cancer. \n\n Participants with metastatic breast cancer. \n\n Participants with history of breast cancer in the past 5 years. \n\n Participants with immunosuppression (e.g., organ transplant recipients and patients with autoimmune diseases requiring immunosuppressive medications including >5mg daily prednisone, methotrexate, cyclosporine, azothioprine, tacrolimus and TNF\u03b1 blocking agents) \n\n Participants with the history of hypercalcemia or clinical evidence of vitamin D toxicity. \n\n Participants who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier. \n\n Participants who are receiving any other investigational agents. \n\n Participants with known brain metastases should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events. \n\n History of allergic reactions attributed to compounds of similar chemical or biologic composition to topical calcipotriene ointment. \n\n Pregnant women are excluded from this study because topical calcipotriol ointment is a category C agent and its impact on developing fetus is unknown. In addition, premenopausal women are excluded from this study due to the impact of menstrual cycles on immune environment of the breast.",
+    "brief_summary": "This research study is studying a topical ointment called calcipotriene to see if it can stimulate the immune cells against the breast lesion in ways that would prevent its recurrence after surgical removal",
+    "NCT_ID": "NCT03596073"
+}

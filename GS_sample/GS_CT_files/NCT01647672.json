@@ -1,0 +1,17 @@
+{
+    "brief_title": "Efficacy and Safety With Albumin-bound Paclitaxel (Abraxane) in the TAC as Neoadjuvant Chemotherapy in Breast Cancer",
+    "phase": "Phase 2; Phase 3",
+    "drugs": "['Abraxane']",
+    "drugs_list": [
+        "Abraxane"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "60.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Karnofsky \u2265 70 \n\n Provision of informed consent \n\n Pathological confirmation of breast cancer \n\n Tumor stage (TNM):T2-4bN0-3M0 \n\n Measurable disease as per RECIST criteria \n\n Not previously treated with radiotherapy, chemotherapy or biological therapy. \n\n Laboratory criteria: \n\n PLT \u2265 100*109/L \n\n WBC \u2265 4000/mm3 \n\n HGB \u2265 10g/dl \n\n GOT,GPT,ALP \u2264 2*ULN \n\n TBIL,DBIL,CCr \u2264 1.5*ULN \n\n ",
+    "exclusion_criteria": ": \n\n Pregnant woman \n\n History of organ transplantation \n\n With mental disease \n\n With severe infection or active gastrointestinal ulcers \n\n With severe liver disease (such as cirrhosis), kidney disease, respiratory disease or diabetes \n\n Disease-free period of other malignant tumor is less than 5 years (except cured basal cell skin cancer and cervical carcinoma in situ) \n\n With heart disease \n\n Experimental drug allergy",
+    "brief_summary": "Select 60 cases of women with breast cancer at clinical stage of T1-4N0-2M0. Then treat them with 4 cycles of TAC (Abraxane 260mg/m2,EPI 60 mg/m2 ,CTX 500 mg/m2, 21day/cycle) as neoadjuvant chemotherapy. Finally the investigators assess the efficacy and safety of Albumin-bound Paclitaxel.",
+    "NCT_ID": "NCT01647672"
+}

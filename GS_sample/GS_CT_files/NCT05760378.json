@@ -1,0 +1,19 @@
+{
+    "brief_title": "Famitinib in Combination With Camrelizumab and TPC in The First-line Treatment of Immunomodulatory Locally Advanced or Metastatic TNBC.",
+    "phase": "Phase 3",
+    "drugs": "['Famitinib', 'Camrelizumab', 'nab-Palitaxel/Capecitabine/Eribulin Mesylate/Carboplatin']",
+    "drugs_list": [
+        "Famitinib",
+        "Camrelizumab",
+        "nab-Palitaxel/Capecitabine/Eribulin Mesylate/Carboplatin"
+    ],
+    "diseases": "['Triple-Negative Breast Cancer']",
+    "diseases_list": [
+        "Triple-Negative Breast Cancer"
+    ],
+    "enrollment": "223.0",
+    "inclusion_criteria": "inclusion criteria: \n\n ECOG Performance Status of 0-1 \n\n Expected lifetime of not less than three months \n\n Metastatic or locally advanced, histologically documented TNBC (absence of HER2, ER, and PR expression) \n\n Cancer stage: recurrent or metastatic breast cancer; Local recurrence be confirmed by the researchers could not be radical resection. \n\n Adequate hematologic and end-organ function, laboratory test results. \n\n Measurable disease according to Response Evaluation Criteria in Solid Tumors v1.1 (RECIST v1.1) \u2022 Patients had received no previous chemotherapy or targeted therapy for metastatic triple-negative breast cancer \n\n ",
+    "exclusion_criteria": ": \n\n Previous received anti-VEGFR small molecule tyrosine kinase inhibitors (e.g. famitinib, sorafenib, Sunitinib, regorafenib, etc.) for treatment of the patients . \n\n A history of bleeding, any serious bleeding events. \n\n Important blood vessels around tumors has been infringed and high risk of bleeding. \n\n Coagulant function abnormality \n\n artery/venous thromboembolism event \n\n History of autoimmune disease \n\n Positive test for human immunodeficiency virus \n\n Active hepatitis B or hepatitis C \n\n Uncontrolled pleural effusion and ascites \u2022 Known central nervous system (CNS) disease. \n\n Long-term unhealing wound or incomplete healing of fracture \n\n urine protein \u22652+ and 24h urine protein quantitative > 1 g. \n\n Pregnancy or lactation. \n\n Thyroid dysfunction. \n\n Peripheral neuropathy grade \u22652. \n\n People with high blood pressure; \n\n A history of unstable angina; \n\n New diagnosis of angina pectoris. \n\n Myocardial infarction incident .",
+    "brief_summary": "The study is being conducted to evaluate the Famitinib with Camrelizumab plus treatment of physician's choice (TPC) versus Camrelizumab plus TPC in Patients with Unresectable Locally Advanced or Metastatic Immunomodulatory Triple Negative Breast Cancer.",
+    "NCT_ID": "NCT05760378"
+}

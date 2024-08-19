@@ -1,0 +1,28 @@
+{
+    "brief_title": "Study of BGB-10188 as Monotherapy, and in Combination With Zanubrutinib, and Tislelizumab",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['BGB-10188', 'Zanubrutinib', 'Tislelizumab']",
+    "drugs_list": [
+        "BGB-10188",
+        "Zanubrutinib",
+        "Tislelizumab"
+    ],
+    "diseases": "['Non-small Cell Lung Cancer', 'Small Cell Lung Cancer', 'Chronic Lymphocytic Leukemia', 'Small Lymphocytic Lymphoma', 'Follicular Lymphoma', 'Marginal Zone Lymphoma', 'Mantle Cell Lymphoma', 'Diffuse Large B Cell Lymphoma', 'Advanced Solid Tumor', 'Metastatic Melanoma']",
+    "diseases_list": [
+        "Non-small Cell Lung Cancer",
+        "Small Cell Lung Cancer",
+        "Chronic Lymphocytic Leukemia",
+        "Small Lymphocytic Lymphoma",
+        "Follicular Lymphoma",
+        "Marginal Zone Lymphoma",
+        "Mantle Cell Lymphoma",
+        "Diffuse Large B Cell Lymphoma",
+        "Advanced Solid Tumor",
+        "Metastatic Melanoma"
+    ],
+    "enrollment": "150.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Parts A, B and C \n\n Confirmed diagnosis of one of the following: \n\n Part A: R/R CLL/SLL, R/R MZL, R/R FL, R/R MCL or R/R DLBCL \n\n Part B: R/R FL, R/R MCL, or R/R DLBCL \n\n Part C: R/R FL, R/R MCL, or R/R DLBCL \n\n Participants with MZL, FL, MCL, DLBCL, or SLL must have at least one bi-dimensionally measurable nodal lesion >1.5 cm in the longest diameter or extranodal lesion that is > 1cm in the longest diameter by computed tomography (CT) scan or magnetic resonance imaging (MRI), as defined by the Lugano Classification. \n\n Parts D and E \n\n Part D: Histologically or cytologically confirmed unresectable locally advanced or metastatic solid tumors previously treated with standard systemic therapy (including prior chemotherapy, radiotherapy, target therapy and immunotherapy as locally, or guidance approved therapy) or for which treatment is not available or not tolerated. Enrollment will be limited to participants with advanced solid tumors for which there is clinical evidence of response to T-cell based immuno-oncology agents (eg, anti PD-1, non-small cell lung cancer [NSCLC], small cell lung cancer [SCLC], head and neck squamous cell cancer, hepatocellular carcinoma, gastric or gastroesophageal junction carcinoma, nasopharyngeal carcinoma, renal cell carcinoma, cervical cancer, triple-negative breast cancer, ovarian cancer, endometrial carcinoma, esophageal cancer, melanoma, urothelial carcinoma or participant with confirmed microsatellite instability-high [MSI-H] or mismatch repair deficient [dMMR] solid tumor, etc). Enrollment of tumor types beyond above situations requires sponsor's approval. \n\n Part E: Participants with NSCLC or metastatic melanoma that has progressed from PD 1/PD-L1 antibody treatment or participants with SCLC with no prior PD 1/PD-L1 antibody treatment. \n\n Participants must have \u22651 measurable lesion as defined by RECIST v1.1. \n\n Key ",
+    "exclusion_criteria": ": \n\n Parts A, B and C \n\n History of allogeneic stem-cell transplantation or CAR-T cell therapy \n\n For participants with DLBCL in Part A, classified as T-cell/histiocyte-rich large B-cell lymphoma, high-grade B-cell lymphoma with myelocytomatosis viral oncogene homolog (MYC) and B-cell lymphoma (BCL)-2 and/or BCL-6 rearrangements, high grade B-cell lymphoma, primary mediastinal large B-cell lymphoma, Epstein-barr virus positive DLBCL, and transformed DLBCL. \n\n Parts A, B, C, D and E \n\n Prior exposure to PI3K inhibitor. For participants in Part B and Part C, prior exposure to BTK inhibitor and/or PI3K inhibitor. \n\n Any approved anticancer therapy, including hormonal therapy, or any investigational agent or participation in another clinical study with therapeutic intent within 14 days before first dose. \n\n Treatment with systemic immune-stimulatory agents (including, but not limited to, interferons and interleukin-2) within 2 weeks or 5 half-lives of the drug, whichever is later, before first dose. \n\n Known human immunodeficiency virus (HIV) infection, or serologic status reflecting active viral hepatitis B (HBV) or viral hepatitis C (HCV) infection as follows: \n\n HBsAg (+), or \n\n HBcAb (+) and HBV DNA detected, or \n\n Presence of HCV antibody. Participants with presence of HCV antibody are eligible if HCV ribonucleic acid (RNA) is undetectable \n\n NOTE: Other protocol defined Inclusion/",
+    "brief_summary": "The purpose of this study is to determine the maximum tolerated dose (MTD), recommended Phase 2 dose (RP2D), safety and tolerability of BGB-10188 as monotherapy in participants with relapsed/refractory (R/R) mature B-cell malignancies; in combination with zanubrutinib in participants with R/R follicular lymphoma (FL), R/R mantle cell lymphoma (MCL) or R/R diffuse large B-cell lymphoma (DLBCL); and in combination with tislelizumab in participants with advanced solid tumors.",
+    "NCT_ID": "NCT04282018"
+}

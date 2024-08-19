@@ -1,0 +1,22 @@
+{
+    "brief_title": "First-in-Human Study of STX-478 as Monotherapy and in Combination With Other Antineoplastic Agents in Participants With Advanced Solid Tumor",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['STX-478', 'Fulvestrant']",
+    "drugs_list": [
+        "STX-478",
+        "Fulvestrant"
+    ],
+    "diseases": "['Breast Cancer', 'Gynecologic Cancer', 'HNSCC', 'Solid Tumors, Adult']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Gynecologic Cancer",
+        "HNSCC",
+        "Solid Tumors",
+        "Adult"
+    ],
+    "enrollment": "160.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Has an advanced or refractory solid tumor malignancy that is metastatic or locally advanced and unresectable (as specified by Cohort) \n\n Has a new or recent tumor biopsy (collected at screening, if feasible) or archival tumor specimen within 12 months prior to screening \n\n Has a tumor that harbors a documented PI3K\u03b1 mutation (see the cohort-specific criterion for cohort-specific mutation types) obtained either from tumor or plasma samples, determined by PCR or NGS-based assay as an FDA-approved test in US, or obtained as part of normal clinical care in a CLIA certified or similarly certified laboratory. \n\n Has at least 1 measurable tumor lesion per RECIST 1.1 \n\n Is \u226518 years of age at the time of signing the ICF \n\n Has an ECOG performance status score of 0 or 1 at screening \n\n Key ",
+    "exclusion_criteria": ": \n\n Has history (within \u22642 years before screening) of a solid tumor or hematological malignancy that is histologically distinct from the cancers being studied \n\n Has symptomatic brain or spinal metastases \n\n Has a tumor with mutations/deletions in PTEN and activating mutations in AKT or mTOR confirmed by a CLIA-certified laboratory \n\n Has an established diagnosis of diabetes mellitus type 1 or has uncontrolled diabetes mellitus type 2 (based on FPG and HbA1c thresholds defined in the inclusion criteria) requiring antihyperglycemic medication \n\n Cohorts A0, A1, A2, A3, A4, and B: Has had prior treatment with PI3K/AKT/mTOR inhibitor(s), except in certain circumstances. \n\n Has had treatment with any local or systemic antineoplastic therapy or investigational anticancer agent within 14 days or 4 half-lives, whichever is longer, prior to the initiation of study treatment up to a maximum washout period of 28 days \n\n Has toxicities from previous anticancer therapies that have not resolved to baseline levels or CTCAE grade \u22641, with the exception of alopecia and peripheral neuropathy \n\n Has had radiotherapy within 14 days before the initiation of study treatment",
+    "brief_summary": "Study STX-478-101 is a multipart, open-label, phase 1/2 study evaluating the safety, tolerability, pharmacokinetics (PK), and preliminary antitumor activity of STX-478 in participants with advanced solid tumors with certain mutations.~Part 1 will evaluate STX-478 as monotherapy in participants with breast cancer and other solid tumor types; Part 2 will evaluate STX-478 therapy as combination therapy with fulvestrant in participants with breast cancer.~Each study part will include a 28-day screening period, followed by treatment with STX 478 monotherapy or combination therapy. Participants will remain in the study part to which they are initially enrolled throughout their participation in the study (i.e., they will not move into other study parts).",
+    "NCT_ID": "NCT05768139"
+}

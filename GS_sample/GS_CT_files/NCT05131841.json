@@ -1,0 +1,17 @@
+{
+    "brief_title": "Cipterbin Combined With Vinorelbine in the Treatment of HER2-positive MBC",
+    "phase": "Phase 4",
+    "drugs": "['Cipterbin Combined With Vinorelbine']",
+    "drugs_list": [
+        "Cipterbin Combined With Vinorelbine"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "60.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age \u226518 and \u226470 years old, female. \n\n BMI index in the range of 19.0 \n\n 28.0 \n\n ECOG\u22641, and the expected os \u22653 months \n\n Unresectable metastatic breast cancer diagnosed by histology or pathology that has received one or more chemotherapy regimens. \n\n HER2 overexpression is +++ by immunohistochemistry (IHC) or + by fluorescence hybridization FISH. \n\n At least one measurable lesion. \n\n Sufficient organ function \n\n Voluntarily signed an informed consent form. \n\n Subjects with good compliance \n\n ",
+    "exclusion_criteria": ": \n\n Rapid disease progression or threaten important organs and require urgent replacement therapy. \n\n Undergone surgery within 28 days before treatment (except for biopsy) \n\n Received radiotherapy within 21 days before the first study drug treatment or the side effects of radiotherapy have not recovered to 0 or 1 \n\n Suffer from other serious uncontrolled diseases (such as epilepsy, liver failure, kidney failure, etc.) \n\n Suffered from other malignant tumors within 5 years before receiving the first study drug treatment or at the same time. \n\n Severely infected \n\n Clear history of mental illness, or have a history of alcoholism or drug abuse. \n\n Central nervous system metastasis or meningeal metastasis with clinical symptoms \n\n Cardiac function left ventricular ejection fraction < 50% \n\n Obvious arrhythmia, myocardial ischemia, severe atrioventricular block, cardiac insufficiency, severe heart valve Membrane disease patients \n\n Poorly controlled hypertension \n\n Patients with coagulopathy: INR or APTT \u22651.5\u00d7ULN \n\n Allergic to the test drug or its excipients in the study treatment, or have a severe allergic reaction to other monoclonal antibody drugs in the past \n\n Pregnant or breastfeeding, or cannot take reliable contraceptive measures during the trial and within 6 months after the end of the medication Giver \n\n Have received a certain test drug in other interventional clinical trials, the interval is less than 28 days or less than 5 half lives of the drug (whichever is longer) \n\n Have used a monoclonal antibody within 6 months before receiving the first study drug treatment \n\n Have received other drugs that may affect the pharmacokinetic results of the study drug, the interval is less than 28 days or less than 5 half lives of the drug (whichever is longer) \n\n Have received organ transplants (including autologous/allologous stem cell transplants) in the past \n\n Other conditions judged by the investigator to be inappropriate for participating in this trial",
+    "brief_summary": "To compare pharmacokinetics Index of Cipterbin combined with Vinorelbine Injection every week or every three weeks in the treatment of patients with HER2-positive metastatic breast cancer",
+    "NCT_ID": "NCT05131841"
+}

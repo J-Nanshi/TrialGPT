@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study of Liposomal Doxorubicin in Women With Breast Cancer Exploiting Tissue Doppler Imaging",
+    "phase": "Phase 4",
+    "drugs": "['liposomal doxorubicin', 'epirubicin']",
+    "drugs_list": [
+        "liposomal doxorubicin",
+        "epirubicin"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "80.0",
+    "inclusion_criteria": "inclusion criteria: \n\n women with age \u226518 and \u226465 years \n\n histological and/or cytological diagnosis of clinically non-metastatic breast cancer (c/pTall, c/pNall, cM0) \n\n indication for integrated treatment with surgical intervention associated with adjuvant or neo-adjuvant chemotherapy, endocrinological and radiation therapy, including adjuvant or neo-adjuvant chemotherapy with anthracycline \n\n ECOG (Eastern Cooperative Oncology Group) performance status \u22642 \n\n normal kidney, hepatic and hematological function \n\n normal LV ejection fraction at baseline (\u226550%) \n\n negative pregnancy test in fecund women \n\n ",
+    "exclusion_criteria": ": \n\n metastatic breast cancer \n\n past radiation therapy and chemotherapy \n\n hypertension and other cardiovascular risk factors \n\n prior valvular heart disease \n\n cardiomyopathy \n\n chronic or acute congestive heart failure \n\n LV systolic dysfunction (ejection fraction<50%) \n\n abnormal complete blood count \n\n pregnancy \n\n breast-feeding",
+    "brief_summary": "The randomized LITE study will compare liposomal doxorubin versus standard epirubicin in the treatment of female breast cancer. In order to detect as early as possible post-chemotherapy cardiotoxicity, tissue Doppler imaging parameters elicited at transthoracic echocardiography will be used and will constitute the primary and co-primary end-points.",
+    "NCT_ID": "NCT00531973"
+}

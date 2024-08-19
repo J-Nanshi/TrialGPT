@@ -1,0 +1,18 @@
+{
+    "brief_title": "Bicalutamide Plus Aromatase Inhibitors in ER(+)/AR(+)/HER2(-) Metastatic Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Bicalutamide', 'Aromatase Inhibitor']",
+    "drugs_list": [
+        "Bicalutamide",
+        "Aromatase Inhibitor"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "58.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients with histologically confirmed estrogen receptor positive, androgen positive and HER2 negative breast cancer \n\n Metastatic or unresectable locally advanced disease \n\n Age over 18 years \n\n Postmenopausal status \uff08continuous using luteinizing hormone releasing hormone(LHRH) analogue is available\uff09 \n\n Patient must have disease progression after treatment of an Aromatase inhibitor. \n\n Eastern Cooperative Oncology Group (ECOG) performance status (PS)0-2 \n\n Life expectancy over 3 months. \n\n Measurable disease according to RECIST version 1.1 or only bone metastasis \n\n Adequate hematological, hepatic function. \n\n Voluntarily signed and dated written informed consent prior to any study specific procedure. \n\n ",
+    "exclusion_criteria": ": \n\n Patient with life-threatening visceral metastasis, such as extensive liver metastasis, brain or meningeal metastasis \n\n Concomitant diseases/conditions that is not controllable, and Any other major illness that, in the Investigator's judgment, will substantially increase the risk associated with the patient's participation in this study. \n\n History of other primary malignancy \n\n Resistant to steroidal or nonsteroidal aromatase Inhibitor",
+    "brief_summary": "This study is aim to evaluate the efficacy and safety of bicalutamide and aromatase inhibitor in ER(+)/AR(+)/HER2(-) metastatic breast cancer patients who have disease progression after treatment of an aromatase inhibitor.",
+    "NCT_ID": "NCT02910050"
+}

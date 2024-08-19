@@ -1,0 +1,21 @@
+{
+    "brief_title": "A Study of TAS2940 in Participants With Locally Advanced or Metastatic Solid Tumor Cancer",
+    "phase": "Phase 1",
+    "drugs": "['TAS2940', 'TAS2940']",
+    "drugs_list": [
+        "TAS2940",
+        "TAS2940"
+    ],
+    "diseases": "['Solid Tumor', 'Glioblastoma', 'Non-small Cell Lung Cancer', 'Breast Cancer']",
+    "diseases_list": [
+        "Solid Tumor",
+        "Glioblastoma",
+        "Non-small Cell Lung Cancer",
+        "Breast Cancer"
+    ],
+    "enrollment": "42.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Have histologically confirmed solid cancer that is locally advanced and metastatic and available standard treatment options have been exhausted \n\n Have adequate organ function \n\n ECOG PS 0-1 \n\n Dose Escalation: \n\n Have measurable or non- measurable disease per RECIST criteria v1.1 or RANO \n\n Any solid tumor with EGFR and / or HER2 aberration \n\n Dose Expansion: \n\n Have measurable disease per RECIST criteria v1.1 for solid tumor (excluding primary brain tumor) or RANO (for glioblastoma) \n\n Cohort A: Non-small cell lung cancer (NSCLC) \n\n Cohort B: HER2 positive breast cancer \n\n Cohort C: Recurrent or refractory glioblastoma \n\n Cohort D: Other solid tumors with EGFR or HER2 aberrations \n\n ",
+    "exclusion_criteria": ": \n\n Non-stable brain metastases \n\n Have significant cardiovascular disorder \n\n Have not recovered from prior cancer treatment \n\n A serious illness or medical condition",
+    "brief_summary": "This is a first-in-human, open label, multicenter study to assess the safety, tolerability, pharmacokinetics, pharmacodynamics, and the preliminary antitumor activity of TAS2940 in patients with advanced or metastatic solid tumors who are not candidates for approved or available therapies.",
+    "NCT_ID": "NCT04982926"
+}

@@ -1,0 +1,17 @@
+{
+    "brief_title": "Lipo-dox and Cyclophosphamide /5-Fluorouracil in Patients With Metastatic Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Lipo-Dox']",
+    "drugs_list": [
+        "Lipo-Dox"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "47.0",
+    "inclusion_criteria": "inclusion criteria: \n\n histologically proved breast cancer with metastatic disease \n\n ",
+    "exclusion_criteria": ": \n\n life expectancy less than 3 months.",
+    "brief_summary": "To determine the overall objective response rate of pegylated liposomal doxorubicin \uff08Lipo-Dox\uff09combined with cyclophosphamide/5-FU as second-line treatment in patients with metastatic breast cancer.",
+    "NCT_ID": "NCT01451580"
+}

@@ -1,0 +1,18 @@
+{
+    "brief_title": "Palbociclib Combined With an Aromatase Inhibitor in Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Palbociclib + Letrozole', 'Letrozole']",
+    "drugs_list": [
+        "Palbociclib + Letrozole",
+        "Letrozole"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "420.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients with histological and imaging findings-confirmed hormone receptor-positive/human epidermal growth factor receptor 2-negative breast cancer; \n\n postmenopausal patients; \n\n eligible patients receiving one or more treatment strategies who are followed up in the center where they receive treatment; \n\n provision of written informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Age < 18 years; \n\n pregnant woman; \n\n participating in other clinical trials.",
+    "brief_summary": "Pfizer's innovative drug palbociclib (trade name: Ibrance\u00ae) got China National Drug Administration (CNDA) approval on July 31, 2018. Palbociclib combined with an aromatase inhibitor can be used to treat hormone receptor-positive/human epidermal growth factor receptor 2-negative locally advanced breast cancer or metastatic breast cancer. This brings more treatment options for hormone receptor-positive/human epidermal growth factor receptor 2-negative locally advanced breast cancer. How to scientifically evaluate the efficacy, tolerability, and safety of palbociclib combined with an aromatase inhibitor and to establish a more suitable treatment strategy for Chinese patients is one of the questions that need to be answered in clinical practice. This multi-center parallel-group randomized controlled trial will address on this issue.",
+    "NCT_ID": "NCT04047758"
+}

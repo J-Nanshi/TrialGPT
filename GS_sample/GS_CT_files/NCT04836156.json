@@ -1,0 +1,18 @@
+{
+    "brief_title": "Neoadjuvant Therapy Study Guided by Drug Screening in Vitro for Human Epidermal Growth Factor Receptor 2 (HER2) Negative Early Breast Cancer Patients",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['neoadjuvant chemotherapy upon in vitro PTC drug sensitivity screening for triple negative breast cancer', 'neoadjuvant chemotherapy upon in vitro PTC drug sensitivity screening for luminal like breast cancer']",
+    "drugs_list": [
+        "neoadjuvant chemotherapy upon in vitro PTC drug sensitivity screening for triple negative breast cancer",
+        "neoadjuvant chemotherapy upon in vitro PTC drug sensitivity screening for luminal like breast cancer"
+    ],
+    "diseases": "['HER2-negative Early Breast Cancer']",
+    "diseases_list": [
+        "HER2-negative Early Breast Cancer"
+    ],
+    "enrollment": "46.0",
+    "inclusion_criteria": "inclusion criteria: \n\n invasive breast cancer \n\n HER2 negative \n\n T2 or node positive \n\n Eastern Cooperative Oncology Group(ECOG) 0-1 \n\n ",
+    "exclusion_criteria": ": \n\n stage IV \n\n inflammatory breast cancer \n\n Severe chronic disease",
+    "brief_summary": "Neoadjuvant treatment is an important treatment for early breast cancer patients. Patients with triple negative subtype who achieved pCR after neoadjuvant treatment would have longer survival. The neoadjuvant treatment for her2 negative patient was chemotherapy with combined drugs. However, not all patients benefit from chemotherapy but suffer from chemotherapy-related side effects. It was unknown for a patient who could benefit from which drug before chemotherapy. Drug sensitivity screening in vitro was a promising method for choosing chemotherapy. But there was no method could select effective drugs accurately for breast cancer patients until now.~Previously, investigators developed a patient-derived tumor-like cell clusters in vitro culture technology. Feasibility for guiding clinical treatment by drug sensitivity screening based on this technology have been explored by preliminary exploration with a well corresponding. And the results have been published. This study will explore whether drug screening in vitro patient-derived tumor-like cell clusters from breast cancer tissue could be a method for selection of chemotherapy for her2 negative participants.",
+    "NCT_ID": "NCT04836156"
+}

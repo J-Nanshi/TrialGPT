@@ -1,0 +1,20 @@
+{
+    "brief_title": "Reverse Triple Negative Immune Resistant Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Choline', 'anti-PD-1 antibody and chemotherapy', 'Sodium Cromoglicate', 'Efavirenz']",
+    "drugs_list": [
+        "Choline",
+        "anti-PD-1 antibody and chemotherapy",
+        "Sodium Cromoglicate",
+        "Efavirenz"
+    ],
+    "diseases": "['Triple-negative Breast Cancer']",
+    "diseases_list": [
+        "Triple-negative Breast Cancer"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n ECOG Performance Status of 0, 1, or 2 \n\n Metastatic or locally advanced, histologically documented TNBC (absence of HER2, ER, and PR expression) \n\n Radiologic/objective evidence of recurrence or disease progression after immunotherapy(combined with targeted therapy or chemo ) for metastatic breast cancer(MBC) \n\n Adequate hematologic and end-organ function, laboratory test results, obtained within 14 days prior to initiation of study treatment. \n\n For women of childbearing potential: agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive measures as outlined for each specific treatment arm \n\n Measurable disease according to Response Evaluation Criteria in Solid Tumors v1.1 (RECIST v1.1) \n\n have the cognitive ability to understand the protocol and be willing to participate and to be followed up. \n\n ",
+    "exclusion_criteria": ": \n\n Symptomatic, untreated, or actively progressing CNS metastases \n\n Active or history of autoimmune disease or immune deficiency \n\n Significant cardiovascular disease \n\n History of malignancy other than breast cancer within 5 years prior to screening, with the exception of those with a negligible risk of metastasis or death \n\n Treatment with chemotherapy, radiotherapy,immunotherapy or surgery (outpatient clinic surgery excluded) within 3 weeks prior to initiation of study treatment. \n\n Pregnancy or breastfeeding, or intention of becoming pregnant during the study \n\n History of allergies to the drug components of this trial \n\n History of eosinophilosis or mastocytosis \n\n Patients who have been using oral steroid hormones for a long time will need to stop for 4 weeks if they have used them occasionally in the past",
+    "brief_summary": "This is a Phase II, open-label, three-arm parallel study evaluating the efficacy and safety of combined treatment (sodium cromoglicate, choline, or efavirenz) with immune checkpoint inhibitor in mTNBC (triple negative breast cancer) patients who progressed during previous immune checkpoint inhibitors.",
+    "NCT_ID": "NCT05076682"
+}

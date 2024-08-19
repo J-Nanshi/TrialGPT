@@ -1,0 +1,21 @@
+{
+    "brief_title": "A Study of AK117/AK112 in Metastatic Triple-Negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['AK117', 'AK112', 'Nab paclitaxel', 'paclitaxel']",
+    "drugs_list": [
+        "AK117",
+        "AK112",
+        "Nab paclitaxel",
+        "paclitaxel"
+    ],
+    "diseases": "['Metastatic Triple-negative Breast Cancer', 'Locally Advanced Triple-negative Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Triple-negative Breast Cancer",
+        "Locally Advanced Triple-negative Breast Cancer"
+    ],
+    "enrollment": "80.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Metastatic or locally advanced, histologically documented TNBC characterized by absence of human epidermal growth factor 2 (HER2), estrogen receptor (ER), and progesterone receptor (PR) expression \n\n No prior chemotherapy or targeted systemic therapy for inoperable locally advanced or metastatic TNBC \n\n Eligible for taxane monotherapy \n\n A representative formalin-fixed, paraffin-embedded tumor specimen in paraffin blocks, or at least 5 unstained slides with an associated pathology report documenting ER, PR, and HER2 negativity. \n\n Eastern Cooperative Oncology Group performance status of 0 or 1 \n\n Measurable disease as defined by RECIST v1.1 \n\n Adequate hematologic and end-organ function \n\n ",
+    "exclusion_criteria": ": \n\n Known central nervous system (CNS) disease, except for asymptomatic CNS metastases \n\n Leptomeningeal disease \n\n Pregnancy or lactation \n\n History of autoimmune disease \n\n Prior allogeneic stem cell or solid organ transplantation \n\n Positive test for human immunodeficiency virus \n\n Active hepatitis B or hepatitis C \n\n Receipt of a live, attenuated vaccine within 30 days prior to randomization, during treatment",
+    "brief_summary": "This trial is a Phase II study. The purpose of this study is to evaluate the efficacy, safety, and pharmacokinetics of AK117/AK112 administered with chemotherapy in participants with locally advanced or metastatic triple-negative breast cancer (TNBC) who have not received prior systemic therapy for metastatic breast cancer (mBC).",
+    "NCT_ID": "NCT05227664"
+}

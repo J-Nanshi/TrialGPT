@@ -1,0 +1,18 @@
+{
+    "brief_title": "Neoadjuvant Endocrine Therapy Versus Chemotherapy in Premenopausal Patients With ER+ & HER2- Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Goserelin+TAM+AI', 'Epirubicin+CTX+5-Fu']",
+    "drugs_list": [
+        "Goserelin+TAM+AI",
+        "Epirubicin+CTX+5-Fu"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "234.0",
+    "inclusion_criteria": "inclusion criteria: \n\n 35 years old <age\u226455 years old, in premenopausal status(with the judgement by researchers when the patients are recruited) Histologically confirmed primary invasive breast cancer \n\n Stage: T2N0M0(cT>2cm, SLNB negative), hard to proceed the breast conserving surgery(not feasible or may affect the appearance of breast) \n\n Histologically confirmed HR+ (ER or PR positive, and >50% cell in IHC) HER2 negative breast cancer by pathological evaluation \n\n No other previous treatment for primary breast cancer \n\n Without other tumor or unstable complication or uncontrolled infection \n\n No contradiction for the third generation AIs, LHRHa, chemotherapy \n\n Attend the study voluntarily, sign the informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Metastasis disease by pathological or radiological diagnosis \n\n the history of other tumor \n\n contradiction for the third generation AIs, LHRHa, chemotherapy \n\n Contradiction for adjuvant chemotherapy: serious cardiology or cerebral vessel disease, liver or kidney disfunction, blood system disease, the other situation or complication that are not suitable or cannot adaptable for chemotherapy \n\n Contradiction for proceeding surgery: contradiction for anesthesia, large lesion,T4, lymph node positive \n\n other situation not suitable for the research: psychological disease, mental disorder, social problem, geographic problem \n\n have been attendance in other anti-tumor treatment or other clinical trials 8) reject to attend the study",
+    "brief_summary": "This study proposes to prove that the efficacy of adjuvant endocrine therapy for the premenopausal HR positive breast cancer patients is non-inferiority to adjuvant chemotherapy assessed by ultrasound response rate.",
+    "NCT_ID": "NCT02535221"
+}

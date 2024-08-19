@@ -1,0 +1,24 @@
+{
+    "brief_title": "Neoadjuvant Study of Pyrotinib in Patients With HER2 Positive Breast Cancer",
+    "phase": "",
+    "drugs": "['Pyrotinib', 'Trastuzumab', 'Docetaxel', 'Carboplatin', 'Placebo Oral Tablet']",
+    "drugs_list": [
+        "Pyrotinib",
+        "Trastuzumab",
+        "Docetaxel",
+        "Carboplatin",
+        "Placebo Oral Tablet"
+    ],
+    "diseases": "['Breast Cancer', 'Neoplasm, Breast', 'Breast Diseases']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Neoplasm",
+        "Breast",
+        "Breast Diseases"
+    ],
+    "enrollment": "100.0",
+    "inclusion_criteria": "inclusion criteria: \n\n female patients, 18 years \u2264 age \u2264 80 years\uff1b \n\n Performance Status- Eastern Cooperative Oncology Group (ECOG) 0-1 \n\n Histologically confirmed invasive breast cancer\uff08early stage or locally advanced\uff09 \n\n HER2 positive (HER2+++ by IHC or FISH+) \n\n Known hormone receptor status. \n\n Cardiovascular: Baseline left ventricular ejection fraction (LVEF)\u226555% measured by ECHO \n\n Signed informed consent form (ICF) \n\n ",
+    "exclusion_criteria": ": \n\n Metastatic disease (Stage IV) or inflammatory breast cancer \n\n Previous or current history of malignant neoplasms, except for curatively treated: Basal and squamous cell carcinoma of the skin, Carcinoma in situ of the cervix. \n\n Clinically relevant cardiovascular disease: Known history of uncontrolled or symptomatic angina, clinically significant arrhythmias, congestive heart failure, transmural myocardial infarction, uncontrolled hypertension \u2265180/110); \n\n Unable or unwilling to swallow tablets.",
+    "brief_summary": "This is a randomized, double-blind multicenter Phase III study for evaluating the efficacy and safety of neoadjuvant pyrotinib and trastuzumab plus docetaxel and Carboplatin versus placebo and trastuzumab plus docetaxel and Carboplatin given as neoadjuvant treatment in HER2 positive early stage or locally advanced breast cancer.",
+    "NCT_ID": "NCT03756064"
+}

@@ -1,0 +1,19 @@
+{
+    "brief_title": "Fluzoparib in Combination With Chidamide or Camrelizumab for HRD Positive HER2 Negative Advanced Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['fluzoparib+chidamide', 'fluzoparib+camrelizumab']",
+    "drugs_list": [
+        "fluzoparib+chidamide",
+        "fluzoparib+camrelizumab"
+    ],
+    "diseases": "['Advanced HER2 Negative Breast Carcinoma', 'HRD+Breast Cancer']",
+    "diseases_list": [
+        "Advanced HER2 Negative Breast Carcinoma",
+        "HRD+Breast Cancer"
+    ],
+    "enrollment": "40.0",
+    "inclusion_criteria": "inclusion criteria: \n\n histologically confirmed initial stage IV breast cancer or recurrent metastatic breast cancer; advanced treatment stage received at least 1 line of chemotherapy but no more than 2 lines of chemotherapy; hormone receptor-positive patients received at least one endocrine therapy in advanced treatment stage, or the investigator judged that they were not suitable for endocrine therapy; and patients with hormone receptor-positive advanced breast cancer who progressed within 2 years of adjuvant endocrine therapy. \n\n histologically confirmed invasive HER2-negative breast cancer (specific definition: HER20-1 + or HER2 2 + by immunohistochemistry but negative or no amplification by FISH or CISH, following the 2018 version of the ASCO-CAPHER2 guidelines for negative interpretation); \n\n central confirmation of HRD positivity, known germline BRCA and/or systemic BRCA mutation status is allowed to be preferred. \n\n age 18-70 years \n\n According to RECIST 1.1, at least one measurable lesion is present; \n\n ECOG score: 0-2; expected survival more than 12 weeks; \n\n Previous treatment with immune checkpoint inhibitors, PARP inhibitors and HDAC inhibitors (including chidamine, romidepsin, vorinostat, benirestat, parastat, etc.); \n\n All acute toxicities caused by previous anti-tumor treatment return to the level specified in the inclusion/",
+    "exclusion_criteria": " (except alopecia and other toxicities that are considered by the investigator to pose no safety risk to the subjects); \n\n Female subjects of childbearing potential need to use a medically recognized contraceptive measure during the study treatment and at least 3 months after the last use of the study drug; \n\n Patients with known hormone receptor status; \n\n Main organ function is basically normal, and meet the following conditions: \n\n Blood routine examination criteria need to meet: HB \u2265 90 g/L (14 without blood transfusion); ANC \u2265 1.5 \u00d7 109/L; PLT \u2265 75 \u00d7 109/L; \n\n Biochemical examination need to meet the following criteria: TBIL \u2264 1.5 \u00d7 ULN (upper limit of normal); ALT and AST \u2264 3 \u00d7 ULN; if there is liver metastasis, ALT and AST \u2264 5 \u00d7 ULN; serum Cr \u2264 1 \u00d7 ULN; \n\n cardiac function: LVEF \u2265 50% \n\n The subject voluntarily joined the study and signed the informed consent form. \n\n ",
+    "brief_summary": "This study is planned to include 40 patients with HER2-negative advanced breast cancer to receive fluzoparib combined with chidamide or fluzoparib combined with camrelizumab to observe and evaluate the efficacy and safety of fluzoparib combined with camrelizumab or chidamide in the treatment of HRD-positive HER2-negative advanced breast cancer.",
+    "NCT_ID": "NCT05085626"
+}

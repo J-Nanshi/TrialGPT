@@ -1,0 +1,24 @@
+{
+    "brief_title": "Comparison of Adjuvant Monotherapy With Endocrine Therapy or Accelerated Partial Breast Irradiation Following Lumpectomy for Low Risk Breast Cancer Patients Over 65 (CAMERAN)",
+    "phase": "Phase 2",
+    "drugs": "['Accelerated Partial Breast Irradiation (APBI)', 'tamoxifen, anastrozole, exemestane, letrozole, fulvestrant, toremifene']",
+    "drugs_list": [
+        "Accelerated Partial Breast Irradiation (APBI)",
+        "tamoxifen",
+        "anastrozole",
+        "exemestane",
+        "letrozole",
+        "fulvestrant",
+        "toremifene"
+    ],
+    "diseases": "['Breast Cancer', 'Quality of Life']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Quality of Life"
+    ],
+    "enrollment": "90.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Willing and able to provide written informed consent obtained to participate in the study and HIPAA authorization for release of personal health information. \n\n Women greater than or equal to age 65 years with de novo invasive carcinoma of breast. \n\n Pathological T1 (pT1) stage \n\n Estrogen receptor (ER)/ Progesterone receptor (PR) positive (greater than or equal to 10% ER and PR by immunohistochemistry [IHC] staining) \n\n Human epidermal growth factor receptor 2 (HER2) - according to American Society of Clinical Oncology (ASCO)/ College of American Pathologists (CAP) guidelines (0 or 1+ following IHC staining or proven negative by in-situ hybridization [ISH]) \n\n Grade 1 or 2 overall tumor grade \n\n Clinical or pathological N0 \n\n No lymphovascular space invasion (LVSI) \n\n Final surgical margins \u2265 2 mm as per APBI criteria \n\n Subjects with completed breast conserving surgery (BCS) with or without sentinel lymph node biopsy (SLNB) or axillary lymph node dissection (ALND). \n\n Suitable for APBI as deemed by the treating radiation oncologist \n\n Subjects with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial. \n\n Enrollment in another clinical trial is allowed if there would be no interference with interventions on this trial \n\n ",
+    "exclusion_criteria": ": \n\n Pre- or post-operative systemic chemotherapy while on this study. \n\n Current ongoing treatment with anti-hormonal agents. If previously on anti-hormonal agents and planning to stop, the subject must discontinue within 30 days of randomization. \n\n Hormonal replacement therapy (eligible if discontinued within 30 days of randomization). \n\n Multifocal or multicentric tumor. \n\n Receipt of tissue rearrangement in the lumpectomy cavity. \n\n Synchronous bilateral breast cancer. \n\n Clinical or imaging evidence of distant metastases. \n\n Prior breast or thoracic radiation. \n\n Autoimmune conditions with associated radiation risks. \n\n Subjects with poor medical risk due to uncontrolled medical conditions that would deem them ineligible for hormonal or radiation therapy.",
+    "brief_summary": "The aim of this prospective study is to investigate quality of life and oncologic outcomes in low-risk elderly breast cancer patients randomized to adjuvant therapy with accelerated partial breast irradiation (APBI) alone or endocrine therapy alone after lumpectomy. The study population will include women age 65 years and older with low-risk tumor characteristics (tumor size <2cm, grade 1-2, node-negative). APBI will consist of 5 fractions of radiation therapy delivered every other day to the lumpectomy cavity. Endocrine therapy will be chosen by the treating medical oncologist with an aim of 5 years duration, as tolerated by the patient. Quality of life outcomes will be measured at 1 year following lumpectomy and compared between groups. We hypothesize that the use of APBI may be superior in terms of quality of life when compared to endocrine therapy alone following lumpectomy while providing equivalent rates of disease control and overall survival. In this phase II study, we anticipate enrolling 90 women at N.C. Cancer Hospital in Chapel Hill, NC.",
+    "NCT_ID": "NCT05472792"
+}

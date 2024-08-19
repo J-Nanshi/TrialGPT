@@ -1,0 +1,21 @@
+{
+    "brief_title": "Circulating Tumor Cells and Treatment De-escalation After Neoadjuvant Therapy for HER2 Positive Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Pertuzumab', 'Trastuzumab', 'Circulating tumor cells']",
+    "drugs_list": [
+        "Pertuzumab",
+        "Trastuzumab",
+        "Circulating tumor cells"
+    ],
+    "diseases": "['Breast Neoplasms', 'HER2-positive Breast Cancer', 'Circulating Tumor Cell']",
+    "diseases_list": [
+        "Breast Neoplasms",
+        "HER2-positive Breast Cancer",
+        "Circulating Tumor Cell"
+    ],
+    "enrollment": "80.0",
+    "inclusion_criteria": "inclusion criteria: \n\n HER2 positive breast cancer (hormone receptors positive or negative) \n\n Stage I to III \n\n Indication for neoadjuvant therapy with chemo (any regimen) + trastuzumab + pertuzumab \n\n Breast surgery after neoadjuvant therapy \n\n Preserved coagnition \n\n ECOG 0-3 \n\n For the randomization phase: pathological complete response (ypT0/ypTis and ypN0) \n\n Agreement on participation and signature of de ICF \n\n ",
+    "exclusion_criteria": ": \n\n Contradindication for trastuzumab or pertuzumab \n\n Adjuvant chemotherapy. Hormone therapy is allowed \n\n Second primary tumor < 5 years, with an exception for treated non-melanoma skin cancer, and in situ cervical cancer",
+    "brief_summary": "Phase II unicentric randomized trial which will include early HER2 positive breast cancer patients, candidate to neoadjuvant therapy with trastuzumab and pertuzumab. Circulating tumor cells will be collected at neoadjuvant therapy baseline.~Patients with pathological complete response will be randomized in 1:1 ratio for adjuvant trastuzumab (arm A) versus trastuzumab + pertuzumab (arm B) in a two factorial design: group A, with HER2 positive CTCs and group B, with HER2 negative/absent CTCs.",
+    "NCT_ID": "NCT04993014"
+}

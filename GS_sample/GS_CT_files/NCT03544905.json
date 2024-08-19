@@ -1,0 +1,17 @@
+{
+    "brief_title": "Study to Evaluate the Safety, Tolerate, Pharmacokinetics and Preliminary Efficacy of CYH33",
+    "phase": "Phase 1",
+    "drugs": "['CYH33 for tablet']",
+    "drugs_list": [
+        "CYH33 for tablet"
+    ],
+    "diseases": "['Advanced Solid Tumors']",
+    "diseases_list": [
+        "Advanced Solid Tumors"
+    ],
+    "enrollment": "100.0",
+    "inclusion_criteria": "inclusion criteria: \n\n main inclusion: \n\n Evidence of a personally signed informed consent document; \n\n Male and/or female subjects above the ages of 18 years; \n\n Locally advanced or metastatic solid tumor patients who have failed or relapsed on current standard of care for Phase 1a; \n\n Subject may provide Tumor tissue section(at least 8 pieces) if they agree; \n\n ECOG performance score 0-1; \n\n Life expectancy \u2265 12 weeks; \n\n At least 1 measurable target lesion on the baseline scan as per RECIST 1.1 \n\n ",
+    "exclusion_criteria": ": \n\n main criteria: \n\n prior received anti-tumor treatment, including anticancer drugs for the treatment within 28 days of first dose of study treatment; \n\n Prior or concomitant other malignant tumor;",
+    "brief_summary": "This study is a Multi-center, Open-label, single arm, Dose Escalation and Dose Extension Phase 1 Study to Evaluate the Safety , Tolerability, Pharmacokinetics and Preliminary Efficacy of CYH33 in Advanced Solid Tumors Patients.",
+    "NCT_ID": "NCT03544905"
+}

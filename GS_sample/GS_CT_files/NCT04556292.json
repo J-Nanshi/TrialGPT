@@ -1,0 +1,19 @@
+{
+    "brief_title": "A Phase II Study to Assess the Efficacy and Safety of SC10914 in the Metastatic Breast Cancer Patients",
+    "phase": "Phase 2",
+    "drugs": "['SC10914']",
+    "drugs_list": [
+        "SC10914"
+    ],
+    "diseases": "['Breast Cancer Metastatic', 'BRCA 1 Gene Mutation', 'BRCA 2 Gene Mutation']",
+    "diseases_list": [
+        "Breast Cancer Metastatic",
+        "BRCA 1 Gene Mutation",
+        "BRCA 2 Gene Mutation"
+    ],
+    "enrollment": "78.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Germline mutation in BRCA1 or BRCA2 \n\n Histologically or cytologically confirmed breast cancer with evidence of metastatic disease. \n\n Prior therapy with an anthracycline and/or a taxane in either an adjuvant or metastatic setting \n\n Patients who have received platinum (cisplatin or carboplatin, either as monotherapy or in combination) for advanced breast cancer are eligible to enter the study provided platinum-free interval at least 6 months (time from last dose of platinum chemotherapy to disease progression \n\n Patients who have received platinum as potentially curative treatment for a prior cancer (e.g. ovarian cancer) or as adjuvant/neoadjuvant treatment for breast cancer are eligible provided at least 12 months have elapsed between the last dose of platinum-based treatment and eligible . \n\n Patients with estrogen and/or progesterone receptor-positive disease must have received and progressed on at least one endocrine therapy (adjuvant or metastatic), or have disease that the treating physician believes to be inappropriate for endocrine therapy . \n\n At least one lesion (measurable and/or non-measurable) that can be accurately assessed at baseline by CT (MRI where CT is contraindicated) and is suitable for repeated assessment as per RECIST 1.1. \n\n ECOG performance status 0-1. \n\n Adequate bone marrow, kidney and liver function \n\n ",
+    "exclusion_criteria": ": \n\n Prior treatment with PARP inhibitor. \n\n Patients with HER2 positive disease \n\n Untreated and/or uncontrolled brain metastases \n\n Known HIV (Human Immunodeficiency Virus) infection. \n\n Persistent toxicities (\u2265CTCAE grade 2) caused by previous cancer therapy, excluding alopecia \n\n Pregnant or breast feeding women",
+    "brief_summary": "This open label, multi-centre phase II study will assess the efficacy and safety of single agent SC10914 in metastatic breast cancer patients with gBRCA 1/2 mutations.",
+    "NCT_ID": "NCT04556292"
+}

@@ -1,0 +1,17 @@
+{
+    "brief_title": "A Study of DS-8201a in Metastatic Breast Cancer Previously Treated With Trastuzumab Emtansine (T-DM1)",
+    "phase": "Phase 2",
+    "drugs": "['DS-8201a']",
+    "drugs_list": [
+        "DS-8201a"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "253.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Men or women the age of majority in their country \n\n Has pathologically documented breast cancer that: \n\n is unresectable or metastatic \n\n has HER2 positive expression confirmed per protocol \n\n Has an adequate tumor sample \n\n Has at least one measurable lesion per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 \n\n Has protocol-defined adequate cardiac, renal and hepatic function \n\n Agrees to follow protocol-defined method(s) of contraception \n\n ",
+    "exclusion_criteria": ": \n\n Has a medical history of myocardial infarction, symptomatic congestive heart failure (CHF) (NYHA classes II-IV), unstable angina or serious cardiac arrhythmia \n\n Has a corrected QT interval (QTc) prolongation to > 450 millisecond (ms) in males and > 470 ms in females \n\n Has a medical history of clinically significant lung disease \n\n Is suspected to have certain other protocol-defined diseases based on imaging at screening period \n\n Has history of any disease, metastatic condition, drug/medication use or other condition that might, per protocol or in the opinion of the investigator, compromise: \n\n safety or well-being of the participant or offspring \n\n safety of study staff \n\n analysis of results",
+    "brief_summary": "Some human epidermal growth factor receptor 2 (HER-2) breast cancer patients do not respond or become resistant to current treatment. DS-8201a is a new experimental product that is a combination of an antibody and a drug. It has not yet been approved for use. DS-8201a may slow down tumor growth. This might improve outcomes for these patients.",
+    "NCT_ID": "NCT03248492"
+}

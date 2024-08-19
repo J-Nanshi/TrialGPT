@@ -1,0 +1,20 @@
+{
+    "brief_title": "Analysis of Letrozole in Patients With Operable Hormone Receptor Positive, HER2 Negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Biospecimen Collection', 'Letrozole']",
+    "drugs_list": [
+        "Biospecimen Collection",
+        "Letrozole"
+    ],
+    "diseases": "['Breast Adenocarcinoma', 'Invasive Breast Carcinoma', 'Resectable Breast Carcinoma']",
+    "diseases_list": [
+        "Breast Adenocarcinoma",
+        "Invasive Breast Carcinoma",
+        "Resectable Breast Carcinoma"
+    ],
+    "enrollment": "50.0",
+    "inclusion_criteria": "inclusion criteria: \n\n SCREENING: \n\n Female >= 18 years \n\n Postmenopausal and suitable to receive aromatase inhibitor as per physician's discretion \n\n Breast imaging showed Breast Imaging Reporting and Data System (BIRADS) >= 4 requiring a biopsy \n\n Patients must not have received any prior chemotherapy, radiation therapy, or endocrine therapy for their current breast cancer. Patients who received tamoxifen or raloxifene or another agent for prevention of breast cancer may be included \n\n Willing and able to provide research tissue samples \n\n Willing and able to provide research blood samples \n\n REGISTRATION: Histologically confirmed un-resected operable invasive adenocarcinoma of the breast >= 0.5 cm with estrogen receptor (ER) and/or progesterone receptor (PR) positive >= 10%, and no human epidermal growth factor receptor 2 (HER2) amplification or overexpression \n\n ",
+    "exclusion_criteria": ": \n\n Immunocompromised patients including patients known to be human immunodeficiency virus (HIV) positive or those on chronic steroids \n\n NOTE: Must be off systemic steroids at least 14 days prior to pre-registration. However, topical steroids, inhalants or steroid eye drops are permitted \n\n Known history of active autoimmune disease that has required systemic treatment within =< 30 days (i.e., with use of disease modifying agents, corticosteroids, or immunosuppressive drugs) prior to pre-registration \n\n NOTE: Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency) is not considered a form of systemic treatment. Patients with vitiligo, Graves disease, or psoriasis not requiring systemic treatment within the past 30 days are not excluded. Patients with Celiac disease controlled with diet modification are not excluded",
+    "brief_summary": "This phase II trial examines letrozole in patients with hormone receptor positive, HER2 negative breast cancer that can be removed by surgery (operable). Letrozole is in a class of medications called nonsteroidal aromatase inhibitors. It works by decreasing the amount of estrogen produced by the body. This can slow or stop the growth of some types of breast cancer cells that need estrogen to grow.",
+    "NCT_ID": "NCT05447910"
+}

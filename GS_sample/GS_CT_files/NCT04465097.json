@@ -1,0 +1,19 @@
+{
+    "brief_title": "Neoadjuvant Tucidinostat and Exemestane in Early Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Tucidinostat', 'Exemestane', 'Ovarian function suppression']",
+    "drugs_list": [
+        "Tucidinostat",
+        "Exemestane",
+        "Ovarian function suppression"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Written informed consent must be signed\uff1b \n\n Eastern Cooperative Oncology Group Performance Status: 0 \n\n 1; \n\n Histological confirmation of estrogen receptor (ER) positive and HER 2 negative invasive breast cancer; \n\n Age \u226518 years old\uff1b \n\n No distant metastatic disease\uff1b \n\n The disease condition is stage II or stage III; \n\n Laboratory exam criteria for enrollment: HGB\u226510g/dl, WBC\u22654,000/mm3, PLT\u2265100,000/mm3, GOT, GPT, ALP\u22642 times ULN, TBIL, CCr\u22641.5 times ULN. \n\n ",
+    "exclusion_criteria": ": \n\n Patients who are pregnant or lactating at the time of randomization or refuse to contraception. \n\n Patients who received organ transplantation (include bone marrow autologous transplantation and stem cell transplantation). \n\n Patients who have other malignant diseases within 5 years, except for cured skin basal cell carcinoma, flat cell carcinoma or cervical carcinoma in situ \n\n Patients with psychiatric disorder, peripheral or central nerve system disease or any disorder, which compromises ability to give informed consent or participate in this study. \n\n Patients with sever hepatic, renal,cardiovascular, respiratory, digestive diseases or uncontrolled diabetes. \n\n Patients who had myocardial infarction in the past 12 months. \n\n Patients who participate in other clinical trail. \n\n Patients who allergy to goserelin, leuprorelin, tucidinostat or aromatase inhibitor.",
+    "brief_summary": "This study is to evaluate the efficacy of tucidinostat combined with exemestane as neoadjuvant strategy in estrogen receptor-positive early breast cancer patients and explore the genetic model which can predict neoadjuvant endocrine therapeutic results.",
+    "NCT_ID": "NCT04465097"
+}

@@ -1,0 +1,21 @@
+{
+    "brief_title": "A Phase \u2161 Trial of Pyrotinib Combination With CDK4/6 Inhibitor SHR6390 in Patients Prior Trastuzumab-treated Advanced HER2-Positive Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Pyrotinib', 'SHR6390', 'Letrozole', 'Capecitabine']",
+    "drugs_list": [
+        "Pyrotinib",
+        "SHR6390",
+        "Letrozole",
+        "Capecitabine"
+    ],
+    "diseases": "['Metastatic Breast Cancer', 'HER2-positive Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer",
+        "HER2-positive Breast Cancer"
+    ],
+    "enrollment": "60.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Metastatic HER2-Positive breast cancer prior trastuzumab-treated; \n\n 18-70 Years, female; \n\n HER2-positive breast cancer(according to 2018 ASCO/CAP HER2 test guideline IHC 3+ or IHC 2+ and FISH, SISH or CISH+); \n\n Status of hormone receptor is known, Estrogen receptor(ER) or Progesterone receptor(PR) positive is defined as the percentage of cells positive for ER or PR expression \u2265 10%; \n\n ECOG performance status 0 or 1; \n\n Life expectancy is not less than 12 weeks; \n\n At least one measurable lesion according to RECIST 1.1; \n\n Patients treated with systemic treatment for advanced / metastatic breast cancer\u22641 line; \n\n Natural postmenopausal or OFS in Arm A; \n\n Adequate function of major organs meets the following requirements (no blood components have been used within 7 days and cell growth factors have been used within 14 days before randomization): \n\n Neutrophils \u2265 1.5\u00d710^9/L \n\n Platelets \u2265 100\u00d710^9/L \n\n Hemoglobin \u2265 90g/L \n\n Total bilirubin\u2264 1.5 \u00d7 the upper limit of normal (ULN) \n\n ALT and AST \u2264 2.5 \u00d7 ULN (ALT and AST\u22645\u00d7ULN if liver metastasis) \n\n BUN and Cr \u2264 1.5 \u00d7 ULN \n\n Left ventricular ejection fraction (LVEF) \u2265 50% \n\n QTcF \u2264 470 ms \n\n ",
+    "exclusion_criteria": ": \n\n Patients with central nervous system metastasis (Excluding asymptomatic brain metastases or CNS metastases stable by local treatment); \n\n Unable to swallow, chronic diarrhea and intestinal obstruction, gastrointestinal absorption disorders that interfere with drug absorption; \n\n Patients who received radiotherapy, chemotherapy, surgery (excluding local puncture) or molecular targeted therapy within 4 weeks before admission; those who received anti-tumor endocrine therapy after screening period; \n\n Participated in other drug clinical trials within 4 weeks before admission; \n\n Tyrosine kinase inhibitors targeting HER2 (Neratinib, Lapatinib, pyrotinib, etc.) have been used or are being used in the past; \n\n Previously received any CDK4/6 inhibitor treatment; \n\n Previously received Capecitabine in HR- patients; \n\n Patients with other malignant tumors within 5 years or at the same time( except for cured skin basal cell carcinoma and cervical carcinoma in situ); \n\n Patients receive any anti-tumor treatments other than the regimen; \n\n Have a history of allergies to the drug components of this regimen,; history of immunodeficiency, including HIV positive, or other acquired or congenital immunodeficiency disease, history of organ transplantation; \n\n Have severe heart disease; \n\n According to the judgement of the researchers, any serious coexisting disease might be harmful to the patient's safety or avoid the patients from accomplishing the treatment(e.g serious hypertension, diabetes, thyroid dysfunction,active infection etc.); \n\n Female patients during pregnancy and lactation, fertile women with positive baseline pregnancy tests or women of childbearing age who are unwilling to take effective contraceptive measures throughout the trial; \n\n History of neurological or psychiatric disorders, including epilepsy or dementia; \n\n Any other situation evaluated by researchers.",
+    "brief_summary": "The study is being conducted to evaluate the efficacy, safety and tolerability of pyrotinib combination with CDK4/6 Inhibitor SHR6390 in advanced HER2-Positive breast cancer patients who prior trastuzumab-treated.",
+    "NCT_ID": "NCT04095390"
+}

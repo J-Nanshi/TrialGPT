@@ -1,0 +1,21 @@
+{
+    "brief_title": "CAB-ROR2-ADC Safety and Efficacy Study in Patients With TNBC or Head & Neck Cancer (Ph1) and NSCLC or Melanoma (Ph2)",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['CAB-ROR2-ADC', 'PD-1 inhibitor']",
+    "drugs_list": [
+        "CAB-ROR2-ADC",
+        "PD-1 inhibitor"
+    ],
+    "diseases": "['Non Small Cell Lung Cancer', 'Triple Negative Breast Cancer', 'Melanoma', 'Head and Neck Cancer']",
+    "diseases_list": [
+        "Non Small Cell Lung Cancer",
+        "Triple Negative Breast Cancer",
+        "Melanoma",
+        "Head and Neck Cancer"
+    ],
+    "enrollment": "420.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients must have histologically or cytologically confirmed locally advanced unresectable or metastatic solid tumor and have failed all available standard of care (SoC) therapy and for whom no curative therapy is available or who are not eligible, intolerant to or refuse standard therapy. \n\n Patients must have measurable disease. \n\n For the dose expansion phase: Patients with locally advanced unresectable or metastatic, non-small cell lung cancer (NSCLC), triple negative breast cancer (TNBC) and soft tissue sarcoma (STS) \n\n Age \u2265 18 years. \n\n Adequate renal function \n\n Adequate liver function \n\n Adequate hematological function \n\n Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1. \n\n Life expectancy of at least three months. \n\n ",
+    "exclusion_criteria": ": \n\n Patients must not have clinically significant cardiac disease. \n\n Patients must not have known non-controlled CNS metastasis. \n\n Patients must not have a history of \u2265 Grade 3 allergic reactions to mAb therapy as wellas known or suspected allergy or intolerance to any agent given during this study. \n\n Patients must not have had major surgery within 4 weeks before first BA3021 administration. \n\n Patients must not have had prior therapy with a conjugated or unconjugated auristatin derivative/vinca-binding site targeting payload. \n\n Patients must not have known human immunodeficiency virus (HIV) infection, active hepatitis B and/or hepatitis C. \n\n Patients must not be women who are pregnant or breast feeding.",
+    "brief_summary": "The objective of this study is to assess safety and efficacy of CAB-ROR2-ADC in solid tumors",
+    "NCT_ID": "NCT03504488"
+}

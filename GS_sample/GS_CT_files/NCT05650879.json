@@ -1,0 +1,22 @@
+{
+    "brief_title": "ELVN-002 in HER2 Mutant Non-Small Cell Lung Cancer",
+    "phase": "Phase 1",
+    "drugs": "['ELVN-002', 'Fam-Trastuzumab Deruxtecan-Nxki', 'Trastuzumab emtansine']",
+    "drugs_list": [
+        "ELVN-002",
+        "Fam-Trastuzumab Deruxtecan-Nxki",
+        "Trastuzumab emtansine"
+    ],
+    "diseases": "['HER2 Mutant Non-small Cell Lung Cancer', 'HER2-positive Metastatic Breast Cancer', 'HER2 Gene Mutation', 'HER2 Amplification']",
+    "diseases_list": [
+        "HER2 Mutant Non-small Cell Lung Cancer",
+        "HER2-positive Metastatic Breast Cancer",
+        "HER2 Gene Mutation",
+        "HER2 Amplification"
+    ],
+    "enrollment": "178.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Phase 1a Monotherapy Dose Escalation and Exploration: \n\n Pathologically documented advanced stage solid tumor \n\n Progressed following all standard treatment or not appropriate for standard treatment \n\n HER2 mutation, HER2 amplification or HER2 positive based on local testing \n\n Phase 1b Monotherapy \n\n Pathologically documented unresectable and/or metastatic non-squamous NSCLC \n\n HER2 mutation identified by tissue (fresh or archival) or ctDNA. Local testing for up to 20 patients the remainder centrally confirmed. \n\n Measurable disease \n\n No known epidermal growth factor receptor (EGFR), ROS1, anaplastic lymphoma kinase (ALK), or BRAF V600E mutation \n\n Progressed after receiving at least 1 prior systemic therapy including a platinum-based chemotherapy with or without immunotherapy, or not appropriate for standard treatment. \n\n No prior HER2 tyrosine kinase inhibitor. Prior HER2 directed antibodies or anti-body drug conjugates are allowed \n\n No limit on prior number of therapies \n\n Phase 1a Combination with T-DXd \n\n Pathologically documented advanced stage NSCLC \n\n Progressed after receiving at least 1 prior systemic therapy. \n\n HER2 mutation based on local/historical testing of tissue or circulating tumor DNA \n\n No known EGFR, ROS1, ALK, or BRAF V600E mutation \n\n No prior T-DXd \n\n No clinically severe pulmonary compromise \n\n No limit on prior number of therapies \n\n Phase 1a Combination Breast Cancer \n\n Documented HER2 positive (Immunohistochemical [IHC] 3+ or IHC2+/in situ hybridization (ISH+) breast cancer \n\n Must have previously received trastuzumab, a taxane, and T-DXd (if available and appropriate) in the metastatic setting. \n\n No limit on prior number of therapies \n\n No prior T-DM1 \n\n All Phases \n\n Eastern Cooperative Oncology Group performance status of 0-1 \n\n Left ventricular ejection fraction \u2265 50% \n\n Platelet count \u2265 100 x 109/L \n\n Hemoglobin \u2265 8.5 g/dL \n\n Absolute neutrophil count \u22651.0 x 109/L \n\n Total bilirubin < 1.5 times upper limit of normal range (ULN), except for patients with Gilbert's syndrome \n\n Aspartate aminotransferase (AST), alanine aminotransferase (ALT) < 3 times ULN. In the setting of liver metastases < 5 times ULN. \n\n Creatinine clearance \u2265 60 mL/minute \n\n ",
+    "exclusion_criteria": " All Phases: \n\n Severe cardiac arrhythmias, requiring treatment, symptomatic congestive heart failure, myocardial infarction within 28 days prior to first dose, or unstable angina. \n\n Another active malignancy within 2 years except basal cell skin cancer and carcinoma in situ treated curatively \n\n Active or chronic liver disease \n\n Active infection requiring systemic therapy within 14 days before the first dose \n\n Brain lesion requiring immediate local therapy \n\n Leptomeningeal disease \n\n Uncontrolled seizures \n\n Corrected QT interval (QTc) of >470 milliseconds (ms) females or >450 ms for males by Fridericia (QTcF)",
+    "brief_summary": "The goal of this clinical trial is to test ELVN-002 in people with cancers that have an abnormal HER2 gene. The main question the trial aims to answer is if ELVN-002 is safe and tolerable at different doses. A second main question is to evaluate the concentration of ELVN-002 in the blood at different doses and to see how this correlates with safety and see how the concentration of drug changes over time. The third main question is to see if ELVN-002 works to shrink cancers that have HER2 genetic abnormalities, particularly non-small cell lung cancer.",
+    "NCT_ID": "NCT05650879"
+}

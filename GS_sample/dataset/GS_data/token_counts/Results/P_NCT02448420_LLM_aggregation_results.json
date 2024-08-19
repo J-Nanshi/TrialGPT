@@ -1,0 +1,304 @@
+{
+    "P_NCT02448420": {
+        "NCT04829604": {
+            "relevance_explanation": "The patient's condition of HER2-positive, hormone receptor-positive metastatic breast cancer aligns closely with the clinical trial's focus on HER2-positive metastatic breast cancer. Additionally, the patient has been previously treated with systemic therapies similar to those considered in the trial, indicating a high relevance of the trial to the patient's medical needs.",
+            "relevance_score_R": 90,
+            "eligibility_explanation": "The patient meets most of the inclusion criteria, such as age, ECOG performance status, presence of measurable lesions, adequate organ functions, and willingness to comply with the trial protocol. However, she is not eligible based on one critical inclusion criterion: prior treatment with T-DXd, which she has not received. All exclusion criteria are met as there are no conditions or treatments mentioned that would exclude her from the trial. Therefore, while highly relevant, her eligibility is reduced due to not meeting one key inclusion criterion.",
+            "eligibility_score_E": 70
+        },
+        "NCT02448420": {
+            "relevance_explanation": "The patient's condition and treatment history align closely with the clinical trial's target population and objectives. The trial is designed for post-menopausal patients with HER2-positive, hormone receptor-positive metastatic breast cancer who have previously received trastuzumab and chemotherapy, matching the patient's profile. The patient's interest in participating in clinical trials and her compliance with trial protocols further enhance the relevance.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets most of the inclusion criteria, such as informed consent, age, gender, ECOG status, HER2-positive status, hormone receptor status, history of treatments, and organ function. There are a few criteria related to specific biomarker details and blood counts where information is lacking, but these do not significantly impact overall eligibility. The patient does not meet any exclusion criteria based on the available information. Therefore, the patient is highly eligible for the trial.",
+            "eligibility_score_E": 90
+        },
+        "NCT00567190": {
+            "relevance_explanation": "The patient's condition of HER2-positive, hormone receptor-positive metastatic breast cancer aligns closely with the clinical trial's focus on HER2-positive metastatic breast cancer. The patient's medical history and current health status match many of the trial's inclusion criteria, such as having an adequate left ventricular ejection fraction, appropriate ECOG performance status, and no exclusion based on other health conditions or treatments. This makes the trial highly relevant to the patient's condition and treatment needs.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "While the patient meets several of the inclusion criteria and is not excluded by most of the exclusion criteria, she is ineligible due to having received more than the allowed number of prior systemic treatments for metastatic breast cancer, specifically more than one prior hormonal regimen. This is a critical exclusion criterion that she does not meet, significantly impacting her eligibility despite her high relevance to the trial.",
+            "eligibility_score_E": -50
+        },
+        "NCT05346861": {
+            "relevance_explanation": "The patient's condition and treatment history are highly relevant to the clinical trial's focus on HER2-positive metastatic breast cancer patients who have previously received trastuzumab. The patient's age, HER2-positive status, and previous treatments align closely with the trial's target demographic and medical requirements.",
+            "relevance_score_R": 85,
+            "eligibility_explanation": "While the patient meets several of the inclusion criteria such as age, HER2 status, ECOG performance status, and willingness to consent, she does not meet the criteria regarding the number of previous systemic treatments and lacks a history of pyrotinib treatment. Additionally, there is not enough information about the presence of measurable lesions and other specific suitability factors. However, she does not meet any of the exclusion criteria.",
+            "eligibility_score_E": 40
+        },
+        "NCT04033172": {
+            "relevance_explanation": "The patient's condition and medical history align closely with the target conditions and requirements of the clinical trial. The patient has HER2-positive, hormone receptor-positive metastatic breast cancer, which is the specific focus of the trial. Additionally, the patient's age, gender, and previous treatments match the inclusion criteria of the trial.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets almost all the inclusion criteria and none of the exclusion criteria explicitly exclude her. There is only one inclusion criterion (measurable lesions as per RECIST 1.1) where there is not enough information to confirm eligibility, but it is likely given the progression of liver metastases. Therefore, the patient is highly eligible for the trial.",
+            "eligibility_score_E": 90
+        },
+        "NCT04784715": {
+            "relevance_explanation": "The patient's condition is highly relevant to the clinical trial as she has HER2-positive, hormone receptor-positive metastatic breast cancer, which is the exact target condition of the trial. The trial aims to evaluate treatments specifically designed for HER2-positive breast cancer, matching the patient's diagnosis.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "While the patient meets most of the inclusion criteria and none of the exclusion criteria directly exclude her, she is not eligible based on the inclusion criterion regarding prior treatments. The trial requires no prior chemotherapy or HER2-targeted therapy for metastatic breast cancer or only one previous line of endocrine therapy, whereas the patient has received three lines of systemic treatment for her metastatic disease. This makes her ineligible for the trial despite her high relevance.",
+            "eligibility_score_E": -30
+        },
+        "NCT04571437": {
+            "relevance_explanation": "The patient's condition and characteristics are highly relevant to the clinical trial's target conditions, which focus on breast cancer, specifically ER-positive metastatic breast cancer. Although the patient has HER2-positive breast cancer, which does not align with the HER2-negative requirement of the trial, other aspects such as age, sex, and disease status match the trial's inclusion criteria.",
+            "relevance_score_R": 80,
+            "eligibility_explanation": "While the patient meets several of the inclusion criteria such as age, sex, ECOG performance status, and adequate organ function, she does not meet the specific requirements regarding HER2 status and the specifics of hormone sensitivity or resistance as outlined in the trial's criteria. Additionally, there is no information on primary endocrine resistance or disease progression on prior aromatase inhibitor therapy, which affects her overall eligibility.",
+            "eligibility_score_E": 40
+        },
+        "NCT04924699": {
+            "relevance_explanation": "The patient's condition and treatment history align closely with the clinical trial's target population and objectives. The patient has HER2-positive, hormone receptor-positive metastatic breast cancer, which matches the trial's focus on HER2-positive unresectable locally advanced or metastatic breast cancer. Additionally, her previous treatments and current disease progression fit the trial's inclusion criteria for patients who have previously received specific anti-HER2 therapies and have evidence of disease progression.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets almost all the inclusion criteria: she is within the age range, has an ECOG performance status of 1, confirmed HER2-positive metastatic breast cancer, has previously received treatments specified in the trial's criteria, and shows evidence of tumor progression. Her organ functions are adequate, and there is no exclusion based on her medical history or current health status. However, there is not enough information regarding her expected survival time, willingness to take contraceptive measures, and other conditions deemed inappropriate by the investigator, which prevents a full eligibility score.",
+            "eligibility_score_E": 85
+        },
+        "NCT05018702": {
+            "relevance_explanation": "The patient's condition is highly relevant to the clinical trial as she has HER2-positive, hormone receptor-positive metastatic breast cancer, which matches the target condition of the trial. Additionally, her previous treatments and current health status align with many of the trial's inclusion criteria.",
+            "relevance_score_R": 85,
+            "eligibility_explanation": "While the patient meets several inclusion criteria such as age, diagnosis, previous treatments with trastuzumab, and adequate organ function, she does not meet the ECOG performance status required and lacks information on brain metastases, which is a key inclusion criterion for this trial. Furthermore, there is insufficient information on some treatments and conditions that affect her eligibility. She does not meet any exclusion criteria.",
+            "eligibility_score_E": 40
+        },
+        "NCT00829166": {
+            "relevance_explanation": "The patient's condition and treatment history align closely with the clinical trial's target population, which is focused on HER2-positive metastatic breast cancer patients who have undergone specific prior treatments. The patient's medical history, including treatments and current health status, matches the trial's inclusion criteria well, making the trial highly relevant to her condition.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets almost all the inclusion criteria and does not meet any of the exclusion criteria based on the available information. There are a few areas where information is lacking (e.g., use of contraception, specific prior treatments), but overall, the patient appears to be highly eligible for the trial.",
+            "eligibility_score_E": 90
+        },
+        "NCT05467891": {
+            "relevance_explanation": "The patient's condition of HER2-positive, hormone receptor-positive metastatic breast cancer does not align with the clinical trial's target of HER2-negative, hormone receptor-positive breast cancer with locoregional recurrence. The trial specifically excludes patients with distant metastatic disease, which the patient has. Therefore, the overall relevance of this trial to the patient's condition is low.",
+            "relevance_score_R": 20,
+            "eligibility_explanation": "Although the patient meets some general inclusion criteria such as age, informed consent, and organ function, she is fundamentally ineligible due to the mismatch in cancer type (HER2-positive vs. HER2-negative) and the presence of metastatic disease, which is explicitly excluded in the trial. Therefore, her eligibility score is significantly negative.",
+            "eligibility_score_E": -20
+        },
+        "NCT04567420": {
+            "relevance_explanation": "The patient has HER2-positive, hormone receptor-positive metastatic breast cancer, which does not align with the trial's focus on HER2-negative, hormone receptor-positive breast cancer. Additionally, the trial is designed for patients with stage II-III breast cancer, whereas the patient has metastatic disease. Therefore, the overall relevance of the trial to the patient's condition is low.",
+            "relevance_score_R": 20,
+            "eligibility_explanation": "The patient is excluded from the trial based on multiple exclusion criteria, including the presence of metastatic disease, which is a direct contradiction to the trial's requirement for no evidence of metastatic disease. Although the patient meets some inclusion criteria, such as willingness to provide informed consent, the critical mismatches in disease characteristics and stage make her largely ineligible.",
+            "eligibility_score_E": -20
+        },
+        "NCT03933982": {
+            "relevance_explanation": "The patient's condition of HER2-positive metastatic breast cancer aligns well with the study's focus on HER2-positive metastatic breast cancer with brain metastases. Although the patient does not have documented brain metastases, the overall condition and treatment history are highly relevant to the study's target population.",
+            "relevance_score_R": 70,
+            "eligibility_explanation": "The patient meets several of the inclusion criteria such as age, ECOG performance status, and prior treatments aligning with the study requirements. However, she is excluded due to recent treatments and does not meet specific criteria for CNS metastases required by the trial. This mixed eligibility reduces her overall score.",
+            "eligibility_score_E": 20
+        },
+        "NCT04605575": {
+            "relevance_explanation": "The patient, Emma, has HER2-positive, hormone receptor-positive metastatic breast cancer and has undergone previous treatments including trastuzumab, aligning closely with the clinical trial's focus on HER2-positive metastatic breast cancer patients who have received prior trastuzumab-based therapy. The trial aims to assess a new treatment combination, which is relevant given Emma's interest in exploring new treatment options for her condition.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "Emma meets several key inclusion criteria such as confirmed invasive breast cancer, prior treatments including trastuzumab, documented progression of metastatic breast cancer, adequate cardiac ejection fraction, and suitable ECOG performance status. She also does not meet any of the exclusion criteria, such as prior treatments with specific drugs or having other severe conditions. However, there is insufficient information regarding the central laboratory assay for HER2 status and recent anti-cancer treatments, which prevents a full eligibility confirmation.",
+            "eligibility_score_E": 85
+        },
+        "NCT05716516": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she meets the primary conditions of being a postmenopausal woman with ER+ metastatic breast cancer, which aligns with the trial's target of evaluating estradiol therapy in such patients. The patient's disease status, previous treatments, and current health condition also match the general profile sought by the trial, making her a suitable candidate for the study.",
+            "relevance_score_R": 90,
+            "eligibility_explanation": "The patient is mostly eligible for the trial. She meets two key inclusion criteria: being a postmenopausal woman with ER+ breast cancer and having metastatic disease not amenable to curative treatment. There is no sufficient information regarding her eligibility under one inclusion criterion about prior endocrine-based therapy. However, she is not excluded by any of the exclusion criteria, including those concerning concurrent therapies, investigational drug use, and specific health conditions. Thus, her eligibility is high but not absolute due to the lack of information on one inclusion criterion.",
+            "eligibility_score_E": 80
+        },
+        "NCT03913234": {
+            "relevance_explanation": "The patient's condition and characteristics align closely with the target conditions of the clinical trial. The trial is designed for postmenopausal women with HR+, HER2+ advanced breast cancer, which matches the patient's diagnosis. Additionally, the patient's interest in exploring clinical trial options for her condition further supports the relevance.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets many of the inclusion criteria such as age, diagnosis of advanced metastatic breast cancer, hormone receptor status, HER2 positivity, postmenopausal status, ECOG performance status, and willingness to participate in the trial. However, she is excluded by one criterion due to previous systemic treatments for metastatic breast cancer, which is a critical exclusion criterion for this trial. This significantly impacts her overall eligibility despite meeting many other criteria.",
+            "eligibility_score_E": -20
+        },
+        "NCT01808573": {
+            "relevance_explanation": "The patient's condition and treatment history align closely with the clinical trial's target profile. The trial is designed for patients with HER2+ metastatic breast cancer who have undergone multiple prior HER2-directed regimens, matching the patient's diagnosis and treatment background. The patient's age and disease stage also match the trial's inclusion criteria.",
+            "relevance_score_R": 90,
+            "eligibility_explanation": "The patient meets several key inclusion criteria: age, confirmed metastatic breast cancer, and prior HER2-directed treatments. However, there is insufficient information regarding the specific HER2 testing methods (immunohistochemistry or FISH), which is a critical inclusion criterion. The patient does not meet any exclusion criteria based on the available information, as there is no evidence of her having received treatments that would disqualify her from the trial.",
+            "eligibility_score_E": 70
+        },
+        "NCT05823623": {
+            "relevance_explanation": "The patient's condition and treatment history align closely with the clinical trial's target profile. The trial is designed for patients with HER2-positive metastatic breast cancer who have progressed after trastuzumab treatment, which matches the patient's medical history. Additionally, the patient meets all the inclusion criteria and does not meet any exclusion criteria based on the information provided.",
+            "relevance_score_R": 100,
+            "eligibility_explanation": "The patient meets all the inclusion criteria: being a postmenopausal female over 18, having confirmed metastatic HER2-positive breast cancer, previous trastuzumab treatment, measurable liver metastases, an ECOG score of 1, and adequate organ function. Furthermore, the patient does not meet any of the exclusion criteria, as there is no mention of allergies to study drugs, symptomatic brain or meningeal metastases, gastrointestinal dysfunction, significant cardiac issues, or other disqualifying medical, social, or psychological conditions. The only criterion with insufficient information is regarding other potential medical, social, or psychological conditions, but given the overall information, this does not significantly impact eligibility.",
+            "eligibility_score_E": 95
+        },
+        "NCT04072952": {
+            "relevance_explanation": "The patient has HER2-positive, hormone receptor-positive metastatic breast cancer, which partially aligns with the trial's target of ER+/HER2- breast cancer. However, the mismatch in HER2 status significantly reduces the relevance. The patient's age, postmenopausal status, and previous treatments align with some of the trial's inclusion criteria, but the fundamental mismatch in cancer subtype (HER2 status) is a critical factor.",
+            "relevance_score_R": 40,
+            "eligibility_explanation": "While the patient meets several inclusion criteria such as age, postmenopausal status, and willingness for biopsies, she does not meet the crucial inclusion criterion of having HER2-negative breast cancer as required by the trial. This mismatch in cancer subtype makes her ineligible for the trial despite meeting other criteria. Additionally, there is no information suggesting exclusion based on the provided exclusion criteria.",
+            "eligibility_score_E": -20
+        },
+        "NCT05523947": {
+            "relevance_explanation": "The patient's diagnosis of HER2-positive metastatic breast cancer aligns closely with the clinical trial's focus on HER2-positive locally advanced or metastatic solid tumors. The patient's condition, treatment history, and interest in clinical trials make her a highly relevant candidate for this study.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets all the inclusion criteria relevant to her condition (HER2-positive status, availability of tumor tissue, measurable lesion, and specific cohort for breast cancer). She does not meet the inclusion criteria for gastric cancer, which is not applicable to her. None of the exclusion criteria apply to her, as there is no evidence of excluded conditions such as CNS metastases, heart failure, or other specific exclusions in her medical history.",
+            "eligibility_score_E": 90
+        },
+        "NCT04296370": {
+            "relevance_explanation": "The clinical trial is specifically designed for HER2-negative metastatic breast cancer patients with a germline BRCA mutation. However, the patient, Emma, has HER2-positive breast cancer and there is no mention of a BRCA mutation in her medical history. This fundamental mismatch in the target condition of the trial and the patient's diagnosis significantly reduces the relevance of the trial for this patient.",
+            "relevance_score_R": 20,
+            "eligibility_explanation": "Emma does not meet several key inclusion criteria: she does not have a germline BRCA mutation, her cancer is HER2-positive contrary to the HER2-negative requirement, and she has received more lines of chemotherapy than allowed by the trial. Although she meets some of the other inclusion criteria and none of the exclusion criteria explicitly exclude her, the critical mismatches make her largely ineligible for this trial.",
+            "eligibility_score_E": -18
+        },
+        "NCT05759572": {
+            "relevance_explanation": "The patient, Emma, has metastatic breast cancer, which aligns with the target condition of the clinical trial aimed at patients with advanced breast cancer. However, the trial specifically targets HR+/HER2- breast cancer, whereas Emma has HER2-positive disease. This mismatch in the HER2 status significantly affects the relevance, as the trial's treatments and objectives are designed for a different subtype of breast cancer.",
+            "relevance_score_R": 40,
+            "eligibility_explanation": "Emma meets several of the inclusion criteria such as age, measurable disease, ECOG score, and willingness to comply with the trial protocol. However, she is not eligible based on the critical criterion of HER2 status (HER2-negative required by the trial vs. HER2-positive in Emma's case) and previous treatments (no previous chemotherapy for metastatic disease required by the trial vs. Emma having received such treatments). Additionally, she is excluded due to having received chemotherapy for metastatic disease. These mismatches significantly impact her eligibility.",
+            "eligibility_score_E": -20
+        },
+        "NCT05132582": {
+            "relevance_explanation": "The patient's diagnosis of HER2-positive, hormone receptor-positive metastatic breast cancer aligns closely with the target condition of the clinical trial, which is focused on HER2-positive breast cancer. The trial aims to evaluate the efficacy of tucatinib in combination with trastuzumab and pertuzumab, drugs that the patient has previously been treated with, indicating a high relevance of the trial to the patient's condition.",
+            "relevance_score_R": 90,
+            "eligibility_explanation": "The patient meets several key inclusion criteria such as confirmed HER2-positive status, metastatic disease, known hormone receptor status, and an ECOG performance status of 1. However, there are several inclusion criteria related to brain metastases that the patient does not meet, and there is insufficient information regarding the patient's previous treatments specific to the trial requirements and ability to undergo certain procedures like MRI. No exclusion criteria definitively exclude the patient, but lack of detailed information on some aspects leaves uncertainty.",
+            "eligibility_score_E": 45
+        },
+        "NCT05558722": {
+            "relevance_explanation": "The clinical trial is designed for patients with HER2-negative, hormone receptor-positive breast cancer at an early stage (Stage II), specifically targeting those who have not received prior treatments for this stage and have no metastasis (M0). The patient, however, has HER2-positive metastatic breast cancer and has undergone multiple lines of systemic treatment, making her condition significantly different from the target population of the trial. Therefore, the overall relevance of the trial to this patient is low.",
+            "relevance_score_R": 20,
+            "eligibility_explanation": "The patient does not meet the inclusion criteria for HER2 status and metastasis stage, which are critical for trial eligibility. Although she meets some of the general health requirements and is willing to provide informed consent, her fundamental clinical characteristics (HER2-positive and metastatic status) make her ineligible for this trial designed for early-stage, HER2-negative patients. She is not excluded by any of the exclusion criteria, but the inclusion criteria mismatches dominate the eligibility assessment.",
+            "eligibility_score_E": -20
+        },
+        "NCT03933319": {
+            "relevance_explanation": "The patient's condition and treatment history are highly relevant to the clinical trial. The trial targets HER2-positive metastatic breast cancer, which matches the patient's diagnosis. The patient has also previously received trastuzumab, which is part of the trial's treatment regimen. Furthermore, the patient is actively seeking new treatment options, aligning with the trial's aim to evaluate new treatment combinations.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets many of the inclusion criteria such as age, confirmed invasive breast cancer, HER-2 positivity, recovery from adverse events of prior therapy, performance status, and LVEF. However, she does not meet the criterion regarding the number of prior regimens for metastatic breast cancer, as she has received more than one. Additionally, there is insufficient information on several other inclusion criteria such as measurable disease according to RECIST, BNP and cTnT levels, ECG, bone marrow function, hepatic function, renal function, and coagulation function. She is not excluded by any of the exclusion criteria, but there is insufficient information on some, such as allergies, cumulative doses of specific drugs, and HIV/Hepatitis status.",
+            "eligibility_score_E": 50
+        },
+        "NCT05018676": {
+            "relevance_explanation": "The patient has metastatic breast cancer and is seeking new treatment options, which aligns with the clinical trial's focus on breast cancer treatment. However, the trial specifically targets breast cancer with low HER2 expression, whereas the patient has HER2-positive breast cancer. This mismatch in the cancer subtype significantly affects the relevance of the trial for this patient.",
+            "relevance_score_R": 40,
+            "eligibility_explanation": "While the patient meets many of the inclusion criteria such as age, previous treatments, and organ function, she does not meet crucial inclusion criteria regarding HER2 expression. The trial requires HER2 low expression, but the patient has HER2-positive cancer. Additionally, the trial excludes patients who have had a HER2 positive result, which applies to this patient. Therefore, despite meeting several other criteria, these key mismatches make her largely ineligible for the trial.",
+            "eligibility_score_E": -30
+        },
+        "NCT05769010": {
+            "relevance_explanation": "The patient's condition is highly relevant to the clinical trial as she has HER2-positive metastatic breast cancer, which is the target condition of the trial. However, the trial specifically focuses on patients with brain metastases, which is not mentioned in the patient's note. This discrepancy affects the overall relevance score.",
+            "relevance_score_R": 70,
+            "eligibility_explanation": "The patient meets several of the inclusion criteria such as age, gender, previous treatments, and organ function. However, she does not meet the specific requirement of having measurable brain metastases, which is a critical inclusion criterion for this trial. Additionally, she is excluded by one criterion due to receiving other therapies for metastatic disease. Therefore, while she aligns with many aspects of the trial, the lack of brain metastases and exclusion by one criterion significantly impact her eligibility.",
+            "eligibility_score_E": -20
+        },
+        "NCT04034589": {
+            "relevance_explanation": "The patient's diagnosis of HER2-positive, hormone receptor-positive metastatic breast cancer aligns perfectly with the target condition of the clinical trial, which is designed specifically for this subtype. Additionally, the patient's age, ECOG performance status, and previous treatments with trastuzumab and chemotherapy are directly relevant to the trial's inclusion criteria. This high degree of match between the patient's clinical profile and the trial's focus on HER2-positive, HR-positive metastatic breast cancer patients suggests a very high relevance.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets most of the inclusion criteria, such as confirmed diagnosis, age range, ECOG status, presence of measurable lesions, previous systemic treatments, and adequate organ function. However, there are some uncertainties regarding the life expectancy, the disease-free interval after trastuzumab treatment, and the exact timing of the last treatment in relation to the current date. Additionally, the patient does not meet one of the inclusion criteria regarding the history of trastuzumab treatment. The patient does not meet any exclusion criteria, which positively influences her eligibility. Considering these factors, the patient is highly eligible but not perfectly so due to some unmet or unclear inclusion criteria.",
+            "eligibility_score_E": 85
+        },
+        "NCT05747794": {
+            "relevance_explanation": "The patient, Emma, has metastatic breast cancer that is HER2-positive and hormone receptor-positive, which aligns with the clinical trial's focus on metastatic breast cancer. However, the trial specifically seeks participants with either HR+ or HR- and HER2-negative breast cancer, which does not perfectly match Emma's cancer profile. Despite this, her condition and the treatments she has undergone (including chemotherapy and interest in new treatment options) make the trial relevant to her situation.",
+            "relevance_score_R": 75,
+            "eligibility_explanation": "Emma meets several of the inclusion criteria: she has HR+ metastatic breast cancer, an ECOG performance status of 1, and an expected survival longer than three months. However, she is excluded by one criterion due to her prior chemotherapy for metastatic breast cancer. This exclusion significantly impacts her eligibility, despite meeting multiple inclusion criteria.",
+            "eligibility_score_E": 30
+        },
+        "NCT04802759": {
+            "relevance_explanation": "The patient, Emma, has HER2-positive, hormone receptor-positive metastatic breast cancer and has undergone multiple lines of systemic treatment, including trastuzumab. The clinical trial targets ER-positive, HER2-positive metastatic breast cancer patients who have experienced progression after standard anti-HER2 therapies, aligning closely with Emma's condition. The trial's focus on evaluating new treatment combinations for such patients makes it highly relevant to Emma's current medical needs and her interest in exploring clinical trial options.",
+            "relevance_score_R": 90,
+            "eligibility_explanation": "Emma meets many of the inclusion criteria such as having an ECOG performance status of 1, documented ER-positive tumor, postmenopausal status, availability of a tumor specimen for biomarker evaluation, and adequate organ function. However, there are several criteria where information is lacking or not applicable, such as the specific use of a CDK4/6 inhibitor, measurable disease according to RECIST v1.1, and details about previous therapies like HER2-targeting ADC or TKI. These gaps reduce her overall eligibility score, although she is not explicitly excluded by any known exclusion criteria.",
+            "eligibility_score_E": 60
+        },
+        "NCT04569747": {
+            "relevance_explanation": "The patient has metastatic breast cancer, which is a more advanced stage than the early-stage or node-negative breast cancer required by the trial. Most inclusion criteria are not met due to the patient's advanced disease stage and previous treatments, which do not align with the trial's focus on adjuvant therapy post-surgery for early-stage cancer.",
+            "relevance_score_R": 20,
+            "eligibility_explanation": "Although the patient meets some general health and demographic criteria, she is ineligible due to having metastatic disease and previous treatments that include chemotherapy, which are explicitly excluded by the trial criteria. The trial is designed for early-stage, post-surgical treatment, which does not apply to her current condition.",
+            "eligibility_score_E": -20
+        },
+        "NCT05555251": {
+            "relevance_explanation": "The patient's condition and treatment history align closely with the clinical trial's target conditions and objectives. The trial is designed for subjects with HER2-positive metastatic breast cancer, which matches the patient's diagnosis. Additionally, the trial focuses on patients who have progressed after standard treatments including trastuzumab, which is also true for the patient. Therefore, the patient's medical profile is highly relevant to the trial's focus.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets almost all the inclusion criteria and none of the exclusion criteria apply to her, making her highly eligible for the trial. The only criterion not met is the requirement for prior treatment with an antibody-drug conjugate (ADC), such as trastuzumab-emtansine or trastuzumab-deruxtecan. However, since this is only one criterion among many, and given the patient's strong alignment with the other criteria, her overall eligibility remains high.",
+            "eligibility_score_E": 85
+        },
+        "NCT04732598": {
+            "relevance_explanation": "The patient, Emma, has metastatic breast cancer that is hormone receptor-positive and HER2-positive, which partially aligns with the trial's focus on hormone receptor-positive breast cancer. However, the trial specifically targets HER2-negative patients, which is a critical mismatch. Despite this, many of the inclusion and exclusion criteria are relevant to her condition and treatment history, indicating some level of relevance to the trial.",
+            "relevance_score_R": 60,
+            "eligibility_explanation": "Emma meets several of the inclusion criteria such as having metastatic breast cancer, being over 20 years old, and having an ECOG performance status within the required range. However, she is not eligible based on the trial's requirement for HER2-negative status and her previous chemotherapy treatments, which are critical factors. Additionally, she does not meet other specific inclusion criteria related to hormone refractoriness and PD-L1 status due to insufficient information. She does not meet any exclusion criteria, which prevents a lower eligibility score.",
+            "eligibility_score_E": -30
+        },
+        "NCT03500380": {
+            "relevance_explanation": "The patient, Emma, has HER2-positive, hormone receptor-positive metastatic breast cancer with liver metastases, which aligns closely with the clinical trial's focus on HER2-positive metastatic breast cancer patients, including those with liver metastases. The trial aims to evaluate the efficacy and safety of RC48-ADC, which is relevant to Emma's condition and her interest in exploring new treatment options. Most of the inclusion criteria are relevant to her situation, and she meets many of them, such as age, ECOG performance status, organ function, and willingness to comply with the study protocol.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "Emma meets most of the inclusion criteria, such as age, ECOG performance status, postmenopausal status, organ function, and willingness to participate. However, she is not eligible based on one criterion: she has received more than two lines of systemic treatment, which exceeds the trial's limit. Additionally, there is insufficient information to determine her eligibility regarding several exclusion criteria, such as recent surgeries, vaccinations, and specific lab values. Despite these gaps, she is not explicitly excluded based on the available information.",
+            "eligibility_score_E": 70
+        },
+        "NCT04895358": {
+            "relevance_explanation": "The patient's condition of HER2-positive, hormone receptor-positive metastatic breast cancer does not match the clinical trial's requirement for HER2-negative breast cancer. This fundamental mismatch in the cancer subtype significantly reduces the relevance of the trial for this patient.",
+            "relevance_score_R": 10,
+            "eligibility_explanation": "Although the patient meets several general health and procedural criteria of the trial, she is fundamentally ineligible due to the mismatch in the required cancer subtype (HER2-negative vs. her HER2-positive status). This primary criterion outweighs other compatibilities, making her overall eligibility score negative.",
+            "eligibility_score_E": -10
+        },
+        "NCT05583110": {
+            "relevance_explanation": "The patient's condition and treatment history align closely with the clinical trial's target population and objectives. The trial is designed for patients with HER2-positive metastatic breast cancer, which matches the patient's diagnosis. Additionally, the patient has undergone multiple lines of systemic treatment including trastuzumab, fitting the trial's requirement for prior anti-HER2 regimens. The patient's interest in exploring clinical trial options further supports the relevance.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets most of the inclusion criteria, such as providing informed consent, being of the required age, having available tumor tissue for biomarker analysis, documented HER2-positive status, prior anti-HER2 treatment regimens, measurable disease, ECOG performance status, and adequate organ function including LVEF. However, there are several inclusion criteria related to brain metastases and specific organ function tests for which there is not enough information to determine eligibility. The patient does not meet any of the exclusion criteria based on the available information.",
+            "eligibility_score_E": 85
+        },
+        "NCT05392608": {
+            "relevance_explanation": "The patient, Emma, has metastatic breast cancer, which aligns with the target condition of the clinical trial aimed at advanced breast cancer. However, the trial specifically targets HR+ HER2- breast cancer, whereas Emma has HER2+ breast cancer. This mismatch in HER2 status significantly affects the relevance, as the trial's treatments and objectives are tailored to a different subtype of breast cancer. Additionally, the trial requires progression on fulvestrant and previous treatment with a CDK4/6 inhibitor, which are not clearly matched by Emma's treatment history.",
+            "relevance_score_R": 40,
+            "eligibility_explanation": "Emma meets some of the inclusion criteria such as age, metastatic disease status, and ECOG performance status. However, she does not meet crucial criteria like HER2- status, previous treatment specifics (fulvestrant as a specific line of therapy and CDK4/6 inhibitor usage), and there is no information on PIK3CA mutation status. She does not meet any exclusion criteria. Given the partial match in inclusion criteria and no exclusions, her eligibility is reduced but not entirely negated.",
+            "eligibility_score_E": -20
+        },
+        "NCT05747326": {
+            "relevance_explanation": "The patient is a postmenopausal woman with metastatic breast cancer, which aligns with the target condition of the clinical trial focused on advanced breast cancer. However, the trial specifically targets HER2-negative breast cancer, while the patient has HER2-positive breast cancer. This fundamental mismatch in the cancer subtype significantly affects the relevance of the trial to the patient's condition.",
+            "relevance_score_R": 50,
+            "eligibility_explanation": "While the patient meets many of the inclusion criteria such as age, organ function, and performance status, and does not meet most of the exclusion criteria, the critical mismatch in the HER2 status (patient is HER2-positive while the trial requires HER2-negative) and the presence of symptomatic visceral disease (exclusion criterion) make her ineligible for this trial. These two key factors heavily influence her overall eligibility.",
+            "eligibility_score_E": -25
+        },
+        "NCT04355858": {
+            "relevance_explanation": "The patient, Emma, has metastatic breast cancer, which aligns with the target condition of the clinical trial aimed at advanced breast cancer. However, the trial specifically targets HR+/HER2- breast cancer, whereas Emma has HER2-positive disease. This mismatch in the HER2 status significantly affects the relevance as the trial's interventions are tailored for HER2-negative cases.",
+            "relevance_score_R": 60,
+            "eligibility_explanation": "Emma meets several inclusion criteria such as age, metastatic breast cancer, measurable disease, ECOG score, and willingness to comply with trial protocols. However, she is not eligible based on the critical inclusion criterion requiring HER2-negative status, which is a fundamental aspect of the trial's target population. Additionally, she was excluded due to recent chemotherapy treatment. These factors significantly impact her overall eligibility.",
+            "eligibility_score_E": -30
+        },
+        "NCT05774951": {
+            "relevance_explanation": "The patient's condition of HER2-positive, hormone receptor-positive metastatic breast cancer does not align with the trial's focus on ER+/HER2- early breast cancer. Additionally, the trial requires patients who have completed specific treatments for early-stage cancer, which does not match the patient's treatment history for metastatic disease. Therefore, the overall relevance of the trial to the patient's condition is low.",
+            "relevance_score_R": 20,
+            "eligibility_explanation": "Although the patient meets some general inclusion criteria such as age, gender, and organ function, she does not meet the specific disease and treatment history requirements of the trial. Furthermore, she is explicitly excluded due to her metastatic breast cancer status. Thus, her eligibility score is significantly negative, reflecting her ineligibility for this trial.",
+            "eligibility_score_E": -18
+        },
+        "NCT02206984": {
+            "relevance_explanation": "The patient has metastatic breast cancer that is HER2-positive and hormone receptor-positive, which aligns with the trial's focus on breast cancer and hormone receptor status. However, the trial specifically targets invasive lobular carcinoma, which is HER2-negative, differing from the patient's HER2-positive status. This discrepancy in cancer subtype and HER2 status affects the overall relevance.",
+            "relevance_score_R": 60,
+            "eligibility_explanation": "While the patient meets several inclusion criteria such as being postmenopausal, having an appropriate ECOG performance status, and adequate organ function, she does not meet the primary inclusion criterion of having HER2-negative invasive lobular breast cancer. The patient's cancer type and HER2 status are critical for trial eligibility, making her largely ineligible despite meeting other secondary criteria.",
+            "eligibility_score_E": -30
+        },
+        "NCT01817452": {
+            "relevance_explanation": "The patient has HER2-positive, hormone receptor-positive metastatic breast cancer, which aligns with the trial's focus on HER2-positive breast cancer. However, the trial specifically targets operable breast cancer and evaluates preoperative treatments, which does not match the patient's metastatic condition. Therefore, while there is some relevance due to the cancer type, the trial's scope and the patient's condition are not fully aligned.",
+            "relevance_score_R": 40,
+            "eligibility_explanation": "The patient meets some of the inclusion criteria such as age, HER2 and HR status, ECOG performance status, and LVEF. However, she does not meet several key inclusion criteria, including the requirement for non-metastatic, operable breast cancer, and specific clinical stages. Additionally, she is excluded due to having non-operable metastatic breast cancer and previous treatments with cytotoxic agents. Thus, while there are some matching criteria, critical mismatches in the trial's requirements significantly limit her eligibility.",
+            "eligibility_score_E": -20
+        },
+        "NCT02769104": {
+            "relevance_explanation": "The patient is a postmenopausal woman with hormone receptor-positive breast cancer, which aligns with the target demographic of the clinical trial. However, the trial focuses on neoadjuvant treatment, whereas the patient has metastatic disease and is considering treatments for this advanced stage. This discrepancy in treatment stages (neoadjuvant vs. metastatic) reduces the overall relevance.",
+            "relevance_score_R": 60,
+            "eligibility_explanation": "While the patient meets several inclusion criteria such as being postmenopausal, having hormone receptor-positive breast cancer, and willingness to provide informed consent, she is excluded due to having metastatic disease and previous systemic treatments, which are explicit exclusion criteria for this trial. These exclusions significantly impact her eligibility.",
+            "eligibility_score_E": -30
+        },
+        "NCT02492711": {
+            "relevance_explanation": "The patient's diagnosis of HER2-positive, hormone receptor-positive metastatic breast cancer aligns closely with the clinical trial's focus on HER2+ metastatic breast cancer. The patient's medical history and treatment background, including multiple lines of anti-HER2 therapy and progression after recent treatment, match the trial's inclusion criteria. This makes the trial highly relevant to her condition and treatment needs.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets most of the inclusion criteria, such as having histologically-proven metastatic HER2+ breast cancer, receiving multiple lines of therapy, and showing progression after recent treatment. However, there is insufficient information regarding prior treatment with pertuzumab, which is a specific requirement. Additionally, she does not meet the criterion for having received four or more prior lines of therapy for a sub-study. No exclusion criteria apply to her, indicating she is not explicitly excluded from the trial.",
+            "eligibility_score_E": 75
+        },
+        "NCT05759546": {
+            "relevance_explanation": "The patient's condition of HER2-positive, hormone receptor-positive metastatic breast cancer initially suggests relevance to the trial, which targets HR+/HER2- advanced breast cancer. However, the mismatch in HER2 status (patient is HER2-positive while the trial requires HER2-negative) significantly reduces the relevance. Other aspects such as age, interest in clinical trials, and metastatic breast cancer align with the trial's requirements, maintaining some level of relevance.",
+            "relevance_score_R": 50,
+            "eligibility_explanation": "While the patient meets several inclusion criteria such as age, metastatic status, ECOG performance, and willingness to participate, critical mismatches including HER2 status and previous treatments make her ineligible. The patient's HER2-positive status directly contradicts the trial's requirement for HER2-negative participants. Additionally, her previous treatments with chemotherapy for metastatic disease exclude her based on both an inclusion and an exclusion criterion. Therefore, despite meeting some criteria, these key disqualifications significantly impact her overall eligibility.",
+            "eligibility_score_E": -25
+        },
+        "NCT03939871": {
+            "relevance_explanation": "The patient's condition of hormone receptor-positive metastatic breast cancer aligns well with the clinical trial's focus on hormone receptor-positive advanced breast cancer. The patient's age and general health status also match the trial's inclusion criteria. However, the patient's extensive prior treatments slightly reduce the overall relevance.",
+            "relevance_score_R": 85,
+            "eligibility_explanation": "The patient meets several of the inclusion criteria such as age, hormone receptor status, ECOG score, measurable disease, and adequate organ function. However, she is not eligible based on the criterion of having received more than one prior regimen for metastatic breast cancer and having received more than one standard chemotherapy regimen, which are exclusion criteria for this trial. These factors significantly impact her eligibility.",
+            "eligibility_score_E": -20
+        },
+        "NCT00635713": {
+            "relevance_explanation": "The patient, Emma, is a postmenopausal woman with metastatic breast cancer, which aligns well with the clinical trial's focus on advanced breast cancer in postmenopausal women. The trial aims to evaluate treatments specifically designed for this patient group, making Emma's condition highly relevant to the study's objectives.",
+            "relevance_score_R": 90,
+            "eligibility_explanation": "Emma meets the inclusion criteria of being a postmenopausal woman with confirmed breast cancer. However, there is uncertainty regarding the number of prior hormonal therapies she has received, which is crucial for determining her eligibility for the trial that specifies no more than one prior hormonal therapy. Additionally, while she does not meet any explicit exclusion criteria, the lack of detailed information about her previous treatments leaves some ambiguity regarding her eligibility.",
+            "eligibility_score_E": 45
+        },
+        "NCT04407988": {
+            "relevance_explanation": "The patient's condition and characteristics highly match the clinical trial's target profile. The patient has HER2-positive, ER-positive metastatic breast cancer, which is the specific focus of the trial. Additionally, the patient meets several other inclusion criteria such as age, ECOG performance status, and previous treatments that align with the trial's requirements.",
+            "relevance_score_R": 95,
+            "eligibility_explanation": "The patient meets most of the inclusion criteria, confirming her relevance to the trial. However, she is excluded by one criterion due to her previous treatments for metastatic disease, which includes chemotherapy and targeted therapy. There are also a few criteria where there is not enough information to determine her eligibility, such as the exact timing of her last treatments and details on organ function parameters other than LVEF. These factors reduce her overall eligibility score.",
+            "eligibility_score_E": 70
+        },
+        "NCT02510781": {
+            "relevance_explanation": "The patient's condition and characteristics are highly relevant to the clinical trial. The trial focuses on HER2-positive breast cancer, which matches the patient's diagnosis. The patient's age, HER2 status, hormone receptor status, ECOG performance, LVEF, and willingness to provide informed consent align with the inclusion criteria of the trial. However, the patient's stage of cancer (metastatic) does not meet the trial's requirement for stage II to III, slightly reducing the overall relevance.",
+            "relevance_score_R": 85,
+            "eligibility_explanation": "The patient meets most of the inclusion criteria, such as age, HER2 status, hormone receptor status, ECOG performance, LVEF, and consent. However, she is excluded due to prior treatments for breast cancer, which is a critical exclusion criterion for this trial. Additionally, the patient's stage of cancer does not align with the trial's requirement, further impacting her eligibility. Despite these exclusions, the patient meets several other inclusion criteria, which moderates the negative impact on her eligibility score.",
+            "eligibility_score_E": 40
+        },
+        "NCT03906669": {
+            "relevance_explanation": "The clinical trial is focused on early-stage, hormone receptor-positive, HER2-negative breast cancer, while the patient has metastatic, hormone receptor-positive, HER2-positive breast cancer. This fundamental mismatch in the cancer stage and HER2 status significantly reduces the relevance of the trial for the patient.",
+            "relevance_score_R": 20,
+            "eligibility_explanation": "The patient does not meet several key inclusion criteria, specifically the requirement for HER2-negative status and early-stage cancer. Additionally, she is explicitly excluded due to having metastatic disease and previous systemic treatments. Although she meets some of the inclusion criteria such as age and willingness to consent, the critical mismatches and exclusions outweigh these factors.",
+            "eligibility_score_E": -18
+        }
+    }
+}

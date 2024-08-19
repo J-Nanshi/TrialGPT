@@ -1,0 +1,18 @@
+{
+    "brief_title": "Aromatase Inhibitors Plus Chemotherapy vs Chemotherapy as Neoadjuvant Treatment in Postmenopausal HR(+) Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Letrozole (Aromatase Inhibitors)', 'AC*4-T*4']",
+    "drugs_list": [
+        "Letrozole (Aromatase Inhibitors)",
+        "AC*4-T*4"
+    ],
+    "diseases": "['Neoadjuvant Therapy']",
+    "diseases_list": [
+        "Neoadjuvant Therapy"
+    ],
+    "enrollment": "120.0",
+    "inclusion_criteria": "inclusion criteria: \n\n provision of informed consent \n\n clinical stage IIA \n\n IIIC \n\n histologically proven HR+ invasive breast cancer \n\n women defined as postmenopausal according to NCCN guideline \n\n plan to accept the neoadjuvant (pre operational) chemotherapy treatment \n\n ",
+    "exclusion_criteria": ": \n\n clinical evidence of metastatic disease \n\n bilateral oophorectomy; \n\n radiation of the ovaries \n\n patients who, for whatever reason (e.g., confusion, infirmity, alcoholism), are unlikely to comply with trial requirements \n\n patients who accepted anti-cancer treatment before \n\n previous hormonal therapy as adjuvant treatment for non-cancer disease \n\n patients unwilling to stop taking any drug known to affect sex hormonal status, or in whom it would be inappropriate to stop \n\n previous history of invasive malignancy within the last 5 years, other than squamous or basal cell carcinoma of the skin or carcinoma in situ of the cervix, adequately cone biopsied \n\n treatment with a non-approved or experimental drug during 1 month before entry into the study \n\n history of bleeding diathesis (i.e., Disseminated intravascular coagulation, clotting factor deficiency), or long term anticoagulant therapy (other than antiplatelet therapy and low dose warfarin) \n\n leukopenia and/or thrombocytopenia \n\n history of ocular fundus diseases \n\n history of thromboembolic diseases \n\n history of osteoporotic fractures",
+    "brief_summary": "The investigators designed this study to investigate the effect of aromatase inhibitors (AI) plus chemotherapy versus chemotherapy as neoadjuvant treatment in postmenopausal hormone receptor-positive breast cancer.",
+    "NCT_ID": "NCT02769104"
+}

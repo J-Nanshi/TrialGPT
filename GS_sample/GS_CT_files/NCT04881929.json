@@ -1,0 +1,17 @@
+{
+    "brief_title": "Study of KN026 in Combination With Docetaxel as Neoadjuvant Therapy in HER2-positive Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['KN026']",
+    "drugs_list": [
+        "KN026"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Male or female subject >= 18 years; \n\n Histologically or cytologically confirmed HER2-positive breast cancer defined as 3+ determined by validated IHC or positive by in situ hybridization (ISH); \n\n Early-stage (T1c or 2, N1, M0; T2 or 3, N0, M0) or locally advanced (T1c or 2 or 3, N2, M0; T3N1M0; T1c or 2 or 3, N3a or 3b, M0) breast cancer; \n\n Adequate organ function assessed within 7 days prior to first trial treatment; \n\n ECOG score 0 or 1; \n\n Left ventricular ejection fraction (LVEF) \u2265 55% at baseline; \n\n ",
+    "exclusion_criteria": ": \n\n Stage IV (metastatic) breast cancer; \n\n Inflammatory breast cancer; \n\n Previous anti-cancer therapy or radiotherapy for any malignancy; \n\n Major surgery for any reason within 28 days; \n\n History of uncontrolled intercurrent illness; \n\n Other medical conditions that at the discretion of investigator interfere with the requirements of the trial in terms of safety or efficacy evaluation, or treatment compliance;",
+    "brief_summary": "This is an open-lable, multicenter, and single arm phase II trial to evaluate treatment with KN026 plus docetaxel as neoadjuvant therapy in patients with early-stage (T1c or 2, N1, M0; T2 or 3, N0, M0) or locally advanced (T1c or 2 or 3, N2, M0; T3N1M0; T1c or 2 or 3, N3a or 3b, M0) HER2-positive breast cancer. The subjects will receive KN026 30 mg/kg IV + Docetaxel 75/m2 every 3 weeks for four cycles prior to surgery.",
+    "NCT_ID": "NCT04881929"
+}

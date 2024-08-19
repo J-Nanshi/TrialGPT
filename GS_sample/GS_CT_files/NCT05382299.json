@@ -1,0 +1,22 @@
+{
+    "brief_title": "Study of Sacituzumab Govitecan-hziy Versus Treatment of Physician's Choice in Patients With Previously Untreated Metastatic Triple-Negative Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Sacituzumab Govitecan-hziy', 'Paclitaxel', 'nab-Paclitaxel', 'Gemcitabine', 'Carboplatin']",
+    "drugs_list": [
+        "Sacituzumab Govitecan-hziy",
+        "Paclitaxel",
+        "nab-Paclitaxel",
+        "Gemcitabine",
+        "Carboplatin"
+    ],
+    "diseases": "['Triple Negative Breast Cancer', 'PD-L1 Negative']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer",
+        "PD-L1 Negative"
+    ],
+    "enrollment": "540.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Individuals, regardless of race and ethnic group, with previously untreated locally advanced, inoperable or metastatic triple-negative breast cancer (TNBC) \n\n Individuals whose tumors are programmed cell death ligand 1 (PD-L1) negative at screening or individuals whose tumors are PD-L1 positive at screening if they have received an anti-PD-(L)1 inhibitor in the (neo)adjuvant setting \n\n Centrally confirmed TNBC and PD-L1 status on fresh or archival tissue \n\n Individuals must have completed treatment for Stage I-III breast cancer, if indicated, and \u2265 6 months must have elapsed between completion of treatment with curative intent and first documented local or distant disease recurrence \n\n Individuals presenting with de novo metastatic TNBC are eligible \n\n Measurable disease based on computed tomography (CT) or magnetic resonance imaging (MRI) in accordance with per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1. as evaluated locally \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 \n\n Demonstrates adequate organ function \n\n Male individuals and female individuals of childbearing potential who engage in heterosexual intercourse must agree to use protocol-specified method(s) of contraception \n\n Individuals with human immunodeficiency virus (HIV) must be on antiretroviral therapy (ART) and have a well-controlled HIV infection/disease \n\n Key ",
+    "exclusion_criteria": ": \n\n Positive serum pregnancy test or women who are lactating \n\n Received systemic anticancer treatment within the previous 6 months or radiation therapy within 2 weeks prior to enrollment \n\n Have not recovered from adverse events (AEs) due to a previously administered agent at the time study entry \n\n May not be participating in a study with an investigational agent or investigational device within 4 weeks prior to randomization. Individuals participating in observational studies are eligible \n\n Previously received topoisomerase 1 inhibitors or antibody drug conjugates containing a topoisomerase inhibitor \n\n Active second malignancy \n\n Active serious infection requiring antibiotics \n\n Positive for HIV-1 or 2 with a history of Kaposi sarcoma and/or Multicentric Castleman Disease \n\n Active hepatitis B virus (HBV) or hepatitis C virus (HCV) infection \n\n Note: Other protocol defined Inclusion/",
+    "brief_summary": "The primary objective of this study is to compare the progression-free survival (PFS) between sacituzumab govitecan-hziy (SG) versus treatment of physician's choice (TPC) in participants with previously untreated, locally advanced, inoperable or metastatic triple-negative breast cancer whose tumors do not express programmed cell death ligand 1 (PD-L1) or in participants previously treated with anti-programmed cell death (ligand or protein) 1 (Anti-PD-(L)1) Agents in the early setting whose tumors do express PD-L1.",
+    "NCT_ID": "NCT05382299"
+}

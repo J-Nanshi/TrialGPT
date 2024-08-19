@@ -1,0 +1,19 @@
+{
+    "brief_title": "Nab-paclitaxel Plus Carboplatin Versus Nab-paclitaxel Plus Capecitabine in the Treatment of Advanced Triple-negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Nab-paclitaxel + Carboplatin', 'Nab-paclitaxel + Capecitabine']",
+    "drugs_list": [
+        "Nab-paclitaxel + Carboplatin",
+        "Nab-paclitaxel + Capecitabine"
+    ],
+    "diseases": "['Triple Negative Breast Cancer', 'Nab-paclitaxel']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer",
+        "Nab-paclitaxel"
+    ],
+    "enrollment": "414.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Females with age between 18 to 70 years old; \n\n Histologically confirmed triple negative breast cancer; \n\n No more than one-line prior treatment for locally advanced or metastatic breast cancer; \n\n Have at least one measurable lesion as per the RECIST criteria (version 1.1); \n\n Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to one; \n\n Patients with life expectancy of at least 3 months; \n\n Bone marrow function\uff1aneutrophils (\u22651.5\u00d710^9/L), platelets (\u2265100\u00d710^9/L), hemoglobin (\u226590 g/L); \n\n Renal and hepatic function: Serum creatinine\u2264 1.5\u00d7institutional upper limit of normal (ULN); AST and ALT \u2264 2.5 \u00d7 ULN; Total bilirubin\u22641.5\u00d7ULN, or patients with Gilbert's syndrome \u2264 2.5 \u00d7 ULN; \n\n Patients had good compliance with the planned treatment, understood the research process and written informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Patients with heart disease above grade II (including grade II) identified by New York Heart Association (NYHA) scores; \n\n Brain metastasis; \n\n Recurrence or metastasis within 6 months after capecitabine withdrawal; \n\n Recurrence or metastasis within 6 months after platinum withdrawal; \n\n Progression in the treatment, recurrence or metastasis of paclitaxel (including albumin paclitaxel) within 6 months; \n\n Patients required clinical intervention with gastrointestinal bleeding, gastrointestinal obstruction and non-feeding; \n\n Patients who had Grade 2 or above Peripheral neuropathy; \n\n Patients with severe systemic infection or other serious diseases; \n\n Patients allergic to or intolerant of chemotherapeutic drugs or their adjuvants; \n\n Patients with other malignant tumors in the past five years, except for cured cervical carcinoma in situ and non-melanoma skin cancer; \n\n Pregnancy or lactation, as well as reproductive age patients who refused to take appropriate contraceptive measures in the trial; \n\n Participation in any trial drug treatment or another interventional clinical trial 30 days before first dose was given; \n\n The researchers considered the patients who were not suitable for enrollment.",
+    "brief_summary": "This is a multi-center , open-lable clinical trial. Triple-negative breast cancer (TNBC) is a term applied to breast cancer cases that have <1% expression of the estrogen receptor (ER) and the progesterone receptor (PR) and do not over express HER2. TNBC is diagnosed in 15-20% of breast cancer cases and tends to occur in younger women and have biologically more aggressive high grade disease.~The purpose of this study is to assess the efficacy and safety of the following two combinations: i) nab-paclitaxel+carboplatin; ii) nab-paclitaxel+capecitabine in subjects with advanced TNBC and up to one prior line of systemic treatment for metastatic disease. Maintenance therapy with capecitabine after completion of combination chemotherapy.",
+    "NCT_ID": "NCT04159142"
+}

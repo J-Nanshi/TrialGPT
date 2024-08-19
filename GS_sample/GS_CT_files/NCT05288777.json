@@ -1,0 +1,23 @@
+{
+    "brief_title": "Adjuvant Chemoradiation and Biomarkers of Response in High-risk Breast Cancer",
+    "phase": "Phase 2; Phase 3",
+    "drugs": "['T-DM1', 'Capecitabine', 'External Beam Radiation Therapy 0', 'External Beam Radiation Therapy 1']",
+    "drugs_list": [
+        "T-DM1",
+        "Capecitabine",
+        "External Beam Radiation Therapy 0",
+        "External Beam Radiation Therapy 1"
+    ],
+    "diseases": "['Breast Cancer', 'Breast Cancer Stage I', 'Breast Cancer Stage II', 'Breast Cancer Stage III']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Breast Cancer Stage I",
+        "Breast Cancer Stage II",
+        "Breast Cancer Stage III"
+    ],
+    "enrollment": "45.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Provision of signed and dated informed consent form \n\n Stated willingness to comply with all study procedures and availability for the duration of the study \n\n Male or female, aged 18 or older \n\n Diagnosis of stage I-IIIB breast cancer \n\n Received neoadjuvant chemotherapy (minimum of 3 cycles) and surgical resection (lumpectomy and/or mastectomy) \n\n Discovered to have residual disease at least ypT1aNx or ypTxN1mic at surgical resection \n\n Candidate for adjuvant chemoradiation as part of standard clinical care \n\n Planned initiation of radiation within 12 weeks of their final oncologic surgery \n\n ECOG performance status \u22642 \n\n Adequate cardiac function, with LVEF greater or equal to 45% (only for patients who will receive TDM-1 therapy) \n\n Adequate organ function per the following criteria within 21 days before the start of treatment. If a laboratory value required for study eligibility does not meet the below requirements, the value may be retested. \n\n Absolute neutrophil count \u22651 k/uL \n\n Platelets \u2265100 k/uL \n\n Hemoglobin \u2265 9 g/dL \n\n Serum Creatinine \u2264 1.5 x ULN \n\n Bilirubin \u2264 1.5 x ULN (except in patients with Gilbert's disease, where bilirubin to 4x ULN is allowed). \n\n AST and ALT \u2264 2.5 x ULN \n\n Alkaline phosphatase \u2264 2.5 x ULN \n\n For females and males of reproductive potential: agreement to use adequate contraception during study participation and for an additional 6 months after the end of chemoradiation administration or until advised by their medical oncologist \n\n Agreement to adhere to Lifestyle Considerations throughout study duration \n\n ",
+    "exclusion_criteria": ": \n\n Had a mastectomy with expander placement or immediate implant reconstructions \n\n Diagnosed with systemic lupus \n\n Diagnosed with scleroderma \n\n Diagnosed with a genetic mutation associated with increased sensitivity to radiation (e.g. ataxia-telangiectasias (AT)). AT heterozygotes without known radiation sensitivity may be included. \n\n Acute bacterial or fungal infection requiring intravenous antibiotics at time of registration. \n\n Pathologic evidence of metastatic disease, or strong clinical/radiological evidence of metastatic disease, at the investigator's judgment. \n\n Pregnancy or lactation \n\n Incarceration \n\n Presence of cardiac pacemaker on side of the body that is being treated unless the pacemaker can be moved prior to treatment. \n\n Known allergic reactions to components of capecitabine or T-DM1 \n\n Known DPD deficiency for patients prescribed capecitabine \n\n Febrile illness within a week of starting treatment \n\n Incomplete healing of chest wall or breast in the treatment field within 12 weeks from surgery. \n\n Known HIV or active hepatitis. \n\n Unwilling to discontinue endocrine therapy if currently taking endocrine therapy.",
+    "brief_summary": "The goal of this study is to evaluate the safety and effectiveness of adjuvant chemoradiation therapy in high-risk breast cancer patients who had received neoadjuvant chemotherapy before their lumpectomy and/or mastectomy and were found to have residual disease. As well as examine the effects of this treatment combination on the immune system.",
+    "NCT_ID": "NCT05288777"
+}

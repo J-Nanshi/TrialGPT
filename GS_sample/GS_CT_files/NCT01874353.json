@@ -1,0 +1,21 @@
+{
+    "brief_title": "Olaparib Treatment in BRCA Mutated Ovarian Cancer Patients After Complete or Partial Response to Platinum Chemotherapy",
+    "phase": "Phase 3",
+    "drugs": "['Olaparib 300mg tablets', 'Placebo to match olaparib 300mg']",
+    "drugs_list": [
+        "Olaparib 300mg tablets",
+        "Placebo to match olaparib 300mg"
+    ],
+    "diseases": "['Platinum Sensitive', 'BRCA Mutated', 'Relapsed Ovarian Cancer', 'Following Complete or Partial Response to Platinum Based Chemotherapy']",
+    "diseases_list": [
+        "Platinum Sensitive",
+        "BRCA Mutated",
+        "Relapsed Ovarian Cancer",
+        "Following Complete or Partial Response to Platinum Based Chemotherapy"
+    ],
+    "enrollment": "327.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients must be \u2265 18 years of age. \n\n Female patients with histologically diagnosed relapsed high grade serous ovarian cancer (including primary peritoneal and / or fallopian tube cancer) or high grade endometrioid cancer. \n\n Documented mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious (known or predicted to be detrimental/lead to loss of function). \n\n Patients who have received at least 2 previous lines of platinum containing therapy prior to randomisation \n\n For the penultimate chemotherapy course prior to enrolment on the study: \n\n \u2022 Patient defined as platinum sensitive after this treatment; defined as disease progression greater than 6 months after completion of their last dose of platinum chemotherapy \n\n For the last chemotherapy course immediately prior to randomisation on the study: \n\n Patients must be, in the opinion of the investigator, in response (partial or complete radiological response), or may have no evidence of disease (if optimal cytoreductive surgery was conducted prior to chemotherapy), and no evidence of a rising CA-125, following completion of this chemotherapy course \n\n Patient must have received a platinum based chemotherapy regimen (e.g. carboplatin or cisplatin) and have received at least 4 cycles of treatment \n\n Patients must be randomized within 8 weeks of their last dose of chemotherapy \n\n Maintenance treatment is allowed at the end of the penultimate platinum regimen, including bevacizumab \n\n ",
+    "exclusion_criteria": ": \n\n Involvement in the planning and/or conduct of the study (applies to both AstraZeneca staff and/or staff at the study site). \n\n BRCA 1 and/or BRCA2 mutations that are considered to be non detrimental (e.g., Variants of uncertain clinical significance or Variant of unknown significance or Variant, favor polymorphism or benign polymorphism etc.) \n\n Patients who have had drainage of their ascites during the final 2 cycles of their last chemotherapy regimen prior to enrolment on the study.",
+    "brief_summary": "A Phase III, randomised, double-blind, placebo-controlled, multi-centre study to assess the efficacy of olaparib maintenance monotherapy in relapsed high grade serous ovarian cancer (HGSOC) patients (including patients with primary peritoneal and / or fallopian tube cancer) or high grade endometrioid cancer with BRCA mutations (documented mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious (known or predicted to be detrimental/lead to loss of function)) who have responded following platinum based chemotherapy.",
+    "NCT_ID": "NCT01874353"
+}

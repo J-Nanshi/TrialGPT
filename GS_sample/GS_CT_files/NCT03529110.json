@@ -1,0 +1,18 @@
+{
+    "brief_title": "DS-8201a Versus T-DM1 for Human Epidermal Growth Factor Receptor 2 (HER2)-Positive, Unresectable and/or Metastatic Breast Cancer Previously Treated With Trastuzumab and Taxane [DESTINY-Breast03]",
+    "phase": "Phase 3",
+    "drugs": "['Trastuzumab deruxtecan (T-DXd)', 'Ado-trastuzumab emtansine (T-DM1)']",
+    "drugs_list": [
+        "Trastuzumab deruxtecan (T-DXd)",
+        "Ado-trastuzumab emtansine (T-DM1)"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "524.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Is the age of majority in their country \n\n Has pathologically documented breast cancer that: \n\n is unresectable or metastatic \n\n has confirmed HER2-positive expression as determined according to American Society of Clinical Oncology - College of American Pathologists guidelines evaluated at a central laboratory \n\n was previously treated with trastuzumab and taxane in the advanced/metastatic setting or progressed within 6 months after neoadjuvant or adjuvant treatment involving a regimen including trastuzumab and taxane \n\n Has documented radiologic progression (during or after most recent treatment or within 6 months after completing adjuvant therapy) \n\n Is HER2 positive as confirmed by central laboratory assessment of most recent tumor tissue sample available. If archived tissue is not available, agrees to provide a fresh biopsy. \n\n If of reproductive/childbearing potential, agrees to use a highly effective form of contraception or avoid intercourse during and upon completion of the study for 7 months after the last dose of DS-8201a (females); 4.5 months after last dose of DS-8201a (males) or 7 months after the last dose of T-DM1 \n\n Has adequate renal and hepatic function \n\n ",
+    "exclusion_criteria": ": \n\n Has previously been treated with an anti-HER2 antibody drug conjugate (ADC) in the metastatic setting. Prior treatment in the adjuvant/neo-adjuvant setting would be allowed if progression of disease did not occur within 12 months of end of adjuvant therapy \n\n Has uncontrolled or significant cardiovascular disease \n\n Has a history of (noninfectious) interstitial lung disease (ILD)/pneumonitis that required steroids, has current ILD/pneumonitis, or where suspected ILD/pneumonitis cannot be ruled out by imaging at screening \n\n Has spinal cord compression or clinically active central nervous system (CNS) metastases, defined as untreated and symptomatic, or requiring therapy with corticosteroids or anticonvulsants to control associated symptoms. \n\n Participants with clinically inactive brain metastases may be included in the study. \n\n Participants with treated brain metastases that are no longer symptomatic and who require no treatment with corticosteroids or anticonvulsants may be included in the study if they have recovered from the acute toxic effect of radiotherapy. A minimum of 2 weeks must have elapsed between the end of whole brain radiotherapy and study enrollment.",
+    "brief_summary": "This study is designed to compare the anti-tumor activity as well as the safety and efficacy of DS-8201a versus T-DM1 in HER2-positive, unresectable and/or metastatic breast cancer subjects previously treated with trastuzumab and taxane.",
+    "NCT_ID": "NCT03529110"
+}

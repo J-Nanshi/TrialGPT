@@ -1,0 +1,24 @@
+{
+    "brief_title": "Pyrotinib in Combination With Neoadjuvant Chemotherapy in HR+/HER2-, HER4 High Expression Breast Cancer Patients: A Phase II Trial",
+    "phase": "Phase 2",
+    "drugs": "['Pyrotinib', 'Epirubicin', 'Doxorubicin Hydrochloride Liposome Injection', 'Cyclophosphamide', 'Docetaxel', 'Nab paclitaxel', 'Placebo']",
+    "drugs_list": [
+        "Pyrotinib",
+        "Epirubicin",
+        "Doxorubicin Hydrochloride Liposome Injection",
+        "Cyclophosphamide",
+        "Docetaxel",
+        "Nab paclitaxel",
+        "Placebo"
+    ],
+    "diseases": "['Breast Cancer', 'Hormone-receptor Positive Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Hormone-receptor Positive Breast Cancer"
+    ],
+    "enrollment": "140.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Presenting with histological(by core needle biopsy or by limited incisional biopsy) proven hormone receptor positive (ER\u226510% and/or PR \u22651%), HER2 negative(IHC \u22642+ and/or FISH-) , stage II/ III breast cancer. \n\n Have clinical indication for neoadjuvant therapy. \n\n HER4 IHC score \u2265 4. \n\n Measurable disease (breast and/or lymph nodes). \n\n The Eastern Cooperative Oncology Group (ECOG) performance status must be 0 or 1. \n\n Adequate bone marrow function (within 4 weeks prior to registration): WBC\u22653.0x109/l, neutrophils \u22651.5 x 109/l, platelets \u2265100 x 109/l. \n\n Adequate liver function (within 4 weeks prior to registration): bilirubin \u22641.5 x upper limit of normal (UNL) range, ALAT and/or ASAT \u22642.5 x UNL, Alkaline Phosphatase \u22645 x UNL. \n\n Adequate renal function (within 4 weeks prior to registration): the calculated creatinine clearance should be \u226550 ml/min. \n\n Patients must have the ability to swallow oral medication. \n\n Without history of any kind of treatment to known malignancy (solid tumor or hematologic). \n\n Written informed consent. \n\n Accessible for treatment and follow-up. \n\n ",
+    "exclusion_criteria": ": \n\n Evidence of stage IV breast cancer. \n\n Contralateral invasive breast cancer or Inflammatory breast cancer. \n\n History of non-breast malignancies (except for in situ cancers treated only by local excision and basal cell and squamous cell carcinomas of the skin) within 5 years prior to randomization. \n\n Known metastatic disease from any malignancy (solid tumor or hematologic). \n\n Serious other diseases as infections (hepatitis B, C and HIV), recent myocardial infarction, clinical signs of cardiac failure or clinically significant arrhythmias or on screening, any of the following cardiac parameters: bradycardia (heart rate <50 at rest) or QTcF \u2265450 msec. \n\n Known hypersensitivity reaction to any of the components of the treatment. \n\n Pregnancy or lactation at the time of randomization. \n\n Medical or psychological condition which in the opinion of the investigator would not permit the patient to complete the study or sign meaningful informed consent.",
+    "brief_summary": "This is a Phase II, single-center, double-blind, placebo-controlled, randomized study of Pyrotinib in combination with Doxorubicin/Epirubicin and Cyclophosphamide followed by Docetaxel/nab-Paclitaxel as neoadjuvant therapy for women with hormone receptor positive HER2-negative stage II to III breast cancer. Patients randomized to the study arm/control arm will receive standard neoadjuvant chemotherapy in combination with pyrotinib/placebo, respectively. The primary endpoint of the study is the total pathological complete response (pCR) rate. Secondary endpoints include the pCR rate in breast only, objective response rate(ORR), event-free survival, overall survival, and toxicity. We will also explore potential prognostic and predictive biomarkers.",
+    "NCT_ID": "NCT04872985"
+}

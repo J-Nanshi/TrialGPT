@@ -1,0 +1,23 @@
+{
+    "brief_title": "A Study of SGN-PDL1V in Advanced Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['SGN-PDL1V']",
+    "drugs_list": [
+        "SGN-PDL1V"
+    ],
+    "diseases": "['Carcinoma, Non-Small-Cell Lung', 'Squamous Cell Carcinoma of the Head and Neck', 'Esophageal Squamous Cell Carcinoma', 'Ovarian Neoplasms', 'Melanoma', 'Triple Negative Breast Neoplasms']",
+    "diseases_list": [
+        "Carcinoma",
+        "Non-Small-Cell Lung",
+        "Squamous Cell Carcinoma of the Head and Neck",
+        "Esophageal Squamous Cell Carcinoma",
+        "Ovarian Neoplasms",
+        "Melanoma",
+        "Triple Negative Breast Neoplasms"
+    ],
+    "enrollment": "315.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Parts A and B: \n\n Participants must have one of the following histologically- or cytologically-confirmed metastatic or unresectable solid tumor types \n\n Non-small cell lung cancer (NSCLC) \n\n Head and neck squamous cell carcinoma (HNSCC) \n\n Esophageal squamous cell carcinoma (SCC) \n\n Triple negative breast cancer (TNBC) \n\n Participants must have disease that is relapsed or refractory, that has progressed on approved therapies, be intolerant to or refused such therapies, or such and therapies are contraindicated and in the judgement of the investigator, should have no appropriate SoC therapeutic option \n\n Part C: \n\n Participants must have disease that is relapsed or refractory or be intolerant to SoC therapies and must have one of the following tumor types \n\n HNSCC \n\n Participants with HNSCC must have histologically or cytologically-confirmed SCC of the head and neck \n\n NSCLC \n\n Esophageal SCC \n\n Ovarian cancer \n\n Melanoma \n\n TNBC \n\n Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1 \n\n Measurable disease per RECIST v1.1 at baseline \n\n ",
+    "exclusion_criteria": ": \n\n History of another malignancy within 3 years of first dose of study treatment or any evidence of residual disease from a previously diagnosed malignancy. \n\n Known active central nervous system metastases. Participants with previously-treated brain metastases may participate provided they: \n\n Are clinically stable for at least 4 weeks prior to study entry after brain metastasis treatment \n\n Have no new or enlarging brain metastases \n\n And are off of corticosteroids prescribed for symptoms associate with brain metastases for at least 7 days prior to first dose of study treatment \n\n Lepto-meningeal disease \n\n Prior treatment with an anti-PD-L1 agent within less than 5 half-lives. This duration of time will vary according to the half-life of the specific agent. \n\n Previous receipt of an monomethylauristatin E (MMAE)-containing agent. \n\n Pre-existing neuropathy \u2265Grade 2 per National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v5.0. \n\n There are additional inclusion criteria. The study center will determine if criteria for participations are met.",
+    "brief_summary": "This study will test the safety of a drug called SGN-PDL1V in participants with solid tumors. It will also study the side effects of this drug. A side effect is anything a drug does to your body besides treating your disease.~Participants will have solid tumor cancer that has spread through the body (metastatic) or cannot be removed with surgery (unresectable).~This study will have three parts. Parts A and B of the study will find out how much SGN- PDL1V should be given to participants. Part C will use the dose found in Parts A and B to find out how safe SGN-PDL1V is and if it works to treat solid tumor cancers.",
+    "NCT_ID": "NCT05208762"
+}

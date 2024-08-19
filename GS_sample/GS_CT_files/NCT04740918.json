@@ -1,0 +1,19 @@
+{
+    "brief_title": "A Study of Trastuzumab Emtansine in Combination With Atezolizumab or Placebo as a Treatment for Participants With Human Epidermal Growth Factor 2 (HER2)-Positive and Programmed Death-ligand 1 (PD-L1)-Positive Locally Advanced (LABC) or Metastatic Breast Cancer (MBC)",
+    "phase": "Phase 3",
+    "drugs": "['Trastuzumab Emtansine', 'Atezolizumab', 'Placebo']",
+    "drugs_list": [
+        "Trastuzumab Emtansine",
+        "Atezolizumab",
+        "Placebo"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "96.0",
+    "inclusion_criteria": "inclusion criteria: \n\n HER2+ and PD-L1+ locally advanced (LABC) or metastatic breast cancer (MBC) \n\n Progression must have occurred during most recent treatment for LABC/MBC or during, or within 6 months after completing, neoadjuvant and/or adjuvant therapy \n\n Prior treatment with trastuzumab (+/- pertuzumab) and taxane in the neoadjuvant and/or adjuvant, locally advanced, or metastatic setting \n\n No more than two prior lines of therapy in the metastatic setting \n\n Measurable disease per RESIST version 1.1 \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1 \n\n Life expectancy >= 6 months \n\n Adequate hematologic and end-organ function \n\n For women of childbearing potential: agreement to remain abstinent or use contraception, and agreement to refrain from donating eggs \n\n For men: agreement to remain abstinent or use contraceptive measures, and agreement to refrain from donating sperm \n\n ",
+    "exclusion_criteria": ": \n\n Prior treatment with trastuzumab emtansine in metastatic setting \n\n History of exposure to cumulative doses of anthracyclines \n\n Symptomatic or actively progressing central nervous system (CNS) metastases; asymptomatic CNS lesions \u2264 2cm without clinical requirement for local intervention or asymptomatic patients with treated CNS lesions are eligible \n\n Current Grade >= 3 peripheral neuropathy \n\n Cardiopulmonary dysfunction \n\n History of malignancy within 5 years prior to initiation of study treatment, with the exception of the cancer under investigation and malignancies with a negligible risk of metastasis or death \n\n History of leptomeningeal disease \n\n Active or history of autoimmune disease or immune deficiency \n\n Active hepatitis B, hepatitis C and/or tuberculosis \n\n Prior allogeneic stem cell or solid organ transplantation \n\n Receipt of a live, attenuated vaccine within 4 weeks prior to initiation of study treatment, during treatment, or within 5 months following the last dose of study treatment \n\n Pregnancy or lactation",
+    "brief_summary": "This study will evaluate the efficacy, safety and patient-reported outcomes of trastuzumab emtansine plus atezolizumab compared with trastuzumab emtansine plus placebo in participants with HER2-positive and PD-L1-positive LABC or MBC.Participants must have progressed either during or after prior trastuzumab- (+/- pertuzumab) and taxane-based therapy for LABC/MBC; or during (or within 6 months after completing) trastuzumab- (+/-pertuzumab) and taxane-based therapy in the neoadjuvant and/or adjuvant setting.",
+    "NCT_ID": "NCT04740918"
+}

@@ -1,0 +1,20 @@
+{
+    "brief_title": "First in Human Study to Evaluate AZD8205 in Patients With Advanced or Metastatic Solid Malignancies",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['AZD8205']",
+    "drugs_list": [
+        "AZD8205"
+    ],
+    "diseases": "['Breast Cancer', 'Biliary Tract Carcinoma', 'Ovarian Cancer', 'Endometrial Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Biliary Tract Carcinoma",
+        "Ovarian Cancer",
+        "Endometrial Cancer"
+    ],
+    "enrollment": "198.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Age \u2265 18 years \n\n Relapsed/metastatic solid tumors treated with prior adequate standard of care therapy for tumor type and stage of disease or where in the opinion of the Investigator, a clinical trial is the best option for the next treatment based on response and/or tolerability to prior therapy. \n\n Measurable disease per RECIST v1.1 \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status: 0-1 \n\n Life expectancy \u2265 12 weeks \n\n Adequate organ and marrow function as defined in the protocol \n\n For Sub-Study 1 Part A: \n\n \u2022 Histologically or cytologically confirmed metastatic or locally advanced/recurrent breast cancer, ovarian cancer, BTC or endometrial cancer \n\n For Sub-Study 1 Part B: \n\n Histologically or cytologically confirmed metastatic or locally advanced and recurrent disease for the respective cohort: \n\n Cohort B1 (Biliary Tract Cancer) \n\n Cohort B2 (Ovarian Cancer) \n\n Cohort B3 (Breast Cancer) \n\n Cohort B4 (Endometrial Cancer) \n\n ",
+    "exclusion_criteria": ": \n\n Treatment with any of the following: \n\n Nitrosourea or mitomycin C within 6 weeks prior to the first dose of study treatment \n\n Any investigational agents or study drugs from a previous clinical study within 5 half-lives or 28 days (whichever is shorter) prior to the first dose of study treatment \n\n Any other anticancer treatment within the following time periods prior to the first dose of study intervention: \n\n Cytotoxic treatment: 21 days \n\n Non-cytotoxic drugs: 21 days or 5 half-lives (whichever is shorter) \n\n Biological products including immuno-oncology agents: 28 days \n\n Spinal cord compression or a history of leptomeningeal carcinomatosis. \n\n Brain metastases unless treated, asymptomatic, stable, and not requiring continuous corticosteroids at a dose of > 10 mg prednisone/day or equivalent for at least 4 weeks prior to start of study. \n\n Active infection including tuberculosis and HBV, HCV or HIV \n\n History of (non-infectious) ILD/pneumonitis that required steroids, has current ILD/pneumonitis, or where suspected ILD/pneumonitis cannot be ruled out by imaging at screening. \n\n Clinically severe pulmonary compromise resulting from intercurrent pulmonary illnesses \n\n Participants with any of the following cardiac criteria: \n\n History of arrhythmia which is symptomatic or requires treatment (NCI CTCAE v5.0 Grade 3); symptomatic or uncontrolled atrial fibrillation, or asymptomatic sustained ventricular tachycardia. \n\n Uncontrolled hypertension. \n\n Acute coronary syndrome/acute myocardial infarction, unstable angina pectoris, coronary intervention procedure with percutaneous coronary intervention, or coronary artery bypass grafting within 6 months. \n\n History of brain perfusion problems (eg, carotid stenosis) or stroke, or transient ischemic attack in the last 6 months prior to screening. \n\n Symptomatic heart failure (NYHA class \u2265 2). \n\n Prior or current cardiomyopathy. \n\n Severe valvular heart disease. \n\n Mean resting QTcF > 470 msec. \n\n Risk factors for QTc prolongation or risk of arrhythmic events such as heart failure, congenital long QT syndrome, family history of long QT syndrome or unexplained sudden death under 40 years of age.",
+    "brief_summary": "This research study is studying a new compound, AZD8205, as a possible treatment for advanced or metastatic solid tumours",
+    "NCT_ID": "NCT05123482"
+}

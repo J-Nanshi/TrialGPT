@@ -1,0 +1,30 @@
+{
+    "brief_title": "A Study of SGN-B6A in Advanced Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['SGN-B6A', 'pembrolizumab']",
+    "drugs_list": [
+        "SGN-B6A",
+        "pembrolizumab"
+    ],
+    "diseases": "['Carcinoma, Non-Small Cell Lung', 'Squamous Cell Carcinoma of Head and Neck', 'HER2 Negative Breast Neoplasms', 'Esophageal Squamous Cell Carcinoma', 'Esophageal Adenocarcinoma', 'Gastroesophageal Junction Adenocarcinoma', 'Ovarian Neoplasms', 'Cutaneous Squamous Cell Cancer', 'Exocrine Pancreatic Adenocarcinoma', 'Urinary Bladder Neoplasms', 'Uterine Cervical Neoplasms', 'Stomach Neoplasms']",
+    "diseases_list": [
+        "Carcinoma",
+        "Non-Small Cell Lung",
+        "Squamous Cell Carcinoma of Head and Neck",
+        "HER2 Negative Breast Neoplasms",
+        "Esophageal Squamous Cell Carcinoma",
+        "Esophageal Adenocarcinoma",
+        "Gastroesophageal Junction Adenocarcinoma",
+        "Ovarian Neoplasms",
+        "Cutaneous Squamous Cell Cancer",
+        "Exocrine Pancreatic Adenocarcinoma",
+        "Urinary Bladder Neoplasms",
+        "Uterine Cervical Neoplasms",
+        "Stomach Neoplasms"
+    ],
+    "enrollment": "572.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Disease indication \n\n Participants must have histologically or cytologically confirmed metastatic or unresectable solid malignancy within one of the tumor types listed below (dependent on study part). Participants must have disease that is relapsed or refractory or be intolerant to standard-of-care therapies and should have no appropriate standard-of-care therapeutic option. \n\n Non-small cell lung cancer (NSCLC) \n\n Head and neck squamous cell cancer (HNSCC) \n\n Advanced HER2-negative breast cancer \n\n Esophageal squamous cell carcinoma (ESCC) \n\n Esophageal/Gastro-esophageal junction adenocarcinoma (EAC/GEJ) \n\n Cutaneous squamous cell cancer (cSCC) \n\n Exocrine pancreatic adenocarcinoma \n\n Bladder cancer \n\n Cervical cancer \n\n Gastric cancer \n\n High grade serous ovarian cancer (HGSOC) \n\n Part D: Have not received frontline systemic therapy for locally advanced or metastatic disease (prior definitively intended or adjuvant therapy is allowed with the exception of PD-[L]1) \n\n Participants enrolled in the following study parts should have a tumor site accessible for biopsy and agree to biopsy as follows: \n\n Disease-specific expansion cohorts (Part B and Part D): A baseline fresh tumor biopsy is required. An archival biopsy collected within 90 days may be used. \n\n Biology expansion cohort: pretreatment biopsy and on-treatment (Cycle 1) biopsy \n\n An Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1 \n\n Measurable disease per the RECIST v1.1 at baseline \n\n ",
+    "exclusion_criteria": " \n\n History of another malignancy within 3 years before first dose of study drug, or any evidence of residual disease from a previously diagnosed malignancy. Exceptions are malignancies with a negligible risk of metastasis or death. \n\n Known active central nervous system metastases. Participants with previously treated brain metastases may participate provided they: \n\n are clinically stable for at least 4 weeks prior to study entry after brain metastasis treatment, \n\n have no new or enlarging brain metastases, and \n\n are off of corticosteroids prescribed for symptoms associated with brain metastases for at least 7 days prior to first dose of study drug. \n\n Carcinomatous meningitis \n\n Previous receipt of an MMAE-containing agent or an agent targeting integrin beta-6 \n\n Pre-existing neuropathy Grade 2 or greater per the National Cancer Institute's Common Terminology Criteria for Adverse Events, version 5.0 (NCI CTCAE v5.0) \n\n Any uncontrolled Grade 3 or higher (per NCI CTCAE v5.0) viral, bacterial, or fungal infection within 2 weeks prior to the first dose of SGN-B6A. \n\n Routine antimicrobial prophylaxis is permitted \n\n Part C Only: Prior therapy with a PD-1 inhibitor, anti-PD-L1, or anti PD-L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor and was discontinued from that treatment due to a Grade 3 or higher immune-mediated adverse event (IMAE). \n\n Part D Only: Has NSCLC with an actionable genomic alteration",
+    "brief_summary": "This trial will look at a drug called SGN-B6A to find out whether it is safe for people who have solid tumors. It will study SGN-B6A to find out what its side effects are. A side effect is anything the drug does besides treating cancer. It will also study whether SGN-B6A works to treat solid tumors.~The study will have four parts.~Part A of the study will find out how much SGN-B6A should be given to participants.~Part B will use the dose found in Part A to find out how safe SGN-B6A is and if it works to treat solid tumors.~Part C of the study will find out whether SGN-B6A is safe to use with pembrolizumab.~Part D will use the dose(s) found in Part C to find out more about how safe SGN-B6A is with pembrolizumab. Part D will also look at whether SGN-B6A with pembrolizumab works to treat solid tumors.",
+    "NCT_ID": "NCT04389632"
+}

@@ -1,0 +1,20 @@
+{
+    "brief_title": "Effect of Huaier Granule on Adjuvant Treatment for High-risk Early-stage Triple-negative Breast Cancer",
+    "phase": "Phase 4",
+    "drugs": "['Huaier Granule']",
+    "drugs_list": [
+        "Huaier Granule"
+    ],
+    "diseases": "['Carcinoma Breast', 'Triple-negative Breast Cancer', 'Invasive Ductal Carcinoma, Breast']",
+    "diseases_list": [
+        "Carcinoma Breast",
+        "Triple-negative Breast Cancer",
+        "Invasive Ductal Carcinoma",
+        "Breast"
+    ],
+    "enrollment": "1072.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Aged from 18 to 70. \n\n Histologically confirmed as breast invasive ductal carcinoma. \n\n Molecular typing of breast lesions is triple-negative breast cancer, when the patient had multicentric lesions at the same time, all invasive lesions were confirmed as triple-negative. \n\n Regional lymph node metastasis confirmed by postoperative pathology [except isolated tumor cells ( ITC )], or tumor response did not achieve pathological complete response (pCR) after neoadjuvant therapy [neoadjuvant chemotherapy completed at least four cycles, the breast has residual invasive cancer or axillary lymph node metastasis ( except isolated tumor cells ) .] \n\n There was no local recurrence and distant metastasis of the tumor. \n\n The time of randomization is during the postoperative adjuvant therapy or within 60 days after the end of the last postoperative adjuvant therapy. \n\n Eastern Cooperative Oncology Group performance status (ECOG PS) \u2264 1. \n\n Hepatic function and renal function: serum creatinine level \u2264 1.5 \u00d7 upper limit of normal (ULN), aspartate aminotransferase (AST) concentration / alanine aminotransferase (ALT) concentration\u2264 2.5 \u00d7 ULN\uff0ctotal serum bilirubin concentration\u2264 1.5 \u00d7 ULN. \n\n Blood routine: neutrophil count \u2265 1.5*109 / L, platelet count \u2265 100*109 / L, hemoglobin concentration \u2265 90 g / L (without transfusion). \n\n The participants volunteered to join the study with good compliance and signed an informed consent form. \n\n ",
+    "exclusion_criteria": ": \n\n Bilateral breast cancer. \n\n Complicated with severe cardiopathy, hepatopathy, nephropathy, endocrine system diseases. According to the researchers' judgement, the comorbidities can cause unacceptable safety risks and affect participants' compliance with research programs. \n\n Suffering from malignant tumors other than breast cancer (except cured basal cell carcinoma of the skin and carcinoma in situ of the cervix) in the past 5 years. \n\n Allergic to Huaier granule. \n\n Pregnant or lactating women, and those who planning a pregnancy during the study period. \n\n Participating in other clinical trials or participated in other clinical studies within 3 months. \n\n Patients with a poor compliance, or they are not appropriate for this study because of other reasons considered by the researchers.",
+    "brief_summary": "This is a prospective, multicenter, randomized, parallel controlled, open-label study. The primary purpose of this study is to evaluate the efficacy of Huaier Granule on postoperative adjuvant therapy of high-risk early-stage triple-negative invasive ductal carcinoma. The Secondary purposes are to evaluate the safety of long-term use of Huaier granules as postoperative adjuvant treatment of high-risk early-stage triple-negative invasive ductal carcinoma, and the changes of quality of life score after treatment with Huaier granule.",
+    "NCT_ID": "NCT04790305"
+}

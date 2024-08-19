@@ -1,0 +1,20 @@
+{
+    "brief_title": "The Role of Simvastatin in The Epithelial-Mesenchymal Transition Process of Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Simvastatin 40mg', 'Placebo']",
+    "drugs_list": [
+        "Simvastatin 40mg",
+        "Placebo"
+    ],
+    "diseases": "['Triple Negative Breast Cancer', 'Chemotherapy Effect', 'Simvastatin Adverse Reaction']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer",
+        "Chemotherapy Effect",
+        "Simvastatin Adverse Reaction"
+    ],
+    "enrollment": "26.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female patients with advanced breast cancer (locally advanced and distantly advanced) with triple-negative molecular type confirmed by biopsy and immunohistochemical examination. \n\n The patient planned to receive 8 cycles of AC-T chemotherapy. \n\n Patient age > 18 years. \n\n Willing to participate in research by signing informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n The patient is pregnant or breastfeeding. \n\n Patients who have received chemotherapy or are on simvastatin therapy. \n\n Allergy to statins.",
+    "brief_summary": "Introduction: Most cases of Triple Negative Breast Cancer (TNBC) have a high proliferation rate. TNBC is associated with a poor prognosis, a high recurrence rate, and a high incidence of distant metastases. The Epithelial-Mesenchymal Transition process (EMT) plays an essential role in the metastatic process. EMT markers were also more abundant in TNBC and contributed to a poorer TNBC prognosis. As an important EMT marker, the increased expression of vimentin also contributed to the increase in TNBC aggressiveness and resistance to chemotherapeutic agents. Through the mechanism of action in inhibiting the mevalonate pathway, statins can help inhibit the EMT process in metastases. Notably, simvastatin promotes the down-regulation of vimentin in breast cancer cells. The combination of statins and neoadjuvant chemotherapy (NAC) improves the cancer patient's response. This study is expected to evaluate the role of a combination between NAC and simvastatin on therapeutic response in TNBC patients through vimentin expression.~Methods: This study is a double-blind, randomized, placebo-controlled trial conducted in Dr. Cipto Mangunkusumo National Central General Hospital. An expected total of 26 TNBC patients will be assessed for eligibility and asked for informed consent. Patients with the plan to have ACT (Doxorubicin hydrochloride, Cyclophosphamide, Paclitaxel) chemotherapy regimen will receive either a combination of ACT-Simvastatin (40 mg/day) or ACT-Placebo. The biopsy will be taken pre-NAC to make the histopathological diagnosis and examine the expression of vimentin. Patients will be evaluated for adverse effects reaction every cycle and the clinical response after 8 cycles. The post-intervention biopsy will be conducted after the cycle finish. The pathological response and vimentin expression will be reviewed from the obtained samples.",
+    "NCT_ID": "NCT05550415"
+}

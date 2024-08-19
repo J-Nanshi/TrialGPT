@@ -1,0 +1,18 @@
+{
+    "brief_title": "Determinants of Resistance to Endocrine Therapy and a Cyclin-dependent Kinases 4 and 6 (CDK4/6) Inhibitor for HR+ MBC",
+    "phase": "Phase 2",
+    "drugs": "['Endocrine Therapy and a CDK 4/6 inhibitor', 'Endocrine Therapy and a CDK 4/6 inhibitor']",
+    "drugs_list": [
+        "Endocrine Therapy and a CDK 4/6 inhibitor",
+        "Endocrine Therapy and a CDK 4/6 inhibitor"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "100.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Male or Female \n\n 18 years or older \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0-2 \n\n Metastatic (stage IV) breast cancer or locally advanced breast cancer \n\n Estrogen Receptor (ER) and/or Progesterone Receptor (PR) positive, HER2- negative \n\n Treatment na\u00efve in metastatic or locally advanced setting and planning to undergo treatment with endocrine therapy (ET) and palbociclib OR receiving first-line ET and palbociclib for metastatic or locally advanced disease. \n\n Premenopausal women and men must be treated with concurrent luteinizing hormone-releasing hormone (LHRH) agonist as would be standard-of-care. \n\n Evaluable or measurable disease. \n\n Tissue from a metastatic site must be available within past 6 months prior to therapy initiation. \n\n Ability to give voluntary informed consent \n\n ",
+    "exclusion_criteria": ": \n\n Any pregnant or nursing woman \n\n No history of another primary malignancy within past 5 years. Patients with prior history of in situ cancer or basal or localized squamous cell skin cancer are eligible.",
+    "brief_summary": "The goal of this research study is to determine if the investigators can predict which participants will respond to endocrine therapy and a cyclin-dependent kinases 4 and 6 (CDK4/6) inhibitor for metastatic breast cancer and which participants will not. Investigators will use information from the tumor tissue and serial blood samples. Investigators hope that a deeper understanding of which participants will respond to this combination and how resistance emerges will allow the investigators to better tailor therapies for metastatic breast cancer.~Subjects will have archived tissue or new biopsy collected at study enrollment. This tissue will undergo special molecular testing. Subjects will also have blood collected at study enrollment and periodically thereafter. This blood will also undergo special molecular testing. Information from this testing will not be available to subjects or their treating physicians as the investigators do not know how this information should impact treatment.~The investigators will collect information about which treatment the subjects receive and how their cancer responds.~Any man or woman being seen at Johns Hopkins for treatment of newly diagnosed estrogen receptor positive (ER+) and/or progesterone receptor positive (PR+) metastatic breast cancer may be eligible.",
+    "NCT_ID": "NCT03439735"
+}

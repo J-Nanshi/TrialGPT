@@ -1,0 +1,18 @@
+{
+    "brief_title": "S1 Plus Docetaxel Versus Capecitabine Plus Docetaxel First-line Treatment in Patients With Advanced Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['S1 plus Docetaxel', 'Capecitabine plus Docetaxel']",
+    "drugs_list": [
+        "S1 plus Docetaxel",
+        "Capecitabine plus Docetaxel"
+    ],
+    "diseases": "['Breast Cancer Recurrent']",
+    "diseases_list": [
+        "Breast Cancer Recurrent"
+    ],
+    "enrollment": "300.0",
+    "inclusion_criteria": "inclusion criteria: \n\n 18 \u2264 age \u2264 75; \n\n ECOG 0-2, The expected survival time more than 3 months; \n\n Histologically or cytologically proven locally advanced or advanced HER-2 negative breast cancer; \n\n No chemical treatment after Cancer recurrence; \n\n At least one measurable disease ( as per RECIST1.1); \n\n Adequate bone marrow functions (ANC \u22651.5\u00d7109 /L, PLT \u2265100\u00d7109 /L, HB \u226590 g/L); \n\n Adequate renal functions(serum creatinine \u2264 1.5 ULN; creatinine clearance\u226550 ml/min); \n\n liver functions (serum bilirubin \u2264 1.5ULN, AST/ALT \u2264 2.5 ULN); \n\n Written informed consent; \n\n Pregnancy test (serum or urine) within 7 days of entry and willing to use the appropriate method of contraception. \n\n ",
+    "exclusion_criteria": ": \n\n Previously chemotherapy with cytotoxic drugs \n\n Pregnant, lactating women Did not take effective contraceptive measures \n\n Adjuvant chemotherapy/ neoadjuvant chemotherapy with 5-FU-based chemotherapy or Paclitaxel -based chemotherapy within 1 year after recurrence; \n\n Her-2 positive or unknown \n\n Other trails Before 4weeks \n\n Affection of the absorption of drugs(Unable to swallow\u3001after gastrectomy\u3001Chronic diarrhea and intestinal obstruction \n\n Organs with rapid progression of invasion(Liver and lung lesions more than 1/2 organ area or hepatic insufficiency) \n\n Central nervous system disorders or mental disorders \n\n For docetaxel or fluorouracil or Twain 80 had serious adverse reactions or Allergy to 5-FU \n\n Severe upper gastrointestinal ulcer or absorption dysfunction syndrome \n\n Abnormal blood routine (ANC <1.5\u00d7109 /L, PLT <100\u00d7109 /L, HB <90 g/L); \n\n Renal functions(serum creatinine > 1.5 ULN); \n\n Liver functions (serum bilirubin > 1.5ULN \n\n Brain metastases out of control \n\n Other unapplicable",
+    "brief_summary": "To compare the progression free survival(PFS) and safety of TS-S vs. TX-X in Patients With Advanced Breast Cancer first-line treatment",
+    "NCT_ID": "NCT02947061"
+}

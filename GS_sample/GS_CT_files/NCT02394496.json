@@ -1,0 +1,20 @@
+{
+    "brief_title": "Overcoming Endocrine Resistance in Metastatic Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Fulvestrant', 'Lapatinib', 'Aromatase Inhibitors', 'Placebo Lapatinib']",
+    "drugs_list": [
+        "Fulvestrant",
+        "Lapatinib",
+        "Aromatase Inhibitors",
+        "Placebo Lapatinib"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "396.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Provision of written informed consent \n\n Histological/cytological confirmation of breast cancer \n\n Documented positive hormone receptor status (ER+ve and/or PgR+ve) of primary or metastaic tumor issue, according to the local laboratory parameters \n\n Postmenopausal women \n\n Confirmed progression of disease after an adjuvant therapy or a therapy for metastatic disease with an aromatase inhibitors \n\n Patients demonstrating prior response to AI therapy \n\n Patients with measurable disease as per RECIST criteria /Patients with bone lesions, lytic or mixed (lytic + sclerotic), in the absence of measurable disease as defined by RECIST criteria. \n\n May have received prior radiotherapy as treatment for primary or metastatic tumour; however, is not required for study entry; \n\n Life expectancy of at least 8 months \n\n WHO performance status 0, 1 or 2 \n\n Patients with a history of other malignancies are eligible if they have been disease-free for at least 5 years and are deemed by the investigator to be at low risk for recurrence. \n\n Are able to swallow and retain oral medication; \n\n Are able to complete all screening assessments as outlined in the protocol; \n\n Patients must have normal organ and marrow function \n\n Left ventricular ejection fraction (LVEF) within the institutional normal range \n\n ",
+    "exclusion_criteria": ": \n\n Previous therapy with Fulvestrant and/or Lapatinib; \n\n Patients with HER 2 overexpressing, either IHC 3+ or FISH +; \n\n Concurrent non study anti-cancer therapy ( \n\n Have unresolved or unstable, serious toxicity from prior administration \n\n Have malabsorption syndrome, \n\n Have a concurrent disease or condition that would make the patient inappropriate for study participation, \n\n Have an active or uncontrolled infection; \n\n Have dementia, altered mental status, or any psychiatric condition that would prohibit the understanding or rendering of informed consent; \n\n Have a known history of uncontrolled or symptomatic angina, arrhythmias, or CHF; \n\n Receive concurrent treatment with an investigational agent or participate in another clinical trial; \n\n Receive concurrent treatment with prohibited medications \n\n Used an investigational drug within 30 days or 5 half-lives, whichever is longer, preceding the first dose of study medication; \n\n Have a known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to fulvestrant, aromatase inhibitors or lapatinib or excipients.",
+    "brief_summary": "Based on these results it can be envisioned that the majority of endocrine-responsive post-menopausal breast cancer patients will be treated with an AI as adjuvant therapy (front-line, switching or extending) and/or as first-line management of metastatic breast cancer.",
+    "NCT_ID": "NCT02394496"
+}

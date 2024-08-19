@@ -1,0 +1,17 @@
+{
+    "brief_title": "Omic Technologies to Track Resistance to Palbociclib in Metastatic Breast Cancer",
+    "phase": "",
+    "drugs": "['specimen sample collection']",
+    "drugs_list": [
+        "specimen sample collection"
+    ],
+    "diseases": "['Advanced Breast Cancer']",
+    "diseases_list": [
+        "Advanced Breast Cancer"
+    ],
+    "enrollment": "25.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women over 18 years old \n\n With histologically proven breast cancer, positives hormones receptors and negative HER2 \n\n Advanced disease (metastases or non-resequable locoregional disease), from the 1st to the 4th line. \n\n With an indication for hormone therapy associated with the CDK4/6 inhibitor Palbociclib \n\n Agree to the sampling of the study \n\n Signed the informed consent form \n\n ",
+    "exclusion_criteria": ": \n\n Neoadjuvant or adjuvant treatment for localized breast cancer \n\n Metastatic breast cancer beyond the forth line \n\n Impossibility to give informed consent (person deprived of liberty or under guardianship)",
+    "brief_summary": "This is a monocentric cohort study, prospective and interventional with minimal risks and constraints for advanced breast cancer. The planned interventions are collection of biological samples at different times. The study will aim to do a descriptive analysis of omics profiles evolution (tumor, volatile organic components) over time, before and after disease progression under Palbociclib treatment with a clinical-biological database.",
+    "NCT_ID": "NCT04653740"
+}

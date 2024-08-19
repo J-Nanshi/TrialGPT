@@ -1,0 +1,35 @@
+{
+    "brief_title": "A Study of XmAb\u00ae23104 in Subjects With Selected Advanced Solid Tumors (DUET-3)",
+    "phase": "Phase 1",
+    "drugs": "['XmAb\u00ae23104', 'Yervoy\u00ae (ipilimumab)']",
+    "drugs_list": [
+        "XmAb\u00ae23104",
+        "Yervoy\u00ae (ipilimumab)"
+    ],
+    "diseases": "['Melanoma (Excluding Uveal Melanoma)', 'Cervical Carcinoma', 'Pancreatic Carcinoma', 'Breast Carcinoma That is Estrogen Receptor, Progesterone Receptor, and Her2 Negative', 'Hepatocellular Carcinoma', 'Urothelial Carcinoma', 'Squamous Cell Carcinoma of the Head and Neck', 'Nasopharyngeal Carcinoma', 'Renal Cell Carcinoma', 'Colorectal Carcinoma', 'Endometrial Carcinoma', 'Non-small Cell Lung Carcinoma', 'Small Cell Lung Cancer', 'Gastric or Gastroesophageal Junction Adenocarcinoma', 'Advanced Solid Tumors', 'Undifferentiated Pleomorphic Sarcoma']",
+    "diseases_list": [
+        "Melanoma (Excluding Uveal Melanoma)",
+        "Cervical Carcinoma",
+        "Pancreatic Carcinoma",
+        "Breast Carcinoma That is Estrogen Receptor",
+        "Progesterone Receptor",
+        "and Her2 Negative",
+        "Hepatocellular Carcinoma",
+        "Urothelial Carcinoma",
+        "Squamous Cell Carcinoma of the Head and Neck",
+        "Nasopharyngeal Carcinoma",
+        "Renal Cell Carcinoma",
+        "Colorectal Carcinoma",
+        "Endometrial Carcinoma",
+        "Non-small Cell Lung Carcinoma",
+        "Small Cell Lung Cancer",
+        "Gastric or Gastroesophageal Junction Adenocarcinoma",
+        "Advanced Solid Tumors",
+        "Undifferentiated Pleomorphic Sarcoma"
+    ],
+    "enrollment": "300.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Subjects in Part A (dose escalation) must have a diagnosis of any of the following: \n\n Histologically or cytologically confirmed advanced solid tumors, including the following: \n\n Melanoma (excluding uveal melanoma) \n\n Cervical carcinoma \n\n Pancreatic carcinoma \n\n Breast carcinoma that is estrogen receptor, progesterone receptor, and Her2 negative \n\n Hepatocellular carcinoma \n\n Urothelial carcinoma \n\n Squamous cell carcinoma of the head and neck \n\n Nasopharyngeal carcinoma \n\n Renal cell carcinoma \n\n Colorectal carcinoma \n\n Endometrial carcinoma \n\n NSCLC \n\n Small cell lung cancer \n\n Gastric or gastroesophageal junction adenocarcinoma \n\n Sarcoma \n\n Subjects in Part B (expansion) must have a diagnosis of any of the following: \n\n Histologically or cytologically confirmed advanced solid tumors of the following types: \n\n Non-squamous NSCLC \n\n Melanoma \n\n HNSCC, including NPC \n\n CRC \n\n UPS, including other select high grade STS, such as MFS \n\n ccRCC \n\n Prior to enrolling into Part B (expansion), subjects should have received disease-specific standard therapy as indicated for: \n\n Non-squamous NSCLC \n\n Melanoma \n\n HNSCC, including NPC \n\n CRC \n\n UPS, including other select high-grade STS such as MFS \n\n RCC, clear cell histology (ccRCC) \n\n Subjects in Part C (expansion)must have a diagnosis of MSS or proficient mismatch repair CRC with the following: \n\n cancer must have progressed after treatment with standard/approved therapies or have no appropriate available therapies \n\n subjects will have life expectancy greater than 3 months \n\n All subjects' cancer must have progressed after treatment with standard/approved therapies or have no appropriate available therapies. \n\n Subjects must have measurable disease by RECIST 1.1. \n\n All subjects must have adequate archival tumor sample (slides or archival FFPE block[s] containing tumor. \n\n All subjects in Part B (dose expansion) must have a tumor lesion that can be biopsied at acceptable risk (in the judgment of the Investigator) and must agree to both a fresh biopsy during screening and a second biopsy following treatment. \n\n Subjects have an ECOG performance status of 0-1. \n\n ",
+    "exclusion_criteria": ": \n\n Currently receiving other anticancer therapies \n\n Prior treatment with an investigational anti-ICOS therapy \n\n Treatment with any PDL1 or PDL2-directed therapy within 4 weeks of the start of study drug \n\n Treatment with nivolumab within 4 weeks of the start of study drug \n\n Treatment with pembrolizumab within 24 weeks of start of study drug for Cohorts 1A - 10A \n\n Treatment with any other anticancer therapy within 2 weeks of the start of study drug (ie, other immunotherapy, chemotherapy, radiation therapy, etc.) \n\n A life-threatening (Grade 4) irAE related to prior immunotherapy \n\n Failure to recover from any irAE from prior cancer therapy to Grade \u2264 1, except for endocrinopathies that are on stable hormone replacement doses \n\n Failure to recover from any other toxicity (other than immune-related toxicity) related to previous anticancer treatment to Grade \u2264 2 \n\n Known active central nervous system involvement by malignant disease. Subjects with previously treated brain metastases may participate provided they are radiologically stable, ie, are without evidence of progression for at least 4 weeks by repeat imaging and are clinically stable and without requirement of steroid treatment for at least 14 days prior to first dose of study treatment. \n\n Active known or suspected autoimmune disease \n\n Receipt of an organ allograft \n\n History or evidence of any other clinically unstable/uncontrolled disorder, condition, or disease (including, but not limited to, cardiopulmonary, renal, metabolic, hematologic or psychiatric) other than their primary malignancy, that in the opinion of the Investigator would pose a risk to patient safety or interfere with study evaluations, procedures, or completion \n\n Treatment with antibiotics within 14 days prior to first dose of study drug \n\n Receipt of a live-virus vaccine within 30 days prior to first dose of study drug (seasonal flu vaccines that do not contain live virus are permitted). \n\n Treatment with ipilimumab within 4 weeks of the start of study drug",
+    "brief_summary": "This is a Phase 1, multiple dose, ascending dose escalation study to define a MTD/RD and regimen of XmAb23104, to describe safety and tolerability, to assess PK and immunogenicity, and to preliminarily assess anti-tumor activity of XmAb23104 monotherapy and combination therapy with ipilimumab in subjects with selected advanced solid tumors.",
+    "NCT_ID": "NCT03752398"
+}

@@ -1,0 +1,18 @@
+{
+    "brief_title": "Standard Chemotherapy Plus Moxifloxacin as First-line Treatment for Metastatic Triple-negative Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Gemcitabine and carboplatin plus antibiotic (moxifloxacin)', 'Gemcitabine combined with carboplatin plus placebo']",
+    "drugs_list": [
+        "Gemcitabine and carboplatin plus antibiotic (moxifloxacin)",
+        "Gemcitabine combined with carboplatin plus placebo"
+    ],
+    "diseases": "['Triple Negative Breast Cancer']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer"
+    ],
+    "enrollment": "228.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Eastern Cooperative Oncology Group (ECOG) score of 0 to 1. \n\n Histologically confirmed invasive ductal carcinoma, no specific type (NOS) \n\n ER negative and progesterone receptor (PR) negative (defined as < 1% positive cells by IHC), human epidermal growth factor receptor 2 (HER2) negative (defined as IHC 0-1 staining or fluorescent in situ hybridization (FISH) negative). \n\n No prior therapy after first recurrence or diagnosis of metastatic disease. \n\n At least 1 measurable lesion as defined by Response Evaluation Criteria in Solid Tumors (RECIST) criteria. \n\n Neutrophil-to-lymphocyte ratios (NLR) in peripheral blood \u2265 2. \n\n Adequate organ function including bone marrow, renal function, hepatic function, and cardiac reserve (Left ventricular ejection fraction (LVEF) by echocardiogram \u226545%). \n\n Compliance with the study protocol. \n\n Have provided written and signed informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Pregnant or breast feeding. \n\n Definitive breast cancer susceptibility gene (BRCA) mutation, Programmed Cell Death-Ligand 1 (PD-L1) positive, microsatellite instability-high (MSI-H), and mismatch repair deficient (dMMR). \n\n Patients who are receiving or will receive other biological agents or immunotherapy. \n\n Uncontrolled medical problems. \n\n Evidence of active acute or chronic infection. \n\n Hepatic, renal, cardiac, or bone marrow dysfunction as detailed above. \n\n Concurrent malignancy or history of other malignancy within the last five years. \n\n Known severe hypersensitivity to moxifloxacin \n\n Patients were unable or unwilling to comply with program requirements.",
+    "brief_summary": "The primary objective of this study is to compare progression-free survival (PFS) of patients with metastatic triple-negative breast cancer randomised to treatment with standard chemotherapy plus moxifloxacin or placebo.",
+    "NCT_ID": "NCT04722978"
+}

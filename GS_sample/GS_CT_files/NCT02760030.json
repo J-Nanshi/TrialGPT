@@ -1,0 +1,29 @@
+{
+    "brief_title": "Fulvestrant or Aromatase Inhibitor and Palbociclib in Treating Older Patients With Hormone Responsive Breast Cancer That Cannot Be Removed by Surgery",
+    "phase": "Phase 2",
+    "drugs": "['Fulvestrant', 'Laboratory Biomarker Analysis', 'Palbociclib', 'Questionnaire Administration', 'Aromatase Inhibitors']",
+    "drugs_list": [
+        "Fulvestrant",
+        "Laboratory Biomarker Analysis",
+        "Palbociclib",
+        "Questionnaire Administration",
+        "Aromatase Inhibitors"
+    ],
+    "diseases": "['Estrogen Receptor and/or Progesterone Receptor Positive', 'HER2/Neu Negative', 'Stage IA Breast Cancer', 'Stage IB Breast Cancer', 'Stage IIA Breast Cancer', 'Stage IIB Breast Cancer', 'Stage IIIA Breast Cancer', 'Stage IIIB Breast Cancer', 'Stage IIIC Breast Cancer']",
+    "diseases_list": [
+        "Estrogen Receptor and/or Progesterone Receptor Positive",
+        "HER2/Neu Negative",
+        "Stage IA Breast Cancer",
+        "Stage IB Breast Cancer",
+        "Stage IIA Breast Cancer",
+        "Stage IIB Breast Cancer",
+        "Stage IIIA Breast Cancer",
+        "Stage IIIB Breast Cancer",
+        "Stage IIIC Breast Cancer"
+    ],
+    "enrollment": "37.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Newly diagnosed invasive, estrogen receptor (ER) and/or progesterone receptor (PR)-positive, HER2 negative breast cancer; ER-and/or PR-positive breast cancer is defined by > 10% staining by immunohistochemistry \n\n Patients must be vulnerable or frail by Balducci Criteria or the patient is refusing breast surgery; vulnerable patients are defined as those with dependence in some instrumental activities of daily living, well controlled co-morbidities, and early symptoms of geriatric syndrome; frail patients are defined as those with three or more co-morbidities, dependence in one or more activities of daily living, or a clinically significant geriatric syndrome; geriatric syndromes include: dementia, delirium, incontinence (fecal and/or urinary), osteoporosis or spontaneous fractures, polypharmacy, visual/hearing impairment, sarcopenia and neglect or abuse \n\n The patient's refusal to proceed with curative breast surgery has to be documented by the surgeon's and medical oncologist's note \n\n Absolute neutrophil count (ANC) > 1000/uL \n\n Platelets > 75,000/L \n\n Serum creatinine 1.5 X institutional upper limit of normal (ULN) \n\n Total bilirubin < 1.5 X ULN \n\n Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) 2.5 ULN \n\n Ability to understand and the willingness to sign a written informed consent document \n\n ",
+    "exclusion_criteria": ": \n\n Prior aromatase inhibitor therapy \n\n Evidence of distant metastases \n\n Psychiatric illness, which would prevent the patient from giving informed consent \n\n Patients receiving strong inducers or inhibitors of cytochrome P450 3A4 (CYP3A4)",
+    "brief_summary": "This phase II clinical trial studies how well fulvestrant and palbociclib works in treating older patients with breast cancer that responds to hormone treatment (hormone responsive) that cannot be removed by surgery. Estrogen can cause the growth of estrogen-receptor-positive breast cancer cells. Hormone therapy using fulvestrant may fight estrogen-receptor-positive breast cancer by blocking the use of estrogen by the tumor cells. Palbociclib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving fulvestrant together with palbociclib may be an effective treatment for hormone responsive breast cancer.",
+    "NCT_ID": "NCT02760030"
+}

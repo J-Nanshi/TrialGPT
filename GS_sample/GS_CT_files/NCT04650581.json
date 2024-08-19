@@ -1,0 +1,19 @@
+{
+    "brief_title": "Fulvestrant and Ipatasertib for Advanced HER-2 Negative and Estrogen Receptor Positive (ER+) Breast Cancer Following Progression on First Line CDK 4/6 Inhibitor and Aromatase Inhibitor",
+    "phase": "Phase 3",
+    "drugs": "['Ipatasertib', 'Fulvestrant', 'Placebo']",
+    "drugs_list": [
+        "Ipatasertib",
+        "Fulvestrant",
+        "Placebo"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "250.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically and/or cytologically confirmed ER positive, HER-2 negative breast cancer \n\n Female patients must be post-menopausal; female patients who are pre-menopausal must have ovarian suppression using LHRH agonist while on study \n\n Clinical and/or radiographic progression during treatment with or within 28 days after discontinuation of first line of treatment with a CDK 4/6 inhibitor and an aromatase inhibitor (AI) for advanced/metastatic disease \n\n Evidence of clinically and/or radiologically documented disease \n\n \u2265 18 years of age \n\n ECOG performance status of 0 or 1 \n\n No concurrent anti-cancer therapy and must satisfy the following criteria for previous therapy \n\n Must not have received more than one prior line of treatment with a CDK 4/6 inhibitor and an AI in the advanced disease setting. \n\n Treatment with CDK 4/6 inhibitor and AI must have been the most recent treatment prior to registration for this study \n\n Adequate hematology and organ function, in the absence of growth factors \n\n Absolute neutrophils > 1.5 x 10^9/L \n\n Platelets \u2265 100 x 10^9/L \n\n Hemoglobin > 90 g/L \n\n Total Bilirubin \u2264 1.5 x ULN (upper limit of normal) or \u2264 3 x ULN if confirmed Gilbert's Syndrome \n\n ALT and AST \u2264 2.5 x ULN (or \u2264 5.0 x ULN if liver or bone metastasis) \n\n Alkaline phosphatase \u2264 2.0 x ULN (or \u2264 5.0 x ULN if liver metastases, \u2264 7.0 x ULN if bone metastasis) \n\n Fasting glucose \u2264 8.3 mmol/L \n\n HbA1c \u2264 7.5% \n\n Serum albumin \u2265 30 g/L \n\n INR \u2264 1.2 \n\n Serum Creatinine or Creatinine clearance \u2264 1.5 x ULN or \u2265 50 mL/min; measured directly by 24-hour urine sampling or as calculated by Crockcroft and Gault equation \n\n ",
+    "exclusion_criteria": ": \n\n Untreated or symptomatic CNS metastases, radiation treatment for CNS metastases within 28 days \n\n Active inflammatory bowel disease, bowel inflammation, inability to swallow oral medication or GI condition that alters oral absorption \n\n Prior treatment with fulvestrant, selective estrogen receptor degraders (SERDs) or known inhibitors of the PI3K pathway including PI3K inhibitors, AKT inhibitors, or mTOR inhibitors \n\n Mean QT interval corrected for heart rate (QTc) \u2265 480 msec by ECG or history of familial long QT syndrome \n\n Active or uncontrolled infections or serious illnesses or medical conditions \n\n Clinically significant liver diseases \n\n History of lung disease or history of opportunistic infections \n\n Type 1 or Type 2 diabetes mellitus requiring insulin \n\n Grade \u2265 2 uncontrolled hypercholesterolemia or hypertriglyceridemia \n\n Known abnormalities in coagulation \n\n History of hypersensitivity to the study drugs or components \n\n Pregnant or lactating women",
+    "brief_summary": "The purpose of this study is to find out whether a new drug, Ipatasertib, can slow the growth of advanced breast cancer when added to standard therapy (Fulvestrant).",
+    "NCT_ID": "NCT04650581"
+}

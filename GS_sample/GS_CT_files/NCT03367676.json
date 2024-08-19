@@ -1,0 +1,18 @@
+{
+    "brief_title": "12 weekS Adjuvant dOcetaxel Plus trastuzumaB in Patients With Small, Node-negative, HER2-positive Breast cancER (SOBER)",
+    "phase": "Phase 2",
+    "drugs": "['Trastuzumab', 'Docetaxel']",
+    "drugs_list": [
+        "Trastuzumab",
+        "Docetaxel"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "112.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women aged \u226518 years \n\n Have finished radical operation \n\n Pathologically confirmed dignosis of infiltrating primary breast cancer \n\n According to AJCC ,pT\u22641cm, pN0,no evidence for metastasis \n\n Operation specimens are available for ER, progesterone receptor (PR) and Her2 detection, patients should be Her2 positive tumor (3+ by IHC or FISH+ ) \n\n Has Eastern Cooperative Oncology Group (ECOG) Performance Score 0-1,expected survival time > 12 months \n\n Adequate bone marrow function,adequate liver and renal function,and adequate coagulation function. \n\n Women with potential child-bearing must have a negative pregnancy test (urine or serum) within 7 days of drug administration and agree to use an acceptable and effective method of contraception to avoid pregnancy during the study. \n\n Written informed consent according to the local ethics committee requirements. \n\n ",
+    "exclusion_criteria": ": \n\n pT>1cm or node positive \n\n Metastatic breast cancer \n\n Any prior systemic or loco-regional treatment of breast cancer, including chemotherapy in 28 days \n\n With a history of malignant tumor except uterine cervix cancer in situ or skin basal cell carcinoma \n\n Patients with medical conditions that indicate intolerant to adjuvant chemotherapy and related treatment, including severe infection, coagulation disorder,active peptic ulcer, coagulation disorder, connective tissue disease or myelo-suppressive disease \n\n Has symptomatic peripheral neuropathy > grade 2 according to NCI \n\n Known severe allergy to any drugs in this study \n\n Has cadiac Dysfunction or lung dysfunction defined as follows: \n\n grade \u22653 CHF according to NCI CTCAE v 4.0 or NYHA\u2265II \n\n angina which requires drug control ,cardiac infraction,and any other vascular disease with apparent clinical symptoms \n\n uncontrolled high-risk arryhthmia \n\n unconrolled hypertension \n\n Has active hepatitis B or hepatitis C with abnormal liver function tests (LFTs) or is known to be HIV positive \n\n Patient is pregnant or breast feeding \n\n -",
+    "brief_summary": "This phase II trial aims to study the efficacy and safety of 12 weeks adjuvant docetaxel plus trastuzumab in patients with tumors \u22641cm, node-negative, HER2-positive breast cancer.",
+    "NCT_ID": "NCT03367676"
+}

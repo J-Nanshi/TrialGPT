@@ -1,0 +1,18 @@
+{
+    "brief_title": "[177Lu]-NeoB in Patients With Advanced Solid Tumors and With [68Ga]-NeoB Lesion Uptake",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['[177Lu]-NeoB', '[68Ga]-NeoB']",
+    "drugs_list": [
+        "[177Lu]-NeoB",
+        "[68Ga]-NeoB"
+    ],
+    "diseases": "['Neoplasms']",
+    "diseases_list": [
+        "Neoplasms"
+    ],
+    "enrollment": "86.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Signed informed consent must be obtained prior to participation in the study. \n\n Adult patients (age >= 18 years old) with any of the following advanced or metastatic solid tumors: \n\n For Phase I: breast cancer, lung cancer, prostate cancer, GIST, GBM \n\n For Phase IIa: \n\n Cohort A: Breast cancer with histology as follows: HR-positive with ER > 10% of nuclei stain, HER-2 negative as assessed on the primary diagnosis \n\n Cohort B: Prostate cancer \n\n Cohort C: GIST \n\n Cohort D: patients affected by any metastatic solid tumor type suspected to overexpress GRPR, and with moderate impaired renal function defined as creatinine clearance (calculated using the Cockcroft-Gault formula, or measured) \u2265 30mL/min and < 60mL/min \n\n At least one measurable lesion per RECIST 1.1, RANO (applicable for GBM only) criteria detected on the low-dose CT/MRI (for GBM MRI only) acquired together with the [68Ga]-NeoB PET. \n\n The same identified measurable lesion shows [68Ga]-NeoB uptake on PET/CT or PET/MRI. If the only matching lesion is located in the bone, the patient will still be eligible. \n\n Patients for whom no standard therapy is available, tolerated or appropriate in both Phase I and Phase IIa. Specifically in the Phase IIa breast cancer cohort, patients need to have completed at least two prior treatments of endocrine therapy (including CDk4/6i) and at least one prior chemotherapy (unless contraindicated) in the metastatic setting. \n\n Patient Eastern Cooperative Oncology Group (ECOG) performance status =< 2. \n\n ",
+    "exclusion_criteria": ": \n\n Patients who have not had resolution, except where otherwise stated in the inclusion/ ",
+    "brief_summary": "The purpose of this first-in-human (FIH) study of [177Lu]-NeoB is to characterize the safety, tolerability, pharmacokinetics (PK) as well as the distribution and radiation dosimetry, and anti-tumor activity of [177Lu]-NeoB in patients with advanced solid tumors known to overexpress GRPR and with [68Ga]-NeoB lesion uptake.",
+    "NCT_ID": "NCT03872778"
+}

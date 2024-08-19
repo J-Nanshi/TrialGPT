@@ -1,0 +1,20 @@
+{
+    "brief_title": "Safety of Continuing HER-2 Directed Therapy in Overt Left Ventricular Dysfunction",
+    "phase": "Phase 2",
+    "drugs": "['Trastuzumab', 'Pertuzumab', 'Trastuzumab emtansine']",
+    "drugs_list": [
+        "Trastuzumab",
+        "Pertuzumab",
+        "Trastuzumab emtansine"
+    ],
+    "diseases": "['Breast Cancer', 'Heart Failure']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Heart Failure"
+    ],
+    "enrollment": "130.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Stage I-III HER-2 positive breast cancer \n\n Receiving adjuvant or neoadjuvant therapy with trastuzumab, pertuzumab, or trastuzumab-emtansine (T-DM1) \n\n Evidence of left ventricular dysfunction, as defined by at least one of: \n\n a) LVEF < 54% or b) LVEF \u226554% and either i) fall in LVEF of \u226515% from prior to trastuzumab, pertuzumab, or trastuzumab-emtansine (T-DM1) exposure, or ii) New York Heart Association (NYHA) class II heart failure symptoms within the past 6 months \n\n ",
+    "exclusion_criteria": ": \n\n Current use of both angiotensin converting enzyme inhibitor (ACEI) /angiotensin receptor blocker (ARB) and beta-blocker \n\n Contra-indication to both ACE-I/ARB and beta-blockers \n\n NYHA class III or IV heart failure \n\n LVEF <40% \n\n Systolic blood pressure <100mmHg \n\n Current or planned pregnancy or breastfeeding",
+    "brief_summary": "Trastuzumab is an important treatment for HER 2 positive breast cancer. But trastuzumab can cause injury to the heart, and this is one of the main reasons it cannot be administered as planned. Heart injury can often be successfully treated using cardiac medications. The objectives of SCHOLAR-2 are to evaluate whether is it safe and effective to continue trastuzumab, pertuzumab or trastuzumab-emtansine (T-DM1) in patients with early stage HER-2 positive breast cancer despite mild, minimally symptomatic or asymptomatic systolic left ventricular dysfunction as compared with a guideline-driven approach of withholding or discontinuing trastuzumab, pertuzumab or trastuzumab-emtansine (T-DM1).~In SCHOLAR-2, we will compare two thresholds of withholding or discontinuing trastuzumab/pertuzumab/trastuzumab-emtansine: a threshold that is currently advocated for by existing treatment practice guidelines versus a more aggressive threshold that allows trastuzumab/pertuzumab/trastuzumab-emtansine to continue at lower levels of LVEF than currently supported by guideline documents.",
+    "NCT_ID": "NCT04680442"
+}

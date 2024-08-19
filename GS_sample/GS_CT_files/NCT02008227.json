@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study of Atezolizumab Compared With Docetaxel in Participants With Locally Advanced or Metastatic Non-Small Cell Lung Cancer Who Have Failed Platinum-Containing Therapy",
+    "phase": "Phase 3",
+    "drugs": "['Atezolizumab', 'Docetaxel']",
+    "drugs_list": [
+        "Atezolizumab",
+        "Docetaxel"
+    ],
+    "diseases": "['Non-Squamous Non-Small Cell Lung Cancer']",
+    "diseases_list": [
+        "Non-Squamous Non-Small Cell Lung Cancer"
+    ],
+    "enrollment": "1225.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Locally advanced or metastatic (Stage IIIB, Stage IV, or recurrent) NSCLC \n\n Representative formalin-fixed paraffin-embedded (FFPE) tumor specimens \n\n Disease progression during or following treatment with a prior platinum-containing regimen for locally advanced, unresectable/inoperable or metastatic NSCLC or disease recurrence within 6 months of treatment with a platinum-based adjuvant/neoadjuvant regimen or combined modality (e.g., chemoradiation) regimen with curative intent \n\n Measurable disease, as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 \n\n ",
+    "exclusion_criteria": ": \n\n Known active or untreated central nervous system (CNS) metastases \n\n Malignancies other than NSCLC within 5 years prior to randomization, with the exception of those with a negligible risk of metastasis or death and treated with expected curative outcome \n\n History of autoimmune disease \n\n History of idiopathic pulmonary fibrosis (including pneumonitis), drug-induced pneumonitis, organizing pneumonia, or evidence of active pneumonitis on screening chest computed tomography (CT) scan. History of radiation pneumonitis in the radiation field (fibrosis) is permitted \n\n Active hepatitis B or hepatitis C \n\n Prior treatment with docetaxel \n\n Prior treatment with cluster of differentiation 137 (CD137) agonists, anti-cytotoxic-T-lymphocyte-associated antigen 4 (anti-CTLA4), anti-programmed death-1 (anti-PD-1), or anti-PD-L1 therapeutic antibody or pathway-targeting agents",
+    "brief_summary": "This global, multicenter, open-label, randomized, controlled study evaluated the efficacy and safety of atezolizumab (an anti-programmed death-ligand 1 [anti-PD-L1] antibody)compared with docetaxel in participants with locally advanced or metastatic non-small cell lung cancer (NSCLC) after failure with platinum-containing chemotherapy. Participants were randomized 1:1 to receive either docetaxel or atezolizumab. Treatment may continue as long as participants experienced clinical benefit as assessed by the investigator, i.e., in the absence of unacceptable toxicity or symptomatic deterioration attributed to disease progression.",
+    "NCT_ID": "NCT02008227"
+}

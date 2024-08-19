@@ -1,0 +1,19 @@
+{
+    "brief_title": "A First in Human Dose Escalation of Dendritic Cell Vaccine (DCV)",
+    "phase": "Phase 1",
+    "drugs": "['Dendritic Cell Vaccine']",
+    "drugs_list": [
+        "Dendritic Cell Vaccine"
+    ],
+    "diseases": "['Leptomeningeal Disease', 'Triple Negative Breast Cancer', 'HER2-positive Breast Cancer']",
+    "diseases_list": [
+        "Leptomeningeal Disease",
+        "Triple Negative Breast Cancer",
+        "HER2-positive Breast Cancer"
+    ],
+    "enrollment": "18.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically or cytologically confirmed diagnosis of TNBC or HER2+BC per ASCO/CAP guidelines . A tumor can be considered a TNBC if the ER or PR is <10%. \n\n Trial participants must have a diagnosis of LMD. They must have the presence of malignant cells in the CSF (CSF+; note now cytology is considered diagnostic of LMD if the cytology is read as positive or suspicious; OR characteristic radiographic abnormalities (see below) of LMD). Signs and symptoms of LMD in and of themselves are not sufficient for inclusion. \n\n Patients must have an Eastern Cooperative Oncology Group performance scale of \u2264 3. \n\n Coincident Brain or Spinal cord metastases are allowed if these are stable and do not require local therapy at the time of enrollment. Individuals with previously treated stable Brain metastases are eligible to participate. \n\n Stereotactic Radiosurgery (SRS) and/or prior radiotherapy is permitted > 2 weeks prior to initial Dendritic Cell (DC) vaccine dose. A follow up brain MRI should be obtained prior to DC vaccine to determine stability of the lesions. An interval of at least 4 weeks after the end of whole brain radiation or for any surgical resection of brain lesions is permitted. \n\n Life expectancy of \u2265 8 weeks. \n\n Demonstrate adequate organ function as defined in protocol. All screening labs should be performed with 14 days of treatment initiation. \n\n Provision of signed and dated informed consent form. \n\n Corticosteroids at doses equivalent to 8 mg dexamethasone daily for symptom control are acceptable. This should be minimized wherever possible. \n\n If the disease has progressed on current treatment in the CNS prior to consent, patients may continue current systemic cancer therapies as per PI discretion (Systemic Therapies Allowed) and ",
+    "exclusion_criteria": ". Patients should not start a new anti-cancer agent until the 28 day safety period is completed. \n\n Patients with systemic disease are eligible and will be managed as detailed in Section 6.3.1. \n\n Pregnancy test: negative serum or urine pregnancy test at screening for women of childbearing potential. Must be repeated once-monthly during treatment. Contraception: Highly effective contraception for both male and female subjects throughout the study and for at least 90 days after last treatment administration, if the risk of conception exists. \n\n The patient has an Ommaya reservoir or equivalent device which allows routine access to CSF and administration of DC1s. \n\n ",
+    "brief_summary": "The purpose of this study is to learn about the effects of the study treatment, Dendritic Cell Vaccine (DCV), to find the highest dose of the study treatment that can be given safely to Breast Cancer patients with Leptomeningeal Disease",
+    "NCT_ID": "NCT05809752"
+}

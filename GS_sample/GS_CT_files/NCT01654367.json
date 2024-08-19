@@ -1,0 +1,17 @@
+{
+    "brief_title": "Research of Zoledronic Acid and Aromatase Inhibitors as Adjuvant Therapy to Breast Cancer",
+    "phase": "Phase 2; Phase 3",
+    "drugs": "['Zoledronic Acid and Aromatase Inhibitors']",
+    "drugs_list": [
+        "Zoledronic Acid and Aromatase Inhibitors"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "300.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Karnofsky\u226570 \n\n Provision of informed consent \n\n Pathological confirmation of breast cancer \n\n Hormone receptor-positive and accept aromatase inhibitors for adjuvant endocrine therapy \n\n Not previously received treatment with bisphosphonate \n\n Laboratory criteria: \n\n PLT\u2265100*109/L WBC\u22654000/mm3 HGB\u226510g/dl GOT,GPT,ALP\u22642*ULN TBIL,DBIL,CCr\u22641.5*ULN \n\n Surgery , radiotherapy and chemotherapy has finished \n\n ",
+    "exclusion_criteria": ": \n\n Pregnant of lactation woman \n\n History of organ transplantation \n\n With mental disease \n\n With severe infection or active gastrointestinal ulcers \n\n With severe liver disease (such as cirrhosis), kidney disease, respiratory disease or diabetes \n\n Disease-free period of other malignant tumor is less than 5 years(except cured basal cell skin cancer and cervical carcinoma in situ) \n\n With heart disease \n\n Experimental drug allergy",
+    "brief_summary": "Select patients of primary breast cancer whose hormone receptor is positive and accepted postoperative adjuvant aromatase inhibitors for endocrine treatment.Treat them with zoledronic acid 4mg intravenous infusion every six months until the end of the aromatase treatment. Assess the disease-free survival; overall survival; combination of security, as well as the situation of bone loss.",
+    "NCT_ID": "NCT01654367"
+}

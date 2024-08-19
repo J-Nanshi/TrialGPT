@@ -1,0 +1,18 @@
+{
+    "brief_title": "Phase 3 Trial of Elacestrant vs. Standard of Care for the Treatment of Patients With ER+/HER2- Advanced Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Elacestrant', 'Standard of Care']",
+    "drugs_list": [
+        "Elacestrant",
+        "Standard of Care"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "466.0",
+    "inclusion_criteria": "Critical inclusion criteria: \n\n Subjects with proven diagnosis of adenocarcinoma of the breast with evidence of either locally advanced disease not amenable to resection or radiation therapy with curative intent or metastatic disease not amenable to curative therapy. \n\n Subjects must be appropriate candidates for endocrine monotherapy \n\n Subjects must have measurable disease or, nonmeasurable (evaluable) bone-only disease \n\n Female or male subjects age \u2265 18 years; female subjects must be postmenopausal women and male subjects must not allow pregnancy with their sperm (abstain, do not donate sperm, etc). \n\n Subjects must have ER+/HER2-tumor status \n\n Subjects must have previously received at least one and no more than two lines of endocrine therapy for advanced/metastatic breast cancer and meet additional previous treatment criteria. \n\n Subjects must have received prior treatment with a CDK4/6 inhibitor in combination with either fulvestrant or an aromatase inhibitor (AI). \n\n Subjects may have received no more than one line of chemotherapy in the advanced/metastatic setting. \n\n Subjects must have ctDNA ESR1-mut or ESR1-WT status as determined by central testing with Guardant360CDx\u00ae before subject is randomized. \n\n Critical ",
+    "exclusion_criteria": ": \n\n Prior treatment with elacestrant, GDC-0810, GDC-0927, GDC-9545, LSZ102, AZD9496, bazedoxifene, or other investigational SERD or investigational ER antagonist. \n\n Prior anticancer or investigational drug treatment within the following windows: \n\n Fulvestrant treatment < 28 days before first dose of study drug \n\n Any endocrine therapy < 14 days before first dose of study drug (with the exception of GnRH agonist therapy in male subjects) \n\n Chemotherapy < 21 days before first dose of study drug \n\n Any investigational anti-cancer drug therapy < 28 days or five half-lives (whichever is shorter) before the first dose of study drug. Enrollment of subjects whose most recent therapy was an investigational agent should be discussed with the Sponsor \n\n Presence of symptomatic visceral disease as defined in protocol.",
+    "brief_summary": "This Phase 3 clinical study compares the efficacy and safety of elacestrant to the standard of care (SoC) options of fulvestrant or an aromatase inhibitor (AI) in women and men with breast cancer whose disease has advanced on at least one endocrine therapy including a CDK4/6 inhibitor in combination with fulvestrant or an aromatase inhibitor (AI) .",
+    "NCT_ID": "NCT03778931"
+}

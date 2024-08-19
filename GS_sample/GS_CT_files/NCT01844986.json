@@ -1,0 +1,23 @@
+{
+    "brief_title": "Olaparib Maintenance Monotherapy in Patients With BRCA Mutated Ovarian Cancer Following First Line Platinum Based Chemotherapy.",
+    "phase": "Phase 3",
+    "drugs": "['Olaparib 300mg tablets']",
+    "drugs_list": [
+        "Olaparib 300mg tablets"
+    ],
+    "diseases": "['Newly Diagnosed', 'Advanced Ovarian Cancer', 'FIGO Stage III-IV', 'BRCA Mutation', 'Complete Response', 'Partial Response', 'First Line Platinum Chemotherapy']",
+    "diseases_list": [
+        "Newly Diagnosed",
+        "Advanced Ovarian Cancer",
+        "FIGO Stage III-IV",
+        "BRCA Mutation",
+        "Complete Response",
+        "Partial Response",
+        "First Line Platinum Chemotherapy"
+    ],
+    "enrollment": "450.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female patients with newly diagnosed, histologically confirmed, high risk advanced (FIGO stage III - IV) BRCA mutated high grade serous or high grade endometrioid ovarian cancer, primary peritoneal cancer and / or fallopian - tube cancer who have completed first line platinum based chemotherapy (intravenous or intraperitoneal). \n\n Stage III patients must have had one attempt at optimal debulking surgery (upfront or interval debulking). Stage IV patients must have had either a biopsy and/or upfront or interval debulking surgery. \n\n Documented mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious (known or predicted to be detrimental/lead to loss of function). \n\n Patients who have completed first line platinum (e.g. carboplatin or cisplatin), containing therapy (intravenous or intraperitoneal) prior to randomisation: \n\n Patients must have, in the opinion of the investigator, clinical complete response or partial response and have no clinical evidence of disease progression on the post treatment scan or rising CA-125 level, following completion of this chemotherapy course. Patients with stable disease on the post-treatment scan at completion of first line platinum-containing therapy are not eligible for the study. \n\n Patients must be randomized within 8 weeks of their last dose of chemotherapy \n\n ",
+    "exclusion_criteria": ": \n\n BRCA1 and/or BRCA2 mutations that are considered to be non detrimental (e.g. Variants of uncertain clinical significance or Variant of unknown significance or Variant, favor polymorphism or benign polymorphism etc). \n\n Patients with early stage disease (FIGO Stage I, IIA, IIB or IIC) \n\n Stable disease or progressive disease on the post-treatment scan or clinical evidence of progression at the end of the patient's first line chemotherapy treatment. \n\n Patients where more than one debulking surgery has been performed before randomisation to the study. (Patients who, at the time of diagnosis, are deemed to be unresectable and undergo only a biopsy or oophorectomy but then go on to receive chemotherapy and interval debulking surgery are eligible). \n\n Patients who have previously been diagnosed and treated for earlier stage ovarian, fallopian tube or primary peritoneal cancer. \n\n Patients who have previously received chemotherapy for any abdominal or pelvic tumour, including treatment for prior diagnosis at an earlier stage for their ovarian, fallopian tube or primary peritoneal cancer. (Patients who have received prior adjuvant chemotherapy for localised breast cancer may be eligible, provided that it was completed more than three years prior to registration, and that the patient remains free of recurrent or metastatic disease). \n\n Patients with synchronous primary endometrial cancer unless both of the following criteria are met: 1) stage <2 2) less than 60 years old at the time of diagnosis of endometrial cancer with stage IA or IB grade 1 or 2, or stage IA grade 3 endometrioid adenocarcinoma OR \u2265 60 years old at the time of diagnosis of endometrial cancer with Stage IA grade 1 or 2 endometrioid adenocarcinoma. Patients with serous or clear cell adenocarcinoma or carcinosarcoma of the endometrium are not eligible.",
+    "brief_summary": "Olaparib Monotherapy in Patients with BRCA Mutated Ovarian Cancer following First Line Platinum Based Chemotherapy.",
+    "NCT_ID": "NCT01844986"
+}

@@ -1,0 +1,17 @@
+{
+    "brief_title": "Delayed Versus Immediate Use Of Zoledronic Acid For Postmenopausal Patients With Early Breast Cancer Who Are Using Adjuvant Letrozole",
+    "phase": "Phase 3",
+    "drugs": "['Zoledronic Acid 4 MG']",
+    "drugs_list": [
+        "Zoledronic Acid 4 MG"
+    ],
+    "diseases": "['Use of Zoledronic Acid in Breast Cancer']",
+    "diseases_list": [
+        "Use of Zoledronic Acid in Breast Cancer"
+    ],
+    "enrollment": "50.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologic evidence of ER/PR positive breast adenocarcinoma \n\n Postmenopausal women. \n\n Baseline LS and total hip BMD T-score > -2.0. \n\n No prior treatment with denosumab or IV bisphosphonates is allowed. \n\n No prior treatment with radiopharmaceuticals. \n\n Not pregnant and not nursing. \n\n Good dental health. \n\n ECOG performance status 0-2. \n\n Calculated creatinine clearance >= 30 mL/min. \n\n Corrected serum calcium >= 8.0 mg/dL (2.00 mmol/L) and < 11.6 mg/dL (2.90 mmol/L) \n\n ",
+    "exclusion_criteria": ": \n\n Patients with dental problems. \n\n Patients with impaired renal functions \n\n Patients with osteopenia, or T- score is below -2.0 \n\n Patients with history of serious drug hypersensitivity or drug allergy.",
+    "brief_summary": "The investigators will involve about 25 Patients of postmenopausal women who have ER/PR positive early breast cancer in each arm.~The study is a two-arm comparative, prospective, interventional, and randomized study. All patients who are on oral daily letrozole (2.5 mg), will be randomly assigned to receive either immediate or delayed ZOL (4 mg via 15-min infusion every 6 months) for 24 months. Immediate-ZOL patients will receive ZOL immediately after randomization; delayed-ZOL patients will receive ZOL only if their T-score fall below -2.0, after a nontraumatic clinical fracture, or if an asymptomatic fracture will be detected by spinal X-ray at the 3- monthly assessment. All patients will receive daily supplements containing calcium (500 mg) and vitamin D (400-800 IU). Baseline bone mineral density and every 3 months will be done for the enrolled patients.",
+    "NCT_ID": "NCT05164952"
+}

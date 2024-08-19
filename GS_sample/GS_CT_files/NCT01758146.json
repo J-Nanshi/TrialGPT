@@ -1,0 +1,18 @@
+{
+    "brief_title": "Impact of Obesity on the Efficacy of Endocrine Therapy With Aromatase Inhibitors",
+    "phase": "Phase 3",
+    "drugs": "['Tamoxifen', 'Letrozole']",
+    "drugs_list": [
+        "Tamoxifen",
+        "Letrozole"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "412.0",
+    "inclusion_criteria": "inclusion criteria: \n\n postmenopausal patients with breast cancer who have hormones receptor positive tumour as defined by the expression of oestrogen receptor (ER) and/or progesterone receptor (PR). \n\n patients with a tumour stage IB, IC, or II irrespective of nodal stage (< 10 positive nodes) \n\n ",
+    "exclusion_criteria": ": \n\n premenopausal patients, \n\n ER/PR negative",
+    "brief_summary": "To see the impact of obesity on the efficacy of adjuvant endocrine therapy with aromatase inhibitors in postmenopausal patients with early breast cancer in terms of:~i) Locoregional recurrence ii) Distant metastases iii) Disease-free survival iv) Overall survival",
+    "NCT_ID": "NCT01758146"
+}

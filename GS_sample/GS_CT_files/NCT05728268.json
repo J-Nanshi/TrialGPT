@@ -1,0 +1,17 @@
+{
+    "brief_title": "Neoadjuvant Dose-dense Chemotherapy for HR+/HER2- Breast Cancer Patients With High Proliferation Index",
+    "phase": "Phase 2",
+    "drugs": "['dose-dense nab-paclitaxel followed by EC']",
+    "drugs_list": [
+        "dose-dense nab-paclitaxel followed by EC"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "64.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Females with age of 18 to 70 years old. \n\n Newly diagnosed breast cancer patients. \n\n Planned neoadjuvant chemotherapy. \n\n Hormone receptor status: Estrogen receptor (ER)-positive or Progesterone Receptor (PR)- positive. \n\n HER2/neu-negative. \n\n Ki67\u226530%. \n\n Clinical stage IIB-IIIC. \n\n Informed consent form understood and signed. \n\n Patient agrees to all follow-up visits. \n\n Eastern Cooperative Oncology Group (ECOG) performance status 0 to 1. \n\n Women of childbearing potential must have a negative serum pregnancy test. \n\n ",
+    "exclusion_criteria": ": \n\n Metastatic disease \n\n Pregnancy. \n\n Nursing mothers. \n\n Active or uncontrolled infection. \n\n Presence of another malignancies. \n\n Granulocyte count < 1.5*10^9/L. \n\n Platelet count < 100*10^9/L. \n\n Hemoglobin < 90g/L. \n\n Serum Creatinine more than 1.5 upper limit. \n\n AST and ALT more than 2.5 upper limit. \n\n LVEF< 50%.",
+    "brief_summary": "Studies have shown that dose-dense chemotherapy reduces the risk of recurrence and death of breast cancer patients comparing with standard-schedule chemotherapy. But some research data indicate that HR+/HER2- breast cancer patients benefit from dose-dense chemotherapy while some have negative results. How to identify HR+/HER2 breast cancer patients who are more likely to benefit from dose-dense chemotherapy is strongly necessary. Ki67 is a marker reflecting the proliferation of tumor cells. Breast cancer patients with high Ki67 are more likely to benefit from dose-dense chemotherapy. The purpose of this project is to investigate the efficacy and safety of neoadjuvant dose-dense chemotherapy for HR+/HER2- breast cancer patients with high proliferation index. At the same time, we will explore biomarkers, such as MammaPrint and BluePrint, to further identify patients who benefit more from neoadjuvant dose-dense chemotherapy.",
+    "NCT_ID": "NCT05728268"
+}

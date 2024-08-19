@@ -1,0 +1,22 @@
+{
+    "brief_title": "Clinical Study of Recombinant Anti-HER2 Humanized Monoclonal Antibody for Injection",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['GB221,2 mg/kg', 'GB221,6 mg/kg', 'Herceptin,6 mg/kg', 'GB221,8mg/kg', 'GB221:2mg/kg and Capecitabi:1000mg/kg', 'Herceptin:2mg/kg and Capecitabin:1000mg/kg']",
+    "drugs_list": [
+        "GB221,2 mg/kg",
+        "GB221,6 mg/kg",
+        "Herceptin,6 mg/kg",
+        "GB221,8mg/kg",
+        "GB221:2mg/kg and Capecitabi:1000mg/kg",
+        "Herceptin:2mg/kg and Capecitabin:1000mg/kg"
+    ],
+    "diseases": "['HER2-positive Breast Cancer']",
+    "diseases_list": [
+        "HER2-positive Breast Cancer"
+    ],
+    "enrollment": "132.0",
+    "inclusion_criteria": "For single dose: \n\n inclusion criteria: \n\n Aged 18 to 65 years; \n\n Histopathologically confirmed breast cancer; \n\n HER-2 positive (definition: the immunohistochemistry (IHC) test of pathological samples showed HER-2 +++ or immunohistochemistry (IHC) test showed HER-2 ++ and positive FISH amplification test); \n\n HER2-positive breast cancer patients who have no lesion after surgery and never received anti-HER-2 treatment; \n\n The investigators consider that the subject has recovered from the toxic reactions caused by the previous chemotherapy 4 weeks after the last chemotherapy. \n\n The expected survival is 3 months or longer; \n\n ECOG performance status is 0, 1 or 2; \n\n The left ventricular ejection fraction (LVEF)\u226550%; \n\n The major organ function is normal and laboratory tests meet relevant criteria: \n\n l Hematology test: \n\n Hb\u226590 g/L (no blood transfusion within 14 days); \n\n ANC\u22651.5\u00d7109 /L; \n\n PLT\u2265100\u00d7109 /L; l Hepatic and renal function tests: \n\n TBIL\u22641.5\u00d7ULN (upper limit of normal); \n\n ALT and AST\u22642.5\u00d7ULN; \n\n Serum Cr \u2264ULN; \n\n Normal coagulation function test; \n\n Voluntarily sign the written informed consent form \n\n ",
+    "exclusion_criteria": ": \n\n Pregnant or breastfeeding females; or women of childbearing potential who have positive urine pregnancy test; or any subjects who are able to bear or father a child but cannot or are unwilling to adopt medically acceptable effective contraceptive methods during the study period and within 3 months after the end of the study; \n\n Subjects who have any of the following cardiac conditions: \n\n Unstable angina pectoris; \n\n Medical history of congestive heart failure; \n\n Previous medical history of myocardial infarction, coronary artery bypass grafting or coronary stent implantation; \n\n Clinically significant pericardial diseases and valvular heart diseases; \n\n Serious uncontrolled arrhythmia; \n\n Any other cardiac diseases which may cause safety risks for patients if they are enrolled in this study; \n\n Uncontrolled hypertension (defined as screening systolic blood pressure \u2265 180mmHg and/or diastolic blood pressure \u2265110mmHg); \n\n Known HIV, HBV or HCV infection; \n\n Allergic constitution; known allergic to the components of the investigational product; \n\n Have drug abuse history or alcohol addiction history; \n\n Participated in other clinical studies within 4 weeks before the initiation of the study; \n\n Have complicated diseases which may interfere with study participation or evaluation at the discretion of the investigator, e.g., uncontrolled infection, coagulation disorders and other diseases, or the investigators consider that participation in this study may lead to greater risks for patients. \n\n For multiple dose groups: \n\n inclusion criteria: \n\n Aged 18 to 65 years; \n\n Histopathologically confirmed breast cancer; \n\n HER-2 positive (definition: the immunohistochemistry (IHC) test of pathological samples showed HER-2 +++ or immunohistochemistry (IHC) test showed HER-2 ++ and positive FISH amplification test); \n\n Patients with metastatic breast cancer who failed to respond to previous chemotherapy and no more than three lines, and never received anti-HER-2 treatment(subjects in single dose group who experienced disease progression but meet other inclusion/",
+    "brief_summary": "A randomized, multicenter, Phase I/IIa clinical study to evaluate the tolerability, safety, efficacy, pharmacokinetics and immunogenicity after single/multiple administration of recombinant anti-HER2 humanized monoclonal antibody for injection for the treatment of HER2-positive breast cancer patients.",
+    "NCT_ID": "NCT04170595"
+}

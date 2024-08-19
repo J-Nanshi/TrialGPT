@@ -1,0 +1,17 @@
+{
+    "brief_title": "Comparison of Fulvestrant (FASLODEX\u2122) 250 mg and 500 mg in Postmenopausal Women With Oestrogen Receptor Positive Advanced Breast Cancer Progressing or Relapsing After Previous Endocrine Therapy.",
+    "phase": "Phase 3",
+    "drugs": "['Fulvestrant']",
+    "drugs_list": [
+        "Fulvestrant"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "736.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Breast Cancer has continued to grow after having received treatment with an anti-estrogen hormonal treatment such as tamoxifen or an aromatase inhibitor \n\n Requiring hormonal treatment \n\n Postmenopausal women defined as a woman who has stopped having menstrual periods \n\n Evidence of positive estrogen receptor hormone sensitivity \n\n Written informed consent to participate in the trial \n\n ",
+    "exclusion_criteria": ": \n\n Treatment with an investigational or non-approved drug within one month \n\n An existing serious disease, illness, or condition that will prevent participation or compliance with study procedures \n\n A history of allergies to any active or inactive ingredients of Faslodex (i.e. castor oil) \n\n Treatment with more than one regimen of chemotherapy for advanced breast cancer \n\n Treatment with more than one regimen of hormonal treatment for advanced breast cancer",
+    "brief_summary": "The purpose of this study is to evaluate the efficacy of a new dose of 500 mg Fulvestrant with the standard dose of 250 mg in postmenopausal women with oestrogen receptor positive advanced breast cancer who have failed on a previous endocrine treatment.",
+    "NCT_ID": "NCT00099437"
+}

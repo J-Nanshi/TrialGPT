@@ -1,0 +1,21 @@
+{
+    "brief_title": "Addition of Cisplatin to Adjuvant Chemotherapy for Early Stage Breast Cancer in High-Risk Women",
+    "phase": "Phase 3",
+    "drugs": "['Paclitaxel, Cisplatin', 'EC to docetaxel or paclitaxel']",
+    "drugs_list": [
+        "Paclitaxel",
+        "Cisplatin",
+        "EC to docetaxel or paclitaxel"
+    ],
+    "diseases": "['Tubular Breast Cancer', 'Mucinous Breast Cancer', 'Invasive Duct Carcinoma of Breast']",
+    "diseases_list": [
+        "Tubular Breast Cancer",
+        "Mucinous Breast Cancer",
+        "Invasive Duct Carcinoma of Breast"
+    ],
+    "enrollment": "762.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women aged \u226518 years and \u226470 years \n\n Have accepted surgical treatment, histologically confirmed early breast cancer, the pathological types of invasive carcinoma \n\n Not received treatment for breast cancer before operation \n\n Triple-negative breast cancer confirmed by pathology, or pathology confirmed as the HR positive breast cancer at the same time meet the following conditions: axillary lymph node positive breast cancer, tumor size\u22652 cm and Ki - 67 >20% or tumor size \u22652 cm and grade III or tumor size \u22652cm and aged <35 years \n\n HER2 negative: immunohistochemistry HER2 (1 +) or HER2 (0), or fluorescence in situ hybridization (FISH): not amplified \n\n Performance status (PS) 0-1 \n\n Adequate bone marrow function:WBC\u22654.0\u00d7109/L, Absolute neutrophil count\uff08ANC\uff09\u22651.5\u00d7109/L, Platelets\uff08PLT\uff09\u2265100\u00d7109/L, Hemoglobin\uff08Hb\uff09\u226590g/L;aspartate aminotransferase(AST),Alanine aminotransferase (ALT)\u22641.5 upper normal limit , creatinine\u22641.5 upper normal limit, bilirubin\u22641.5 upper normal limit \n\n No obvious main organs dysfunction \n\n ",
+    "exclusion_criteria": ": \n\n metastatic breast cancer \n\n Patient is pregnant or breast feeding \n\n Any evidence of sense or motor nerve disorders \n\n Bilateral Primary Breast Cancer (DCIS in one side not included) \n\n Patients with medical conditions taht indicate intolerant to adjuvant chemotherapy, including uncontrolled cardiovascular disease, severe infection \n\n Have received chemotherapy because of any malignancy other than breast cancer \n\n Known severe hypersensitivity to any drugs in this study",
+    "brief_summary": "The investigators hypotheses that paclitaxel combined with cisplatin in a weekly-based regimen as adjuvant chemotherapy is more effective for high risk, HER2 negative breast cancer .",
+    "NCT_ID": "NCT03201861"
+}

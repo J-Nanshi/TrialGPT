@@ -1,0 +1,23 @@
+{
+    "brief_title": "A Study of Fruquintinib in Combination With Tislelizumab in Advanced Solid Tumors",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['Fruquintinib', 'Tislelizumab']",
+    "drugs_list": [
+        "Fruquintinib",
+        "Tislelizumab"
+    ],
+    "diseases": "['Endometrial Cancer', 'Solid Tumor, Unspecified, Adult', 'Colorectal Cancer', 'Triple Negative Breast Cancer']",
+    "diseases_list": [
+        "Endometrial Cancer",
+        "Solid Tumor",
+        "Unspecified",
+        "Adult",
+        "Colorectal Cancer",
+        "Triple Negative Breast Cancer"
+    ],
+    "enrollment": "112.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Willing and able to provide informed consent signed by study patient or legally acceptable representative, as specified by health authorities and institutional guidelines; \n\n Age \u226518 years; \n\n Histologically or cytologically documented, advanced or metastatic Triple Negative Breast Cancer, histologically or cytologically documented, advanced or metastatic endometrial carcinoma, histologically or cytologically confirmed advanced or metastatic, unresectable adenocarcinoma of the colon or rectum. \n\n Tumor tissue (archival or fresh tumor tissues as formalin-fixed paraffin-embedded blocks or approximately 15 unstained slides) for central laboratory assessment. \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status \u22641. \n\n At least 1 measurable lesion as defined by RECIST v1.1. \n\n ",
+    "exclusion_criteria": ": \n\n Has at screening any central nervous system metastasis and/or leptomeningeal disease. \n\n Except for Cohort A, Prior therapy targeting CTLA-4, PD-1, PD-L1 or programmed cell death protein ligand-2 (PD-L2) or any other antibody or drug specifically targeting T-cell costimulation or checkpoint pathways. \n\n Prior treatment with a VEGFR-TKI or anti-VEGFR antibody (eg, ramucirumab). \n\n Except for Cohort D, prior treatment with an anti-VEGFR antibody (eg, bevacizumab). \n\n Tumor tissue (archival or fresh tumor tissues as formalin-fixed paraffin-embedded blocks or approximately 15 unstained slides) for central laboratory assessment. \n\n Active autoimmune diseases or history of autoimmune diseases that may relapse, or history of interstitial lung disease, noninfectious pneumonitis, or uncontrolled lung diseases including but not limited to pulmonary fibrosis, acute lung diseases, etc. \n\n NOTE: Other protocol defined Inclusion/",
+    "brief_summary": "This is an open-label, multi-center, non-randomized, Phase 1b/2 study to assess the safety and efficacy of fruquintinib in combination with tislelizumab in patients with locally advanced or metastatic solid tumors. This study will be conducted in 2 parts; a Safety Lead-in Phase (Part 1) and a Dose Expansion Phase (Part 2).~The Safety Lead-in Phase, open to any-comer solid tumors, will determine the RP2D. The RP2D will be administered to 3 cohorts of patients in the Dose Expansion Phase.~Cohort A: Advanced or Metastatic Triple Negative Breast Cancer (TNBC) (IO-treated)~Cohort B: Advanced or Metastatic Triple Negative Breast Cancer (TNBC) (IO-Na\u00efve)~Cohort C: Advanced or Metastatic Endometrial Cancer (EC) (IO-Na\u00efve)~Cohort D: Advanced or Metastatic Colorectal Cancer (mCRC) (IO-Na\u00efve)",
+    "NCT_ID": "NCT04577963"
+}

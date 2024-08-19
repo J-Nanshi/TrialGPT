@@ -1,0 +1,17 @@
+{
+    "brief_title": "A Study of TAS0612 in Participants With Advanced or Metastatic Solid Tumor Cancer",
+    "phase": "Phase 1",
+    "drugs": "['TAS0612']",
+    "drugs_list": [
+        "TAS0612"
+    ],
+    "diseases": "['Advanced or Metastatic Solid Tumors']",
+    "diseases_list": [
+        "Advanced or Metastatic Solid Tumors"
+    ],
+    "enrollment": "242.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Dose Escalation: have evidence of a solid tumor that is locally advanced and/or metastatic (excluding primary brain tumor) \n\n Dose Expansion: have evidence of a solid tumor as outlined below that is locally advanced and/or metastatic (excluding primary brain tumor) \n\n Cohort A: Human epidermal growth factor negative (HER2 negative) Breast Cancer with an NF1 mutation \n\n Cohort B: Hormone receptor positive (HR+)/HER2 negative breast cancer after progression on endocrine therapy and a CDK4/6 inhibitor \n\n Cohort C: PTEN loss or mutations \n\n Cohort D: KRAS G12C mutation \n\n Cohort E: KRAS G12D mutation \n\n Have adequate organ function \n\n Amenable to biopsy \n\n Have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) scale \n\n ",
+    "exclusion_criteria": ": \n\n Participating in medical research not compatible with this study \n\n Have not discontinued or recovered from previous treatments for cancer \n\n Have a significant cardiac condition \n\n Have untreated brain metastases \n\n Have a primary brain tumor \n\n Have a serious concomitant disorder \n\n Unable to swallow or digest pills \n\n Poorly controlled diabetes \n\n Concomitant medications or substances that are strong inhibitors/inducers of CYP3A.Study",
+    "brief_summary": "The purpose of this study is to see if TAS0612 is safe in participants with advanced or metastatic solid tumor cancer.",
+    "NCT_ID": "NCT04586270"
+}

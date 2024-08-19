@@ -1,0 +1,19 @@
+{
+    "brief_title": "A Study of Pertuzumab in Combination With Herceptin in Patients With HER2 Positive Breast Cancer.",
+    "phase": "Phase 2",
+    "drugs": "['Herceptin', 'Docetaxel', 'Pertuzumab']",
+    "drugs_list": [
+        "Herceptin",
+        "Docetaxel",
+        "Pertuzumab"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "417.0",
+    "inclusion_criteria": "inclusion criteria: \n\n female patients, >=18 years of age; \n\n locally advanced, inflammatory or early stage invasive breast cancer; \n\n HER2 positive (HER2+++ by IHC or FISH/CISH+). \n\n ",
+    "exclusion_criteria": ": \n\n metastatic disease (Stage IV) or bilateral breast cancer; \n\n previous anticancer therapy or radiotherapy for any malignancy; \n\n other malignancy, other than cancer in situ of the cervix, or basal cell cancer; \n\n insulin-dependent diabetes; \n\n clinically relevant cardiovascular disease.",
+    "brief_summary": "This 4 arm study will evaluate the efficacy and safety of 4 neoadjuvant treatment regimens in female patients with locally advanced, inflammatory or early stage HER2 positive breast cancer. Before surgery, patients will be randomized to one of 4 treatment arms, to receive 4 cycles of a)Herceptin + docetaxel b)Herceptin + docetaxel + pertuzumab c)Herceptin + pertuzumab or 4)pertuzumab + docetaxel. Pertuzumab will be administered at a loading dose of 840mg iv, then 420mg iv 3-weekly, Herceptin at a loading dose of 8mg/kg iv then 6mg/kg 3-weekly, and docetaxel at a dose of 75mg/m2 escalating to 100mg/m2 3-weekly. During the entire pre- and post-surgery period all patients will receive adequate chemotherapy as per standard of care, as well as any surgery and/or radiotherapy as required. The anticipated time on study treatment is 3-12 months, and the target sample size is 100-500 individuals.",
+    "NCT_ID": "NCT00545688"
+}

@@ -1,0 +1,18 @@
+{
+    "brief_title": "Study of Oral RXDX-101 in Adult Patients With Locally Advanced or Metastatic Cancer Targeting NTRK1, NTRK2, NTRK3, ROS1, or ALK Molecular Alterations.",
+    "phase": "Phase 1",
+    "drugs": "['Entrectinib']",
+    "drugs_list": [
+        "Entrectinib"
+    ],
+    "diseases": "['Locally Advanced Solid Tumors', 'Metastatic Solid Tumors']",
+    "diseases_list": [
+        "Locally Advanced Solid Tumors",
+        "Metastatic Solid Tumors"
+    ],
+    "enrollment": "84.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n Histologically or cytologically confirmed diagnosis of locally advanced or metastatic solid tumors that have a NTRK1, NTRK2, NTRK3, ROS1, or ALK molecular alteration. \n\n Measurable disease according to RECIST version 1.1. \n\n Prior cancer therapy is allowed, including crizotinib, ceritinib, and investigational drugs. \n\n Prior radiotherapy is allowed \n\n Patients with controlled asymptomatic central nervous system involvement are allowed. \n\n Resolution of all acute toxic effects (excluding alopecia) of any prior anti-cancer therapy to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version 4.03 Grade less than or equal to 1. \n\n Eastern Cooperative Oncology Group (ECOG) performance status (PS) \u2264 2. \n\n Adult patients age 18 years or older. \n\n Life expectancy of at least 3 months. \n\n Key ",
+    "exclusion_criteria": ": \n\n Current participation in another therapeutic clinical trial. \n\n Prior treatment with entrectinib. \n\n History of prolonged QTc interval (e.g., repeated demonstration of a QTc interval > 450 milliseconds). \n\n History of additional risk factors for torsade de pointes (e.g., family history of long QT syndrome). \n\n Known active infections (bacterial, fungal, viral including HIV positivity). \n\n Gastrointestinal disease (e.g., Crohn's disease, ulcerative colitis, or short gut syndrome) or other malabsorption syndromes that would impact on drug absorption. \n\n Known interstitial lung disease, interstitial fibrosis, or history of tyrosine kinase inhibitor-induced pneumonitis. \n\n Peripheral neuropathy \u2265 Grade 2.",
+    "brief_summary": "Entrectinib (RXDX-101) is an orally available inhibitor of the tyrosine kinases TrkA (coded by the gene NTRK1), TrkB (coded by the gene NTRK2), TrkC (coded by the gene NTRK3), ROS1 (coded by the gene ROS1), and ALK (coded by the gene ALK). Molecular alterations to one or more of these targets are present in several different tumor types, including non-small cell lung cancer (NSCLC), colorectal cancer (CRC), prostate cancer, papillary thyroid cancer, pancreatic cancer, and neuroblastoma. Patients with locally advanced or metastatic cancer with a detectable molecular alteration in targets of interest may be eligible for enrollment.~Phase 1 will assess safety and tolerability of entrectinib via standard dose escalation scheme and determine the recommended Phase 2 dose. Safety and efficacy will be assessed in the dose expansion portion of the study.",
+    "NCT_ID": "NCT02097810"
+}

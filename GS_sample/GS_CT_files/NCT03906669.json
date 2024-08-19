@@ -1,0 +1,20 @@
+{
+    "brief_title": "A Window of Opportunity Study of Pre-operative Endocrine Therapy With and Without Prometrium in Postmenopausal Women With Early Stage Breast Hormone Receptor Positive (HR+) Human Epidermal Receptor 2 Negative (HER2-) Breast Cancer.",
+    "phase": "Phase 2",
+    "drugs": "['Letrozole', 'Letrozole and Prometrium', 'Tamoxifen and Prometrium']",
+    "drugs_list": [
+        "Letrozole",
+        "Letrozole and Prometrium",
+        "Tamoxifen and Prometrium"
+    ],
+    "diseases": "['Early-stage Breast Cancer', 'Hormone Receptor Positive Tumor']",
+    "diseases_list": [
+        "Early-stage Breast Cancer",
+        "Hormone Receptor Positive Tumor"
+    ],
+    "enrollment": "200.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically confirmed ER+ and PR+ breast cancer (defined as \u226510% positive staining cells) \n\n Histologically confirmed HER2-negative breast cancer (defined as IHC 0-1 and/or FISH/CISH <2.2) \n\n Tumour size \u22651 cm as measured by ultrasound and/or mammogram \n\n Ability to understand all patient information and informed-consent documents, written informed consent to participate in the trial, and to avail tissue and blood samples for research \n\n Aged 18 years or older \n\n ",
+    "exclusion_criteria": ": \n\n Women currently on hormone therapies, including hormone replacement therapy and oral contraceptive pill \n\n Locally advanced/inoperable and inflammatory breast cancer \n\n Planned for a mastectomy (due to increased risk of venous thromboembolism) \n\n Clinical evidence of metastatic disease \n\n Patients treated with other preoperative systemic therapies \n\n Nut allergy (prometrium contains peanut oil) \n\n Prior history of uterine cancer, deep vein thrombosis, pulmonary embolism or clotting disorder \n\n Women who are pregnant or breast-feeding",
+    "brief_summary": "A phase II randomised, open label study of pre-operative endocrine therapy with & without prometrium in postmenopausal women with early stage breast hormone receptor positive (HR+) human epidermal receptor 2 negative (HER2-) breast cancer.",
+    "NCT_ID": "NCT03906669"
+}

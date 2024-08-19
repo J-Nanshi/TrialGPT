@@ -1,0 +1,18 @@
+{
+    "brief_title": "Study Assessing the Efficacy and Safety of Treatment With Alpelisib Plus Fulvestrant in Japanese Men and Postmenopausal Women With Advanced Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Alpelisib', 'Fulvestrant']",
+    "drugs_list": [
+        "Alpelisib",
+        "Fulvestrant"
+    ],
+    "diseases": "['Advanced Breast Cancer']",
+    "diseases_list": [
+        "Advanced Breast Cancer"
+    ],
+    "enrollment": "50.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Japanese man or postmenopausal woman \n\n Participant has adequate tumor tissue for the analysis of PIK3CA mutational status by a Novartis designated laboratory. \n\n Participant has identified PIK3CA mutation (as determined by a Novartis designated laboratory) \n\n Participant has a histologically and/or cytologically confirmed diagnosis of ER+ and/or PgR+ breast cancer by local laboratory \n\n Participant has HER2-negative breast cancer defined as a negative in situ hybridization test or an IHC status of 0, 1+ or 2+. If IHC is 2+, a negative in situ hybridization (FISH, CISH or SISH) test is required by local laboratory testing \n\n Participant has measurable disease, i.e., at least one measurable lesion as per RECIST 1.1 \n\n Participant has advanced breast cancer \n\n Participant has ECOG performance status 0 or 1 \n\n ",
+    "exclusion_criteria": ": \n\n Participant with symptomatic visceral disease or any disease burden that makes the participant ineligible for endocrine therapy per the investigator's best judgment \n\n Participant has received prior treatment; \n\n with chemotherapy (except for neoadjuvant/ adjuvant chemotherapy), fulvestrant, any PI3K, mTOR or AKT inhibitor for Cohort 1 and 3 \n\n with chemotherapy (except for neoadjuvant/ adjuvant chemotherapy), fulvestrant, any PI3K, mTOR, AKT inhibitor or CDK 4/6 inhibitor for Cohort 2 \n\n Participant has a known hypersensitivity to alpelisib or fulvestrant, or to any of the excipients of alpelisib or fulvestrant \n\n Participant with inflammatory breast cancer at screening \n\n Participant is concurrently using other anti-cancer therapy \n\n Participant has had surgery within 14 days prior to starting study drug or has not recovered from major side effects \n\n Participant with an established diagnosis at screening of diabetes mellitus type I or not controlled type II (based on FPG and HbA1c) \n\n Participant has currently documented pneumonitis /interstitial lung disease \n\n History of acute pancreatitis within 1 year of screening or past medical history of chronic pancreatitis \n\n Participant with unresolved osteonecrosis of the jaw \n\n Participant has a history of severe cutaneous reactions \n\n Other protocol-defined inclusion/",
+    "brief_summary": "The purpose of this study is to assess the safety and efficacy of alpelisib plus fulvestrant in men and postmenopausal women with hormone receptor (HR) positive, human epidermal growth factor 2 (HER2)-negative, advanced breast cancer harboring a PIK3CA mutation in Japan, whose disease has progressed on or after aromatase inhibitor (AI) treatment regardless of prior CDK4/6 inhibitor use.",
+    "NCT_ID": "NCT04524000"
+}

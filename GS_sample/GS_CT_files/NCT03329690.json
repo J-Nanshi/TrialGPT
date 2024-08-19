@@ -1,0 +1,19 @@
+{
+    "brief_title": "DS-8201a in Human Epidermal Growth Factor Receptor 2 (HER2)-Expressing Gastric Cancer [DESTINY-Gastric01]",
+    "phase": "Phase 2",
+    "drugs": "['DS-8201a', \"Physician's Choice\"]",
+    "drugs_list": [
+        "DS-8201a",
+        "Physician's Choice"
+    ],
+    "diseases": "['Neoplasm, Gastrointestinal']",
+    "diseases_list": [
+        "Neoplasm",
+        "Gastrointestinal"
+    ],
+    "enrollment": "233.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Has a pathologically documented locally advanced or metastatic adenocarcinoma of gastric or gastroesophageal junction \n\n Progression on and after at least 2 prior regimens \n\n Has an adequate tumor sample \n\n Has measurable disease based on Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1 \n\n ",
+    "exclusion_criteria": ": \n\n Has a medical history of myocardial infarction, symptomatic congestive heart failure (CHF) (NYHA classes II-IV), unstable angina or serious cardiac arrhythmia \n\n Has a QTc prolongation to > 450 millisecond (ms) in males and > 470 ms in females \n\n Has a medical history of clinically significant lung disease \n\n Is suspected to have certain other protocol-defined diseases based on imaging at screening period \n\n Has history of any disease, metastatic condition, drug/medication use or other condition that might, per protocol or in the opinion of the investigator, compromise: \n\n safety or well-being of the participant or offspring \n\n safety of study staff \n\n analysis of results",
+    "brief_summary": "The primary purpose of this trial is to compare the efficacy and safety of DS-8201a and physician's choice treatment in HER2-overexpressing advanced gastric or gastroesophageal junction adenocarcinoma patients who have progressed on two prior treatment regimens including fluoropyrimidine agent, platinum agent, and trastuzumab.",
+    "NCT_ID": "NCT03329690"
+}

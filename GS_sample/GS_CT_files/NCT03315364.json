@@ -1,0 +1,18 @@
+{
+    "brief_title": "Oral Paclitaxel Trial In Recurrent and Metastatic Breast Cancer As 1st Line Therapy",
+    "phase": "Phase 2; Phase 3",
+    "drugs": "['Oral paclitaxel', 'Paclitaxel injection']",
+    "drugs_list": [
+        "Oral paclitaxel",
+        "Paclitaxel injection"
+    ],
+    "diseases": "['Recurrent or Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Recurrent or Metastatic Breast Cancer"
+    ],
+    "enrollment": "476.0",
+    "inclusion_criteria": "Key inclusion/",
+    "exclusion_criteria": " \n\n Histologically or cytologically confirmed to have recurrent, or metastatic breast cancer. \n\n Measurable disease (revised RECIST, version 1.1). \n\n Hormone receptor (ER/PR) positive or negative, HER2 negative. \n\n Subjects were eligible for the study regardless of their previous lines of endocrine therapy. \n\n No prior chemotherapy is allowed in metastatic disease. \n\n Subjects who administrated the last dose of taxane class drug \u226512months ago as from the first administration day. \n\n ECOG performance status \u22641. \n\n Neuropathy grade <2. \n\n Subjects with central nervous system metastasis should be excluded.",
+    "brief_summary": "To compare and evaluate the efficacy and safety of Liporaxel\u00ae solution (oral paclitaxel) and Taxol\u00ae (IV paclitaxel) on recurrent or metastatic breast cancer.",
+    "NCT_ID": "NCT03315364"
+}

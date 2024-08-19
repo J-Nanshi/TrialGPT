@@ -1,0 +1,20 @@
+{
+    "brief_title": "A Study of PF-07260437 in Advanced or Metastatic Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['PF-07260437', 'B7-H4 IHC']",
+    "drugs_list": [
+        "PF-07260437",
+        "B7-H4 IHC"
+    ],
+    "diseases": "['Ovarian Neoplasms', 'Endometrial Neoplasms', 'Breast Neoplasms']",
+    "diseases_list": [
+        "Ovarian Neoplasms",
+        "Endometrial Neoplasms",
+        "Breast Neoplasms"
+    ],
+    "enrollment": "100.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Part 1: Histological/cytological diagnosis of selected locally advanced or metastatic breast cancer, endometrial cancer and ovarian cancer \n\n Part 2A:In second line or more, participants with histological/cytological diagnosis of locally advanced or metastatic HR+ HER2- breast cancer showing high B7-H4 expression \n\n Part 2B: In second line or more participants with histological or cytological diagnosis of locally advance or metastatic HR+ Her2- breast cancer or triple negative breast cancer (TNBC) with no biomarker pre-selection \n\n Part 2C: In second line or more participants with histological diagnosis of locally advance or metastatic triple negative breast cancer with high B7-H4 expression \n\n Thyroid function within normal laboratory range; in participants with abnormal thyroid function if Free T4 is normal and participant is clinically euthyroid, participants is eligible \n\n ",
+    "exclusion_criteria": ": \n\n Participants with any active malignancy within 3 years prior to enrollment \n\n Participants with advanced/metastatic, symptomatic, visceral spread, that are at risk of life-threatening complications in the short term (including participants with massive uncontrolled effusions [pleural, pericardial, peritoneal], pulmonary lymphangitis, and over 50% liver involvement). \n\n History of Grade \u22653 immune mediated adverse events (including liver function tests that where considered drug related and cytokine release syndrome) that was considered related to prior immune modulatory therapy (eg, immune checkpoint inhibitors, co stimulatory agents, etc.) and required immunosuppressive therapy within 1 year of treatment.",
+    "brief_summary": "A study to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), and antitumor activity of PF-07260437, a B7-H4 x CD3 bispecific mAb, in participants aged \u226518 years of age with advanced or metastatic breast cancer, ovarian cancer or endometrial cancer. Adult participants with other advanced or metastatic high B7-H4 expressing tumors may be considered after discussion with and approval from sponsor.",
+    "NCT_ID": "NCT05067972"
+}

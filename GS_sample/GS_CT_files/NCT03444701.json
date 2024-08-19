@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study of E7130 in Participants With Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['E7130', 'E7130']",
+    "drugs_list": [
+        "E7130",
+        "E7130"
+    ],
+    "diseases": "['Solid Tumors']",
+    "diseases_list": [
+        "Solid Tumors"
+    ],
+    "enrollment": "95.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Participants who have provided voluntary written consent for participation in this clinical study \n\n Participants to whom the rules for complying with this clinical study have been adequately explained, and who intend to and can comply with those rules \n\n Participants age greater than or equal to (>=) 20 years at the time of informed consent \n\n Participants with adequate function of major organs \n\n Participants with Performance Status score of 0 to 1 established by the Eastern Cooperative Oncology Group \n\n Participants who are expected to survive for 3 months or longer after starting administration of the investigational drug \n\n Washout period required from the end of prior treatment to the first administration of study drug \n\n Participants agree to submit blood samples prior and during study treatment for progressive disease markers. \n\n inclusion criteria (Part 2 only): \n\n Measurable disease meeting the following criteria: \n\n At least 1 lesion of >=1.0 centimeter (cm) in the longest diameter for a non-lymph node or >=1.5 cm in the short-axis diameter for a lymph node that is serially measurable according to response evaluation criteria in solid tumours (RECIST) 1.1 using computerized tomography/magnetic resonance imaging (CT/MRI). \n\n Lesions that have had external beam radiotherapy (EBRT) or locoregional therapies such as radiofrequency (RF) ablation must show evidence of progressive disease based on RECIST 1.1 to be deemed a target lesion. \n\n ",
+    "exclusion_criteria": ": \n\n Medical history of clinically significant cardiovascular impairment \n\n Concomitant systemic infection requiring medical treatment (including bacterial infection and fungal infection) \n\n Participants who test positive for human immunodeficiency virus (HIV antibody) \n\n Active viral hepatitis (B or C) as demonstrated by positive serology or requiring treatment hepatitis B surface antigen (HBsAg), hepatitis B surface antibody (anti-HBs)/hepatitis B core antibody (HBcAb) and anti-hepatitis C virus (HCV) antibody test. \n\n Effusion requiring drainage \n\n Participants whose toxicity of previous treatment has not recovered to Grade 1 or lower (except for alopecia) \n\n Other active malignancy \n\n Females who are breastfeeding or pregnant at Screening or Baseline (as documented by a positive beta-human chorionic gonadotropin [\u00df-hCG] or human chorionic gonadotropin [hCG]). \n\n Women of childbearing potential or men of impregnate potential who don't agree that both the participant and his/her partner will use a medically effective method for contraception during the study and after study drug discontinuation (male; 90 days, female; 60 days) \n\n Known intolerance to the study drug or any of the excipients \n\n Any medical or other condition that in the opinion of the investigator(s) would preclude the participant's participation in the study \n\n Scheduled for surgery during the study \n\n Diagnosed with meningeal carcinomatosis \n\n Participants with brain or subdural metastases are not eligible.",
+    "brief_summary": "The primary objective of this study is to evaluate the tolerability and safety profile of E7130 in participants with advanced solid tumors.",
+    "NCT_ID": "NCT03444701"
+}

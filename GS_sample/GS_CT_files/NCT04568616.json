@@ -1,0 +1,18 @@
+{
+    "brief_title": "Neoadjuvant ArOMatase Inhibitor Therapy for ER+ Breast Cancer (NAOMI)",
+    "phase": "Phase 2",
+    "drugs": "['Letrozole 2.5mg']",
+    "drugs_list": [
+        "Letrozole 2.5mg"
+    ],
+    "diseases": "['Breast Cancer', 'ER Positive Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "ER Positive Breast Cancer"
+    ],
+    "enrollment": "28.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologic documentation of invasive breast cancer by core needle or incisional biopsy. Excess baseline biopsy tumor tissue sufficient to make ten 5-micron sections must be available for research use as part of this study. \n\n The invasive cancer must be estrogen receptor alpha (ER)-positive, with ER staining present in greater than 50% of invasive cancer cells by IHC. \n\n The invasive cancer must be HER2-negative (IHC 0-1+, or with a FISH ratio of <1.8 if IHC is 2+ or if IHC has not been done). \n\n Clinical Stage I-III invasive breast cancer with the intent to treat with surgical resection of the primary tumor. Baseline tumor must be \u22651 cm to provide adequate tissue. \n\n Patients with multicentric or bilateral disease are eligible if the subject is a candidate for clinically indicated neoadjuvant endocrine therapy. Samples from all available tumors are requested for research purposes. \n\n Women over 18 years of age, for whom neoadjuvant treatment with an aromatase inhibitor would be clinically indicated. Women must be surgically, medically, or naturally post-menopausal. \n\n Patients must meet the following clinical laboratory criteria: \n\n Absolute neutrophil count (ANC) \u2265 1,000/mm3 and platelet count \u2265 75,000/mm3. \n\n Total bilirubin \u2264 1.5 x the upper limit of the normal range (ULN). \n\n Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \u2264 3 x ULN. \n\n Ability to give informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Prior endocrine therapy for any histologically-confirmed cancer is not allowed. Prior endocrine therapy that was administered \u22655 years ago for the prevention of breast cancer in patients with no history of breast cancer is allowed. \n\n Any other neoadjuvant therapy for breast cancer. Bisphosphonate treatment for bone symptoms is allowed. \n\n Women who are pregnant or lactating.",
+    "brief_summary": "This is a single-arm, open-label study testing the effects of neoadjuvant therapy with the aromatase inhibitor letrozole in post-menopausal women with Stage I-III ER+, HER2- breast cancer. Eligible subjects will be treated with letrozole therapy for 4 to 12 weeks prior to surgical resection of the tumor. Tumor specimens obtained at baseline (diagnostic biopsy) and at surgery (surgical specimen) will be compared using molecular analyses. A subset of subjects will be asked to provide an optional research tumor biopsy prior to treatment for molecular analysis.",
+    "NCT_ID": "NCT04568616"
+}

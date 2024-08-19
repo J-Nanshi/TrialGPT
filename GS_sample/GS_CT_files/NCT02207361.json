@@ -1,0 +1,20 @@
+{
+    "brief_title": "Paclitaxel in Combination With Carboplatin Versus Paclitaxel Plus Epirubicin in Metastatic Breast Cancer",
+    "phase": "Phase 4",
+    "drugs": "['Paclitaxel, Carboplatin', 'Paclitaxel, Epirubicin']",
+    "drugs_list": [
+        "Paclitaxel",
+        "Carboplatin",
+        "Paclitaxel",
+        "Epirubicin"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "120.0",
+    "inclusion_criteria": "inclusion criteria: \n\n female \u2265 18 years old, ECOG 0-2 or KPS\u226560, Expected lifetime more than 12 weeks. \n\n ",
+    "exclusion_criteria": ": \n\n Pregnancy, Paclitaxel, platinum and anthracycline-based drugs' allergy, Severe Infection.",
+    "brief_summary": "Paclitaxel plus Epirubicin in metastatic breast cancer is a recommended scheme in National Comprehensive Cancer Network (NCCN) guideline. Paclitaxel in Combination with Carboplatin is also effective in Metastatic Breast Cancer (MBC) in some clinical study with small sample.",
+    "NCT_ID": "NCT02207361"
+}

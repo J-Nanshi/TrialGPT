@@ -1,0 +1,18 @@
+{
+    "brief_title": "Neoadjuvant Trastuzumab and Letrozole for Postmenopausal Women",
+    "phase": "Phase 2",
+    "drugs": "['Trastuzumab', 'Letrozole']",
+    "drugs_list": [
+        "Trastuzumab",
+        "Letrozole"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "132.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Invasive cancer (clinical stage IB-IIIC) \n\n Measurable tumor larger than 1cm \n\n ECOG status 0 or 1 \n\n Postmenopausal women \n\n Age \u226555 years and amenorrhea \n\n Age <55 years and amenorrhea for \u226512 months with FSH >30 mIU/ml \n\n HER2 positive tumor \n\n 3 positive on IHC \n\n 2 positive on IHC with HER2 gene amplification on FISH or SISH using a single-probe or dual-probe \n\n Estrogen receptor positive tumor \n\n Positive ER expression with Allred score more than PS3/TS8 or modified Allred score more than PS4/TS7 \n\n Eligible cardiac function \n\n Normal heard evaluated by ECG \n\n Consider clinically non-significant arrythmia and ischemic change as normal \n\n LVEF \u2265 55% measured by ECHO or MUGA scan \n\n ",
+    "exclusion_criteria": ": \n\n Inflammatory breast cancer \n\n Bilateral breast cancer \n\n Patients with previous breast cancer history \n\n Patients with previous breast cancer treatment: Generally include hormone therapy, chemotherapy, and radiotherapy) \n\n Patients having uncontrolled heart problems \n\n Ischemic heart disease within 6 months \n\n Congestive heart failure more than NYHA class II \n\n Unstable angina \n\n Clinically significant pericarditis \n\n Amyloid heart disease",
+    "brief_summary": "The purpose of this study is to evaluate whether trastuzumab and letrozole are effective and safe in the preoperative treatment for postmenopausal patients with hormone receptor-positive and HER2-positive breast cancer.",
+    "NCT_ID": "NCT02214004"
+}

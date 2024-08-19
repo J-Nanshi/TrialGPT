@@ -1,0 +1,22 @@
+{
+    "brief_title": "A Study Evaluating Megestrol Acetate Modulation in Hormone Receptor Positive Advanced Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Megestrol Acetate 160Mg Tablet', 'Anastrozole 1Mg Tablet', 'Letrozole 2.5Mg Tablet', 'Exemestane 25 MG', 'Tamoxifen 20Mg Tablet', 'Fulvestrant 50Mg Solution for Injection']",
+    "drugs_list": [
+        "Megestrol Acetate 160Mg Tablet",
+        "Anastrozole 1Mg Tablet",
+        "Letrozole 2.5Mg Tablet",
+        "Exemestane 25 MG",
+        "Tamoxifen 20Mg Tablet",
+        "Fulvestrant 50Mg Solution for Injection"
+    ],
+    "diseases": "['Breast Neoplasm']",
+    "diseases_list": [
+        "Breast Neoplasm"
+    ],
+    "enrollment": "20.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Metastatic breast cancer with ER and/or PR positive (primary tumor) \n\n Metastatic site amenable to biopsy \n\n ",
+    "exclusion_criteria": ": \n\n Platelet count below 100,000 / mm3 \n\n Renal or hepatic impairment \n\n Coagulation disorder",
+    "brief_summary": "This pilot trial evaluates in vivo megestrol acetate (MA) modulation of steroidal receptors in advanced breast cancer.",
+    "NCT_ID": "NCT03024580"
+}

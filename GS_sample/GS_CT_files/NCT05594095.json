@@ -1,0 +1,33 @@
+{
+    "brief_title": "SNF Platform Study of HR+/ HER2-advanced Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['PIK3CA inhibitor', 'AKT inhibitor', 'Carrelizumab', 'Famitinib', 'Fluzoparib', 'Dalpiciclib', 'SHR-A1811', 'TROP2 ADC', 'Everolimus', 'Aromatase Inhibitors or Fulvestrant', 'Goserelin', 'TPC', 'RTK Inhibitor']",
+    "drugs_list": [
+        "PIK3CA inhibitor",
+        "AKT inhibitor",
+        "Carrelizumab",
+        "Famitinib",
+        "Fluzoparib",
+        "Dalpiciclib",
+        "SHR-A1811",
+        "TROP2 ADC",
+        "Everolimus",
+        "Aromatase Inhibitors or Fulvestrant",
+        "Goserelin",
+        "TPC",
+        "RTK Inhibitor"
+    ],
+    "diseases": "['Breast Neoplasm', 'Breast Cancer', 'Hormone Receptor Positive Tumor', 'HER2-negative Breast Cancer', 'Advanced Breast Cancer']",
+    "diseases_list": [
+        "Breast Neoplasm",
+        "Breast Cancer",
+        "Hormone Receptor Positive Tumor",
+        "HER2-negative Breast Cancer",
+        "Advanced Breast Cancer"
+    ],
+    "enrollment": "140.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female aged \u226518 years; \n\n HR+/HER2- invasive breast cancer confirmed by histology (specific definition: ER >10% positive tumor cells by immunohistochemistry is defined as ER positive, PR >10% positive tumor cells is defined as PR positive, ER and/or PR positive is defined as HR positive; HER2 0-1+ or HER2 + but negative by FISH without amplification was defined as HER2 negative); \n\n Locally advanced breast cancer (unable to undergo radical local treatment) or recurrent metastatic breast cancer; \n\n HR+/HER2- advanced breast cancer patients who had previously received CDK4/6 inhibitor therapy; \n\n At least one measurable lesion according to RECIST 1.1 (conventional CT scan \u226520 mm, spiral CT scan \u226510 mm, measurable lesion has not received radiotherapy); \n\n The functions of the main organs are basically normal and meet the following conditions: \n\n I. Blood routine examination criteria shall meet: HB \u226590 g/L (no blood transfusion within 14 days); The ANC acuity 1.5 x 109 / L; PLT acuity 75 x 109 / L; Ii. Biochemical tests should meet the following criteria: TBIL \u22641.5\u00d7ULN (upper limit of normal value); ALT and AST \u22643\u00d7ULN; If liver metastases were present, ALT and AST\u2264 5\u00d7ULN; Serum Cr \u22641\u00d7ULN, endogenous creatinine clearance > 50 ml/min (Cockcroft-Gault formula); \n\n They have not received radiotherapy, molecular targeted therapy, or surgery within 3 weeks before the start of the study, and have recovered from the acute toxicity of previous treatment (if surgery was performed, the wound has healed completely); No peripheral neuropathy or grade I peripheral neurotoxicity; \n\n ECOG score \u22642, and life expectancy \u22653 months; \n\n Fertile female subjects were required to use a medically approved contraceptive method during the study treatment period and for at least 3 months after the last use of the study drug; \n\n Subjects volunteered to join the study, signed informed consent, had good compliance, and cooperated with follow-up. \n\n ",
+    "exclusion_criteria": ": \n\n Radiotherapy (except for palliative causes), chemotherapy, and immunotherapy were used in the first 3 weeks of treatment, except bisphosphonate (which can be used for bone metastasis); \n\n Uncontrolled central nervous system metastases (indicating symptomatic or symptomatic treatment with glucocorticoids or mannitol); \n\n A history of clinically important or uncontrolled heart disease, including congestive heart failure, angina pectoris, myocardial infarction, or ventricular arrhythmia within the last 6 months; \n\n Persistent grade 1 or higher adverse reactions caused by previous treatments. The exception to this is hair loss or something the researchers don't think should be ruled out. Such cases should be clearly documented in the investigator's notes; \n\n Underwent major surgery (except minor outpatient procedures, such as placement of vascular access) within 3 weeks of the first course of trial treatment; \n\n Pregnant or lactating patients; Malignancy (except basal cell carcinoma of the skin, which has been cured, and carcinoma in situ of the cervix) in the past 5 years.",
+    "brief_summary": "The purpose of this study is to establish a prospective, single-center platform research based on clinical subtypes to explore precision therapy in patients hormone-receptor-positive HER2-negative advanced breast cancer who had previously used CDK4/6 inhibitors.",
+    "NCT_ID": "NCT05594095"
+}

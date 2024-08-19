@@ -1,0 +1,19 @@
+{
+    "brief_title": "Sintilimab and Bevacizumab Biosimilar Combined With PLD in mTNBC",
+    "phase": "Phase 2",
+    "drugs": "['sintilimab', 'bevacizumab biosimilar', 'pegylated liposomal doxorubicin']",
+    "drugs_list": [
+        "sintilimab",
+        "bevacizumab biosimilar",
+        "pegylated liposomal doxorubicin"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "41.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients aged 18-70 years old. \n\n Metastatic breast cancer included unresectable locally advanced breast cancer, de novo stage IV breast cancer, and recurrent metastatic breast cancer. \n\n ER and PR negative, HER2 negative breast cancer. \n\n Received one or two lines of systemic treatment in metastatic setting \n\n Measurable disease based on RECIST 1.1. \n\n ECOG Performance Status 0-1 \n\n Adequate hematological, renal and hepatic function according to all of the following laboratory values \n\n ",
+    "exclusion_criteria": ": \n\n Has received any prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent \n\n Has received any prior therapy with bevacizumab. \n\n Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) \n\n Has a known additional malignancy that is progressing or has required active treatment within the past 5 years with the exception of basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or carcinoma in situ (eg, cervical cancer in situ) that have undergone potentially curative therapy \n\n Has known active central nervous system (CNS) metastases and/or carcinomatous meningitis \n\n Has a known history of hypersensitivity (\u2265 Grade 3) to pembrolizumab and/or any of its excipient \n\n Has an active autoimmune disease that has required systemic treatment \n\n Has a history of (non-infectious) pneumonitis that required treatment with steroids; or current pneumonitis. \n\n Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the study, interfere with the participant's participation for the full duration of the study, or is not in the best interest of the participant to participate, in the opinion of the treating investigator. \n\n Has a known psychiatric or substance abuse disorder that would interfere with the participant's ability to cooperate with the requirements of the study \n\n Has been pregnant or breastfeeding or expecting to conceive or father children within the projected duration of the study, starting with the screening visit through 180 days after the last dose of trial treatment. \n\n Failure to comply with the study procedures, restrictions and requirements of the study",
+    "brief_summary": "To evaluate the efficacy and safety of sintilimab and bevacizumab biosimilar combined with pegylated liposomal doxorubicin in pretreated metastatic triple-negative breast cancer",
+    "NCT_ID": "NCT05386524"
+}

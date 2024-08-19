@@ -1,0 +1,19 @@
+{
+    "brief_title": "A Study of Runimotamab in Participants With Locally Advanced or Metastatic HER2-Expressing Cancers",
+    "phase": "Phase 1",
+    "drugs": "['Runimotamab', 'Trastuzumab', 'Tocilizumab']",
+    "drugs_list": [
+        "Runimotamab",
+        "Trastuzumab",
+        "Tocilizumab"
+    ],
+    "diseases": "['Solid Tumors']",
+    "diseases_list": [
+        "Solid Tumors"
+    ],
+    "enrollment": "537.0",
+    "inclusion_criteria": "inclusion criteria \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1 \n\n Life expectancy of at least 12 weeks \n\n Adequate hematologic and end-organ function \n\n Acute, clinically significant treatment-related toxicity from prior therapy must have resolved to Grade </=1 prior to study entry \n\n Left Ventricular Ejection Fraction (LVEF) >/=50% \n\n HER2-Expressing Breast Cancer-Specific inclusion criteria \n\n Locally tested, Human Epidermal Growth Factor Receptor 2 (HER2)-expressing BC \n\n Locally advanced or metastatic BC that has relapsed or is refractory to established therapies \n\n HER2-Expressing Gastric/Gastroesophageal (GEJ) Cancer-Specific inclusion criteria \n\n Adenocarcinoma of the stomach or GEJ with inoperable locally advanced or recurrent and/or metastatic disease, not amenable to curative therapy \n\n HER2-expressing tumor (primary tumor or metastasis) as assessed by local lab testing \n\n HER2-positive gastric/GEJ cancer must have received prior trastuzumab, cisplatin (or carboplatin or oxaliplatin or investigational platinum agent) and 5-fluorouracil (5-FU)/capecitabine \n\n HER2-Positive Solid Tumor Specific inclusion criteria \n\n HER2-positive tumor (primary tumor or metastasis) as assessed by local (non-central) laboratory testing \n\n Locally advanced, recurrent, or metastatic incurable malignancy that has progressed after at least one available standard therapy; or for whom standard therapy has proven to be ineffective or intolerable, or is considered inappropriate; or for whom a clinical trial of an investigational agent is a recognized standard of care; or for whom a clinical trial of an investigational agent is considered an acceptable treatment option \n\n ",
+    "exclusion_criteria": " \n\n Pregnant or breastfeeding, or intending to become pregnant during the study or within 140 days after the last dose of runimotamab \n\n Significant cardiopulmonary dysfunction \n\n Known clinically significant liver disease \n\n Positive for acute or chronic Hepatitis B virus (HBV) infection \n\n Acute or chronic Hepatitis C virus (HCV) infection \n\n Human Immunodeficiency Virus (HIV) seropositivity \n\n Poorly controlled Type 2 diabetes mellitus \n\n History of ventricular dysrhythmias or risk factors for ventricular dysrhythmias \n\n Current treatment with medications that are well known to prolong the Q-wave/T-wave (QT) interval \n\n Known clinically significant liver disease \n\n Primary central nervous system (CNS) malignancy, untreated CNS metastases, or active CNS metastases (progressing or requiring corticosteroids for symptomatic control) \n\n Leptomeningeal disease \n\n Spinal cord compression that has not definitively treated with surgery and/or radiation \n\n History of autoimmune disease \n\n Prior allogeneic stem cell or solid organ transplantation",
+    "brief_summary": "This study will evaluate the safety, tolerability, and pharmacokinetics of Runimotamab administered intravenously as a single agent and in combination with Trastuzumab in participants with locally advanced or metastatic Human Epidermal Growth Factor Receptor 2 (HER2)-expressing cancers.",
+    "NCT_ID": "NCT03448042"
+}

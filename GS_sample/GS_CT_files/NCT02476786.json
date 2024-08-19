@@ -1,0 +1,26 @@
+{
+    "brief_title": "Endocrine Treatment Alone for Elderly Patients With Estrogen Receptor Positive Operable Breast Cancer and Low Recurrence Score",
+    "phase": "Phase 2",
+    "drugs": "['FACT-B', 'Goserelin', 'Anastrozole', 'Exemestane', 'Fulvestrant', 'Tamoxifen', 'Archived tissue collection']",
+    "drugs_list": [
+        "FACT-B",
+        "Goserelin",
+        "Anastrozole",
+        "Exemestane",
+        "Fulvestrant",
+        "Tamoxifen",
+        "Archived tissue collection"
+    ],
+    "diseases": "['Breast Cancer', 'Cancer of Breast', 'Breast Neoplasms', 'Cancer of the Breast']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Cancer of Breast",
+        "Breast Neoplasms",
+        "Cancer of the Breast"
+    ],
+    "enrollment": "50.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Newly diagnosed histologically or cytologically confirmed operable invasive breast cancer defined as cT1 or T2, N0-1, and M0. \n\n Disease must be ER+ and HER2-. \n\n Ki67 score/proliferative index \u2264 30% or low to intermediate mitotic index \n\n Measurable disease defined as lesions that can be accurately measured in at least one dimension (longest diameter to be recorded) by ultrasound or mammogram. \n\n 70 years of age or older. \n\n ECOG performance status \u2264 3 \n\n Able to understand and willing to sign an IRB approved written informed consent document (or that of legally authorized representative, if applicable). \n\n ",
+    "exclusion_criteria": ": \n\n Prior surgery for this cancer \n\n A history of other malignancy \u2264 5 years previous which would preclude endocrine treatment of their cancer. \n\n Currently receiving any other investigational agents. \n\n A history of allergic reactions attributed to compounds of similar chemical or biologic composition to any of the agents used in the study. \n\n Uncontrolled intercurrent illness as determined by their treating physician which would limit compliance with study requirements. \n\n Known HIV-positivity on combination antiretroviral therapy because of the potential for pharmacokinetic interactions with endocrine therapies. Appropriate studies will be undertaken in patients receiving combination antiretroviral therapy when indicated.",
+    "brief_summary": "Multiple neoadjuvant endocrine trials demonstrate that women with good prognosis tumors can be identified. These trials have also demonstrated that there are not adverse effects on overall outcome if women are treated with neoadjuvant endocrine therapy for several months prior to definitive treatment. A new standard of care needs to be defined for elderly women with good prognosis estrogen receptor (ER)+ tumors, since these women may benefit from endocrine therapy alone to treat their cancer without compromising local and distant control. The investigators hypothesize that endocrine therapy alone provides adequate local and systemic control of breast cancer in a subpopulation of women 70 or older with ER+ breast cancer and low Ki67 scores.",
+    "NCT_ID": "NCT02476786"
+}

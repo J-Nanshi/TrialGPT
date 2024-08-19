@@ -1,0 +1,28 @@
+{
+    "brief_title": "A Study to Evaluate the Safety, Pharmacokinetics, and Activity of RO7502175 as a Single Agent and in Combination With Atezolizumab in Participants With Locally Advanced or Metastatic Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['RO7502175', 'Atezolizumab']",
+    "drugs_list": [
+        "RO7502175",
+        "Atezolizumab"
+    ],
+    "diseases": "['Locally Advanced or Metastatic Solid Tumors', 'NSCLC', 'HNSCC', 'Melanoma', 'TNBC', 'Esophageal Cancer', 'Gastric Cancer', 'Cervical Cancer', 'Urothelial Carcinoma', 'Clear Cell RCC', 'HCC']",
+    "diseases_list": [
+        "Locally Advanced or Metastatic Solid Tumors",
+        "NSCLC",
+        "HNSCC",
+        "Melanoma",
+        "TNBC",
+        "Esophageal Cancer",
+        "Gastric Cancer",
+        "Cervical Cancer",
+        "Urothelial Carcinoma",
+        "Clear Cell RCC",
+        "HCC"
+    ],
+    "enrollment": "365.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Life expectancy at least 12 weeks \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 \n\n Measurable disease according to Response Evaluation criteria in Solid Tumors (RECIST) Version 1.1 \n\n Histologically confirmed locally advanced, recurrent, or metastatic incurable solid tumor malignancy \n\n Tumor Specimen availability \n\n ",
+    "exclusion_criteria": ": \n\n Pregnant or breastfeeding, or intending to become pregnant during the study or within 5 months after the final dose of study treatment \n\n Any anti-cancer therapy, whether investigational or approved, including chemotherapy, hormonal therapy, or radiotherapy, within 3 weeks prior to initiation of study treatment \n\n Active hepatitis B or C or tuberculosis \n\n Positive test for human immunodeficiency virus (HIV) infection \n\n Acute or chronic active Epstein-Barr virus (EBV) infection at screening \n\n Administration of a live, attenuated vaccine (e.g., FluMist) within 4 weeks before first RO7502175 infusion \n\n Symptomatic, untreated, or actively progressing central nervous system (CNS) metastases \n\n Active or history of autoimmune disease \n\n Prior allogeneic stem cell or organ transplantation",
+    "brief_summary": "This is a first-in-human study to evaluate the safety, tolerability, pharmacokinetics (PK), and anti-tumor activity of RO7502175 when administered as a single agent and in combination with atezolizumab in adult participants with locally advanced or metastatic solid tumors, including non-small-cell lung cancer (NSCLC), head and neck squamous cell carcinoma (HNSCC), melanoma, triple-negative breast cancer (TNBC), esophageal cancer, gastric cancer, cervical cancer, urothelial carcinoma (UC), clear cell renal cell carcinoma (RCC) and hepatocellular carcinoma (HCC). Participants will be enrolled in 2 stages: dose escalation and dose expansion.",
+    "NCT_ID": "NCT05581004"
+}

@@ -79,7 +79,7 @@ with open(r"..\GS_sample\dataset\GS_data\synthetic_patient_cases_random_30_modif
 		outputs[entry["_id"]] = json.loads(output)
 		print(f'''the outputs[entry["_id"]] is\n {outputs[entry["_id"]]}''' )
 
-		# with open(r"D:\Job\TrialGPT\results\retrieval_keywords_gpt4turbo_sigir.json", "w") as f:
-		with open(r"..\GS_sample\results\retrieval_keywords_gpt4turbo_synthetic_patient_cases_random_30.json", "w") as f:
-			json.dump(outputs, f, indent=4)
+		# # with open(r"D:\Job\TrialGPT\results\retrieval_keywords_gpt4turbo_sigir.json", "w") as f:
+		# with open(r"..\GS_sample\results\retrieval_keywords_gpt4turbo_synthetic_patient_cases_random_30.json", "w") as f:
+		# 	json.dump(outputs, f, indent=4)
 # %%

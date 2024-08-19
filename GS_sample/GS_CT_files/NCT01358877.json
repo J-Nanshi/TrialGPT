@@ -1,0 +1,26 @@
+{
+    "brief_title": "A Study of Pertuzumab in Addition to Chemotherapy and Trastuzumab as Adjuvant Therapy in Participants With Human Epidermal Growth Receptor 2 (HER2)-Positive Primary Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['5-Fluorouracil', 'Carboplatin', 'Cyclophosphamide', 'Docetaxel', 'Doxorubicin', 'Epirubicin', 'Paclitaxel', 'Pertuzumab', 'Placebo', 'Trastuzumab']",
+    "drugs_list": [
+        "5-Fluorouracil",
+        "Carboplatin",
+        "Cyclophosphamide",
+        "Docetaxel",
+        "Doxorubicin",
+        "Epirubicin",
+        "Paclitaxel",
+        "Pertuzumab",
+        "Placebo",
+        "Trastuzumab"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "4804.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Non-metastatic operable primary invasive HER2-positive carcinoma of the breast that is histologically confirmed, and adequately excised \n\n Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to (</=) 1 \n\n Known hormone receptor status (estrogen receptor and progesterone receptor) \n\n The interval between definitive surgery for breast cancer and the first dose of chemotherapy must be no more than 8 weeks (56 days). The first cycle of chemotherapy must be administered within 7 days of randomization or on Day 56, whichever occurs first \n\n Baseline left ventricular ejection fraction (LVEF) greater than or equal to (>/=) 55 percent (%) measured by echocardiogram (ECHO) or Multiple-Gated Acquisition (MUGA) Scan \n\n Confirmed HER2 positive status \n\n Completion of all necessary baseline laboratory and radiologic investigations prior to randomization \n\n Women of childbearing potential and male participants with partners of childbearing potential must agree to use effective contraception (as defined by the protocol) by the participant and/or partner for the duration of the study treatment and for at least 7 months after the last dose of study drug \n\n ",
+    "exclusion_criteria": ": \n\n History of any prior (ipsi- and/or contralateral) invasive breast cancer \n\n History of non-breast malignancies within the 5 years prior to study entry, except for carcinoma in situ of the cervix, carcinoma in situ of the colon, melanoma in situ, and basal cell and squamous cell carcinomas of the skin \n\n Any clinical T4 tumor as defined by primary tumor/regional lymph nodes/distant metastasis (TNM), including inflammatory breast cancer \n\n Any node-negative tumor \n\n Any previous systemic chemotherapy for cancer or radiotherapy for cancer \n\n Prior use of anti-HER2 therapy for any reason or other prior biologic or immunotherapy for cancer \n\n Concurrent anti-cancer treatment in another investigational trial \n\n Serious cardiac or cardiovascular disease or condition \n\n Other concurrent serious diseases that may interfere with planned treatment including severe pulmonary conditions/illness \n\n Abnormal laboratory tests immediately prior to randomization \n\n Pregnant or lactating women \n\n Sensitivity to any of the study medications or any of the ingredients or excipients of these medications",
+    "brief_summary": "This randomized, double-blind, placebo-controlled, two-arm study will assess the safety and efficacy of pertuzumab in addition to chemotherapy plus trastuzumab as adjuvant therapy in participants with operable HER2-positive primary breast cancer. This study will be carried out in collaboration with the Breast International Group (BIG).",
+    "NCT_ID": "NCT01358877"
+}

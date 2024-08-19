@@ -1,0 +1,17 @@
+{
+    "brief_title": "Anlotinib Combined With Chemotherapy and Neoadjuvant Therapy for Hormone Receptor-positive HER-2 Negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Anlotinib']",
+    "drugs_list": [
+        "Anlotinib"
+    ],
+    "diseases": "['Breast Cancer Stage II']",
+    "diseases_list": [
+        "Breast Cancer Stage II"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n All patients were HER2 negative, de\ufb01 ned as munohistochemistry of 0/1+, or if 2+, \ufb02 uorescence insitu hybridisation showed no evidence of ampli\ufb01 cation of the HER2 gene. \n\n Patients were required to have a palpable primary tumor at least 2.0 cm in diameter in the breast, as assessed by physical examination, and to be classified as having tumor stage T1c to T3, nodal stage N0 to N2a, and metastasis stage M0. \n\n Other eligibility criteria adequate cardiac function (left ventricular ejection fraction within the normal institutional range, as assessed by multiplegated acquisition scan or echocardiogram), adequate bone marrow, hepatic, and renal function, and appropriate Eastern Cooperative Oncology Group (ECOG) performance status (0-2). \n\n All patients provided written informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Previously received anti-angiogenesis targeted drug therapy. \n\n patients have previous diagnosis of ischaemic heart disease, cerebrovascular disease, peripheral vascular disease, arterial or venous thromboembolic disease, cardiac failure, gastroduodenal ulcer, symptomatic diverticulitis, or inflammatory bowel disease. \n\n Previously received chemotherapy, radiotherapy, or endocrine therapy as treatment for breast cancer was allowed. \n\n No uncont rolled hypertension.",
+    "brief_summary": "Anlotinib is an oral multi-targeted tyrosine kinase inhibitor (TKI) that strongly inhibits VEGFR, PDGFR, FGFR, and c-kit. Combining anti-angiogenesis with chemotherapy yielded increased response rates in patients with early-stage human epidermal growth factor receptor 2 (HER2)-negative breast cancer. This study aims to evaluate the efficacy and safety of adding anlotinib to standard neoadjuvant chemotherapy in primary (HER2)-negative breast cancer. Patients aged 18 years or older with previously untreated stage \u2161B-IIIA histologically documented (HER2)-negative breast cancer were assigned to receive chemotherapy plus oral Anlotinib. The primary endpoint was pathologic complete response (pCR) (no invasive carcinoma in breast or axilla). Secondary end points included safety and disease-free survival (DFS).",
+    "NCT_ID": "NCT05558722"
+}

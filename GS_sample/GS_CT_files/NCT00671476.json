@@ -1,0 +1,28 @@
+{
+    "brief_title": "Doxorubicin Hydrochloride Liposome in Treating Women With Ductal Carcinoma in Situ Undergoing Surgery",
+    "phase": "",
+    "drugs": "['pegylated liposomal doxorubicin hydrochloride', 'DNA methylation analysis', 'TdT-mediated dUTP nick end labeling assay', 'fluorescence in situ hybridization', 'loss of heterozygosity analysis', 'polymerase chain reaction', 'immunoenzyme technique', 'immunohistochemistry staining method', 'laboratory biomarker analysis', 'breast duct lavage', 'neoadjuvant therapy', 'therapeutic conventional surgery']",
+    "drugs_list": [
+        "pegylated liposomal doxorubicin hydrochloride",
+        "DNA methylation analysis",
+        "TdT-mediated dUTP nick end labeling assay",
+        "fluorescence in situ hybridization",
+        "loss of heterozygosity analysis",
+        "polymerase chain reaction",
+        "immunoenzyme technique",
+        "immunohistochemistry staining method",
+        "laboratory biomarker analysis",
+        "breast duct lavage",
+        "neoadjuvant therapy",
+        "therapeutic conventional surgery"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "DISEASE CHARACTERISTICS: \n\n Diagnosis of ductal breast carcinoma in situ by core needle biopsy \n\n No pathological invasive or microinvasive disease in the affected breast \n\n Mammographic microcalcifications are limited to one ductal system or one quadrant of breast \n\n Hormone receptor status not specified \n\n PATIENT CHARACTERISTICS: \n\n Menopausal status not specified \n\n Must be able to undergo necessary surgery \n\n Not pregnant \n\n PRIOR CONCURRENT THERAPY: \n\n No prior surgery or radiotherapy to the recently diagnosed breast \n\n More than 12 months since prior chemotherapy \n\n No prior subareolar breast surgery to the affected breast \n\n Not concurrently involved in a research protocol for unapproved new drug evaluation",
+    "exclusion_criteria": "",
+    "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as doxorubicin hydrochloride liposome, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving chemotherapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.~PURPOSE: This clinical trial is studying the side effects of doxorubicin hydrochloride liposome and to see how well it works in treating women with ductal carcinoma in situ undergoing surgery.",
+    "NCT_ID": "NCT00671476"
+}

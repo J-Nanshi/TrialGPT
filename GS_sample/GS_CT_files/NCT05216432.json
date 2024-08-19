@@ -1,0 +1,25 @@
+{
+    "brief_title": "First-in-Human Study of Mutant-selective PI3K\u03b1 Inhibitor, RLY-2608, as a Single Agent in Advanced Solid Tumor Patients and in Combination With Fulvestrant in Patients With Advanced Breast Cancer",
+    "phase": "Phase 1",
+    "drugs": "['RLY-2608', 'Fulvestrant']",
+    "drugs_list": [
+        "RLY-2608",
+        "Fulvestrant"
+    ],
+    "diseases": "['PIK3CA Mutation', 'Solid Tumor, Adult', 'HER2-negative Breast Cancer', 'Breast Cancer', 'Metastatic Breast Cancer', 'Advanced Breast Cancer', 'Unresectable Solid Tumor']",
+    "diseases_list": [
+        "PIK3CA Mutation",
+        "Solid Tumor",
+        "Adult",
+        "HER2-negative Breast Cancer",
+        "Breast Cancer",
+        "Metastatic Breast Cancer",
+        "Advanced Breast Cancer",
+        "Unresectable Solid Tumor"
+    ],
+    "enrollment": "190.0",
+    "inclusion_criteria": "Key inclusion criteria \n\n Part 1- Evaluable disease per RECIST Version 1.1 Part 2 - Measurable disease per RECIST Version 1.1 \n\n Patient has ECOG performance status of 0-1 \n\n One or more documented primary oncogenic PIK3CA mutation(s) in blood and/or tumor per local assessment \n\n - Other potentially oncogenic PIK3CA mutations may be considered but must be approved by the Sponsor prior to enrollment. \n\n Part 1 - Ability to provide archived tumor tissue or be willing to undergo pretreatment tumor biopsy to assess PIK3CA status retrospectively Part 2 - Submit tumor tissue prior to study drug initiation for determination of PIK3CA mutation retrospectively. \n\n Key Inclusion for RLY-2608 Single Agent Arm \n\n - Disease that is refractory to standard therapy, intolerant to standard therapy, or has declined standard therapy. Part 1- histologically or cytologically confirmed diagnosis of unresectable or metastatic solid tumor \n\n Part 2 - Unresectable or metastatic solid tumor with PIK3CA mutation(s) and one of the following tumor types: \n\n Group 1: clear cell ovarian cancer Group 2: head and neck squamous cell carcinoma Group 3: cervical cancer Group 4: other solid tumors, excluding colorectal, clear cell ovarian, head and neck squamous cell, and cervical cancers Group 5: unresectable or metastatic solid tumors with PIK3CA double mutations \n\n Key Inclusion for RLY-2608 + Fulvestrant Arm \n\n - Male or postmenopausal female with histologically or cytologically confirmed diagnosis of HR+, HER2- unresectable or metastatic breast cancer that is not amenable to curative therapy. Premenopausal or perimenopausal females must have a histologically or cytologically confirmed diagnosis of HR+ HER2- advanced or metastatic breast cancer that is not amenable to curative therapy and must have been previously treated with GnRH agonist at least 4 weeks prior to start of study drug \n\n [ For Part 1 and Part 2]: Had previous treatment for advanced or metastatic breast cancer with: \n\n \u22641 chemotherapy regimen, \n\n \u22651 cyclin-dependent kinases (CDK) 4/6 inhibitor, and \n\n \u22651 antiestrogen therapy including, but not limited to, selective estrogen-receptor degraders (eg, fulvestrant), selective estrogen receptor modulators (eg, tamoxifen), and aromatase inhibitors (AI) (letrozole, anastrozole, exemestane) \n\n [For Part 2, Group 2]: Received prior treatment with a PI3K\u03b1 inhibitor and discontinued the inhibitor due to intolerance and not disease progression, where intolerance is defined as treatment discontinuation due to treatment related AE (eg. hyperglycemia, rash, diarrhea, stomatitis) other than severe hypersensitivity reaction and/or life-threatening reactions, such as anaphylaxis and Stevens-Johnson syndrome. \n\n Key ",
+    "exclusion_criteria": " \n\n Prior treatment with PI3K\u03b1 inhibitors (except for RLY-2608 + fulvestrant arm, Part 2, Group 2). \n\n Type 1 or Type 2 diabetes requiring antihyperglycemic medication, or fasting plasma glucose \u2265140 mg/dL and glycosylated hemoglobin (HbA1c) \u22657.0%. \n\n History of hypersensitivity to PI3K inhibitors \n\n QT interval corrected using Fridericia's formula (QTcF) > 480 msec or history of prolonged QT syndrome, Torsades de pointes or familial history of prolonged QT syndrome Clinically significant, uncontrolled cardiovascular disease CNS metastases or primary CNS tumor that is associated with progressive neurologic symptoms",
+    "brief_summary": "This is an open-label, FIH study designed to evaluate the maximum tolerated dose, safety, tolerability, PK, pharmacodynamics, and preliminary antineoplastic activity of RLY-2608, in advanced solid tumor patients with a Phosphatidylinositol-4,5-bisphosphate-3 kinase, catalytic subunit alpha (PIK3CA) mutation in blood and/or tumor per local assessment. The study will evaluate both RLY-2608 as a single agent for patients with unresectable or metastatic solid tumors and RLY-2608 + fulvestrant combination arm for patients with HR+ HER2- locally advanced or metastatic breast cancer. This study consists of 2 parts, a dose escalation (Part 1) and a dose expansion (Part 2).",
+    "NCT_ID": "NCT05216432"
+}

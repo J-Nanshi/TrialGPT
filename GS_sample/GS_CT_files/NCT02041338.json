@@ -1,0 +1,20 @@
+{
+    "brief_title": "Study of Optimizing Neoadjuvant Regimens in Subtypes of Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Paclitaxel and carboplatin', 'Paclitaxel', 'Epirubicin and Paclitaxel']",
+    "drugs_list": [
+        "Paclitaxel and carboplatin",
+        "Paclitaxel",
+        "Epirubicin and Paclitaxel"
+    ],
+    "diseases": "['Breast Cancer', 'Neoadjuvant Chemotherapy']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Neoadjuvant Chemotherapy"
+    ],
+    "enrollment": "200.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Stage IIa-IIIc breast cancer patients plan to receive neoadjuvant chemotherapy \n\n Patients have enough tissue sample to do IHC test for subtype classification \n\n Patients have at least one measurable lesion according to RECIST1.1 \n\n KPS\u226580 \n\n No prior treatment for breast cancer \n\n Adequate bone marrow (neutrophil count \u22651500 ml and platelet count \u2265100,000 ml), renal (serum creatinine <1.5 times the upper limit of normal [ULN] or a creatinine clearance of \u226560 ml/minute), hepatic (total bilirubin \u22641.5 ULN; alanine aminotransferase, aspartate aminotransferase, and alkaline phosphatase \u22642.5 ULN), and cardiac function (assessed by electrocardiogram or thoracic radiography) were required. \n\n ",
+    "exclusion_criteria": ": \n\n Fertile women were excluded if pregnant or lactating or if they were not using adequate contraception. \n\n Previous chemotherapy for breast cancer. \n\n history of other serious illness (e.g. congestive heart failure, angina pectoris, uncontrolled hypertension or arrhythmia, clinically significant neurologic or psychiatric disorders, uncontrolled serious infection, AIDS), had an organ allograft, severe gastrointestinal disorder, or other neoplasias (except for in situ cervical cancer, non-melanoma skin cancer, or previous diagnosis of cancer with no evidence of disease for >10 years).",
+    "brief_summary": "There are no standard neodjuvant regimens adapted according to the different subtypes of breast cancer. This is a phase 2, randomized study to evaluate several regimens in different subtypes of breast cancer.",
+    "NCT_ID": "NCT02041338"
+}

@@ -1,0 +1,21 @@
+{
+    "brief_title": "A Study of Carboplatin Plus Etoposide With or Without Atezolizumab in Participants With Untreated Extensive-Stage (ES) Small Cell Lung Cancer (SCLC)",
+    "phase": "Phase 3",
+    "drugs": "['Atezolizumab (MPDL3280A), an engineered anti-PD-L1 antibody', 'Carboplatin', 'Etoposide', 'Placebo']",
+    "drugs_list": [
+        "Atezolizumab (MPDL3280A)",
+        "an engineered anti-PD-L1 antibody",
+        "Carboplatin",
+        "Etoposide",
+        "Placebo"
+    ],
+    "diseases": "['Small Cell Lung Carcinoma']",
+    "diseases_list": [
+        "Small Cell Lung Carcinoma"
+    ],
+    "enrollment": "403.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically or cytologically confirmed ES-SCLC (per the Veterans Administration Lung Study Group [VALG] staging system) \n\n No prior systemic treatment for ES-SCLC \n\n Eastern Cooperative Oncology Group performance status of 0 or 1 \n\n Measurable disease, as defined by RECIST v1.1 \n\n Adequate hematologic and end organ function \n\n Treatment-free for at least 6 months since last chemo/radiotherapy, among those treated (with curative intent) with prior chemo/radiotherapy for limited-stage SCLC \n\n ",
+    "exclusion_criteria": ": \n\n Active or untreated central nervous system (CNS) metastases as determined by computed tomography (CT) or magnetic resonance imaging (MRI) evaluation \n\n Malignancies other than SCLC within 5 years prior to randomization, with the exception of those with a negligible risk of metastasis or death treated with expected curative outcome \n\n Pregnant or lactating women \n\n History of autoimmune disease \n\n History of idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced pneumonitis, idiopathic pneumonitis, or evidence of active pneumonitis on screening chest CT scan. History of radiation pneumonitis in the radiation field (fibrosis) is permitted. \n\n Positive test result for human immunodeficiency virus (HIV) \n\n Active hepatitis B or hepatitis C \n\n Severe infections at the time of randomization \n\n Significant cardiovascular disease \n\n Prior treatment with cluster of differentiation (CD) 137 agonists or immune checkpoint blockade therapies, anti-programmed death-1 (PD-1), and anti-PD-L1 therapeutic antibody \n\n History of severe (or known) hypersensitivity to chimeric or humanized antibodies or fusion proteins or any component of atezolizumab formulation.",
+    "brief_summary": "This randomized, Phase I/III, multicenter, double-blinded, placebo-controlled study was designed to evaluate the safety and efficacy of atezolizumab (anti-programmed death-ligand 1 [PD-L1] antibody) in combination with carboplatin plus (+) etoposide compared with treatment with placebo + carboplatin + etoposide in chemotherapy-naive participants with ES-SCLC. Participants will be randomized in a 1:1 ratio to receive either atezolizumab + carboplatin + etoposide or placebo + carboplatin + etoposide on 21-day cycles for four cycles in the induction phase followed by maintenance with atezolizumab or placebo until progressive disease (PD) as assessed by the investigator using Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1). Treatment can be continued until persistent radiographic PD or symptomatic deterioration.",
+    "NCT_ID": "NCT02763579"
+}

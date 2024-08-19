@@ -1,0 +1,22 @@
+{
+    "brief_title": "Pyrotinib as Neoadjuvant Agent for Non-objective Response HER2-positive Early Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Pyrotinib', 'Trastuzumab', 'Pertuzumab', 'Docetaxel', 'Epirubicin', 'Cyclophosphamide']",
+    "drugs_list": [
+        "Pyrotinib",
+        "Trastuzumab",
+        "Pertuzumab",
+        "Docetaxel",
+        "Epirubicin",
+        "Cyclophosphamide"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "60.0",
+    "inclusion_criteria": "inclusion criteria: \n\n 1. Female patients between 18-70 years old. 2. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1. 3. Histologically confirmed HER2 (human epidermal growth factor receptor-2)-positive invasive breast cancer. \n\n 4. Non-objective response after 2 cycles of THP as neoadjuvant treatment. 5. Known hormone receptor status. 6. Patient has adequate bone marrow, liver, and renal function: \n\n Hematological: White blood cell (WBC) count > 3.5 x 109/L, absolute neutrophil count (ANC) \u2265 1.5 x 109/L, platelet count \u2265 90 x109/L, and hemoglobin \u2265 90 g/dL. \n\n Hepatic function: total bilirubin \u2264 1.5 x institutional upper limit of normal (ULN) (except for Gilbert's syndrome); aspartate transaminase (AST) and alanine transaminase (ALT) \u2264 2.5 times ULN. \n\n Renal function: serum creatinine and BUN \u2264 1.5 x ULN, or creatinine clearance \u2265 50 ml/min/1.73 m2 for patients with creatinine levels above institutional normal. \n\n 8. LVEF \u226550% measured by echocardiography. 9. Fertile patients must use effective contraception (barrier method - condoms, diaphragm - also in conjunction with spermicidal jelly, or total abstinence. Oral, injectable, or implant hormonal contraceptives are not allowed). \n\n 10. Negative serum pregnancy test, within 2-weeks (preferably 7 days) prior to randomization (For women of childbearing potential). \n\n 11. Signed informed consent form (ICF). \n\n ",
+    "exclusion_criteria": ": \n\n Metastatic breast cancer; \n\n Previous (less than 10 years) or current history of malignant neoplasms, except for curatively treated: Basal and squamous cell carcinoma of the skin; Carcinoma in situ of the cervix. \n\n Patients with a prior malignancy diagnosed more than 10 years prior to randomization may enter the study. Patients must have been curatively treated with surgery alone. Radiation therapy or systemic therapy (chemotherapy or endocrine) are NOT permitted. Prior diagnoses of breast cancer or melanoma are excluded. \n\n Concurrent treatment with an investigational agent or participation in another therapeutic clinical trial; \n\n Major surgical procedure or significant traumatic injury within 14 days prior to randomization or anticipation of the need for major surgery within the course of the study treatment. \n\n Known history of uncontrolled or symptomatic angina, clinically significant arrhythmias, congestive heart failure, transmural myocardial infarction, uncontrolled hypertension (\u2265180/110), unstable diabetes mellitus, dyspnoea at rest, or chronic therapy with oxygen; \n\n Known hypersensitivity reaction to one of the investigational compounds or incorporated substances. \n\n Pregnant or lactating patients. Patients of childbearing potential must implement adequate non-hormonal contraceptive measures during study treatment. \n\n Concurrent disease or condition that would make the subject inappropriate for study participation or any serious medical disorder that would interfere with the subject's safety.",
+    "brief_summary": "The study assesses the efficacy of neoadjuvant treatment with pyrotinib and trastuzumab with chemotherapy, mainly pathological complete response (pCR) rates in the breast and axilla.~And also assesses side effects, event-free survival (EFS), disease-free survival (DFS), distant disease-free survival (DDFS), and objective response rates (ORR).",
+    "NCT_ID": "NCT04717531"
+}

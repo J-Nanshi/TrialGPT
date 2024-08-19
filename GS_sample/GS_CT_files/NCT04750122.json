@@ -1,0 +1,17 @@
+{
+    "brief_title": "Neoadjuvant Therapy Study Guided by Drug Screening in Vitro for HER2 Positive Early Breast Cancer Patients",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['neoadjuvant chemotherapy upon in vitro PTC drug sensitivity screenning']",
+    "drugs_list": [
+        "neoadjuvant chemotherapy upon in vitro PTC drug sensitivity screenning"
+    ],
+    "diseases": "['HER2-positive Early Breast Cancer']",
+    "diseases_list": [
+        "HER2-positive Early Breast Cancer"
+    ],
+    "enrollment": "46.0",
+    "inclusion_criteria": "inclusion criteria: \n\n invasive breast cancer \n\n HER2 positive \n\n T2 or node positive \n\n ECOG 0-1 \n\n ",
+    "exclusion_criteria": ": \n\n stage IV \n\n inflammatory breast cancer \n\n Severe chronic disease",
+    "brief_summary": "Neoadjuvant treatment is an important treatment for early breast cancer patients. Patients with her2 enriched subtype who achieved pCR after neoadjuvant treatment would have longer survival. The neoadjuvant treatment for her2 positive patients include chemotherapy and targeted therapy. Although the pCR rate was high to 60% after use of trastuzumab and pertuzumab, but the adverse reaction of combined chemotherapy could not be negligible. Some studies have attempted chemotherapy-free treatment for her2 positive patients during neoadjuvant therapy. But, which patient could be exempted from chemotherapy and which drug could be omitted are still unknow before treatment. Drug sensitivity screening in vitro was a promising method for choosing chemotherapy. But there was no method could select effective drugs accurately for breast cancer patients until now.~Previously, investigators developed a patient-derived tumor-like cell clusters in vitro culture technology. Feasibility for guiding clinical treatment by drug sensitivity screening based on this technology have been explored by preliminary exploration with a well corresponding. And the results have been published. This study will explore whether drug screening in vitro patient-derived tumor-like cell clusters from breast cancer tissue could be a metheod for omitting chemotherapy for her2 positive participants.",
+    "NCT_ID": "NCT04750122"
+}

@@ -1,0 +1,17 @@
+{
+    "brief_title": "A Phase II Trial of Doxorubicin and Genexol-PM in Patients With Advanced Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Doxorubicin/Genexol-PM']",
+    "drugs_list": [
+        "Doxorubicin/Genexol-PM"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "48.0",
+    "inclusion_criteria": "inclusion criteria: \n\n 18 years of age or older adult women \n\n Instrumentation measurable lesions with histologically confirmed advanced (recurrent or metastatic) breast cancer \n\n ECOG 0-2 \n\n Advanced breast cancer in the past, patients who did not receive chemotherapy \n\n Recurrence if adjuvant chemotherapy and adjuvant chemotherapy in the past for more than 6 months until the patient \n\n life expectancy more than 3 months \n\n Agree in writing before the party to participate in a clinical trial to patients \n\n ",
+    "exclusion_criteria": ": \n\n immunohistochemical staining 3 + or FISH positive anti-HER 2 therapy patients \n\n Severe infections requiring antibiotic therapy \n\n Clinically significant heart disease \n\n Pregnant or lactating woman \n\n Uncontrolled symptoms in the central nervous system (CNS) metastases \n\n Patients diagnosed with malignant tumors of other organs",
+    "brief_summary": "To evaluate efficacy and toxicity of doxorubicin/Genexol-PM in metastatic breast cancer~Primary Purpose: response rate~Secondary purpose: toxicity, progression-free survival, overall survival",
+    "NCT_ID": "NCT01784120"
+}

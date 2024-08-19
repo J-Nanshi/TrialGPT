@@ -1,0 +1,21 @@
+{
+    "brief_title": "A Study of Avastin (Bevacizumab) in Patients With Non-Squamous Non-Small Cell Lung Cancer (NSCLC)",
+    "phase": "Phase 3",
+    "drugs": "['Cisplatin', 'Gemcitabine', 'Placebo', 'bevacizumab [Avastin]', 'bevacizumab [Avastin]']",
+    "drugs_list": [
+        "Cisplatin",
+        "Gemcitabine",
+        "Placebo",
+        "bevacizumab [Avastin]",
+        "bevacizumab [Avastin]"
+    ],
+    "diseases": "['Non-Squamous Non-Small Cell Lung Cancer']",
+    "diseases_list": [
+        "Non-Squamous Non-Small Cell Lung Cancer"
+    ],
+    "enrollment": "1044.0",
+    "inclusion_criteria": "inclusion criteria: \n\n adult patients, >=18 years of age; \n\n documented inoperable, locally advanced, metastatic or recurrent non-squamous NSCLC; \n\n adequate liver and kidney function; \n\n women of childbearing potential must have a negative serum pregnancy test within 7 days of starting study treatment. \n\n ",
+    "exclusion_criteria": ": \n\n prior chemotherapy or treatment with another systemic cancer therapy; \n\n surgery (including open biopsy), significant traumatic injury, or radiotherapy within the last 4 weeks prior to first dose of study treatment; \n\n brain metastasis or spinal cord compression; \n\n fertile men, and women of childbearing potential, not using adequate contraception; \n\n treatment with any other investigational agent, or participation in another clinical trial, within 30 days prior to entering the study.",
+    "brief_summary": "This 3 arm study will evaluate the efficacy and safety of adding Avastin versus placebo to a standard chemotherapeutic regimen in patients with advanced or recurrent non-squamous non-small cell lung cancer (NSCLC) who have not received prior chemotherapy. The anticipated time of study treatment is until disease progression, and the target sample size is 500+ individuals.",
+    "NCT_ID": "NCT00806923"
+}

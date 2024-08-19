@@ -1,0 +1,19 @@
+{
+    "brief_title": "Durvalumab With Trastuzumab and Pertuzumab in HER2-Enriched Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Durvalumab', 'Trastuzumab', 'Pertuzumab']",
+    "drugs_list": [
+        "Durvalumab",
+        "Trastuzumab",
+        "Pertuzumab"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "39.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female aged >18 years at the time of study entry. \n\n Histologically confirmed HER2-enriched (by BluePrint) and HER2-amplified (ERBB2 mRNA >7.5-10) breast cancer. \n\n Estrogen receptor and progesterone receptor negative. \n\n Primary tumor greater than 1 cm diameter, measured by clinical examination and mammography or echography. \n\n Any nodal status \n\n Bilateral breast cancers that individually meet eligibility criteria are allowed. \n\n Eastern Cooperative Oncology Group performance status of 0 or 1. \n\n Adequate organ and marrow function. \n\n Baseline left ventricular ejection fraction greater than or equal to 50%, as measured by multigated acquisition scan or echocardiogram. \n\n Evidence of postmenopausal status or negative serum pregnancy test for premenopausal patients. Negative serum beta-human chorionic gonadotropin pregnancy test within 7 days prior to the first dose of study treatment for premenopausal patients. \n\n Willing to provide biopsy tissues as required by the study. \n\n Willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations including follow-up. \n\n ",
+    "exclusion_criteria": ": \n\n Participation in another clinical study with an investigational product within 28 days prior to the first dose of study treatment. \n\n Concurrent enrollment in another clinical study, unless it is an observational (non-interventional) clinical study or during the follow-up period of an interventional study. \n\n Unresolved or unstable adverse events from prior administration of another investigational drug. \n\n Any concurrent chemotherapy, radiation therapy, immunotherapy, or biologic therapy for cancer treatment. \n\n Major surgical procedure (as defined by the investigator) within 28 days prior to the first dose of study treatment. \n\n History of allogenic organ transplantation. \n\n Active or prior documented autoimmune or inflammatory disorders. \n\n History of active primary immunodeficiency. \n\n Active infection including tuberculosis, hepatitis B, hepatitis C, or human immunodeficiency virus. \n\n Current or prior use of immunosuppressive medication within 14 days prior to the first dose of study treatment. \n\n Receipt of live attenuated vaccine within 30 days prior to the first dose of study treatment. \n\n Patients who are pregnant or breastfeeding or patients of reproductive potential who are not willing to employ effective birth control from screening to 7 months after the last dose of study treatment. \n\n Known allergy or hypersensitivity to any of the study drugs or any of the study drug excipients.",
+    "brief_summary": "The purpose of this research study is to test the safety and effectiveness of using durvalumab with trastuzumab and pertuzumab in participants with human epidermal growth factor receptor 2 (HER2)-enriched breast cancer.",
+    "NCT_ID": "NCT03820141"
+}

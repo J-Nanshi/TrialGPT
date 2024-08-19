@@ -1,0 +1,18 @@
+{
+    "brief_title": "Pyrotinib in Metastatic HER2 Non-amplified But HER2 Mutant Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Pyrotinib']",
+    "drugs_list": [
+        "Pyrotinib"
+    ],
+    "diseases": "['Breast Cancer', 'HER2 Gene Mutation']",
+    "diseases_list": [
+        "Breast Cancer",
+        "HER2 Gene Mutation"
+    ],
+    "enrollment": "14.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Able to understand and willing to sign an Institutional Review Board\uff08IRB\uff09 approved written informed consent document. \n\n At least 18 years of age. Histologically or cytologically confirmed HER2-negative (0 or 1+ by immuno-histochemical (IHC) or non-amplified by FISH) breast cancer that is stage IV. \n\n There is no standard therapy. At least one measurable disease by RECIST 1.1 is required. Karnofsky performance status (KPS)>70, life expectancy > 12 weeks \n\n ",
+    "exclusion_criteria": ": \n\n Lack of adequate organ function as defined below within 2 weeks of registration: \n\n Absolute neutrophil count (ANC)<1.5\u00d7109/L\uff0cplatelet counts (PLT)<75\u00d7109/L or hemoglobin (Hb)<100g/L Total bilirubin (TBiL)>2\u00d7upper limit of normal (ULN); Aspartate aminotransferase (AST) or alanine aminotransferase (ALT)>2.5\u00d7ULN\uff08or>5 x ULN for patients with liver metastases\uff09; Alkaline phosphatase (ALP)>2.5\u00d7ULN; serum creatinine concentration (Scr)>140umol/L Pregnant and/or breastfeeding. History of significant cardiac disease, cardiac risk factors, or uncontrolled arrhythmias. \n\n Having a history of uncontrolled paroxysmal diseases, including central nervous system diseases or mental disorders which may have an impact on the understanding and signature of informed consent Uncontrolled acute infection Currently receiving any other investigational agents or systemic cancer therapy. \n\n Allergy to any investigational drug ; Any other condition that investigator considers inappropriate to participate in this trail",
+    "brief_summary": "A Phase II Study of Pyrotinib in Metastatic HER2 Non-amplified But HER2 Mutant Breast Cancer",
+    "NCT_ID": "NCT03412383"
+}

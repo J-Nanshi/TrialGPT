@@ -1,0 +1,19 @@
+{
+    "brief_title": "A Study of Neratinib Plus Capecitabine Versus Lapatinib Plus Capecitabine in Patients With HER2+ Metastatic Breast Cancer Who Have Received Two or More Prior HER2 Directed Regimens in the Metastatic Setting",
+    "phase": "Phase 3",
+    "drugs": "['neratinib', 'capecitabine', 'lapatinib']",
+    "drugs_list": [
+        "neratinib",
+        "capecitabine",
+        "lapatinib"
+    ],
+    "diseases": "['HER2+ Metastatic Breast Cancer (MBC)']",
+    "diseases_list": [
+        "HER2+ Metastatic Breast Cancer (MBC)"
+    ],
+    "enrollment": "621.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Aged \u226518 years at signing of informed consent. \n\n Histologically confirmed MBC, current stage IV. \n\n Documented HER2 overexpression or gene-amplified tumor immunohistochemistry 3+ or 2+, with confirmatory fluorescence in situ hybridization (FISH) +. \n\n Prior treatment with at least two (2) HER2-directed regimens for metastatic breast cancer. \n\n ",
+    "exclusion_criteria": ": \n\n Received previous therapy with capecitabine, neratinib, lapatinib, or any other HER2 directed tyrosine kinase inhibitor. \n\n Note: There are additional inclusion and ",
+    "brief_summary": "This is a randomized, multi-center, multinational, open-label, active-controlled, parallel design study of the combination of neratinib plus capecitabine versus the combination of lapatinib plus capecitabine in HER2+ MBC patients who have received two or more prior HER2 directed regimens in the metastatic setting.",
+    "NCT_ID": "NCT01808573"
+}

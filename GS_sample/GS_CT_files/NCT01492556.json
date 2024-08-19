@@ -1,0 +1,17 @@
+{
+    "brief_title": "Study of Etoposide in Treating Patients With Recurrent or Metastatic Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Etoposide']",
+    "drugs_list": [
+        "Etoposide"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "100.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age: 18-80 years old. \n\n ECOG status: 0-2. \n\n Histologic or cytologic diagnosis of locally advanced or metastatic breast cancer. \n\n No more than three prior chemotherapies, adjuvant chemotherapy excluded. \n\n Received prior anthracycline, taxane therapy. \n\n At least 4 weeks from previous chemotherapy. \n\n Measurable disease of >=2 cm (>=1 cm on spiral CT scan). \n\n Life expectancy of \u2265 3 months. \n\n Adequate organ functions: \n\n Hemoglobin \u226510.0 g/dl, Absolute neutrophil count \u22651.5\u00d710^9/L, Platelet count \u2265100\u00d710^9/L, \n\n Creatinine clearance \u226560ml/min, \n\n Bilirubin \u22641.5 times upper limit of normal (ULN); AKP,AST and ALT \u22642.5x ULN(\u22645x ULN if due to liver metastases). \n\n Signed informed consent. \n\n Menopausal women or received surgical sterilization, women with children potential must not be pregnant or nursing with negative pregnancy test and willing to practice acceptable methods of birth control during the study and 3 months after the study. \n\n ",
+    "exclusion_criteria": ": \n\n Pregnancy or lactation. \n\n Untreated or uncontrolled CNS metastases, or with refractory psychiatric illness. \n\n Prior treatment with Etoposide. \n\n Other primary malignancies within the past 5 years except for carcinoma in situ of the cervix or nonmelanoma skin cancer. \n\n Clinically significant heart diseases (e.g.congestive heart failure, symptomatic coronary disease, uncontrolled cardiac arrhythmia, Myocardial infarction) within the past 12 months. \n\n Serious uncontrolled concurrent infection or metabolism disorder. \n\n Concurrent treatment for active peptic ulcer disease or with digestive disorders. \n\n Prior radiotherapy and major surgery within 3 weeks before screening. \n\n Less than 4 weeks since prior investigational agents. \n\n Metastases present in more than one-third whole liver. \n\n Unable or unwilling to comply with the study protocol. \n\n Unsuitable to participate in study, that in the opinion of the treating physician.",
+    "brief_summary": "The purpose of this study is to determine whether Etoposide Monotherapy is effective and safe in the treatment of recurrent or metastatic breast cancer in Chinese female patients.",
+    "NCT_ID": "NCT01492556"
+}

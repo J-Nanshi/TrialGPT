@@ -1,0 +1,20 @@
+{
+    "brief_title": "A Phase Ib/II Study of SHR-A1811 Injection in HER2 Positive Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['SHR-A1811\uff1aPyrotinib', 'SHR-A1811\uff1bPertuzumab', 'SHR-A1811\uff1bSHR-1316', 'SHR-A1811\uff1bAlbumin paclitaxel']",
+    "drugs_list": [
+        "SHR-A1811\uff1aPyrotinib",
+        "SHR-A1811\uff1bPertuzumab",
+        "SHR-A1811\uff1bSHR-1316",
+        "SHR-A1811\uff1bAlbumin paclitaxel"
+    ],
+    "diseases": "['HER2 Positive Breast Cancer']",
+    "diseases_list": [
+        "HER2 Positive Breast Cancer"
+    ],
+    "enrollment": "402.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women aged 18 to 75 (inclusive) \n\n HER2 positive (IHC3+ or ISH+) unresectableor metastatic breast cancer confirmed by histology or cytology. \n\n ECOG score is 0 or 1 \n\n An expected survival of \u2265 12 weeks \n\n At least one measurable lesion according to RECIST v1.1 criteria \n\n Have adequate renal and hepatic function \n\n Patients voluntarily joined the study and signed informed consent \n\n ",
+    "exclusion_criteria": ": \n\n Have other malignancies within the past 5 years \n\n Active central nervous system metastasis without surgery or radiotherapy \n\n Presence with uncontrollable third space effusion \n\n Have undergone other anti-tumor treatment within 4 weeks before the first dose \n\n Immunosuppressant or systemic hormone therapy was used within 2 weeks prior to the first dose \n\n Any active autoimmune disease or a history of autoimmune disease \n\n A history of immune deficiency \n\n Clinically significant cardiovascular disorders \n\n Clinically significant history of lung disease \n\n The toxicity from previous anti-tumor treatment has not recovered to \u2264 grade I \n\n Known hereditary or acquired bleeding tendency \n\n Active hepatitis and liver cirrhosis \n\n Presence of other serious physical or mental diseases or laboratory abnormalities",
+    "brief_summary": "To evaluate the safety, tolerability and efficacy of SHR-A1811 in combination with pyrotinib or pertuzumab or SHR-1316 or albumin-bound paclitaxel in patients with HER2 positive breast cancer.",
+    "NCT_ID": "NCT05353361"
+}

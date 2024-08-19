@@ -1,0 +1,17 @@
+{
+    "brief_title": "Clinical Trial of YH32367 in Patients With HER2 Positive Locally Advanced or Metastatic Solid Tumor",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['YH32367']",
+    "drugs_list": [
+        "YH32367"
+    ],
+    "diseases": "['HER2-Positive Solid Tumor']",
+    "diseases_list": [
+        "HER2-Positive Solid Tumor"
+    ],
+    "enrollment": "110.0",
+    "inclusion_criteria": "inclusion criteria: \n\n [Dose Escalation Part] \n\n Pathologically confirmed HER2-positive \n\n Mandatory provision of tumor tissue sample \n\n [Dose Expansion Part] \n\n Patients who have at least one measurable lesion \n\n Mandatory provision of tumor tissue sample \n\n Cohort 1: Pathologically confirmed HER2-positive breast cancer \n\n Cohort 2: Pathologically confirmed HER2-positive gastric or gastroesophageal junction adenocarcinoma \n\n ",
+    "exclusion_criteria": ": \n\n Uncontrolled central nervous system (CNS) metastases \n\n Spinal cord compression \n\n Carcinomatous meningitis \n\n Acute coronary syndromes \n\n Heart failure \n\n Interstitial lung disease (ILD) \n\n Pneumonitis \n\n History of a second primary cancer \n\n Human immunodeficiency virus (HIV) \n\n Active chronic hepatitis B \n\n Hepatitis C \n\n Systemic steroid therapy \n\n Autoimmune disease",
+    "brief_summary": "This first-in-human study will be counducted to evaluate the safety, tolerability, pharmacokinetics (PK) and anti-tumor activity of YH32367 in Patients with HER2-Positive Locally Advanced or Metastatic Solid Tumors.",
+    "NCT_ID": "NCT05523947"
+}

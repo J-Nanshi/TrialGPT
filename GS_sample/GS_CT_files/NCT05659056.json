@@ -1,0 +1,19 @@
+{
+    "brief_title": "Neoadjuvant Study With Pyrotinib and Trastuzumab and Abraxane in Patients With HER2-enriched Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Pyrotinib, trastuzumab, abraxane']",
+    "drugs_list": [
+        "Pyrotinib",
+        "trastuzumab",
+        "abraxane"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "65.0",
+    "inclusion_criteria": "inclusion criteria: \n\n female patients, 18 years \u2264 age \u2264 75 years\uff1b \n\n Performance Status- Eastern Cooperative Oncology Group (ECOG) 0-1 \n\n Histologically confirmed invasive breast cancer\uff08early stage or locally advanced\uff09 \n\n HER2 positive (HER2+++ by IHC or FISH+), and the HER2-enriched subtype screened by BulePrint test; \n\n Primary breast cancer; \n\n Known hormone receptor status. \n\n The organs are functioning normally, like the liver function, the renal function\uff0c and the baseline left ventricular ejection fraction (LVEF)\u226555% measured by ECHO \n\n Signed informed consent form (ICF) \n\n ",
+    "exclusion_criteria": ": \n\n metastatic disease (Stage IV) or inflammatory breast cancer \n\n Previous or current history of malignant neoplasms, except for curatively treated:Basal and squamous cell carcinoma of the skin,Carcinoma in situ of the cervix. \n\n Clinically relevant cardiovascular disease:Known history of uncontrolled or symptomatic angina, clinically significant arrhythmias, congestive heart failure, transmural myocardial infarction, uncontrolled hypertension \u2265180/110); \n\n A history of allergy to the drugs in this study\uff1b \n\n Unable or unwilling to swallow tablets",
+    "brief_summary": "Breast cancer is kind of highly heterogeneous tumor. The patients with the same stage and with the same treatment regimen, their prognosis varies greatly, mainly due to the different phenotypes of breast cancer and different sensitivities to drug therapy. PMA50 and BluePrint classification divides breast cancer into other inherent subtypes: Luminal A, Luminal B, HER2-enriched (HER2-E) and Basal-like. Previous studies have shown that these patients with inherent subtype of HER2-enriched are more likely to obtain higher pCR after anti-HER2 therapy. And more study and meta analysis had demonstrated the higher pCR is closely related to EFS. The genetic and molecular typing of breast cancer is closely related to the prognosis of breast cancer, so it is imperative to seek a new treatment regimen for precision treatment and maximize the therapeutic benefit of HER2-enriched patients.",
+    "NCT_ID": "NCT05659056"
+}

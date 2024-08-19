@@ -1,0 +1,20 @@
+{
+    "brief_title": "An Open-Label Study to Characterize the Incidence and Severity of Diarrhea in Patients With Early-Stage HER2+ Breast Cancer Treated With Neratinib and Loperamide",
+    "phase": "Phase 2",
+    "drugs": "['Neratinib', 'Loperamide', 'Colestipol', 'Budesonide']",
+    "drugs_list": [
+        "Neratinib",
+        "Loperamide",
+        "Colestipol",
+        "Budesonide"
+    ],
+    "diseases": "['Early Stage HER2+ Breast Cancer']",
+    "diseases_list": [
+        "Early Stage HER2+ Breast Cancer"
+    ],
+    "enrollment": "563.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age \u226518; male or female \n\n Early breast cancer (stage I-3c) \n\n Documented HER2+ tumor: HER2 immunohistochemistry (IHC) 3+ or ISH+ \n\n Prior course of adjuvant trastuzumab given >2 weeks and \u22641 year from enrollment \n\n No evidence of local/regional recurrence or metastatic disease \n\n Eastern Cooperative Oncology Group (ECOG) status of 0 or 1 \n\n Male patients with female partners of childbearing potential must agree and commit to use a condom and women of childbearing potential must not be pregnant and must agree and commit to the use of a highly effective non-hormonal method of contraception \n\n Left ventricular ejection fraction (LVEF) \u226550% measured by multiple-gated acquisition scan (MUGA) or ECHO \n\n ",
+    "exclusion_criteria": ": \n\n Major surgery < 30 days \n\n Chemotherapy, investigational agents, other cancer therapy (except hormonal therapy) < 14 days \n\n Corrected QT Interval (QTc) >0.450 seconds (males) or >0.470 (females) or other active cardiac disease \n\n Significant chronic GI disorder with diarrhea as a major symptom \n\n Active, unresolved infections \n\n Currently pregnant or breast-feeding",
+    "brief_summary": "An Open-Label Study to Characterize the Incidence and Severity of Diarrhea in Patients with Early-Stage HER2+ Breast Cancer Treated with Neratinib and Loperamide or other prophylactic measures.",
+    "NCT_ID": "NCT02400476"
+}

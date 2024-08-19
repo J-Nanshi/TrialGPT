@@ -1,0 +1,20 @@
+{
+    "brief_title": "Assessment of the Efficacy and Safety of Olaparib Monotherapy Versus Physicians Choice Chemotherapy in the Treatment of Metastatic Breast Cancer Patients With Germline BRCA1/2 Mutations.",
+    "phase": "Phase 3",
+    "drugs": "['Olaparib', \"Physician's choice chemotherapy\"]",
+    "drugs_list": [
+        "Olaparib",
+        "Physician's choice chemotherapy"
+    ],
+    "diseases": "['Breast Cancer Metastatic', 'BRCA 1 Gene Mutation', 'BRCA 2 Gene Mutation']",
+    "diseases_list": [
+        "Breast Cancer Metastatic",
+        "BRCA 1 Gene Mutation",
+        "BRCA 2 Gene Mutation"
+    ],
+    "enrollment": "302.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Germline mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious. \n\n Histologically or cytologically confirmed breast cancer with evidence of metastatic disease. \n\n Prior therapy with an anthracycline and a taxane in either an adjuvant or metastatic setting. \n\n Prior platinum allowed as long as no breast cancer progression occurred on treatment or if given in adjuvant/neoadjuvant setting at least 12 months from last dose to study entry elapsed. \n\n ER/PR breast cancer positive patients must have received and progressed on at least one endocrine therapy (adjuvant or metastatic), or have disease that the treating physician believes to be inappropriate for endocrine therapy. \n\n ECOG performance status 0-1. \n\n Adequate bone marrow, kidney and liver function. \n\n ",
+    "exclusion_criteria": ": \n\n Prior treatment with PARP inhibitor. \n\n Patients with HER2 positive disease. \n\n More than 2 prior lines of chemotherapy for metastatic breast cancer. \n\n Untreated and/or uncontrolled brain metastases. \n\n Prior malignancy unless curatively treated and disease-free for > 5 years prior to study entry. Prior adequately treated non-melanoma skin cancer, in situ cancer of the cervix, DCIS or stage I grade 1 endometrial cancer allowed. \n\n Known HIV (Human Immunodeficiency Virus) infection. \n\n Pregnant or breast-feeding women.",
+    "brief_summary": "This open label, randomised, controlled, multi-centre phase III study will assess the efficacy and safety of single agent olaparib vs standard of care based on physician's choice of capecitabine, vinorelbine or eribulin in metastatic breast cancer patients with gBRCA 1/2 mutations.",
+    "NCT_ID": "NCT02000622"
+}

@@ -1,0 +1,22 @@
+{
+    "brief_title": "Whole Body Hyperthermia Combined With Chemotherapy in Treating Patients With Metastatic Breast, Ovarian, Endometrial, or Cervical Cancer",
+    "phase": "Phase 2",
+    "drugs": "['fluorouracil', 'pegylated liposomal doxorubicin hydrochloride', 'hyperthermia treatment']",
+    "drugs_list": [
+        "fluorouracil",
+        "pegylated liposomal doxorubicin hydrochloride",
+        "hyperthermia treatment"
+    ],
+    "diseases": "['Breast Cancer', 'Cervical Cancer', 'Endometrial Cancer', 'Ovarian Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Cervical Cancer",
+        "Endometrial Cancer",
+        "Ovarian Cancer"
+    ],
+    "enrollment": "34.0",
+    "inclusion_criteria": "DISEASE CHARACTERISTICS: \n\n Histologically confirmed metastatic breast, ovarian, endometrial, or cervical carcinoma \n\n Measurable and evaluable disease \n\n No brain metastases \n\n No hepatic involvement greater than 80% \n\n No lung involvement greater than 30% \n\n Hormone receptor status: \n\n Not specified \n\n PATIENT CHARACTERISTICS: \n\n Age: \n\n 18 and over \n\n Sex: \n\n Not specified \n\n Menopausal status: \n\n Not specified \n\n Performance status: \n\n Zubrod 0-2 \n\n Life expectancy: \n\n At least 12 weeks \n\n Hematopoietic: \n\n Absolute granulocyte count greater than 1,500/mm^3 \n\n Platelet count greater than 90,000/mm^3 \n\n Normal bone marrow cellularity on bone marrow biopsy \n\n Thrombin time less than 17 sec \n\n Fibrinogen greater than 200 mg/dL \n\n FSP less than 40 \n\n No coagulopathy \n\n Hepatic: \n\n Bilirubin less than 2.0 mg/dL \n\n SGPT less than 2 times normal \n\n PT less than 14 sec \n\n PTT less than 35 sec \n\n Renal: \n\n BUN less than 25 mg/dL \n\n Creatinine clearance at least 45 mL/min \n\n Cardiovascular: \n\n Normal cardiovascular system \n\n Resting ventricular ejection fraction greater than 40% \n\n No prior myocardial infarction \n\n No symptomatic coronary artery disease \n\n No unstable blood pressure \n\n No thromboembolic disease \n\n Neurologic: \n\n No seizures or other CNS disorders \n\n Negative computerized tomographic scan of brain \n\n Pulmonary: \n\n FEV_1 greater than 70% of predicted \n\n Arterial pressure of oxygen greater than 60 mmHg on room air with appropriate pressure of carbon dioxide and pH values \n\n No history of cardiopulmonary or respiratory disease \n\n Other: \n\n No other serious concurrent medical illness \n\n No diabetes mellitus \n\n PRIOR CONCURRENT THERAPY: \n\n Biologic therapy: \n\n Not specified \n\n Chemotherapy: \n\n Prior chemotherapy allowed \n\n Endocrine therapy: \n\n No adrenal corticosteroids \n\n Radiotherapy: \n\n Not specified \n\n Surgery: \n\n Not specified \n\n Other: \n\n No concurrent cardiac glycosides, antianginal therapy, or antiarrhythmics \n\n No concurrent vasodilators, anticoagulants, thrombolytic agents, or aspirin",
+    "exclusion_criteria": "",
+    "brief_summary": "RATIONALE: Hyperthermia therapy kills tumor cells by heating them to several degrees above body temperature. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining chemotherapy with hyperthermia may kill more tumor cells.~PURPOSE: This phase II trial is studying how well giving fluorouracil and liposomal doxorubicin together with systemic hyperthermia works in treating patients with metastatic breast, ovarian, endometrial, or cervical cancer.",
+    "NCT_ID": "NCT00003135"
+}

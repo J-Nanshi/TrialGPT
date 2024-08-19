@@ -1,0 +1,17 @@
+{
+    "brief_title": "Deferoxamine Plus Chemotherapy for Metastatic Triple Negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Deferoxamine Plus Chemotherapy']",
+    "drugs_list": [
+        "Deferoxamine Plus Chemotherapy"
+    ],
+    "diseases": "['Triple Negative Breast Cancer']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer"
+    ],
+    "enrollment": "30.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Has measurable metastatic triple-negative breast cancer, with at least 1 measurable lesion per RECIST criteria. \n\n Fail second-line or above anti-tumor treatment \n\n Evaluation is stable disease with a trend of progression. \n\n Minimum life expectancy 16 weeks \n\n Histological confirmation of breast cancer on primary tumour at diagnosis/on biopsy of metastasis \n\n ECOG Performance Status (PS) 0-2 with no deterioration over previous 2 weeks \n\n Normal organ function. \n\n Has signed a Patient Informed Consent Form. \n\n ",
+    "exclusion_criteria": ": \n\n Eastern Cooperative Oncology Group (ECOG) score of \u2265 2 \n\n Patients with severe liver and kidney insufficiency \n\n Deferoxamine Ingredients allergy \n\n With the exception of alopecia, any unresolved toxicities from previous therapy greater than CTCAE grade 1 before study treatment \n\n Inability or unwillingness to comply with study procedures, including inability to take regular oral medication \n\n Researchers consider it is not suitable for participation.",
+    "brief_summary": "The objective of the study is to evaluate the efficacy and safety of chemotherapy plus deferoxamine in metastatic breast cancer whose evaluation is stable disease with a trend of progression.",
+    "NCT_ID": "NCT05300958"
+}

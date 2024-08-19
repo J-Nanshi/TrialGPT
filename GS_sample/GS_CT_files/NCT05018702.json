@@ -1,0 +1,18 @@
+{
+    "brief_title": "ARX788 in HER2-positive Breast Cancer Patients With Brain Metastases",
+    "phase": "Phase 2",
+    "drugs": "['ARX788']",
+    "drugs_list": [
+        "ARX788"
+    ],
+    "diseases": "['HER2-positive, Metastatic Breast Cancer']",
+    "diseases_list": [
+        "HER2-positive",
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "32.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age \u226518 years, and \u226475 years, male or female; \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 \n\n 2; \n\n Breast cancer patients diagnosed as HR arbitrary/HER2-positive by pathological examination; \n\n Metastatic breast cancer subjects previously treated with trastuzumab, taxane and EGFR-TKI-containing regimens; \n\n MRI confirmed brain metastasis with at least one intracranial parenchymal untreated metastatic lesion; \n\n Mannitol, bevacizumab, or hormone therapy is allowed before enrollment; \n\n Adequate organ functions; \n\n Acute toxicities from any prior therapy, surgery, or radiotherapy must have resolved to Grade \u22641. \n\n Patients who participate in the trial voluntarily, sign an informed consent, have good compliance and are willing to comply with the follow-up visit. \n\n ",
+    "exclusion_criteria": ": \n\n Pneumomeningeal metastases or cystic metastases confirmed by MRI or lumbar puncture; \n\n Uncontrolled third space effusion; \n\n Previous treatment with T-DM1 or other HER2-ADC drugs; \n\n Received a whole-brain radiotherapy, chemotherapy, or surgery within 2 weeks prior to the first dose of ARX788, or trastuzumab-targeted therapy or endocrine therapy within 1 week, or palliative radiotherapy for bone metastases within 2 weeks; \n\n Prior history of interstitial pulmonary disease requiring hormone therapy, drug-induced interstitial pulmonary disease, radiation pneumonia, or current clinically active interstitial pulmonary disease; \n\n Suffering from keratitis, corneal diseases, retinal diseases or active eye infections that require intervention; \n\n Unwilling or unable to stop wearing contact lenses for the duration of the study; \n\n Participated in other clinical trials within 2 weeks prior to enrollment; \n\n Receiving any antitumor therapy for any other tumor, bevacizumab for the control of brain edema and bisphosphonates for the treatment of bone metastases or the prevention of osteoporosis are the exception; \n\n With a history of any malignancies other than breast cancer in the past 5 years, excluding cured cervical carcinoma in situ, basal cell carcinoma of the skin or squamous cell carcinoma of the skin; \n\n Cardiac insufficiency; \n\n Uncontrolled hypertension; \n\n History of allergic reactions to any component of ARX788, or with a history of protein drug allergy, a history of specific allergies (asthma, rheumatism, eczematous dermatitis), or a history of other severe allergic reactions, who are unsuitable for ARX788 treatment as per the investigator's judgments; \n\n Pregnancy or lactation; \n\n History of immunodeficiency, including HIV-positive, or other acquired or congenital immunodeficiency diseases, or a history of organ transplantation; \n\n Current known active infection with human immunodeficiency virus (HIV), hepatitis B virus, hepatitis C virus or syphilis; \n\n History of neurological or psychiatric disorder, including epilepsy or dementia; \n\n Suffering severe or uncontrolled systemic diseases.",
+    "brief_summary": "A Phase 2 Study of ARX788 in HER2-positive, Metastatic Breast Cancer Patients whose Disease is resistant or refractory to Tyrosine kinase inhibitors (TKI).",
+    "NCT_ID": "NCT05018702"
+}

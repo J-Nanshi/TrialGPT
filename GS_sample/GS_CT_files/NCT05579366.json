@@ -1,0 +1,25 @@
+{
+    "brief_title": "PRO1184 for Advanced Solid Tumors",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['PRO1184']",
+    "drugs_list": [
+        "PRO1184"
+    ],
+    "diseases": "['Ovarian Cancer', 'Primary Peritoneal Carcinoma', 'Fallopian Tube Cancer', 'Endometrial Cancer', 'Non-small Cell Lung Cancer', 'Mesothelioma', 'Triple Negative Breast Cancer', 'HER2-negative Breast Cancer', 'Hormone Receptor-positive Breast Cancer']",
+    "diseases_list": [
+        "Ovarian Cancer",
+        "Primary Peritoneal Carcinoma",
+        "Fallopian Tube Cancer",
+        "Endometrial Cancer",
+        "Non-small Cell Lung Cancer",
+        "Mesothelioma",
+        "Triple Negative Breast Cancer",
+        "HER2-negative Breast Cancer",
+        "Hormone Receptor-positive Breast Cancer"
+    ],
+    "enrollment": "134.0",
+    "inclusion_criteria": "inclusion criteria: \n\n histologically or cytologically confirmed metastatic or unresectable solid malignancy including ovarian cancer (must have epithelial ovarian cancer, primary peritoneal cancer, or fallopian tube cancer), endometrial cancer, non-small cell lung cancer, breast cancer (hormone receptor positive, HER2-negative and triple-negative), mesothelioma \n\n previously received therapies known to confer clinical benefit \n\n willing to provide a tumor sample (archive tissue or fresh biopsy) \n\n ECOG performance status 0 or 1 \n\n measurable disease per RECIST v1.1 for all tumor types other than pleural mesothelioma which will use mRECIST v1.1 at baseline \n\n adequate hematologic, hepatic, renal and cardiac function \n\n for Part B, evidence of folate receptor alpha expression in tumor cells \n\n ",
+    "exclusion_criteria": ": \n\n other malignancy within 3 years \n\n active CNS metastases (treated, stable CNS metastases are allowed) \n\n uncontrolled Grade 3 or greater infection within 2 weeks \n\n positive for HBV, HCV or HIV \n\n use of a strong P450 CYP3A inhibitor within 14 days (dose escalation only) \n\n additional protocol defined inclusion/",
+    "brief_summary": "This study will test the safety, including side effects, and determine the characteristics of a drug called PRO1184 in participants with solid tumors.~Participants will have solid tumor cancer that has spread through the body (metastatic) or cannot be removed with surgery (unresectable).~This study will have two parts. Part A of the study will find out how much and how frequently PRO1184 should be given to participants. Part B will use the dose and schedule found in Part A to find out how safe PRO1184 is and if it works to treat solid tumor cancers.",
+    "NCT_ID": "NCT05579366"
+}

@@ -1,0 +1,17 @@
+{
+    "brief_title": "ARX788 in HER2-positive, Metastatic Breast Cancer Subjects (ACE-Breast-03)",
+    "phase": "Phase 2",
+    "drugs": "['ARX788']",
+    "drugs_list": [
+        "ARX788"
+    ],
+    "diseases": "['HER2 Positive Metastatic Breast Cancer']",
+    "diseases_list": [
+        "HER2 Positive Metastatic Breast Cancer"
+    ],
+    "enrollment": "31.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age \u2265 18 years and older \n\n Life expectancy \u2265 6 months \n\n Eastern Cooperative Oncology Group Performance Status \u2264 1 \n\n Her 2 Positive Metastatic breast cancer subjects previously treated with T-DXd \n\n Presence of at least one measurable lesion per RECIST v 1.1 \n\n Subjects must have an adequate tumor sample available for confirmation of HER2 status \n\n Subjects with stable brain metastases \n\n Acute toxicities from any prior therapy, surgery, or radiotherapy must have resolved to Grade \u22641 as per the NCI-CTCAE v 5.0, except alopecia \n\n Adequate organ functions \n\n Willing and able to understand and sign an informed consent inform and to comply with all aspects of the protocol \n\n Female subjects must be surgically sterile, or have a monogamous partner who is surgically sterile, or at postmenopausal, or who commits to use an acceptable form of birth control; male subjects must be sterile (biologically or surgically) or commit to the use of a reliable method of birth control \n\n ",
+    "exclusion_criteria": ": \n\n Any subject who meets any of the following criteria is excluded from the study: \n\n History of allergic reactions to any component of ARX788. \n\n Prior history of interstitial lung disease, pneumonitis, or other clinically significant lung disease \n\n Any active ocular infections \n\n History of congestive heart failure, unstable angina pectoris, unstable atrial fibrillation, or cardiac arrhythmia within 12 months prior to enrollment \n\n Grade 3 to 4 peripheral neuropathy (NCI CTCAE v 5.0). Patients with Grade 2 neuropathy can be enrolled at investigator's discretion \n\n History of unstable central nervous system (CNS) metastases \n\n Current severe, uncontrolled systemic disease (eg, clinically significant cardiovascular, pulmonary, or metabolic diseases) \n\n Any uncontrollable intercurrent illness, infection (including subjects with active, symptomatic Covid-19 infections), or other conditions that could limit study compliance or interfere with assessments \n\n Exposure to any other investigational or commercial anticancer agents or therapies administered with the intention to treat malignancy within 14 days before the first dose of ARX788 \n\n Clinically significant surgical intervention (excluding diagnostic biopsy) within 21 days of the first dose of ARX788 \n\n Radiotherapy administered less than 21 days prior to the first dose of ARX788, or localized palliative radiotherapy administered less than 7 days prior to the first dose of ARX788, or radiotherapy-induced toxicity of Grade 2 or greater based on NCI-CTCAE v 5.0 \n\n Pregnancy or breast feeding \n\n Known active HCV, HBV, and/or HIV infection",
+    "brief_summary": "A Global, Phase 2 Study of ARX788 in HER2-positive Metastatic Breast Cancer Patients who were previously treated with T-DXd",
+    "NCT_ID": "NCT04829604"
+}

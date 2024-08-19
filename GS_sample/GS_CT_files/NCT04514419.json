@@ -1,0 +1,18 @@
+{
+    "brief_title": "Treatment of Breast Cancer With Trastuzumab + HS627/ Pertuzumab + Docetaxel",
+    "phase": "Phase 3",
+    "drugs": "['HS627', 'Pertuzumab']",
+    "drugs_list": [
+        "HS627",
+        "Pertuzumab"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "408.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically confirmed invasive breast carcinoma with a primary tumor size of more than (>) 2 centimeters (cm) by standard local assessment technique\uff1b \n\n Breast cancer stage at presentation: early-stage (T2-3, N0-1, M0), locally advanced (T2-3, N2-3,M0 or T4a-c, any N, M0), or infl ammatory (T4d, any N,M0)\uff1b \n\n Known hormone receptor status (estrogen receptor and/or progesterone receptor)\uff1b \n\n HER2 positive (HER2+++ by IHC or ISH+). \n\n Baseline left ventricular ejection fracture >= 55% measured by echocardiography (preferred) or multiple gated acquisition scan\uff1b \n\n Normalities in liver, kidney or hematologic function laboratory tests immediately prior to randomization; \n\n Absolute value of neutrophils \u2265 1.5 \u00d7 109 / L; \n\n Platelet \u2265 90\u00d7109 / L; \n\n Hemoglobin \u2265 90g / L; \n\n Serum creatinine\u2264 1.5 times the upper limit of normal (ULN); \n\n Serum total bilirubin\u22641.5 times ULN (except for Gilbert syndrome); \n\n Aspartate aminotransferase (AST) and / or alanine aminotransferase (ALT) \u2264 1.5-fold ULN; \n\n International normalized ratio (INR), activated partial prothrombin time (APTT) \u2264 1.5 times ULN. \n\n ECOG\u22641\uff1b \n\n ",
+    "exclusion_criteria": ": \n\n Stage IV metastatic ; \n\n Bilateral breast cancer; \n\n Previous anti-cancer therapy or radiotherapy for any malignancy; \n\n History of other malignancy within 5 years, except for appropriately-treated carcinoma in Cervical carcinoma in situ, basal cell carcinoma or squamous cell skin cancer; \n\n Serious cardiac illness or medical condition; \n\n HIV antibody positive; HCV antibody positive and HCV RNA positive; HBcAb or HBsAg positive, and HBV DNA positive; \n\n Sensitivity to any of the study medications, any of the ingredients or excipients of these medications; \n\n Known mental history had poor compliance; \n\n Known to have drug abusers; \n\n Concurrent anti-cancer treatment in another investigational trial, including hormone therapy, bisphosphonate therapy, or immunotherapy; \n\n Needed intravenous antibiotic treatment due to infection within 7 days before random enrollment; \n\n Major surgical procedure unrelated to breast cancer within 4 weeks prior to randomization or expected to perform major surgery during the trial period; \n\n Premenopausal women (menopause is defined as non treatment induced menopause\u226512 months) or without surgical sterilization (e.g., ovariectomy and / or uterus): refuse to take one or more effective contraceptive measures during treatment and at least 6 months after the last study treatment; blood pregnancy test is positive; pregnant or lactating women; Considered unsuitable for the study or may not be able to complete the trial due to other reasons.",
+    "brief_summary": "The trial included screening period (4 weeks) and treatment period (4 treatment cycles, at least 12 weeks).",
+    "NCT_ID": "NCT04514419"
+}

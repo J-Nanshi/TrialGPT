@@ -1,0 +1,18 @@
+{
+    "brief_title": "Study Evaluating The Effects Of Neratinib After Adjuvant Trastuzumab In Women With Early Stage Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['neratinib', 'placebo']",
+    "drugs_list": [
+        "neratinib",
+        "placebo"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "2840.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Stage II through IIIC HER-2/erbB-2 positive breast cancer with node positive disease. \n\n Been treated for early breast cancer with standard of care duration of trastuzumab. \n\n Could have been treated neoadjuvantly but have not reached pathologic complete response. \n\n ",
+    "exclusion_criteria": ": \n\n Positive clinical and radiologic assessments for local or regional recurrence of disease at the time of study entry. \n\n History of heart disease. \n\n Corrected QT (QTc) interval >0.45 seconds \n\n History of gastrointestinal disease with diarrhea as the major symptom.",
+    "brief_summary": "The purpose of this study is to investigate whether neratinib can further reduce the risk of recurrence from previously diagnosed HER-2 positive breast cancer after adjuvant treatment with trastuzumab.",
+    "NCT_ID": "NCT00878709"
+}

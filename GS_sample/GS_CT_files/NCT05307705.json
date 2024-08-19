@@ -1,0 +1,24 @@
+{
+    "brief_title": "A Study of LOXO-783 in Patients With Breast Cancer/Other Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['LOXO-783', 'Fulvestrant', 'Imlunestrant', 'Abemaciclib', 'Anastrozole, Exemestane, or Letrozole', 'Paclitaxel']",
+    "drugs_list": [
+        "LOXO-783",
+        "Fulvestrant",
+        "Imlunestrant",
+        "Abemaciclib",
+        "Anastrozole",
+        "Exemestane",
+        "or Letrozole",
+        "Paclitaxel"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "400.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Have advanced breast cancer or another solid tumor with the presence of a PIK3CA H1047R mutation (or other Sponsor and SRC-approved, activating PIK3CA mutations other than H1047R mutation) \n\n Have adequate archival tumor tissue sample available or be approved by the Sponsor for enrollment if no tumor sample is available. \n\n Have stopped all cancer treatment and have recovered from the major side effects \n\n Have adequate organ function, as measured by blood tests \n\n Have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) scale \n\n Patients must have \n\n Measurable disease \n\n --- Patients with non-breast tumor types must have at least 1 measurable lesion \n\n Non-measurable bone disease (at least one bone lesion in breast cancer patients only) \n\n For patients with an ER+ breast cancer diagnosis: \n\n If female, must be postmenopausal \n\n If male, must agree to use hormone suppression \n\n Phase 1a: \n\n -- Dose escalation and backfill patients: \n\n Advanced solid tumor \n\n Patients may have had up to 5 prior regimens for advanced disease \n\n Phase 1b: \n\n Part A: \n\n ER+/HER2- advanced breast cancer \n\n Patients may have had up to 2 to 4 prior regimens for advanced disease, depending on cohort ---- Prior cyclin dependent kinase (CDK)4/6 inhibitor therapy required \n\n Part B: \n\n ER+/HER2- advanced breast cancer \n\n Patients may have had up to 2 prior regimens for advanced disease. \n\n Part C: \n\n ER+/HER2- advanced breast cancer \n\n Patients may have had up to 5 prior regimens for advanced disease. \n\n ---- Prior CDK4/6 inhibitor therapy required. \n\n Have a diagnosis of diabetes mellitus Type 2 \n\n Part D: \n\n Advanced breast cancer \n\n Patients may have had up to 5 prior regimens for advanced disease. \n\n Part E: \n\n Advanced solid tumor \n\n Patients may have had up to 3 prior regimens for advanced disease advanced disease \n\n Part F: \n\n ER+/HER2- advanced breast cancer \n\n Patients may have had up to 2 prior regimens for advanced disease \n\n Prior cyclin dependent kinase (CDK)4/6 inhibitor therapy required \n\n ",
+    "exclusion_criteria": ": \n\n Medical Conditions \n\n Colorectal cancer \n\n Endometrial cancers with specific concurrent oncogenic alterations \n\n A history of known active or suspected \n\n Diabetes mellitus Type 1 or \n\n Diabetes mellitus Type 2 requiring antidiabetic medication (Phase 1a and all parts of Phase 1b except Part C). \n\n Serious concomitant systemic disorder \n\n Known or suspected history of untreated or uncontrolled central nervous system (CNS) involvement. \n\n Active uncontrolled systemic bacterial, viral, fungal, or parasitic infection, or other clinically significant active disease process \n\n Prior exposure to PI3K/AKT/mTOR inhibitor(s), except in certain circumstances",
+    "brief_summary": "The main purpose of this study is to learn more about the safety, side effects, and effectiveness of LOXO-783. LOXO-783 may be used to treat breast cancer and other solid tumors that have a change in a particular gene (known as the PIK3CA gene). Participation could last up to 36 months (3 years) and possibly longer if the disease does not get worse.",
+    "NCT_ID": "NCT05307705"
+}

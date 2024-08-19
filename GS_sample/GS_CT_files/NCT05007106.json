@@ -1,0 +1,38 @@
+{
+    "brief_title": "MK-7684A With or Without Other Anticancer Therapies in Participants With Selected Solid Tumors (MK-7684A-005) (KEYVIBE-005)",
+    "phase": "Phase 2",
+    "drugs": "['Pembrolizumab/Vibostolimab Co-Formulation', 'Pembrolizumab', 'Lenvatinib', '5-Fluorouracil', 'Cisplatin', 'Paclitaxel', 'Gemcitabine', 'Carboplatin', 'Docetaxel', 'Bevacizumab', 'Capecitabine', 'Oxaliplatin']",
+    "drugs_list": [
+        "Pembrolizumab/Vibostolimab Co-Formulation",
+        "Pembrolizumab",
+        "Lenvatinib",
+        "5-Fluorouracil",
+        "Cisplatin",
+        "Paclitaxel",
+        "Gemcitabine",
+        "Carboplatin",
+        "Docetaxel",
+        "Bevacizumab",
+        "Capecitabine",
+        "Oxaliplatin"
+    ],
+    "diseases": "['Uterine Cervical Neoplasms', 'Endometrial Neoplasms', 'Squamous Cell Carcinoma of Head and Neck', 'Gallbladder Neoplasms', 'Cholangiocarcinoma', 'Esophageal Neoplasms', 'Triple Negative Breast Neoplasms', 'Hepatocellular Carcinoma', 'Urinary Bladder Neoplasms', 'Ovarian Neoplasms', 'Stomach Neoplasms']",
+    "diseases_list": [
+        "Uterine Cervical Neoplasms",
+        "Endometrial Neoplasms",
+        "Squamous Cell Carcinoma of Head and Neck",
+        "Gallbladder Neoplasms",
+        "Cholangiocarcinoma",
+        "Esophageal Neoplasms",
+        "Triple Negative Breast Neoplasms",
+        "Hepatocellular Carcinoma",
+        "Urinary Bladder Neoplasms",
+        "Ovarian Neoplasms",
+        "Stomach Neoplasms"
+    ],
+    "enrollment": "610.0",
+    "inclusion_criteria": "inclusion criteria: \n\n One of the following histologically or cytologically confirmed, advanced (unresectable or metastatic) solid tumors: \n\n Squamous cell carcinoma, adenosquamous carcinoma, or adenocarcinoma of the cervix \n\n Endometrial cancer \n\n Head and neck squamous cell carcinoma (HNSCC) \n\n Unresectable biliary adenocarcinoma (gallbladder or biliary tree [intrahepatic or extrahepatic] cholangiocarcinoma) \n\n Adenocarcinoma or squamous cell carcinoma of the esophagus or advanced/metastatic Siewert type 1 adenocarcinoma of the gastroesophageal junction (GEJ). \n\n Triple-negative breast cancer (TNBC) \n\n Hepatocellular carcinoma (HCC) \n\n Urothelial carcinoma of the renal pelvis, ureter, bladder, or urethra \n\n Ovarian cancer \n\n Gastric cancer \n\n Measurable disease per RECIST v1.1 as assessed by BICR or local site investigator. \n\n Adequately controlled blood pressure (BP) with or without antihypertensive medications. \n\n Human immunodeficiency virus (HIV)-infected participants must have well controlled HIV on anti-retroviral therapy (ART). \n\n Male participants must agree to follow contraceptive guidance. \n\n Female participants are not pregnant or breastfeeding, not a woman of child-bearing potential (WOCBP) or is a WOCBP and agrees to follow contraceptive guidance. \n\n Adequate organ function. \n\n ",
+    "exclusion_criteria": ": \n\n History of a second malignancy, unless potentially curative treatment has been completed with no evidence of malignancy for 3 years. \n\n Prior therapy with anti-programmed cell-death (PD-1), anti-PD-L1, anti-PD-L2, or anti-T-cell immunoreceptor with Ig and ITIM domains (TIGIT) agent. \n\n Prior systemic anticancer therapy including investigational agents within 4 weeks before randomization/allocation. \n\n Received a live or live-attenuated vaccine within 30 days before the first dose of study intervention. Administration of killed vaccines are allowed. \n\n Diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy or any other form of immunosuppressive therapy within 7 days before the first dose of study medication. \n\n Active autoimmune disease that has required systemic treatment in past 2 years. \n\n Active infection requiring systemic therapy. \n\n Concurrent active hepatitis B and hepatitis C virus infection. \n\n History of allogenic tissue/solid organ transplant. \n\n Previous treatment with lenvatinib (for participants who will receive lenvatinib in their assigned treatment arm). \n\n Has clinically significant cardiovascular disease within 12 months from first dose of study intervention.",
+    "brief_summary": "The purpose of this study is to determine the safety, tolerability, and preliminary efficacy of pembrolizumab/vibostolimab co-formulation (MK-7684A) with or without other anticancer therapies in participants with selected advanced solid tumors. The primary hypothesis is that pembrolizumab/vibostolimab co-formulation is superior to pembrolizumab alone in terms of objective response rate or progression-free survival in participants with cervical cancer.",
+    "NCT_ID": "NCT05007106"
+}

@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study of Camrelizumab Plus Chemotherapy vs Placebo Plus Chemotherapy as Neoadjuvant Therapy in Participants With Triple Negative Breast Cancer (TNBC)",
+    "phase": "Phase 3",
+    "drugs": "['Camrelizumab Plus Chemotherapy', 'placebo+chemotherapy']",
+    "drugs_list": [
+        "Camrelizumab Plus Chemotherapy",
+        "placebo+chemotherapy"
+    ],
+    "diseases": "['Triple Negative Breast Cancer']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer"
+    ],
+    "enrollment": "581.0",
+    "inclusion_criteria": "inclusion criteria: \n\n ECOG Performance Status of 0-1. \n\n Early or locally advanced, histologically documented TNBC (absence of HER2, ER, and PR expression). \n\n Tumor stage: II-III. \n\n Adequate hematologic and organ function. \n\n Must be willing to use an adequate method of contraception for the course of the study. \n\n ",
+    "exclusion_criteria": ": \n\n Has a history of breast cancer. \n\n Has a history of invasive malignancy \u22645 years prior to signing informed consent except for adequately treated basal cell or squamous cell skin cancer or in situ cervical cancer. \n\n Has received prior chemotherapy, targeted therapy, and radiation therapy within the past 12 months. \n\n Has received prior therapy with an anti-programmed cell death protein 1 (anti-PD-1), anti-programmed death - ligand 1 (anti-PD-L1), or anti-PD-L2 agent or with an agent directed to another co-inhibitory T-cell receptor (e.g., cytotoxic T-lymphocyte-associated antigen-4 [CTLA-4]. \n\n Has a diagnosis of immunodeficiency or autoimmune diseases. \n\n Has received any form of immunosuppressive therapy within 4 weeks prior to the first dose of study treatment. \n\n Severe pulmonary or cardiac disease. \n\n Known active hepatitis C virus, or known active hepatitis B virus. \n\n History of organ or bone marrow transplantation. \n\n Pregnant or breast-feeding women.",
+    "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of camrelizumab (an engineered anti-programmed death-ligand 1 [PD-1] antibody) plus chemotherapy vs placebo plus chemotherapy as neoadjuvant therapy in participants with triple negative breast cancer (TNBC). Participants will be randomized in a 1:1 ratio to Arm A (camrelizumab +chemotherapy) or Arm B (placebo + chemotherapy).",
+    "NCT_ID": "NCT04613674"
+}

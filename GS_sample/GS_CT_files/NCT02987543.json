@@ -1,0 +1,21 @@
+{
+    "brief_title": "Study of Olaparib (Lynparza\u2122) Versus Enzalutamide or Abiraterone Acetate in Men With Metastatic Castration-Resistant Prostate Cancer (PROfound Study)",
+    "phase": "Phase 3",
+    "drugs": "['olaparib', 'enzalutamide', 'abiraterone acetate', 'abiraterone acetate', 'enzalutamide']",
+    "drugs_list": [
+        "olaparib",
+        "enzalutamide",
+        "abiraterone acetate",
+        "abiraterone acetate",
+        "enzalutamide"
+    ],
+    "diseases": "['Metastatic Castration-resistant Prostate Cancer']",
+    "diseases_list": [
+        "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "enrollment": "387.0",
+    "inclusion_criteria": "inclusion criteria \n\n Histologically confirmed diagnosis of prostate cancer. \n\n Documented evidence of metastatic castration resistant prostate cancer (mCRPC). \n\n Subjects must have progressed on prior new hormonal agent (e.g. abiraterone acetate and/or enzalutamide) for the treatment of metastatic prostate cancer and/or CRPC . \n\n Ongoing therapy with LHRH analog or bilateral orchiectomy. \n\n Radiographic progression at study entry while on androgen deprivation therapy (or after bilateral orchiectomy). \n\n Qualifying HRR mutation in tumor tissue. \n\n ",
+    "exclusion_criteria": " \n\n Any previous treatment with PARP inhibitor, including olaparib. \n\n Subjects who have any previous treatment with DNA-damaging cytotoxic chemotherapy, except if for non-prostate cancer indication and last dose > 5 years prior to randomization. \n\n Other malignancy (including MDS and MGUS) within the last 5 years except: adequately treated non-melanoma skin cancer or other solid tumors curatively treated with no evidence of disease for \u22655 years. \n\n Subjects with known brain metastases.",
+    "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of olaparib versus enzalutamide or abiraterone acetate in subjects with metastatic castration-resistant prostate cancer who have failed prior treatment with a new hormonal agent and have homologous recombination repair gene mutations.",
+    "NCT_ID": "NCT02987543"
+}

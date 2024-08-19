@@ -1,0 +1,29 @@
+{
+    "brief_title": "Phase 1, First-in-human, Dose-finding and Expansion Study to Evaluate XmAb\u00ae808 in Combination With Pembrolizumab in Advanced Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['XmAb\u00ae808', 'Keytruda\u00ae (pembrolizumab)']",
+    "drugs_list": [
+        "XmAb\u00ae808",
+        "Keytruda\u00ae (pembrolizumab)"
+    ],
+    "diseases": "['Head and Neck Squamous Cell Carcinoma', 'Melanoma Excluding Uveal Melanoma', 'Non-small Cell Lung Cancer, Squamous or Non-squamous', 'Urothelial Carcinoma', 'Renal Cell Carcinoma, Clear Cell', 'Castration-resistant Prostate Cancer', 'Ovarian Cancer, Epithelial', 'TNBC - Triple-Negative Breast Cancer', 'Colorectal Cancer']",
+    "diseases_list": [
+        "Head and Neck Squamous Cell Carcinoma",
+        "Melanoma Excluding Uveal Melanoma",
+        "Non-small Cell Lung Cancer",
+        "Squamous or Non-squamous",
+        "Urothelial Carcinoma",
+        "Renal Cell Carcinoma",
+        "Clear Cell",
+        "Castration-resistant Prostate Cancer",
+        "Ovarian Cancer",
+        "Epithelial",
+        "TNBC - Triple-Negative Breast Cancer",
+        "Colorectal Cancer"
+    ],
+    "enrollment": "220.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Part A: Histologically confirmed advanced/metastatic castration-resistant prostate adenocarcinoma, epithelial ovarian cancer, head and neck squamous cell carcinoma, non-small cell lung cancer, urothelial carcinoma, melanoma, renal cell carcinoma, triple-negative breast cancer, or colorectal cancer that has progressed on standard therapies \n\n Part B: Histologically confirmed advanced/metastatic castration-resistant prostate cancer that is PD1-na\u00efve; head and neck squamous cell carcinoma that is PD1-na\u00efve or has progressed on prior PD1 therapy; or melanoma that is PD1-na\u00efve or has progressed on prior PD1 therapy \n\n Measurable disease by RECIST 1.1; subjects with prostate cancer who have evaluable disease according to PCWG3 criteria may enroll \n\n Life expectancy > 3 months \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 \n\n All subjects in Part A (dose escalation) must have adequate archival tumor sample. For subjects who do not have adequate archival tumor sample, a fresh tumor sample is mandatory. \n\n All subjects in Part B (cohort expansion) must have a tumor lesion that can be biopsied and must agree to provide 2 fresh biopsies: one during screening and a second to be collected at the end of Cycle 1 \n\n ",
+    "exclusion_criteria": ": \n\n Subjects currently receiving other anticancer therapies \n\n Any prior treatment with an investigational agent targeting CD28 \n\n Treatment with systemic anticancer therapy or radiation therapy within 4 weeks of the - start of study drug; a 1-week washout is allowed for palliative radiation \n\n History of a life-threatening adverse event related to prior immunotherapy \n\n Failure to recover from toxicity related to previous anticancer treatment \n\n Known active central nervous system involvement by malignant disease. Subjects with - previously treated brain metastases may participate provided they are radiologically and clinically stable \n\n Active known or suspected autoimmune disease (exceptions include subjects that have vitiligo; type 1 diabetes mellitus or residual hypothyroidism due to an autoimmune condition that is treatable with hormone replacement therapy only; psoriasis, atopic dermatitis, or another autoimmune skin condition that is managed without systemic therapy; or arthritis that is managed without systemic therapy beyond oral acetaminophen and nonsteroidal anti-inflammatory drugs) \n\n Receipt of an organ allograft \n\n Evidence of any serious bacterial, viral, parasitic, or systemic fungal infections within the 30 days prior to the first dose of study drug \n\n Positive urine pregnancy test \n\n Known hypersensitivity to pembrolizumab or to any ingredient in the formulation or component of the container",
+    "brief_summary": "The purpose of this study is to evaluate the safety, tolerability, and pharmacokinetics of intravenous (IV) administration of XmAb808 in combination with pembrolizumab in subjects with selected advanced solid tumors and to identify the minimum safe and biologically effective/recommended dose (RD) and schedule for XmAb808.",
+    "NCT_ID": "NCT05585034"
+}

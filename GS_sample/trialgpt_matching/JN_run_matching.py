@@ -7,6 +7,7 @@ import json
 from nltk.tokenize import sent_tokenize
 import os
 import sys
+from groq import Groq
 from tqdm import tqdm
 import logging
 import time
@@ -16,13 +17,14 @@ from JN_TrialGPT import trialgpt_matching
 # corpus = sys.argv[1]
 corpus = "GS_data"
 # model = sys.argv[2] 
-model = "gpt-4-turbo" 
+# model = "gpt-4-turbo" 
+model = "llama3-8b-8192"
 
 dataset = json.load(open(f"../../GS_sample/dataset/GS_data/token_counts/pre_matching_input_5_patient_file.json"))
 dataset[0]
 
-output_path = f"../../GS_sample/dataset/GS_data/token_counts/Results/matching_results_for_5_patients_top50_trials_retrived.json" 
-logging.basicConfig(filename='../../GS_sample/dataset/GS_data/token_counts/Results/P_NCT02448420_matching_algo.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+output_path = f"../../GS_sample/dataset/GS_data/token_counts/Results/matching_results_for_5_patients_top50_trials_retrived_qroq.json" 
+logging.basicConfig(filename='../../GS_sample/dataset/GS_data/token_counts/Results/P_NCT02448420_matching_algo_groq.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 #%%
 def num_tokens_from_string(string: str):
     encoding = tiktoken.get_encoding("cl100k_base")
@@ -53,7 +55,8 @@ for instance in tqdm(dataset):
 	if patient_id not in output:
 		output[patient_id] = {"0": {}, "1": {}, "2": {}}
 	
-	
+	input_token_list = []
+	output_token_list = []
 	for label in tqdm(["2", "1", "0"]):
 		if label not in instance: continue
 
@@ -65,10 +68,9 @@ for instance in tqdm(dataset):
 			
 			# in case anything goes wrong (e.g., API calling errors)
 			try:
-				input_token_list = []
-				output_token_list = []
+				
 				# results, a, b = trialgpt_matching(trial, patient, model)
-				results = trialgpt_matching(trial, patient, model)
+				results = trialgpt_matching(trial, patient)
 				output[patient_id][label][trial_id] = results[0]
 				input_tokens = num_tokens_from_string(f"{results[1]+results[2]}")
 				output_tokens = num_tokens_from_string(f"{results[0]}")
@@ -80,13 +82,13 @@ for instance in tqdm(dataset):
 				matching_metadata_list.append(matching_metadata_dict)
 				logging.info(f"for {trial_id},\n system promt:{results[1]},\n user_prompt: {results[2]},\n input_tokens: {input_tokens},\n output_tokens: {output_tokens}")
 				
-				# with open(f"../../GS_sample/dataset/GS_data/token_counts/Result/{patient_id}_matching_metadeta.jsonl", "w") as f:
-				# 	f.write(matching_metadata_dict + "\n")
+				with open(f"../GS_sample/dataset/GS_data/token_counts/Result/{patient_id}_matching_metadeta.jsonl", "w") as f:
+					f.write(matching_metadata_dict + "\n")
 
 				with open(output_path, "w") as f:
 					json.dump(output, f, indent=4)
 
-				time.sleep(5) 	
+				# time.sleep(5) 	
 			except Exception as e:
 				logging.error(f"Error processing trial {trial_id} for patient {patient_id}: {e}")
 				continue
@@ -100,4 +102,29 @@ for instance in tqdm(dataset):
 final_end_time = time.time() 
 logging.info(f"Completing the matching process the stats are : Total runtime of the program is {(final_end_time - final_start_time)/60} minitues\n Total input tokens are: {sum(final_input_tokens)}\n Total output tokens are: {sum(final_output_tokens)}")
 # %%
+# %%
+
+# corrected_json = json.load(open(f""))
+# with open('corrected_file.json', 'w') as f:
+#     json.dump(corrected_json, f, indent=4)
+
+# #%%
+# os.environ["GROQ_API_KEY"] = "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"
+# # client = Groq(api_key="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")
+
+# client = Groq(
+#     # This is the default and can be omitted
+#     api_key=os.environ.get("GROQ_API_KEY"),
+# )
+
+# chat_completion = client.chat.completions.create(
+#     messages=[
+#         {
+#             "role": "user",
+#             "content": "Explain the importance of low latency LLMs",
+#         }
+#     ],
+#     model="llama3-8b-8192",
+# )
+# print(chat_completion.choices[0].message.content)
 # %%

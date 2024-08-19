@@ -1,0 +1,22 @@
+{
+    "brief_title": "Multi-centre Clinical Trial on Hormone Replacement Treatment in China",
+    "phase": "Phase 4",
+    "drugs": "['estradiol plus MPA', 'Ximingting Tablet', 'estradiol plus progesterone']",
+    "drugs_list": [
+        "estradiol plus MPA",
+        "Ximingting Tablet",
+        "estradiol plus progesterone"
+    ],
+    "diseases": "['Osteoporosis', 'Menopausal Syndrome', 'Cardiovascular Disease', 'Breast Cancer']",
+    "diseases_list": [
+        "Osteoporosis",
+        "Menopausal Syndrome",
+        "Cardiovascular Disease",
+        "Breast Cancer"
+    ],
+    "enrollment": "1200.0",
+    "inclusion_criteria": "inclusion criteria: \n\n going through amenorrhea above 6 months and within 5 years, \n\n aged 40 to 60 years, \n\n going though postmenopausal symptoms, \n\n serum E2 concentration <30pg/ml, \n\n serum FSH concentration >40IU/L. \n\n ",
+    "exclusion_criteria": ": \n\n uterine fibroid diameter\u22655cm, \n\n history of diabetes or hypertension, \n\n history of thromboembolism, severe endometriosis, epilepsy, asthma, hyperprolactinemia, \n\n first degree relative had a history of breast cancer, \n\n being in severe or unstable condition of somatic diseases, \n\n receiving HRT in the past 3 month, \n\n drug or alcohol abuse in the past 3 month, \n\n endometrial thickness \u22650.5cm after withdrawal bleeding, \n\n being allergic to the medicine, \n\n participating in other clinical trials within 1 month ago.",
+    "brief_summary": "This study is to evaluate the benefit/risk of hormone replacement treatment among early menopausal women in China. This is a multi-centre, random, prospective study.",
+    "NCT_ID": "NCT01698164"
+}

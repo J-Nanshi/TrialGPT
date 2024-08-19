@@ -1,0 +1,20 @@
+{
+    "brief_title": "Abemaciclib (LY2835219) Plus Fulvestrant Compared to Placebo Plus Fulvestrant in Previously Treated Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Abemaciclib', 'Fulvestrant', 'Placebo']",
+    "drugs_list": [
+        "Abemaciclib",
+        "Fulvestrant",
+        "Placebo"
+    ],
+    "diseases": "['Breast Neoplasm', 'Neoplasm Metastasis']",
+    "diseases_list": [
+        "Breast Neoplasm",
+        "Neoplasm Metastasis"
+    ],
+    "enrollment": "350.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Have a diagnosis of HR+, HER2- locally advanced or metastatic breast cancer \n\n Have radiologic evidence of disease progression or recurrence either \n\n On treatment with a CDK4/6 inhibitor with aromatase inhibitor (AI) as initial therapy for advanced disease, or \n\n On/after treatment with a CDK4/6 inhibitor plus endocrine therapy (ET) administered as adjuvant therapy for early stage breast cancer \n\n Must be deemed appropriate for treatment with ET \n\n If female, have a postmenopausal status by natural or surgical means or by ovarian function suppression \n\n Have Response Evaluable Criteria in Solid Tumors (RECIST) evaluable disease (measurable disease and/or nonmeasurable disease) \n\n Have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group scale (Oken et al. 1982) \n\n Have adequate renal, hematologic, and hepatic organ function \n\n Must be able to swallow capsules/tablets \n\n ",
+    "exclusion_criteria": ": \n\n Have visceral crisis, lymphangitic spread, or leptomeningeal carcinomatosis \n\n Have symptomatic or untreated central nervous system metastasis \n\n Have received any systemic therapy between disease recurrence/progression and study screening \n\n Have received more than 1 line of therapy for advanced or metastatic disease. \n\n Have received prior chemotherapy for metastatic breast cancer (MBC) \n\n Have received prior treatment with fulvestrant, any investigational estrogen receptor (ER)-directed therapy (including selective ER degraders [SERDs] and non-SERDs), any phosphatidylinositol 3-kinase (PI3K)-, mammalian target of rapamycin (mTOR)-, or protein kinase B (AKT)-inhibitor",
+    "brief_summary": "This study will evaluate the effect of adding abemaciclib to fulvestrant for the treatment of hormone receptor-positive (HR+), human epidermal growth factor receptor 2-negative (HER2-) breast cancer that progressed or recurred after previous treatment with a type of drug known as a CDK4/6 inhibitor and endocrine therapy. Participation could last up to 5 years, depending on how you and your tumor respond.",
+    "NCT_ID": "NCT05169567"
+}

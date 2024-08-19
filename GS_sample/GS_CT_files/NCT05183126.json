@@ -1,0 +1,18 @@
+{
+    "brief_title": "Pharmacokinetic Study of Skeletal Muscle Area-based Paclitaxel Infusion in Patients With Breast Cancer",
+    "phase": "Phase 4",
+    "drugs": "['Paclitaxel', 'Paclitaxel']",
+    "drugs_list": [
+        "Paclitaxel",
+        "Paclitaxel"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "22.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Stage 1-3 breast cancer \n\n Planned neoadjuvant, adjuvant, or curative intent paclitaxel 80 mg/m^2, 1-hour infusion (note: combination treatment, e.g., trastuzumab, pertuzumab, carboplatin, or pembrolizumab, and prior treatment, e.g., doxorubicin and cyclophosphamide, are allowable. \n\n Evaluable computed tomography (CT) scan, e.g., scan of the chest, abdomen, or pelvis for any indication within 1 year. \n\n Adequate organ function based on paclitaxel label. \n\n Ability to understand and the willingness to sign a written informed consent. \n\n ",
+    "exclusion_criteria": ": \n\n Concomitant administration of any moderate or strong inducer or inhibitor of CYP2C8, including rifampin or clopidogrel. \n\n History of hypersensitivity reaction to paclitaxel or any components of paclitaxel (e.g., Cremophor EL) that precludes continued treatment with standard dose and infusion length \n\n Pregnant or nursing",
+    "brief_summary": "The primary objective of this pharmacokinetics study is to compare the maximum concentration level of paclitaxel in patients with low/sarcopenic skeletal muscle area (SMA), at the end of a 2-3 hour paclitaxel infusion, to the maximum level in patients with normal SMA at the end of a standard 1-hour infusion with the goal of determining whether lengthening the infusion in patients with low/sarcopenic SMA normalizes the levels to those of patients with normal SMA.",
+    "NCT_ID": "NCT05183126"
+}

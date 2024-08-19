@@ -1,0 +1,21 @@
+{
+    "brief_title": "ExclUsive endocRine Therapy Or Radiation theraPy for Women Aged \u226570 Years Early Stage Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Breast irradiation (RT)', 'Endocrine Therapy (ET): letrozole, anastrozole, exemestane, tamoxifen']",
+    "drugs_list": [
+        "Breast irradiation (RT)",
+        "Endocrine Therapy (ET): letrozole",
+        "anastrozole",
+        "exemestane",
+        "tamoxifen"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "926.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Women aged \u226570 years; \n\n histologically proven invasive adenocarcinoma of the breast; \n\n pathological T1 (pT1) stage (clinical T1-2 [cT1-2] stage is allowed); \n\n clinical and pathological N0 (cN0 and pN0) stage (isolated tumor cells [i+] allowed); \n\n any tumor grade (if pT \u226410 mm), G1-2 tumor grade (if pT between 11 and 19 mm); \n\n Luminal-A by immunohistochemistry (IHC)-based on local assessment (consistent with 14th St. Gallen consensus definition): \n\n ER/PgR+ (defined as \u226510% by IHC staining), \n\n Human epidermal growth factor receptor 2 (HER2)- (0 or 1+ following IHC staining and proven negative by in-situ hybridization [ISH] in case of 2+), and \n\n Ki67 \u226420% by IHC staining; \n\n surgically treated with BCS with or without sentinel node biopsy (SNB); \n\n no clinical evidence of distant metastases. Imaging work up is not mandatory to enter the trial. If there are signs/symptoms suggesting the presence of local relapse or distant metastasis, an appropriate work up should be performed according to the treating physician standard practice. A patient with confirmed local relapse or distant metastasis will no longer be eligible for the trial; \n\n postoperative final surgical margins negative (no ink on tumor); \n\n baseline HRQoL questionnaires completion; \n\n adjuvant bisphosphonates and denosumab are allowed; \n\n before patient registration/randomization, written informed consent must be given. \n\n ",
+    "exclusion_criteria": ": \n\n Preoperative systemic treatments (i. e., chemotherapy, endocrine therapy); \n\n current treatment with any hormonal agents such as tamoxifen, raloxifene or other selective estrogen receptor modulators (SERMs), either for osteoporosis or BC prevention (patients are eligible if these medications are discontinued prior to randomization); \n\n prior breast or thoracic RT; \n\n known disorders associated with a higher risk for complications following RT such as collagen vascular disease, dermatomyositis, systemic lupus erythematosis or scleroderma; \n\n prior diagnosis, detection, or treatment of any other invasive cancer (except basal or squamous cell carcinoma of the skin that has been definitely treated); \n\n any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule; these conditions should be discussed with the patient before registration; \n\n patients must not be considered a poor medical risk due to serious, uncontrolled medical disorder, non-malignant systemic disease, or active uncontrolled infection. Examples include but are not limited to uncontrolled ventricular arrhythmia, recent (within 3 months) myocardial infarction or uncontrolled major seizure disorder.",
+    "brief_summary": "Rationale and relevance for patients and the scientific community. In low risk early stage patients \u226570 years, exclusive radiation therapy (RT) approach might be superior in terms of Health-Related Quality of Life (HRQoL), when compared to exclusive endocrine therapy (ET) following breast-conserving surgery (BCS). Assuming an equal rate of disease control, unnecessary long-term toxicity of ET may be avoided.",
+    "NCT_ID": "NCT04134598"
+}

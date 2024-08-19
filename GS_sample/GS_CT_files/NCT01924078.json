@@ -1,0 +1,18 @@
+{
+    "brief_title": "Capecitabine Metronomic Chemotherapy Plus Aromatase Inhibitor for Postmenopausal Hormone Receptor Positive Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Capecitabine', 'aromatase Inhibitors (AIs)']",
+    "drugs_list": [
+        "Capecitabine",
+        "aromatase Inhibitors (AIs)"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "100.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Hormone receptor positive; \n\n previously untreated patients who do not receive hormonal therapy, or initial endocrine treatment failure or first -line endocrine treatment of relapse and metastasis failure; \n\n patients who do not receive hormonal therapy must be histologically confirmed invasive ductal carcinoma, can be surgery, but must be satisfied one of the following: (1) elderly (\u226570 years), or with severe heart or other systemic complications, belonging to high risk of general anesthesia, (2) have will of conserving the breast,but larger tumors (\u22653cm) not suitable for breast-conserving surgery. \n\n patients with metastatic breast cancer must have evaluable lesions \n\n normal laboratory values: \n\n informed consent (ethical approval document No. :1112105-1); \n\n life expectancy of at least 3 months; \n\n Postmenopausal or premenopausal with bilateral oophorectomy. \n\n ",
+    "exclusion_criteria": ": \n\n have had radiotherapy or other local treatment for measurable lesions before the start of study received within 3 months \n\n organ transplant (except for autologous or allogeneic bone marrow transplantation); \n\n have evidences of central nerve system metastases or have a history of mental illness that uncontrol; \n\n unable to swallow tablets, or malabsorption patients, or patients with poor upper gastrointestinal integrity; \n\n unwilling or unable to comply with study protocol or unable to meet the follow up; \n\n patients who researchers considered were not suitable to participate.",
+    "brief_summary": "The present study is to determine the adverse effects and clinical efficacy of AI combined with Capecitabine metronomic chemotherapy in postmenopausal breast cancer patients with Estrogen receptor and/or Progestrogen receptor positive.",
+    "NCT_ID": "NCT01924078"
+}

@@ -1,0 +1,29 @@
+{
+    "brief_title": "A Study of LY2880070 in Participants With Advanced or Metastatic Cancer",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['LY2880070', 'Gemcitabine']",
+    "drugs_list": [
+        "LY2880070",
+        "Gemcitabine"
+    ],
+    "diseases": "['Solid Tumors', 'Colorectal Cancer', 'Breast Cancer', 'Ovarian Cancer', 'Colon Cancer', 'Rectal Cancer', 'Neoplasms', 'Endometrial Cancer', 'Soft Tissue Sarcoma', 'Triple Negative Breast Cancer', 'Pancreas Cancer', 'Pancreatic Cancer']",
+    "diseases_list": [
+        "Solid Tumors",
+        "Colorectal Cancer",
+        "Breast Cancer",
+        "Ovarian Cancer",
+        "Colon Cancer",
+        "Rectal Cancer",
+        "Neoplasms",
+        "Endometrial Cancer",
+        "Soft Tissue Sarcoma",
+        "Triple Negative Breast Cancer",
+        "Pancreas Cancer",
+        "Pancreatic Cancer"
+    ],
+    "enrollment": "229.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) scale \n\n Have an estimated life expectancy of greater than or equal to (\u2265)12 weeks \n\n Have adequate organ function \n\n Have received 1-4 prior systemic therapies for locally advanced or metastatic disease \n\n Agree to use medically approved contraceptives during the study and for 3 months following the last study treatment \n\n All females must have a negative serum pregnancy test result, and females of child-bearing potential must have a negative urine pregnancy test result, prior to the first study treatment \n\n Have tumor lesions considered measurable by the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 \n\n Must be, in the judgment of the investigator, an appropriate candidate for experimental therapy, and no standard therapy would confer clinical benefit \n\n For Part A \n\n Must have evidence of cancer (solid tumors, excluding glioblastoma and primary brain tumor) that is advanced or metastatic \n\n For the Metabolism Phenotype Arm in Part A, participants must have a Cytochrome P450 (CYP2D6) poor metabolizer phenotype \n\n For Part B \n\n Have advanced or metastatic colorectal cancer, triple negative breast cancer (per American Society of Clinical Oncology-College of American Pathology guidelines), epithelial ovarian cancer, endometrial, soft tissue sarcoma, pancreatic cancer \n\n For TNBC: \n\n Recurrent/refractory Triple Negative Breast Cancer (TNBC) defined as any beast cancer that expresses <1% estrogen receptor (ER) and <1% progesterone receptor (PR) and is Her2 negative \n\n For Colorectal (CRC): \n\n Must have histologically confirmed advanced or metastatic colorectal cancer \n\n For Ovarian Cancer: \n\n Must have histologically confirmed advanced or metastatic epithelial ovarian cancer \n\n Must be eligible to receive Gemzar (GEM) and not refractory to GEM/carboplatin \n\n Must have the ability to tolerate GEM \n\n May have received GEM as previous therapy \n\n For Endometrial cancer: \n\n Must have histologically confirmed endometrial cancer that is metastatic or locally advanced \n\n Must have failed at least 1 prior chemotherapy \n\n For STS: \n\n Must have histologically confirmed STS that is metastatic or locally advanced \n\n Patients with gastrointestinal stromal tumors (GIST) must have failed a KIT inhibitor \n\n Must have failed at least 1 prior chemotherapy \n\n For Pancreatic Cancer: \n\n Must have histologically confirmed pancreatic cancer that is metastatic or locally advanced \n\n Must have failed at least 1 prior chemotherapy regimen \n\n For Part C \n\n Participants with high grade serous ovarian cancer (HGSOC) will be screened for specific genetic signatures \n\n ",
+    "exclusion_criteria": ": \n\n Have received treatment with an investigational drug which has not received regulatory approval within 21 days of first study treatment \n\n Have symptomatic central nervous system (CNS) metastasis \n\n Females who are pregnant or nursing \n\n Have known positive test results of human immunodeficiency virus, or have chronic active hepatitis A, B or C \n\n Have a corrected QT interval (QTcB) greater than (>) 470 milliseconds (msec) (female) or >450 msec (male), or a history of congenital long QT syndrome \n\n Have had a bone marrow transplant \n\n Have participated in this study, or are currently enrolled in another clinical study of an investigational medicinal product \n\n Have had radiation therapy to >25% of bone marrow \n\n For Part B \n\n Have a history of another active cancer within the past year, except cervical cancer in situ, in situ carcinoma of the bladder, basal cell carcinoma of the skin, or another in situ carcinoma that is considered cured",
+    "brief_summary": "The main purpose of this 3-part study is to evaluate the safety and efficacy of the study drug known as LY2880070 in participants with advanced or metastatic solid tumors.",
+    "NCT_ID": "NCT02632448"
+}

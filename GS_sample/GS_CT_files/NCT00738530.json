@@ -1,0 +1,19 @@
+{
+    "brief_title": "A Study of Avastin (Bevacizumab) Added to Interferon Alfa-2a (Roferon) Therapy in Patients With Metastatic Renal Cell Cancer With Nephrectomy",
+    "phase": "Phase 3",
+    "drugs": "['Bevacizumab [Avastin]', 'Interferon alfa 2a [Roferon]', 'Placebo']",
+    "drugs_list": [
+        "Bevacizumab [Avastin]",
+        "Interferon alfa 2a [Roferon]",
+        "Placebo"
+    ],
+    "diseases": "['Renal Cell Cancer']",
+    "diseases_list": [
+        "Renal Cell Cancer"
+    ],
+    "enrollment": "649.0",
+    "inclusion_criteria": "inclusion criteria: \n\n metastatic renal cell cancer (clear cell type); \n\n nephrectomy; \n\n absence of proteinuria. \n\n ",
+    "exclusion_criteria": ": \n\n prior systemic treatment for metastatic renal cell cancer; \n\n major surgical procedure, open biopsy or significant traumatic injury within 28 days prior to study treatment start; \n\n presence of brain metastases or spinal cord compression; \n\n ongoing need for full dose anticoagulants; \n\n uncontrolled hypertension; \n\n clinically significant cardiovascular disease.",
+    "brief_summary": "This 2-arm study will evaluate the efficacy and safety of Avastin versus placebo in combination with Roferon as first-line treatment in participants with metastatic renal cell cancer (clear cell type) who have had nephrectomy. The anticipated time of study treatment is 1-2 years, and the target sample size is greater than (>)500 individuals.",
+    "NCT_ID": "NCT00738530"
+}

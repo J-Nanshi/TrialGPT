@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Study to Test the Safety of the Investigational Drug Larotrectinib in Adults That May Treat Cancer",
+    "phase": "Phase 1",
+    "drugs": "['Larotrectinib (Vitrakvi, BAY2757556)']",
+    "drugs_list": [
+        "Larotrectinib (Vitrakvi",
+        "BAY2757556)"
+    ],
+    "diseases": "['Solid Tumors Harboring NTRK Fusion']",
+    "diseases_list": [
+        "Solid Tumors Harboring NTRK Fusion"
+    ],
+    "enrollment": "75.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Adult patients with a locally advanced or metastatic solid tumor that has progressed or was nonresponsive to available therapies, are unfit for standard chemotherapy or for which no standard or available curative therapy exists \n\n Proof of a malignancy harboring a NTRK fusion \n\n Eastern Cooperative Oncology Group (ECOG) score of 0, 1 or 2 and a life expectancy of at least 3 months \n\n Adequate hematologic, hepatic, and renal function \n\n ",
+    "exclusion_criteria": ": \n\n Patients with unstable primary central-nervous-system tumors or metastasis, exceptions possible \n\n Clinically significant active cardiovascular disease or history of myocardial infarction \n\n Active uncontrolled systemic bacterial, viral, or fungal infection \n\n Current treatment with a strong CYP3A4 inhibitor or inducer \n\n Pregnancy or lactation",
+    "brief_summary": "This research study is done to test the safety of the drug larotrectinib in adult cancer patients. The drug may be used to treat cancer with a change in a particular gene (NTRK1, NTRK2 or NTRK3), because it blocks the action of these genes in cancer cells. The study also investigates how the drug is absorbed and processed in the human body. This is the first study to test larotrectinib in humans with cancer, for whom no other effective therapy exists.",
+    "NCT_ID": "NCT02122913"
+}

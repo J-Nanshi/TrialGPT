@@ -1,0 +1,28 @@
+{
+    "brief_title": "A Study of SGN-B7H4V in Advanced Solid Tumors",
+    "phase": "Phase 1",
+    "drugs": "['SGN-B7H4V']",
+    "drugs_list": [
+        "SGN-B7H4V"
+    ],
+    "diseases": "['Ovarian Neoplasms', 'Peritoneal Neoplasms', 'Fallopian Tube Neoplasms', 'Triple Negative Breast Neoplasms', 'HER2 Negative Breast Neoplasms', 'Hormone Receptor Positive Breast Neoplasms', 'Endometrial Neoplasms', 'Carcinoma, Non-Small-Cell Lung', 'Cholangiocarcinoma', 'Gallbladder Carcinoma', 'Adenoid Cystic Carcinoma']",
+    "diseases_list": [
+        "Ovarian Neoplasms",
+        "Peritoneal Neoplasms",
+        "Fallopian Tube Neoplasms",
+        "Triple Negative Breast Neoplasms",
+        "HER2 Negative Breast Neoplasms",
+        "Hormone Receptor Positive Breast Neoplasms",
+        "Endometrial Neoplasms",
+        "Carcinoma",
+        "Non-Small-Cell Lung",
+        "Cholangiocarcinoma",
+        "Gallbladder Carcinoma",
+        "Adenoid Cystic Carcinoma"
+    ],
+    "enrollment": "375.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Participants must have one of the following histologically or cytologically confirmed locally advanced unresectable or metastatic solid tumor types: \n\n High-grade serous epithelial ovarian cancer, primary peritoneal cancer, or fallopian tube cancer \n\n HER2-negative, HR positive breast cancer \n\n Triple-negative breast cancer (TNBC) \n\n Endometrial carcinoma \n\n Non-small cell lung cancer (Squamous cell carcinoma [SqCC], Adenocarcinoma [AC]) \n\n Cholangiocarcinoma or gallbladder carcinoma \n\n Adenoid cystic carcinoma (ACC) of the head and neck \n\n Parts A and B: Participants must have disease that is relapsed or refractory or be intolerant to SOC therapies, and, in the judgement of the investigator, should have no appropriate SOC therapeutic option \n\n Part C: Participants must have disease that is relapsed or refractory or be intolerant to SOC therapies, unless contraindicated \n\n Tumor tissue is required for enrollment. \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1 \n\n Measurable disease per RECIST version 1.1 at baseline \n\n ",
+    "exclusion_criteria": ": \n\n History of another malignancy within 3 years before the first dose of study drug. Any evidence of residual disease from a previously diagnosed malignancy. Exceptions are malignancies with a negligible risk of metastasis or death. \n\n Known active central nervous system metastases. Participants with previously treated brain metastases may participate provided they: \n\n are clinically stable for at least 4 weeks prior to study entry after brain metastasis treatment \n\n have no new or enlarging brain metastases \n\n and are off corticosteroids prescribed for symptoms associated with brain metastases for at least 7 days prior to the first dose of study treatment. \n\n Carcinomatous meningitis \n\n Previous receipt of an MMAE-containing agent or an agent targeting B7-H4 \n\n Pre-existing neuropathy \u2265 Grade 2 per National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0 \n\n Corneal disease or injury requiring treatment or active monitoring",
+    "brief_summary": "This study will test the safety of a drug called SGN-B7H4V in participants with solid tumors. It will also study the side effects of this drug. A side effect is anything a drug does to the body besides treating the disease.~Participants will have cancer that has spread in the body near where it started (locally advanced) and cannot be removed (unresectable) or has spread through the body (metastatic).~This study will have three parts. Parts A and B of the study will find out how much SGN-B7H4V should be given to participants. Part C will use the dose found in Parts A and B to find out how safe SGN-B7H4V is and if it works to treat solid tumor cancers.",
+    "NCT_ID": "NCT05194072"
+}

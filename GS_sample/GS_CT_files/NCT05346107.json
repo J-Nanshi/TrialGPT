@@ -1,0 +1,18 @@
+{
+    "brief_title": "PLD-cyclophosphamide-Nab-P Continuously Combined With Dual HER2 Blockage for HER2-positive Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['pegylated liposomal doxorubicin (PLD) plus cyclophosphamide followed by Nab-paclitaxel (Nab-P) ,continuously combined with dual HER2 blockage']",
+    "drugs_list": [
+        "pegylated liposomal doxorubicin (PLD) plus cyclophosphamide followed by Nab-paclitaxel (Nab-P) ,continuously combined with dual HER2 blockage"
+    ],
+    "diseases": "['Breast Cancer', 'HER2-positive Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "HER2-positive Breast Cancer"
+    ],
+    "enrollment": "100.0",
+    "inclusion_criteria": "inclusion criteria: \n\n HER2-positive breast cancer \n\n cT2-3/N0-1/M0 \n\n aged18-80 years \n\n receiving neoadjuvant therapy \n\n ECOGPS score 0 or 1 \n\n Able to understand the test requirements, willing and able to comply with the test and follow-up procedures \n\n Adequate organ function \n\n ",
+    "exclusion_criteria": ": \n\n cardiac, hepatic, renal, or psychiatric disease history \n\n History of other malignancy within the last 5 years, with the exception of adequately treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix.",
+    "brief_summary": "patients with HER2-positive breast cancer (cT2-3/N0-1/M0) were treated with PldCHP (pegylated liposomal doxorubicin 35mg/m2, cyclophosphamide 600mg/m2, trastuzumab 8 mg/kg loading, then 6 mg/kg, pertuzumab 840 mg loading, then 420 mg, iv, q3w) for 4 cycles followed by Nab-PHP (Nab-Paclitaxel 260mg/m2, trastuzumab 6 mg/kg, pertuzumab 420 mg, iv, q3w) for 4 cycles",
+    "NCT_ID": "NCT05346107"
+}

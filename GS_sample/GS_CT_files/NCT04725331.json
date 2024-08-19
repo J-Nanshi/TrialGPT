@@ -1,0 +1,25 @@
+{
+    "brief_title": "A Clinical Trial Assessing BT-001 Alone and in Combination With Pembrolizumab in Metastatic or Advanced Solid Tumors",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['BT-001', 'Pembrolizumab [Keytruda]']",
+    "drugs_list": [
+        "BT-001",
+        "Pembrolizumab [Keytruda]"
+    ],
+    "diseases": "['Solid Tumor, Adult', 'Metastatic Cancer', 'Soft Tissue Sarcoma', 'Merkel Cell Carcinoma', 'Melanoma', 'Triple Negative Breast Cancer', 'Non Small Cell Lung Cancer']",
+    "diseases_list": [
+        "Solid Tumor",
+        "Adult",
+        "Metastatic Cancer",
+        "Soft Tissue Sarcoma",
+        "Merkel Cell Carcinoma",
+        "Melanoma",
+        "Triple Negative Breast Cancer",
+        "Non Small Cell Lung Cancer"
+    ],
+    "enrollment": "48.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Have at least 1 injectable measurable cutaneous, subcutaneous or nodal lesion (direct injection or through the use of ultrasound guidance) measuring between 25 and 50mm in longest diameter and whenever possible 1 distant non-injected measurable lesion. \n\n Provision of a fresh tumor sample of the lesion that will be injected first and, whenever possible, from another lesion that is planned to be injected, at baseline and be willing to supply new tumor samples from a biopsy during treatment. \n\n Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1. \n\n Have adequate hematological, hepatic and renal functions. \n\n For Phase I patients: \n\n Have histologically confirmed, advanced/metastatic sarcoma (soft tissue and bone), Merkel cell carcinoma, melanoma, triple negative breast cancer or non-small cell lung cancer, with cutaneous or, palpable subcutaneous lesions or easily injectable lymph nodes. \n\n Have failed and/or are intolerant to standard therapeutic options. \n\n ",
+    "exclusion_criteria": ": \n\n Have had major surgery within 4 weeks of first study drug administration. \n\n Have received prior treatment with a vaccinia oncolytic virus. \n\n Known significant immunodeficiency due to underlying illness (e.g., HIV/AIDS) and/or immune-suppressive medication including systemic corticosteroids. \n\n History of severe exfoliative skin conditions (e.g., eczema or atopic dermatitis) requiring systemic therapy for more than 4 weeks within 2 years prior to BT-001 initiation. \n\n Uncontrolled intercurrent illness including but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia or psychiatric illness/social circumstances that could limit compliance with study requirements. \n\n Have had a Grade \u2265 3 auto-immune manifestations of previous ICIs (e.g., anti-PD-1, anti-PDL1, anti-CTLA-4, or another immune checkpoint targeting agent under investigation). \n\n Active brain metastasis (stable and treated metastasis are accepted). E8. Known hypersensitivity to egg or to any excipients of BT-001. \n\n Have had any positive test for hepatitis C virus (HCV) or hepatitis B virus (HBV) indicating acute or chronic infection. \n\n Pregnant or a breastfeeding woman. \n\n Have received or receiving any live vaccine during the period of 28 days before IMP(s) administration, during IMP's administrations and 28 days after the last IMP's administration. \n\n History of myocarditis or congestive heart failure, uncontrolled infection, or myocardial infarction 6 months prior to clinical trial entry. \n\n Interstitial lung disease that is symptomatic and may interfere with the detection or management of suspected drug-related pulmonary toxicity \n\n For patients included in Phase I, Part B and IIa only: \n\n \u2022 Patient with an active known or suspected auto-immune disease. Patient with type I diabetes or hypothyroidism only requiring hormone replacement are permitted to enroll.",
+    "brief_summary": "This is a Phase I/IIa, multicenter, open-label, consecutive cohorts, dose-escalation study of BT-001 with repeated IT administrations alone and in combination with IV infusions of pembrolizumab.",
+    "NCT_ID": "NCT04725331"
+}

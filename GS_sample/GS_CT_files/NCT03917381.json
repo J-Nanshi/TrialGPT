@@ -1,0 +1,26 @@
+{
+    "brief_title": "GEN1046 Safety Trial in Patients With Malignant Solid Tumors",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['GEN1046', 'GEN1046 in combination with docetaxel (in a single expansion cohort)', 'GEN1046 in combination with pembrolizumab (in a separate expansion cohort)', 'GEN1046 in combination with pembrolizumab and standard chemotherapy (in separate expansion cohorts)']",
+    "drugs_list": [
+        "GEN1046",
+        "GEN1046 in combination with docetaxel (in a single expansion cohort)",
+        "GEN1046 in combination with pembrolizumab (in a separate expansion cohort)",
+        "GEN1046 in combination with pembrolizumab and standard chemotherapy (in separate expansion cohorts)"
+    ],
+    "diseases": "['Solid Tumors', 'Non-small Cell Lung Cancer', 'Urothelial Carcinoma', 'Endometrial Carcinoma', 'Triple Negative Breast Cancer', 'Squamous Cell Carcinoma of the Head and Neck', 'Cervical Cancer']",
+    "diseases_list": [
+        "Solid Tumors",
+        "Non-small Cell Lung Cancer",
+        "Urothelial Carcinoma",
+        "Endometrial Carcinoma",
+        "Triple Negative Breast Cancer",
+        "Squamous Cell Carcinoma of the Head and Neck",
+        "Cervical Cancer"
+    ],
+    "enrollment": "752.0",
+    "inclusion_criteria": "Key inclusion criteria: \n\n For Dose Escalation: \n\n \u2022 Have a histologically or cytologically confirmed non-CNS solid tumor that is metastatic or unresectable and for whom there is no available standard therapy \n\n For Expansion: \n\n \u2022 Have histologically or cytological confirmed diagnosis of relapsed or refractory, advanced and/or metastatic NSCLC, EC, UC, TNBC, SCCHN, or cervical cancer who are not anymore candidates for standard therapy For separate expansion cohorts: metastatic NSCLC without prior systemic treatment regimens for metastatic disease. \n\n For Both Dose Escalation and Expansion \n\n Have measurable disease according to RECIST 1.1 \n\n Have Eastern Cooperative Oncology Group (ECOG) 0-1 \n\n Have an acceptable hematological status \n\n Have acceptable liver function \n\n Have an acceptable coagulation status \n\n Have acceptable renal function \n\n Key ",
+    "exclusion_criteria": ": \n\n Have uncontrolled intercurrent illness, including but not limited to: \n\n Ongoing or active infection requiring intravenous treatment with antiinfective therapy \n\n Symptomatic congestive heart failure (Grade III or IV as classified by the New York Heart Association), unstable angina pectoris or cardiac arrhythmia \n\n Uncontrolled hypertension defined as systolic blood pressure \u2265 160 mmHg and/or diastolic blood pressure \u2265 100 mmHg, despite optimal medical management \n\n Ongoing or recent evidence of autoimmune disease \n\n History of irAEs that led to prior checkpoint treatment discontinuation \n\n Prior history of myositis, Guillain-Barr\u00e9 syndrome, or myasthenia gravis of any grade \n\n History of chronic liver disease or evidence of hepatic cirrhosis \n\n History of non-infectious pneumonitis that has required steroids or currently has pneumonitis \n\n History of organ allograft (except for corneal transplant) or autologous or allogeneic bone marrow transplant, or stem cell rescue within 3 months prior to the first dose of GEN1046 \n\n Serious, non-healing wound, skin ulcer (of any grade), or bone fracture \n\n Any history of intracerebral arteriovenous malformation, cerebral aneurysm, new (younger than 6 months) or progressive brain metastases or stroke \n\n Prior therapy: \n\n Radiotherapy: Radiotherapy within 14 days prior to first GEN1046 administration. Palliative radiotherapy will be allowed. \n\n Treatment with an anti-cancer agent (within 28 days or after at least 5 half-lives of the drug, whichever is shorter), prior to GEN1046 administration. Accepted exceptions are bisphosphonates (e.g., pamidronate, zoledronic acid, etc.) and denosumab \n\n Toxicities from previous anti-cancer therapies that have not adequately resolved \n\n NOTE: Other protocol defined Inclusion/",
+    "brief_summary": "The purpose of the trial is to evaluate the safety of GEN1046 as monotherapy and in combination therapies in patients with malignant solid tumors",
+    "NCT_ID": "NCT03917381"
+}

@@ -1,0 +1,21 @@
+{
+    "brief_title": "OFS in Premenopausal Node+ Breast Cancer With Low Genomic Risk",
+    "phase": "Phase 4",
+    "drugs": "['Ovarian function suppression with endocrine treatments']",
+    "drugs_list": [
+        "Ovarian function suppression with endocrine treatments"
+    ],
+    "diseases": "['Breast Cancer', 'Estrogen Receptor Positive Tumor', 'HER2-negative Breast Cancer', 'Premenopausal Breast Cancer', 'Node-positive Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Estrogen Receptor Positive Tumor",
+        "HER2-negative Breast Cancer",
+        "Premenopausal Breast Cancer",
+        "Node-positive Breast Cancer"
+    ],
+    "enrollment": "418.0",
+    "inclusion_criteria": "inclusion criteria: \n\n ER+HER2- breast cancer \n\n Premenopausal and age <=50 \n\n T1 or T2 \n\n N1 including micrometastasis \n\n Genomic Low Risk by OncoFREE test\u00ae (1-20) \n\n ",
+    "exclusion_criteria": ": \n\n Postmenopausal women \n\n ER-negative breast cancer",
+    "brief_summary": "Among ER+HER2- premenopausal patients with N1 who undergoes primary breast surgery, we will identify the patients with a genomic low risk using the multigene-assay (OncoFREE\u00ae).~In these, ovarian function suppression with endocrine therapies including either tamoxifen or aromatase-inhibitors will be administered for 5 years.",
+    "NCT_ID": "NCT05333328"
+}

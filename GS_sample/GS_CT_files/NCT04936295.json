@@ -1,0 +1,17 @@
+{
+    "brief_title": "Fulvestrant Plus Anlotinib in HR(+)/HER2(-) Metastatic Breast Cancer With FGFR Mutation",
+    "phase": "Phase 2",
+    "drugs": "['Fulvestrant plus Anlotinib']",
+    "drugs_list": [
+        "Fulvestrant plus Anlotinib"
+    ],
+    "diseases": "['Breast Cancer']",
+    "diseases_list": [
+        "Breast Cancer"
+    ],
+    "enrollment": "61.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Voluntarily sign the informed consent form; \n\n 18-75 years old; \n\n Women in any menstrual state, premenopausal or perimenopausal patients need to receive luteinizing hormone releasing hormone(LHRH) analogue; \n\n Eastern Cooperative Oncology Group (ECOG) score [0-1] points; \n\n The expected survival period is \u226512 weeks; \n\n The diagnosis of invasive carcinoma by histology or cytology; Estrogen receptor (ER) positive (defined as >1% nuclear ER staining); HER2 negative (defined as IHC 0 or 1+, or HER2(2+) with HER2 FISH detection no amplification); \n\n Inoperable or recurrent/metastatic breast cancer patients with aromatase inhibitor treatment failure; \n\n In the state of disease progression before enrollment; \n\n There are FGFR mutations, which meets any of the following: \u2460Immunohistochemical method: any subtype of FGFR1/2/3/4 is positive; \u2461 Gene detection results of tissue/blood sample shows that any subtype of FGFR1/2/3/4 has functional variation such as amplification, activating mutation or fusion; \n\n Measurable disease according to RECIST version 1.1 or only bone metastasis; \n\n Adequate hematological, hepatic function; \n\n Doppler ultrasound: left ventricular ejection fraction (LVEF) \u226550%. \n\n ",
+    "exclusion_criteria": ": \n\n Have used Fulvestrant or its analogues; \n\n History of other primary malignancy; \n\n Allergic to the ingredients of Anlotinib Hydrochloride Capsules; \n\n Previously received targeted drug therapy for FGFR; \n\n Received chemotherapy within 4 weeks before enrollment; \n\n Received endocrine therapy within 2 weeks before enrollment; \n\n Patients with currently symptomatic brain or meningeal metastasis; \n\n Concomitant diseases/conditions that is not controllable, and any other major illness that, in the investigator's judgment, will substantially increase the risk associated with the patient's participation in this study; \n\n Patients who cannot accept drugs orally; \n\n Any other situation that the investigator judges cannot be enrolled in the study.",
+    "brief_summary": "Previous studies have shown that the FGF signaling pathway is closely related to endocrine therapy resistance in breast cancer, but there is not sufficient evidence for the combination of endocrine therapy and FGFR inhibitors. Anlotinib is a highly effective VEGFRs, FGFRs, PDGFRs multi-target tyrosine kinase inhibitor. Therefore, we conducted this single-arm, single-center phase II clinical study to evaluate the efficacy and the safety of anlotinib combined with fulvestrant in patients with metastatic HR+/HER2- breast cancer patients with FGFR mutation and resistance to aromatase inhibitor therapy, to provide new treatment options for these patients.",
+    "NCT_ID": "NCT04936295"
+}

@@ -1,0 +1,19 @@
+{
+    "brief_title": "Ribociclib vs. Palbociclib in Patients With Advanced Breast Cancer Within the HER2-Enriched Intrinsic Subtype",
+    "phase": "Phase 3",
+    "drugs": "['Ribociclib + Letrozole OR Fulvestrant', 'Palbociclib + Letrozole OR Fulvestrant', 'Paclitaxel']",
+    "drugs_list": [
+        "Ribociclib + Letrozole OR Fulvestrant",
+        "Palbociclib + Letrozole OR Fulvestrant",
+        "Paclitaxel"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "456.0",
+    "inclusion_criteria": "Main inclusion criteria: \n\n Histologically documented HR-positive and HER2-negative breast cancer by local testing \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1. \n\n advanced (loco regionally recurrent not amenable to curative therapy or metastatic) breast cancer. \n\n Availability of FFPE tumor block for biomarker analysis, obtained during metastatic period. \n\n HER2-E or Basal-like subtype as per central PAM50 analysis. \n\n Measurable disease or non-measurable disease, as defined by RECIST v1.1 \n\n Adequate hematologic and end-organ function \n\n Patient must be willing and able to comply with scheduled visits, treatment plans, laboratory tests, and other trial procedures. \n\n Women of childbearing potential must have confirmed negative serum pregnancy test within 7 days prior to randomization. \n\n Women of CBP must be willing to use highly effective methods of contraception. \n\n Patient must have a 6-lead or 12-lead ECG with ALL of the following parameters at screening: \n\n QTcF interval (QT interval using Fridericia's correction) at screening < 450 msec. \n\n Resting heart rate 50-90 beats per minute (determined from the ECG). \n\n Main ",
+    "exclusion_criteria": ": \n\n Prior therapy with any CDK4/6 inhibitors. \n\n Patient has received prior treatment with chemotherapy for advanced/metastatic breast cancer",
+    "brief_summary": "HARMONIA is an international, multicenter, randomized, open-label and phase III study. The primary objective of this study is to demonstrate that the combination of ribociclib with endocrine therapy (letrozole or fulvestrant) is superior to palbociclib with endocrine therapy (letrozole or fulvestrant) in prolonging progression-free survival in patients with advanced HR+/HER2- and HER2-E breast cancer. The study will enroll approximately 456 patients with HER2-E disease from approximately 80 sites worldwide.~In addition, the HARMONIA trial will include an exploratory cohort of patients with HR+/HER2- and Basal-like disease treated with paclitaxel. This cohort does not have a predefined sample size and the objective is only exploratory, given the suggested lack of efficacy of the combinations of hormone therapy and CDK4/6 inhibitors in this subgroup of patients. Enrolment into the basal-like cohort will stop once the HER2-E disease cohort is fully enrolled.",
+    "NCT_ID": "NCT05207709"
+}

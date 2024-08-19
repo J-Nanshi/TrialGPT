@@ -1,0 +1,19 @@
+{
+    "brief_title": "Trial of Gemcitabine_Capecitabine Versus Gemcitabine_Carboplatin in Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Gemcitabine\uff0cCapecitabine', 'Gemcitabine, Carboplatin']",
+    "drugs_list": [
+        "Gemcitabine\uff0cCapecitabine",
+        "Gemcitabine",
+        "Carboplatin"
+    ],
+    "diseases": "['Metastatic Breast Cancer']",
+    "diseases_list": [
+        "Metastatic Breast Cancer"
+    ],
+    "enrollment": "120.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Female \n\n 18-70 years old \n\n ECOG 0-1 \n\n Expected lifetime more than 12 weeks \n\n ",
+    "exclusion_criteria": ": \n\n Pregnancy \n\n Brain Metastasis, \n\n Severe Infection",
+    "brief_summary": "Gemcitabine plus carboplatin in recurrent or metastatic breast cancer is a recommended scheme in National Comprehensive Cancer Network (NCCN) guideline. gemcitabine in combination with capecitabine is also effective in Metastatic Breast Cancer (MBC) in some clinical study with small sample.",
+    "NCT_ID": "NCT02207335"
+}

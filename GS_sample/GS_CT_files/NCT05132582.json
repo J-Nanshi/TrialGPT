@@ -1,0 +1,21 @@
+{
+    "brief_title": "A Study of Tucatinib or Placebo With Trastuzumab and Pertuzumab for Metastatic HER2+ Breast Cancer",
+    "phase": "Phase 3",
+    "drugs": "['Tucatinib', 'Trastuzumab', 'Pertuzumab', 'Combination product: Trastuzumab + Pertuzumab', 'Placebo']",
+    "drugs_list": [
+        "Tucatinib",
+        "Trastuzumab",
+        "Pertuzumab",
+        "Combination product: Trastuzumab + Pertuzumab",
+        "Placebo"
+    ],
+    "diseases": "['HER2 Positive Breast Cancer']",
+    "diseases_list": [
+        "HER2 Positive Breast Cancer"
+    ],
+    "enrollment": "650.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Centrally confirmed HER2+ breast carcinoma according to the 2018 American Society of Clinical Oncologists (ASCO) College of American Pathologists (CAP) guidelines prior to randomization (defined as a 3+ score on immunohistochemistry (IHC) and/or 2+ IHC and concurrent positive by ISH). \n\n Have unresectable locally advanced or metastatic disease. \n\n If recurrent (after [neo]adjuvant therapy), must be at least 6 month treatment free from any trastuzumab and pertuzumab received in the early breast cancer setting for advanced HER2+ disease. \n\n Have received 4-8 cycles of pre-study induction therapy including only trastuzumab, pertuzumab, and taxane as first-line of therapy for the treatment of advanced breast cancer prior to study enrollment. Participants are eligible provided they are without evidence of disease progression following completion of induction therapy. \n\n Known hormone receptor status (per local guidelines; may be hormone receptor positive [HR+] or negative [HR-]) \n\n Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1 \n\n CNS Inclusion - Based on screening contrast-enhanced brain magnetic resonance imaging (MRI), participants may have any of the following: \n\n No evidence of brain metastases \n\n Untreated brain metastases which are asymptomatic not needing immediate local treatment and, if identified on prior brain imaging, without evidence of progression since starting first-line induction therapy with trastuzumab, pertuzumab, and taxane \n\n Previously treated brain metastases which are asymptomatic \n\n Brain metastases previously treated with local therapy must not have progressed since treatment \n\n ",
+    "exclusion_criteria": ": \n\n Prior treatment with any tyrosine kinase inhibitor targeting HER2 and/or epidermal growth factor receptor (EGFR) including pyrotinib, lapatinib, tucatinib, neratinib, and afatinib (except neratinib if given in extended adjuvant setting and \u2265 12 months have elapsed since last neratinib dose prior to start of study drug) \n\n Unable to undergo contrast-enhanced MRI of the brain \n\n CNS Exclusion - Based on screening brain MRI and clinical assessment \n\n Symptomatic brain metastasis after CNS-directed local therapy \n\n Progression of brain metastases since starting first line trastuzumab, pertuzumab, and taxane \n\n Ongoing use of systemic corticosteroids at a total daily dose of >2 mg of dexamethasone (or equivalent) \n\n Any untreated brain lesion in an anatomic site which may pose risk to participant \n\n Known or suspected leptomeningeal disease (LMD) \n\n Poorly controlled (>1/week) seizures, or other persistent neurologic symptoms",
+    "brief_summary": "This study is being done to see if tucatinib works better than placebo when given with other drugs to treat participants with HER2-positive breast cancer. A placebo is a pill that looks the same as tucatinib but has no medicine in it. This study will also test what side effects happen when participants take this combination of drugs. A side effect is anything a drug does to the body besides treating your disease.~Participants will have cancer that has spread in the body near where it started (locally advanced) and cannot be removed (unresectable) or has spread through the body (metastatic).~In this study, all participants will get either tucatinib or placebo. Participants will be assigned randomly to a group. This is a blinded study, so patients and their doctors will not know which group a participant is in.~All participants will also get trastuzumab and pertuzumab. These are 2 drugs used to treat this type of cancer.",
+    "NCT_ID": "NCT05132582"
+}

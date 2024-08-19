@@ -1,0 +1,30 @@
+{
+    "brief_title": "Evaluating Length of Treatment With PD-1/PD-L1 Inhibitor in Advanced Solid Tumors",
+    "phase": "Phase 3",
+    "drugs": "['Continue PD-1/PD-L1 Inhibitors treatment', 'Discontinue PD-1/PD-L1-1 inhibitor']",
+    "drugs_list": [
+        "Continue PD-1/PD-L1 Inhibitors treatment",
+        "Discontinue PD-1/PD-L1-1 inhibitor"
+    ],
+    "diseases": "['Advanced Solid Tumors', 'NSCLC', 'Bladder Cancer', 'HNSCC', 'Renal Cancer', 'Melanoma', 'Anal Cancer', 'Colorectal Cancer', 'Cholangiocarcinoma', 'Gastric Cancer', 'Hepatocellular Carcinoma', 'Merkel Cell Carcinoma', 'Cervical Cancer']",
+    "diseases_list": [
+        "Advanced Solid Tumors",
+        "NSCLC",
+        "Bladder Cancer",
+        "HNSCC",
+        "Renal Cancer",
+        "Melanoma",
+        "Anal Cancer",
+        "Colorectal Cancer",
+        "Cholangiocarcinoma",
+        "Gastric Cancer",
+        "Hepatocellular Carcinoma",
+        "Merkel Cell Carcinoma",
+        "Cervical Cancer"
+    ],
+    "enrollment": "578.0",
+    "inclusion_criteria": "inclusion criteria: \n\n All patients must have an advanced solid tumor malignancy (specifically NSCLC, bladder, HNSCC, renal, melanoma, cervical, Merkel cell, MMR/MSI [colon, rectal, cholangio, esophageal, ovarian, uterine], anal, gastric and GE junction, hepatocellular, triple negative breast cancer) that is being treated with a PD-1/PD-L1 inhibitor including pembrolizumab, nivolumab, atezolizumab, durvalumab, or avelumab according to standard of care treatment. \n\n Patients who initially started treatment with another agent in combination with the PD-1/PD-L1 inhibitor, i.e. chemotherapy, ipilumumab, are eligible. \n\n Patients must have at least stable disease as evidenced by scans performed within 6 weeks of randomization. \n\n Signed Informed consent allowing randomization to stopping immunotherapy at 1 year \u00b1 6 weeks versus continued treatment beyond 1 year. \n\n Patients can have measurable or non-measurable disease per iRECIST. \n\n Patients cannot be enrolled in a clinical trial. \n\n ",
+    "exclusion_criteria": ": \n\n Patients with documented progressive disease prior to randomization. \n\n Patients with an immune-related toxicity preventing the continuation of treatment beyond 1 year at the treating physician's discretion.",
+    "brief_summary": "Based on the overwhelming positive response to this survey and the large number of patients being treated with PD-1/PD-L1 therapy in the UPMC system, the investigators are proposing a trial that will randomize patients who have disease stability to stop treatment at 1 year or continue treatment until disease progression. The investigators anticipate that the results of this study will answer questions regarding the optimal duration of treatment. therapy.",
+    "NCT_ID": "NCT04157985"
+}

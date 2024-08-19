@@ -1,0 +1,18 @@
+{
+    "brief_title": "A Dose Escalation Phase I Study to Assess the Safety and Clinical Activity of Multiple Cancer Indications",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['NKR-2 cells']",
+    "drugs_list": [
+        "NKR-2 cells"
+    ],
+    "diseases": "['Acute Myeloid Leukemia/Myelodysplastic Syndrome', 'Multiple Myeloma (MM)']",
+    "diseases_list": [
+        "Acute Myeloid Leukemia/Myelodysplastic Syndrome",
+        "Multiple Myeloma (MM)"
+    ],
+    "enrollment": "146.0",
+    "inclusion_criteria": "Main inclusion criteria are: \n\n Men or women \u2265 18 years old at the time of signing the ICF, \n\n Patient with a CRC, epithelial ovarian cell or fallopian tube carcinoma, urothelial carcinoma, TNBC, pancreatic cancer, AML/MDS or MM, \n\n Disease must be measurable according to the corresponding guidelines, \n\n Patient with an ECOG performance status 0 or 1, and AML patients with anemia resulting in an ECOG performance status of 2, \n\n Patient with adequate bone marrow reserve, hepatic and renal functions. \n\n Patients must have sufficient pulmonary functions with a Forced Expiratory Volume in the first second (FEV-1)/Forced Vital Capacity (FVC) \u2265 0.7 with FEV-1 \u2265 50% predicted. \n\n Main ",
+    "exclusion_criteria": " are: \n\n Patient with a tumor metastasis in the central nervous system, \n\n Patients who have received another cancer therapy within 2 weeks before the planned day for the apheresis (except hydroxyurea for AML patients), \n\n Patients who receive or are planned to receive any other investigational product within the 3 weeks before the planned day for the first NKR-2 administration (except hydroxyurea for AML patients), \n\n Patient is under systemic immunosuppressive drugs, unless specific cases authorized per protocol, \n\n Patients who have received other cell therapies, \n\n Patients who underwent major surgery within 4 weeks before the planned day for the first NKR-2 administration. \n\n Patient cannot present with history of idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced pneumonitis, idiopathic pneumonitis and/or active or acute exacerbation of chronic obstructive pulmonary disease (COPD). \n\n Detailed disease specific criteria exist and can be discussed with contacts listed below.",
+    "brief_summary": "THINK (THerapeutic Immunotherapy with NKR-2) is a multinational (EU/US) open-label Phase I study to assess the safety and clinical activity of multiple administrations of autologous NKR-2 cells in seven refractory cancers, including five solid tumors (colorectal, ovarian, bladder, triple-negative breast and pancreatic cancers) and two hematological tumors (acute myeloid leukemia and multiple myeloma).",
+    "NCT_ID": "NCT03018405"
+}

@@ -1,0 +1,27 @@
+{
+    "brief_title": "Ascending Doses of Ceralasertib in Combination With Chemotherapy and/or Novel Anti Cancer Agents",
+    "phase": "Phase 1; Phase 2",
+    "drugs": "['Administration of ceralasertib', 'Administration of ceralasertib in combination with olaparib', 'Administation of ceralasertib in combination with durvalumab', 'Administration of ceralasertib monotherapy', 'Administration of ceralasertib and olaparib', 'Administration of ceralasertib and durvalumab', 'Administration of ceralasertib in combination with AZD5305', 'Administration of ceralasertib in combination with carboplatin']",
+    "drugs_list": [
+        "Administration of ceralasertib",
+        "Administration of ceralasertib in combination with olaparib",
+        "Administation of ceralasertib in combination with durvalumab",
+        "Administration of ceralasertib monotherapy",
+        "Administration of ceralasertib and olaparib",
+        "Administration of ceralasertib and durvalumab",
+        "Administration of ceralasertib in combination with AZD5305",
+        "Administration of ceralasertib in combination with carboplatin"
+    ],
+    "diseases": "['Adv Solid Malig - H&N SCC, ATM Pro / Def NSCLC, Gastric, Breast and Ovarian Cancer']",
+    "diseases_list": [
+        "Adv Solid Malig - H&N SCC",
+        "ATM Pro / Def NSCLC",
+        "Gastric",
+        "Breast and Ovarian Cancer"
+    ],
+    "enrollment": "330.0",
+    "inclusion_criteria": "Principal inclusion criteria: \n\n Aged at least 18 \n\n The presence of a solid malignant tumour that is not considered appropriate for further standard treatment \n\n Module 2 Part B study expansions, and Module 3: patients must have a tumour at least 1 cm in size that can be measured using a CT or MRI scan \n\n Module 2 Part B All (except B5) - No previous treatment with PARP inhibitor. \n\n Module 2 Part B1 Study expansion: advanced gastric adenocarcinoma (including GEJ) patients with ATM deficient tumours \n\n Module 2 Part B2 Study expansion: advanced gastric adenocarcinoma (including GEJ) patients with ATM proficient tumours \n\n Module2 Part B3 Study expansion: Second or thrid line HER2 negative breast cancer \n\n Module 2 Part B4 Study expansion: Second or third line triple negative breast cancer (TNBC) \n\n Module 2 Part B5 Study expansion: BRCAm or RAD51C/Dm or PALB2m or HRD positive status ovarian cancer patient who are Platinum Sensitive Relapsed and have previously progressed on a licensed PARPi \n\n Module 3: advanced recurrent or metastatic non-small cell lung cancer, or head and neck squamous cell carcinoma \n\n Module 4: any advanced solid tumours except gastric, gastro-oesophageal, oesophageal or colorectal cancer with a small bowel resection \n\n Module 4: Ability to comply with an overnight fast of at least 10 hours prior to dosing and 4 hours after dosing as mandated, and ability to eat a high fat meal as mandated \n\n Module 5 All: Ovarian follopian tube or primary peritonial cancer, previous treatment with PARP inhibitor, platinum-sensitive relapsed ovarian cancer \n\n Module 5 Part B: known or suspected BRACA mutation, PALB2 mutation or RAD51CD mutation \n\n Principal ",
+    "exclusion_criteria": " \n\n A diagnosis of ataxia telangiectasia \n\n Prior exposure to an ATR inhibitor \n\n Bad reaction to ceralasertib \n\n Module 2: Contra-indicated for treatment with olaparib \n\n Module 3: Contra-indicated for treatment with durvalumab \n\n Module 4: Mean resting corrected QT interval (QTc) >470 msec or history of familial long QT syndrome. \n\n Module 4: Patients with type I or type II diabetes \n\n Module 5: Known hypersensitivity to PARP including AZD5305",
+    "brief_summary": "This is a modular, phase I/ phase 1 b, open-label, multicentre study of ceralasertib administered orally in combination with cytotoxic chemotherapy regimens and/or novel anti-cancer agents, to patients with advanced malignancies. The study design allows an investigation of optimal combination dose of ceralasertib with other anti-cancer treatments, with intensive safety monitoring to ensure the safety of the patients. The initial combination to be investigated is ceralasertib with carboplatin. The second combination to be investigated is ceralasertib with Olaparib. The third combination to be investigated is ceralasertib with durvalumab. The fourth module will investigate the effect of food on ceralasertib absorption and the effect of ceralasertib on ECG parameter. The fifth module to be investigated is ceralasertib with AZD5305.",
+    "NCT_ID": "NCT02264678"
+}

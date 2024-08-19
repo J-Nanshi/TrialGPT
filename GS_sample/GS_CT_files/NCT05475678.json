@@ -1,0 +1,20 @@
+{
+    "brief_title": "Clinical Study of Camrelizumab Combined With TCb Versus TCb in Neoadjuvant Treatment of Triple-negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['\uff08Carrelizumab + TCb\uff09 regimen', 'TCb regimen']",
+    "drugs_list": [
+        "\uff08Carrelizumab + TCb\uff09 regimen",
+        "TCb regimen"
+    ],
+    "diseases": "['Breast Cancer', 'Triple Negative Breast Cancer', 'Camrelizumab']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Triple Negative Breast Cancer",
+        "Camrelizumab"
+    ],
+    "enrollment": "369.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age: 18-70 years old \n\n cT2 - cT4d, or cT1c with axillary lymph node metastasis confirmed clinically and pathologically\uff1b \n\n Pathologically proven triple negative breast cancer: \n\n Triple-negative breast cancer is defined as: \n\n Negative for ER and PR (IHC nuclear staining <10%) \n\n Her-2 negative (IHC 0, 1+ without FISH, or IHC 2+ with no amplification by FISH)\uff1b \n\n Has clinically measurable lesions:Measurable lesions on ultrasound, mammography, or MR (optional) within 1 month before randomization\uff1b \n\n Organ and bone marrow function tests within 1 month before chemotherapy suggest no contraindications to chemotherapy\uff1b \n\n Cardiac ultrasound EF value \u226755%\uff1b \n\n Females of childbearing age, with a negative serum pregnancy test 14 days before randomization; \n\n ECOG score\u22641 point; \n\n Sign informed consent\uff1b \n\n ",
+    "exclusion_criteria": ": \n\n The patient has evidence of metastatic breast cancer\uff1b \n\n For this disease, chemotherapy, endocrine therapy, targeted therapy, radiation therapy, etc. have been received; \n\n The patient has a second primary malignancy other than adequately treated skin cancer; \n\n The patient has been treated with anti-programmed cell death protein 1 (anti-PD-1), anti-programmed death ligand 1 (anti-PD-L1) or anti-PD-L2 drugs, or other immunotherapy\uff1b \n\n The patient has been diagnosed with immunodeficiency disease or autoimmune disease; \n\n The patient has severe lung or heart disease; \n\n The patient has active hepatitis B and C; \n\n The patient has a history of organ transplantation or bone marrow transplantation; \n\n pregnant or breastfeeding women; \n\n The investigators considered chemotherapy contraindicated due to serious, uncontrolled other medical conditions.",
+    "brief_summary": "Triple-negative breast cancer (TNBC) is a special subtype of breast cancer that lacks the expression of ER, PR, and Her-2 proteins, accounting for 15%-20% of all breast cancers.TNBC patients do not benefit from endocrine therapy or HER-2-targeted therapy, but are sensitive to cytotoxic drug therapy.Although the survival of TNBC patients has improved significantly compared with the past, it is still the type with the worst prognosis among all subtypes of breast cancer. Methods and drugs to further improve the therapeutic effect of TNBC patients are still being explored.~Camrelizumab, a PD-1 inhibitor produced by Hengrui, has been approved for the treatment of various malignant tumors including advanced lung cancer, advanced liver cancer and advanced esophageal cancer. Shows good therapeutic effect and safety.~Therefore, this study intends to explore the superiority of camrelizumab on the basis of the less toxic anthracycline-free TCb regimen.In order to provide more effective and safe neoadjuvant therapy for lymph node-positive TNBC patients.",
+    "NCT_ID": "NCT05475678"
+}

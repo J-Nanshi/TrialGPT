@@ -1,0 +1,27 @@
+{
+    "brief_title": "Combination Chemotherapy With or Without Bevacizumab Compared With Bevacizumab Alone in Treating Patients With Advanced or Metastatic Colorectal Cancer That Has Been Previously Treated",
+    "phase": "Phase 3",
+    "drugs": "['bevacizumab', 'oxaliplatin', 'leucovorin calcium', 'fluorouracil']",
+    "drugs_list": [
+        "bevacizumab",
+        "oxaliplatin",
+        "leucovorin calcium",
+        "fluorouracil"
+    ],
+    "diseases": "['Adenocarcinoma of the Colon', 'Adenocarcinoma of the Rectum', 'Recurrent Colon Cancer', 'Recurrent Rectal Cancer', 'Stage III Colon Cancer', 'Stage III Rectal Cancer', 'Stage IV Colon Cancer', 'Stage IV Rectal Cancer']",
+    "diseases_list": [
+        "Adenocarcinoma of the Colon",
+        "Adenocarcinoma of the Rectum",
+        "Recurrent Colon Cancer",
+        "Recurrent Rectal Cancer",
+        "Stage III Colon Cancer",
+        "Stage III Rectal Cancer",
+        "Stage IV Colon Cancer",
+        "Stage IV Rectal Cancer"
+    ],
+    "enrollment": "880.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically confirmed adenocarcinoma of the colon or rectum \n\n Advanced or metastatic disease \n\n Must have received a fluoropyrimidine-based regimen and an irinotecan-based regimen, either alone or in combination, for advanced disease \n\n May have relapsed within 6 months of adjuvant therapy with fluorouracil (5-FU) (or combination 5-FU and irinotecan) and progressed after single-agent irinotecan \n\n Measurable disease \n\n No known brain metastases \n\n Performance status - ECOG 0-2 \n\n Absolute neutrophil count at least 1,500/mm^3 \n\n Platelet count at least 100,000/mm^3 \n\n No history of thrombotic or hemorrhagic disorders \n\n Bilirubin no greater than 1.5 times upper limit of normal (ULN) \n\n AST no greater than 5 times ULN \n\n INR no greater than 1.5 \n\n PTT no greater than ULN \n\n Creatinine no greater than 1.5 times ULN \n\n Proteinuria less than 1+ (i.e., 0 or trace) \n\n Protein less than 500 mg by 24-hour urine collection \n\n Proteinuria secondary to ureteral stents allowed \n\n No proteinuria secondary to nephropathy \n\n Controlled hypertension (less than 150/100 mm Hg) allowed if on a stable antihypertensive regimen \n\n No prior myocardial infarction \n\n No uncontrolled congestive heart failure \n\n No unstable angina within the past 3 months \n\n No serious nonhealing wound, ulcer, or bone fracture \n\n Not pregnant or nursing \n\n Negative pregnancy test \n\n Fertile patients must use effective contraception \n\n No prior bevacizumab \n\n See Disease Characteristics \n\n Recovered from prior chemotherapy \n\n No prior oxaliplatin \n\n At least 2 weeks since prior radiotherapy and recovered \n\n At least 28 days since prior major surgical procedure \n\n At least 10 days since prior aspirin dose of more than 325 mg/day \n\n No concurrent therapeutic anticoagulation except prophylactic anticoagulation of venous access device \n\n No concurrent antiplatelet agents (e.g., dipyridamole, ticlopidine, clopidogrel, or cilostazol) \n\n No concurrent oral cryotherapy on day 1 of oxaliplatin administration",
+    "exclusion_criteria": "",
+    "brief_summary": "Randomized phase III trial to compare the effectiveness of combination chemotherapy with or without bevacizumab in treating patients who have advanced or metastatic colorectal cancer that has been previously treated. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Monoclonal antibodies such as bevacizumab can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells. Combining monoclonal antibody therapy with combination chemotherapy may kill more tumor cells. It is not yet known if bevacizumab is more effective with or without combination chemotherapy in treating colorectal cancer",
+    "NCT_ID": "NCT00025337"
+}

@@ -1,0 +1,34 @@
+{
+    "brief_title": "Basket Study of Entrectinib (RXDX-101) for the Treatment of Patients With Solid Tumors Harboring NTRK 1/2/3 (Trk A/B/C), ROS1, or ALK Gene Rearrangements (Fusions)",
+    "phase": "Phase 2",
+    "drugs": "['Entrectinib']",
+    "drugs_list": [
+        "Entrectinib"
+    ],
+    "diseases": "['Breast Cancer', 'Cholangiocarcinoma', 'Colorectal Cancer', 'Head and Neck Neoplasms', 'Lymphoma, Large-Cell, Anaplastic', 'Melanoma', 'Neuroendocrine Tumors', 'Non-Small Cell Lung Cancer', 'Ovarian Cancer', 'Pancreatic Cancer', 'Papillary Thyroid Cancer', 'Primary Brain Tumors', 'Renal Cell Carcinoma', 'Sarcomas', 'Salivary Gland Cancers', 'Adult Solid Tumor']",
+    "diseases_list": [
+        "Breast Cancer",
+        "Cholangiocarcinoma",
+        "Colorectal Cancer",
+        "Head and Neck Neoplasms",
+        "Lymphoma",
+        "Large-Cell",
+        "Anaplastic",
+        "Melanoma",
+        "Neuroendocrine Tumors",
+        "Non-Small Cell Lung Cancer",
+        "Ovarian Cancer",
+        "Pancreatic Cancer",
+        "Papillary Thyroid Cancer",
+        "Primary Brain Tumors",
+        "Renal Cell Carcinoma",
+        "Sarcomas",
+        "Salivary Gland Cancers",
+        "Adult Solid Tumor"
+    ],
+    "enrollment": "534.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Histologically- or cytologically-confirmed diagnosis of locally advanced or metastatic solid tumor that harbors an NTRK1/2/3, ROS1, or ALK gene rearrangement \n\n For patients enrolled via local molecular testing, an archival or fresh tumor tissue (unless medically contraindicated) is required to be submitted for independent central molecular testing at Ignyta's CLIA laboratory post-enrollment \n\n Measurable or evaluable disease \n\n Patients with CNS involvement, including leptomeningeal carcinomatosis, which is either asymptomatic or previously-treated and controlled, are allowed \n\n Prior anticancer therapy is allowed (excluding approved or investigational Trk, ROS1, or ALK inhibitors in patients who have tumors that harbor those respective gene rearrangements) \n\n - Note: prior treatment with crizotinib is permitted only in ALK- or ROS1-rearranged NSCLC patients presenting with CNS-only progression. Other ALK inhibitors are prohibited. \n\n At least 2 weeks or 5 half-lives, whichever is shorter, must have elapsed after prior chemotherapy or small molecule targeted therapy \n\n At least 4 weeks must have elapsed since completion of antibody-directed therapy \n\n Prior radiotherapy is allowed if more than 14 days have elapsed since the end of treatment \n\n Eastern Cooperative Oncology Group (ECOG) performance status \u2264 2 and minimum life expectancy of 4 weeks \n\n Adequate organ function as defined per protocol \n\n Ability to swallow entrectinib intact \n\n Other protocol specified criteria \n\n ",
+    "exclusion_criteria": ": \n\n Current participation in another therapeutic clinical trial \n\n Prior treatment with approved or investigational Trk, ROS1, or ALK inhibitors in patients who have tumors that harbor those respective gene rearrangements \n\n - Note: prior treatment with crizotinib is permitted only in ALK- or ROS1-rearranged NSCLC patients presenting with CNS-only progression. Other ALK inhibitors are prohibited. \n\n History of other previous cancer that would interfere with the determination of safety or efficacy \n\n Familial or personal history of congenital bone disorders, or bone metabolism alterations \n\n Incomplete recovery from any surgery \n\n History of recent (within the past 3 months) symptomatic congestive heart failure or ejection fraction \u226450% observed during screening for the study \n\n History of non-pharmacologically induced prolonged QTc interval \n\n History of additional risk factors for torsades de pointes \n\n Peripheral neuropathy Grade \u2265 2 \n\n Known active infections \n\n Active gastrointestinal disease or other malabsorption syndromes \n\n Known interstitial lung disease, interstitial fibrosis, or history of tyrosine kinase inhibitor-induced pneumonitis \n\n Other protocol specified criteria",
+    "brief_summary": "This is an open-label, multicenter, global Phase 2 basket study of entrectinib (RXDX-101) for the treatment of patients with solid tumors that harbor an NTRK1/2/3, ROS1, or ALK gene fusion. Patients will be assigned to different baskets according to tumor type and gene fusion.",
+    "NCT_ID": "NCT02568267"
+}

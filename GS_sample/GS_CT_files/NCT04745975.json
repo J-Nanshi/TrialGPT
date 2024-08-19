@@ -1,0 +1,22 @@
+{
+    "brief_title": "Guided Treatment Based on Mini-PDX in Metastatic Triple Negative Breast Cancer",
+    "phase": "Phase 2",
+    "drugs": "['Personalized treatment guided by mini-PDX and RNA sequencing', 'Nab paclitaxel', 'Eribulin', 'Vinorelbine', 'Gemcitabine', 'Capecitabine']",
+    "drugs_list": [
+        "Personalized treatment guided by mini-PDX and RNA sequencing",
+        "Nab paclitaxel",
+        "Eribulin",
+        "Vinorelbine",
+        "Gemcitabine",
+        "Capecitabine"
+    ],
+    "diseases": "['Triple Negative Breast Cancer']",
+    "diseases_list": [
+        "Triple Negative Breast Cancer"
+    ],
+    "enrollment": "100.0",
+    "inclusion_criteria": "inclusion criteria: \n\n 1) Women aged 18-70 years; \n\n 2) an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1; \n\n 3) Estimated lifetime is \u2265 3 months; \n\n 4) Histopathologically confirmed recurrent (unresectable) or metastatic triple-negative breast cancer; ER and PR negative is defined as ER <1% positive, PR <1% positive. HER-2 negative is defined as HER-2 (-) or (1+) by immunohistochemistry, HER-2 (2+) must be tested by FISH with negative result, HER-2 (1+) (1+), FISH is optional and negative; \n\n 5) Have at least one measurable target lesion according to RECIST 1.1 criteria; \n\n 6) Biopsy of the tumor lesion and the specimen passes laboratory quality control; \n\n 7) A minimum of 2 prior cytotoxic chemotherapy regimens (including at least one line of platinum-containing regimen) in metastatic settings are required prior to enrollment in this trial; \n\n 8) Adequate organ function, i.e. meeting the following criteria. \n\n Hb \u2265 90 g/L (no transfusion within 14 days); ANC \u2265 1.5 \u00d7 109 /L; PLT \u2265 75 \u00d7 109 /L. \n\n Liver function: total bilirubin TBIL \u2264 1.5\u00d7ULN (upper limit of normal); ALT and AST \u2264 3\u00d7ULN. \n\n serum Cr \u2264 1.5\u00d7ULN. \n\n 9) Subjects voluntarily joined the study, signed the informed consent form, were compliant and cooperated with the follow-up. \n\n ",
+    "exclusion_criteria": ": \n\n 1\uff09Pregnancy or lactation\uff1b \n\n 2\uff09History of autoimmune disease\uff1b \n\n 3\uff09Anticancer- and radiation therapy-related toxicities have not resolved or downgraded to Grade 1 or less; \n\n 4) Symptomatic central nervous system (CNS) disease; \n\n 5) Previous treatment of Immune checkpoint inhibitors; \n\n 6) History of other malignancies within the past five years, with the exception of cured non-malignant melanoma of the skin and carcinoma in situ of the cervix.",
+    "brief_summary": "Triple-negative breast cancer constitutes 15-20% of cases of breast cancer and is defined by the absence of estrogen receptors, progesterone receptors, and overexpression or gene amplification of HER2. Although the addition of immune checkpoint inhibitors could improve the outcome of patients with metastatic triple-negative breast cancer (mTNBC), chemotherapy has been the standard of care for systemic treatment for patients with mTNBC. Prognoses remain poor, with reported median overall survival estimates of approximately 18 months or less with available treatments. A meta-analysis of seven clinical trials showed that the median objective response rate (ORR) of second or later line of chemotherapy in mTNBC was only 11%.~Patient-derived xenograft (PDX) tumor model, which preserves the histologic and genetic characteristics of patients' tumors, has shown its predictive value of clinical outcomes and are used for preclinical drug evaluation, biomarker identification, biological studies, and personalized medicine strategies. However, long time period and low success rate has limited its application in clinical practice.~Mini patient derived xenograft (miniPDX) offers an effective alternative as it only takes about 7 days for drug sensitivity test and could thus provide guidance for prompt personalized treatment for each patient.~Thus, the investigators conduct this single-center, prospective, randomized controlled clinical study to investigate the efficacy of guided treatment based on Mini-PDX in patients with metastatic refractory triple negative breast cancer.",
+    "NCT_ID": "NCT04745975"
+}

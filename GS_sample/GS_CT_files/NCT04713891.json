@@ -1,0 +1,32 @@
+{
+    "brief_title": "A Study of KF-0210 in Advanced Solid Tumors Patients",
+    "phase": "Phase 1",
+    "drugs": "['KF-0210 tablets, 120 mg', 'KF-0210 tablets, 240 mg', 'KF-0210 tablets, 450 mg', 'KF-0210 tablets, 600 mg', 'KF-0210 (dosage RP2D-2) + Atezolizumab', 'KF-0210 (dosage RP2D-1) + Atezolizumab', 'KF-0210 (dosage RP2D) + Atezolizumab']",
+    "drugs_list": [
+        "KF-0210 tablets",
+        "120 mg",
+        "KF-0210 tablets",
+        "240 mg",
+        "KF-0210 tablets",
+        "450 mg",
+        "KF-0210 tablets",
+        "600 mg",
+        "KF-0210 (dosage RP2D-2) + Atezolizumab",
+        "KF-0210 (dosage RP2D-1) + Atezolizumab",
+        "KF-0210 (dosage RP2D) + Atezolizumab"
+    ],
+    "diseases": "['Advanced Solid Tumor', 'Colorectal Cancer', 'Lung Cancer', 'Squamous Cell Carcinoma of the Esophagus', 'Gastric Cancer', 'Bladder Cancer']",
+    "diseases_list": [
+        "Advanced Solid Tumor",
+        "Colorectal Cancer",
+        "Lung Cancer",
+        "Squamous Cell Carcinoma of the Esophagus",
+        "Gastric Cancer",
+        "Bladder Cancer"
+    ],
+    "enrollment": "64.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Age \u2265 18 years old, male and female; \n\n Patients are confirmed by available pathology records or current biopsy having advanced, nonresectable, or recurrent and progressing solid tumors since last anti-tumor therapy, and who are unavailable or intolerable for available standard therapy or there is no standard available therapy. \n\n Phase Ia (Dose Escalation): Advanced solid tumors; \n\n Phase Ib (Expansion Study): Patients must have any of the following tumor type and have not participated in Phase Ia trial of this study: CRC (MSS), LC, SCCE, GC, and BC. Among them, patients with LC, SCCE, or GC must have undergone PD-1/PD-L1 treatment for at least 12 weeks and failed. \n\n Must have at least 1 measurable lesion, according RECIST V1.1 criteria (CT-scans or MRI no longer than 4 weeks before signing ICF); \n\n Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1; \n\n Life expectancy\u2265 3 months; \n\n Females must not be lactating or pregnant at screening or baseline (negative pregnant test). \n\n ",
+    "exclusion_criteria": ": \n\n Patients with prior anti-tumor therapy within 4 weeks prior to first dosing of KF-0210, including chemotherapy, biotherapy, endocrine therapy and immunotherapy (tumor vaccine, cytokine, or growth factor given to control the cancer); \n\n Patients with prior definitive radiation therapy within 6 weeks prior to first dosing of KF-0210, and the irradiated lesions showed no signs of progression if it to be considered target lesions. Or patients with prior palliative radiotherapy within 2 weeks prior to first dosing of KF-0210. Or the radiotherapy-related side effects have unresolved before the study entry. Or use of radiopharmaceuticals (strontium, samarium) within 8 weeks prior to first dosing of KF-0210; \n\n Patients who have another active malignancy which is likely to require treatment; \n\n Patients who have known active central nervous system (CNS) metastases and/or carcinomatous meningitis; \n\n Significant cardiovascular impairment: history of congestive heart failure greater than New York Heart Association (NYHA) Class II, uncontrolled arterial hypertension, unstable angina, myocardial infarction, or stroke within 6 months prior to the first dose of KF-0210; or cardiac arrhythmia requiring medical treatment (including oral anticoagulation); \n\n Patients with any active autoimmune disease or a documented history of autoimmune disease, poorly controlled asthma or history of syndrome that required systemic steroids or immunosuppressive medications, except for patients with vitiligo or resolved childhood asthma/atopy. Patients with asthma who require intermittent use of bronchodilators (such as albuterol) will not be excluded from this study; \n\n Patients with inflammatory bowel disease or digestive tract diseases (e.g. peptic ulcer disease, including stomach and duodenal ulcer, gastritis and enteritis); \n\n Inability to take oral medication, or malabsorption syndrome or any other uncontrolled gastrointestinal condition (e.g., nausea, diarrhea, or vomiting) that might impair the bioavailability of KF-0210; \n\n Concurrent medical condition requiring the use of immunosuppressive medications, or immunosuppressive doses of systemic or absorbable topical corticosteroids except inhaled or intranasal corticosteroids (with minimal systemic absorption); \n\n Current use of NSAIDs, COX-1/COX-2 inhibitors within 4 weeks; \n\n Patients who have received surgical or interventional treatment (excluding tumor biopsy, puncture, etc.) within 28 days prior to first dosing of KF-0210; \n\n Use of other investigational drugs within 28 days or at least 5 half-lives (whichever is shorter) prior to the first dosing of KF-0210; \n\n Use of any live vaccines (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines) within 28 days prior to the first dosing of KF-0210; \n\n Any unresolved toxicities from prior therapy, greater than Common Terminology Criteria for Adverse Events (CTCAE 5.0) grade 1 at the time of starting study treatment with exception of alopecia; \n\n Any uncontrolled or severe illness, including but not limited to: ongoing or active infection requiring parenteral antibiotics; \n\n Positive screening tests for any one of them: human immunodeficiency virus (HIV) antibody, hepatitis B surface antigen (HBsAg); hepatitis B core antibody (HBcAb) (negative for HBsAg, but HBcAb positive, an HBV-DNA test will be performed and if positive will be excluded), hepatitis C antibody (anti-HCV positive, but negative HCV RNA test is allowed to be included).",
+    "brief_summary": "The purpose of this Phase I, Multi-Center, Open-Label Study is to evaluate the safety, tolerability, Pharmacokinetics, Pharmacodynamics and anti-tumor activity of KF-0210 in participants with advanced solid tumors. The study will be conducted in two parts: phase Ia, and phase Ib.",
+    "NCT_ID": "NCT04713891"
+}
