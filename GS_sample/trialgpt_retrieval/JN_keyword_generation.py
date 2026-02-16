@@ -14,9 +14,11 @@ import sys
 #%%
 from configparser import ConfigParser
 config = ConfigParser() 
-config.read('../secrets.ini')
+config.read('secrets 1.json')
 # %%
-os.environ["OPENAI_API_KEY"] = config['OpenAI.Science-vNext-Internal']['api_key']
+# os.environ["OPENAI_API_KEY"] = config['keys']['openai'] 
+os.environ["OPENAI_API_KEY"] = "YOUR_OPEN_AI_KEY"
+
 client = openai.OpenAI(
     # This is the default and can be omitted
     api_key=os.environ.get("OPENAI_API_KEY"),
@@ -44,23 +46,24 @@ def get_keyword_generation_messages(note):
 # the model index to use
 model = "gpt-4-turbo"
 #%%
-import pandas as pd
-import json
+# # TO CONVERT THE SYNTHETIC CASES FROM CSV TO JSONL FORMAT
+# import pandas as pd
+# import json
 
-# Create the DataFrame
-df = pd.read_csv("../GS_sample/synthetic_patient_cases_random_30_modified.csv")
-# Convert the DataFrame to JSON Lines format
-jsonl_data = df.apply(lambda row: json.dumps({"_id": row["NCT_ID"], "text": row["Synthetic_patients"]}), axis=1)
+# # Create the DataFrame
+# df = pd.read_csv("../GS_sample/synthetic_patient_cases_random_30_modified.csv")
+# # Convert the DataFrame to JSON Lines format
+# jsonl_data = df.apply(lambda row: json.dumps({"_id": row["NCT_ID"], "text": row["Synthetic_patients"]}), axis=1)
 
-# Write the JSON Lines to a file
-with open(r"..\GS_sample\dataset\GS_data\synthetic_patient_cases_random_30_modified.jsonl", "w") as f:
-    for line in jsonl_data:
-        f.write(line + "\n")
+# # Write the JSON Lines to a file
+# with open(r"..\GS_sample\dataset\GS_data\synthetic_patient_cases_random_30_modified.jsonl", "w") as f:
+#     for line in jsonl_data:
+#         f.write(line + "\n")
 #%%
 outputs = {}
 
 # with open(r"D:\Job\TrialGPT\dataset\sigir\queries.jsonl", "r") as f:
-with open(r"..\GS_sample\dataset\GS_data\synthetic_patient_cases_random_30_modified.jsonl", "r") as f:
+with open(r"..\dataset\GS_data\CTM_evaluation\all_synthetic_cases_active_50cases.jsonl", "r") as f:
 	for line in f.readlines():
 		entry = json.loads(line)
 		print(f"the json file query {entry}")
@@ -80,6 +83,6 @@ with open(r"..\GS_sample\dataset\GS_data\synthetic_patient_cases_random_30_modif
 		print(f'''the outputs[entry["_id"]] is\n {outputs[entry["_id"]]}''' )
 
 		# # with open(r"D:\Job\TrialGPT\results\retrieval_keywords_gpt4turbo_sigir.json", "w") as f:
-		# with open(r"..\GS_sample\results\retrieval_keywords_gpt4turbo_synthetic_patient_cases_random_30.json", "w") as f:
-		# 	json.dump(outputs, f, indent=4)
+		with open(r"..\dataset\GS_data\CTM_evaluation\outputs\retrieval_keywords_gpt4turbo_all_synthetic_cases_active_50cases.json", "w") as f:
+			json.dump(outputs, f, indent=4)
 # %%
